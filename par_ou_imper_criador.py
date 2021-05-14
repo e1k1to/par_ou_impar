@@ -7,4 +7,4 @@ for i in range(10001):
         oddeven = "impar"
 
     f.write("if num == {}:\n    print('Seu número é {}')\n".format(str(i),oddeven))
-    f.write("if num > 10000:\n    print('Não sei esse número, desculpa :)!!!'")
+f.write("if num > 10000:\n    print('Não sei esse número, desculpa :)!!!'")
