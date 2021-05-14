@@ -1,0 +1,20005 @@
+num = int(input("Digite um número entre 1 e 10000: "))
+if num == 0:
+    print('Seu número é par')
+if num == 1:
+    print('Seu número é ímpar')
+if num == 2:
+    print('Seu número é par')
+if num == 3:
+    print('Seu número é ímpar')
+if num == 4:
+    print('Seu número é par')
+if num == 5:
+    print('Seu número é ímpar')
+if num == 6:
+    print('Seu número é par')
+if num == 7:
+    print('Seu número é ímpar')
+if num == 8:
+    print('Seu número é par')
+if num == 9:
+    print('Seu número é ímpar')
+if num == 10:
+    print('Seu número é par')
+if num == 11:
+    print('Seu número é ímpar')
+if num == 12:
+    print('Seu número é par')
+if num == 13:
+    print('Seu número é ímpar')
+if num == 14:
+    print('Seu número é par')
+if num == 15:
+    print('Seu número é ímpar')
+if num == 16:
+    print('Seu número é par')
+if num == 17:
+    print('Seu número é ímpar')
+if num == 18:
+    print('Seu número é par')
+if num == 19:
+    print('Seu número é ímpar')
+if num == 20:
+    print('Seu número é par')
+if num == 21:
+    print('Seu número é ímpar')
+if num == 22:
+    print('Seu número é par')
+if num == 23:
+    print('Seu número é ímpar')
+if num == 24:
+    print('Seu número é par')
+if num == 25:
+    print('Seu número é ímpar')
+if num == 26:
+    print('Seu número é par')
+if num == 27:
+    print('Seu número é ímpar')
+if num == 28:
+    print('Seu número é par')
+if num == 29:
+    print('Seu número é ímpar')
+if num == 30:
+    print('Seu número é par')
+if num == 31:
+    print('Seu número é ímpar')
+if num == 32:
+    print('Seu número é par')
+if num == 33:
+    print('Seu número é ímpar')
+if num == 34:
+    print('Seu número é par')
+if num == 35:
+    print('Seu número é ímpar')
+if num == 36:
+    print('Seu número é par')
+if num == 37:
+    print('Seu número é ímpar')
+if num == 38:
+    print('Seu número é par')
+if num == 39:
+    print('Seu número é ímpar')
+if num == 40:
+    print('Seu número é par')
+if num == 41:
+    print('Seu número é ímpar')
+if num == 42:
+    print('Seu número é par')
+if num == 43:
+    print('Seu número é ímpar')
+if num == 44:
+    print('Seu número é par')
+if num == 45:
+    print('Seu número é ímpar')
+if num == 46:
+    print('Seu número é par')
+if num == 47:
+    print('Seu número é ímpar')
+if num == 48:
+    print('Seu número é par')
+if num == 49:
+    print('Seu número é ímpar')
+if num == 50:
+    print('Seu número é par')
+if num == 51:
+    print('Seu número é ímpar')
+if num == 52:
+    print('Seu número é par')
+if num == 53:
+    print('Seu número é ímpar')
+if num == 54:
+    print('Seu número é par')
+if num == 55:
+    print('Seu número é ímpar')
+if num == 56:
+    print('Seu número é par')
+if num == 57:
+    print('Seu número é ímpar')
+if num == 58:
+    print('Seu número é par')
+if num == 59:
+    print('Seu número é ímpar')
+if num == 60:
+    print('Seu número é par')
+if num == 61:
+    print('Seu número é ímpar')
+if num == 62:
+    print('Seu número é par')
+if num == 63:
+    print('Seu número é ímpar')
+if num == 64:
+    print('Seu número é par')
+if num == 65:
+    print('Seu número é ímpar')
+if num == 66:
+    print('Seu número é par')
+if num == 67:
+    print('Seu número é ímpar')
+if num == 68:
+    print('Seu número é par')
+if num == 69:
+    print('Seu número é ímpar')
+if num == 70:
+    print('Seu número é par')
+if num == 71:
+    print('Seu número é ímpar')
+if num == 72:
+    print('Seu número é par')
+if num == 73:
+    print('Seu número é ímpar')
+if num == 74:
+    print('Seu número é par')
+if num == 75:
+    print('Seu número é ímpar')
+if num == 76:
+    print('Seu número é par')
+if num == 77:
+    print('Seu número é ímpar')
+if num == 78:
+    print('Seu número é par')
+if num == 79:
+    print('Seu número é ímpar')
+if num == 80:
+    print('Seu número é par')
+if num == 81:
+    print('Seu número é ímpar')
+if num == 82:
+    print('Seu número é par')
+if num == 83:
+    print('Seu número é ímpar')
+if num == 84:
+    print('Seu número é par')
+if num == 85:
+    print('Seu número é ímpar')
+if num == 86:
+    print('Seu número é par')
+if num == 87:
+    print('Seu número é ímpar')
+if num == 88:
+    print('Seu número é par')
+if num == 89:
+    print('Seu número é ímpar')
+if num == 90:
+    print('Seu número é par')
+if num == 91:
+    print('Seu número é ímpar')
+if num == 92:
+    print('Seu número é par')
+if num == 93:
+    print('Seu número é ímpar')
+if num == 94:
+    print('Seu número é par')
+if num == 95:
+    print('Seu número é ímpar')
+if num == 96:
+    print('Seu número é par')
+if num == 97:
+    print('Seu número é ímpar')
+if num == 98:
+    print('Seu número é par')
+if num == 99:
+    print('Seu número é ímpar')
+if num == 100:
+    print('Seu número é par')
+if num == 101:
+    print('Seu número é ímpar')
+if num == 102:
+    print('Seu número é par')
+if num == 103:
+    print('Seu número é ímpar')
+if num == 104:
+    print('Seu número é par')
+if num == 105:
+    print('Seu número é ímpar')
+if num == 106:
+    print('Seu número é par')
+if num == 107:
+    print('Seu número é ímpar')
+if num == 108:
+    print('Seu número é par')
+if num == 109:
+    print('Seu número é ímpar')
+if num == 110:
+    print('Seu número é par')
+if num == 111:
+    print('Seu número é ímpar')
+if num == 112:
+    print('Seu número é par')
+if num == 113:
+    print('Seu número é ímpar')
+if num == 114:
+    print('Seu número é par')
+if num == 115:
+    print('Seu número é ímpar')
+if num == 116:
+    print('Seu número é par')
+if num == 117:
+    print('Seu número é ímpar')
+if num == 118:
+    print('Seu número é par')
+if num == 119:
+    print('Seu número é ímpar')
+if num == 120:
+    print('Seu número é par')
+if num == 121:
+    print('Seu número é ímpar')
+if num == 122:
+    print('Seu número é par')
+if num == 123:
+    print('Seu número é ímpar')
+if num == 124:
+    print('Seu número é par')
+if num == 125:
+    print('Seu número é ímpar')
+if num == 126:
+    print('Seu número é par')
+if num == 127:
+    print('Seu número é ímpar')
+if num == 128:
+    print('Seu número é par')
+if num == 129:
+    print('Seu número é ímpar')
+if num == 130:
+    print('Seu número é par')
+if num == 131:
+    print('Seu número é ímpar')
+if num == 132:
+    print('Seu número é par')
+if num == 133:
+    print('Seu número é ímpar')
+if num == 134:
+    print('Seu número é par')
+if num == 135:
+    print('Seu número é ímpar')
+if num == 136:
+    print('Seu número é par')
+if num == 137:
+    print('Seu número é ímpar')
+if num == 138:
+    print('Seu número é par')
+if num == 139:
+    print('Seu número é ímpar')
+if num == 140:
+    print('Seu número é par')
+if num == 141:
+    print('Seu número é ímpar')
+if num == 142:
+    print('Seu número é par')
+if num == 143:
+    print('Seu número é ímpar')
+if num == 144:
+    print('Seu número é par')
+if num == 145:
+    print('Seu número é ímpar')
+if num == 146:
+    print('Seu número é par')
+if num == 147:
+    print('Seu número é ímpar')
+if num == 148:
+    print('Seu número é par')
+if num == 149:
+    print('Seu número é ímpar')
+if num == 150:
+    print('Seu número é par')
+if num == 151:
+    print('Seu número é ímpar')
+if num == 152:
+    print('Seu número é par')
+if num == 153:
+    print('Seu número é ímpar')
+if num == 154:
+    print('Seu número é par')
+if num == 155:
+    print('Seu número é ímpar')
+if num == 156:
+    print('Seu número é par')
+if num == 157:
+    print('Seu número é ímpar')
+if num == 158:
+    print('Seu número é par')
+if num == 159:
+    print('Seu número é ímpar')
+if num == 160:
+    print('Seu número é par')
+if num == 161:
+    print('Seu número é ímpar')
+if num == 162:
+    print('Seu número é par')
+if num == 163:
+    print('Seu número é ímpar')
+if num == 164:
+    print('Seu número é par')
+if num == 165:
+    print('Seu número é ímpar')
+if num == 166:
+    print('Seu número é par')
+if num == 167:
+    print('Seu número é ímpar')
+if num == 168:
+    print('Seu número é par')
+if num == 169:
+    print('Seu número é ímpar')
+if num == 170:
+    print('Seu número é par')
+if num == 171:
+    print('Seu número é ímpar')
+if num == 172:
+    print('Seu número é par')
+if num == 173:
+    print('Seu número é ímpar')
+if num == 174:
+    print('Seu número é par')
+if num == 175:
+    print('Seu número é ímpar')
+if num == 176:
+    print('Seu número é par')
+if num == 177:
+    print('Seu número é ímpar')
+if num == 178:
+    print('Seu número é par')
+if num == 179:
+    print('Seu número é ímpar')
+if num == 180:
+    print('Seu número é par')
+if num == 181:
+    print('Seu número é ímpar')
+if num == 182:
+    print('Seu número é par')
+if num == 183:
+    print('Seu número é ímpar')
+if num == 184:
+    print('Seu número é par')
+if num == 185:
+    print('Seu número é ímpar')
+if num == 186:
+    print('Seu número é par')
+if num == 187:
+    print('Seu número é ímpar')
+if num == 188:
+    print('Seu número é par')
+if num == 189:
+    print('Seu número é ímpar')
+if num == 190:
+    print('Seu número é par')
+if num == 191:
+    print('Seu número é ímpar')
+if num == 192:
+    print('Seu número é par')
+if num == 193:
+    print('Seu número é ímpar')
+if num == 194:
+    print('Seu número é par')
+if num == 195:
+    print('Seu número é ímpar')
+if num == 196:
+    print('Seu número é par')
+if num == 197:
+    print('Seu número é ímpar')
+if num == 198:
+    print('Seu número é par')
+if num == 199:
+    print('Seu número é ímpar')
+if num == 200:
+    print('Seu número é par')
+if num == 201:
+    print('Seu número é ímpar')
+if num == 202:
+    print('Seu número é par')
+if num == 203:
+    print('Seu número é ímpar')
+if num == 204:
+    print('Seu número é par')
+if num == 205:
+    print('Seu número é ímpar')
+if num == 206:
+    print('Seu número é par')
+if num == 207:
+    print('Seu número é ímpar')
+if num == 208:
+    print('Seu número é par')
+if num == 209:
+    print('Seu número é ímpar')
+if num == 210:
+    print('Seu número é par')
+if num == 211:
+    print('Seu número é ímpar')
+if num == 212:
+    print('Seu número é par')
+if num == 213:
+    print('Seu número é ímpar')
+if num == 214:
+    print('Seu número é par')
+if num == 215:
+    print('Seu número é ímpar')
+if num == 216:
+    print('Seu número é par')
+if num == 217:
+    print('Seu número é ímpar')
+if num == 218:
+    print('Seu número é par')
+if num == 219:
+    print('Seu número é ímpar')
+if num == 220:
+    print('Seu número é par')
+if num == 221:
+    print('Seu número é ímpar')
+if num == 222:
+    print('Seu número é par')
+if num == 223:
+    print('Seu número é ímpar')
+if num == 224:
+    print('Seu número é par')
+if num == 225:
+    print('Seu número é ímpar')
+if num == 226:
+    print('Seu número é par')
+if num == 227:
+    print('Seu número é ímpar')
+if num == 228:
+    print('Seu número é par')
+if num == 229:
+    print('Seu número é ímpar')
+if num == 230:
+    print('Seu número é par')
+if num == 231:
+    print('Seu número é ímpar')
+if num == 232:
+    print('Seu número é par')
+if num == 233:
+    print('Seu número é ímpar')
+if num == 234:
+    print('Seu número é par')
+if num == 235:
+    print('Seu número é ímpar')
+if num == 236:
+    print('Seu número é par')
+if num == 237:
+    print('Seu número é ímpar')
+if num == 238:
+    print('Seu número é par')
+if num == 239:
+    print('Seu número é ímpar')
+if num == 240:
+    print('Seu número é par')
+if num == 241:
+    print('Seu número é ímpar')
+if num == 242:
+    print('Seu número é par')
+if num == 243:
+    print('Seu número é ímpar')
+if num == 244:
+    print('Seu número é par')
+if num == 245:
+    print('Seu número é ímpar')
+if num == 246:
+    print('Seu número é par')
+if num == 247:
+    print('Seu número é ímpar')
+if num == 248:
+    print('Seu número é par')
+if num == 249:
+    print('Seu número é ímpar')
+if num == 250:
+    print('Seu número é par')
+if num == 251:
+    print('Seu número é ímpar')
+if num == 252:
+    print('Seu número é par')
+if num == 253:
+    print('Seu número é ímpar')
+if num == 254:
+    print('Seu número é par')
+if num == 255:
+    print('Seu número é ímpar')
+if num == 256:
+    print('Seu número é par')
+if num == 257:
+    print('Seu número é ímpar')
+if num == 258:
+    print('Seu número é par')
+if num == 259:
+    print('Seu número é ímpar')
+if num == 260:
+    print('Seu número é par')
+if num == 261:
+    print('Seu número é ímpar')
+if num == 262:
+    print('Seu número é par')
+if num == 263:
+    print('Seu número é ímpar')
+if num == 264:
+    print('Seu número é par')
+if num == 265:
+    print('Seu número é ímpar')
+if num == 266:
+    print('Seu número é par')
+if num == 267:
+    print('Seu número é ímpar')
+if num == 268:
+    print('Seu número é par')
+if num == 269:
+    print('Seu número é ímpar')
+if num == 270:
+    print('Seu número é par')
+if num == 271:
+    print('Seu número é ímpar')
+if num == 272:
+    print('Seu número é par')
+if num == 273:
+    print('Seu número é ímpar')
+if num == 274:
+    print('Seu número é par')
+if num == 275:
+    print('Seu número é ímpar')
+if num == 276:
+    print('Seu número é par')
+if num == 277:
+    print('Seu número é ímpar')
+if num == 278:
+    print('Seu número é par')
+if num == 279:
+    print('Seu número é ímpar')
+if num == 280:
+    print('Seu número é par')
+if num == 281:
+    print('Seu número é ímpar')
+if num == 282:
+    print('Seu número é par')
+if num == 283:
+    print('Seu número é ímpar')
+if num == 284:
+    print('Seu número é par')
+if num == 285:
+    print('Seu número é ímpar')
+if num == 286:
+    print('Seu número é par')
+if num == 287:
+    print('Seu número é ímpar')
+if num == 288:
+    print('Seu número é par')
+if num == 289:
+    print('Seu número é ímpar')
+if num == 290:
+    print('Seu número é par')
+if num == 291:
+    print('Seu número é ímpar')
+if num == 292:
+    print('Seu número é par')
+if num == 293:
+    print('Seu número é ímpar')
+if num == 294:
+    print('Seu número é par')
+if num == 295:
+    print('Seu número é ímpar')
+if num == 296:
+    print('Seu número é par')
+if num == 297:
+    print('Seu número é ímpar')
+if num == 298:
+    print('Seu número é par')
+if num == 299:
+    print('Seu número é ímpar')
+if num == 300:
+    print('Seu número é par')
+if num == 301:
+    print('Seu número é ímpar')
+if num == 302:
+    print('Seu número é par')
+if num == 303:
+    print('Seu número é ímpar')
+if num == 304:
+    print('Seu número é par')
+if num == 305:
+    print('Seu número é ímpar')
+if num == 306:
+    print('Seu número é par')
+if num == 307:
+    print('Seu número é ímpar')
+if num == 308:
+    print('Seu número é par')
+if num == 309:
+    print('Seu número é ímpar')
+if num == 310:
+    print('Seu número é par')
+if num == 311:
+    print('Seu número é ímpar')
+if num == 312:
+    print('Seu número é par')
+if num == 313:
+    print('Seu número é ímpar')
+if num == 314:
+    print('Seu número é par')
+if num == 315:
+    print('Seu número é ímpar')
+if num == 316:
+    print('Seu número é par')
+if num == 317:
+    print('Seu número é ímpar')
+if num == 318:
+    print('Seu número é par')
+if num == 319:
+    print('Seu número é ímpar')
+if num == 320:
+    print('Seu número é par')
+if num == 321:
+    print('Seu número é ímpar')
+if num == 322:
+    print('Seu número é par')
+if num == 323:
+    print('Seu número é ímpar')
+if num == 324:
+    print('Seu número é par')
+if num == 325:
+    print('Seu número é ímpar')
+if num == 326:
+    print('Seu número é par')
+if num == 327:
+    print('Seu número é ímpar')
+if num == 328:
+    print('Seu número é par')
+if num == 329:
+    print('Seu número é ímpar')
+if num == 330:
+    print('Seu número é par')
+if num == 331:
+    print('Seu número é ímpar')
+if num == 332:
+    print('Seu número é par')
+if num == 333:
+    print('Seu número é ímpar')
+if num == 334:
+    print('Seu número é par')
+if num == 335:
+    print('Seu número é ímpar')
+if num == 336:
+    print('Seu número é par')
+if num == 337:
+    print('Seu número é ímpar')
+if num == 338:
+    print('Seu número é par')
+if num == 339:
+    print('Seu número é ímpar')
+if num == 340:
+    print('Seu número é par')
+if num == 341:
+    print('Seu número é ímpar')
+if num == 342:
+    print('Seu número é par')
+if num == 343:
+    print('Seu número é ímpar')
+if num == 344:
+    print('Seu número é par')
+if num == 345:
+    print('Seu número é ímpar')
+if num == 346:
+    print('Seu número é par')
+if num == 347:
+    print('Seu número é ímpar')
+if num == 348:
+    print('Seu número é par')
+if num == 349:
+    print('Seu número é ímpar')
+if num == 350:
+    print('Seu número é par')
+if num == 351:
+    print('Seu número é ímpar')
+if num == 352:
+    print('Seu número é par')
+if num == 353:
+    print('Seu número é ímpar')
+if num == 354:
+    print('Seu número é par')
+if num == 355:
+    print('Seu número é ímpar')
+if num == 356:
+    print('Seu número é par')
+if num == 357:
+    print('Seu número é ímpar')
+if num == 358:
+    print('Seu número é par')
+if num == 359:
+    print('Seu número é ímpar')
+if num == 360:
+    print('Seu número é par')
+if num == 361:
+    print('Seu número é ímpar')
+if num == 362:
+    print('Seu número é par')
+if num == 363:
+    print('Seu número é ímpar')
+if num == 364:
+    print('Seu número é par')
+if num == 365:
+    print('Seu número é ímpar')
+if num == 366:
+    print('Seu número é par')
+if num == 367:
+    print('Seu número é ímpar')
+if num == 368:
+    print('Seu número é par')
+if num == 369:
+    print('Seu número é ímpar')
+if num == 370:
+    print('Seu número é par')
+if num == 371:
+    print('Seu número é ímpar')
+if num == 372:
+    print('Seu número é par')
+if num == 373:
+    print('Seu número é ímpar')
+if num == 374:
+    print('Seu número é par')
+if num == 375:
+    print('Seu número é ímpar')
+if num == 376:
+    print('Seu número é par')
+if num == 377:
+    print('Seu número é ímpar')
+if num == 378:
+    print('Seu número é par')
+if num == 379:
+    print('Seu número é ímpar')
+if num == 380:
+    print('Seu número é par')
+if num == 381:
+    print('Seu número é ímpar')
+if num == 382:
+    print('Seu número é par')
+if num == 383:
+    print('Seu número é ímpar')
+if num == 384:
+    print('Seu número é par')
+if num == 385:
+    print('Seu número é ímpar')
+if num == 386:
+    print('Seu número é par')
+if num == 387:
+    print('Seu número é ímpar')
+if num == 388:
+    print('Seu número é par')
+if num == 389:
+    print('Seu número é ímpar')
+if num == 390:
+    print('Seu número é par')
+if num == 391:
+    print('Seu número é ímpar')
+if num == 392:
+    print('Seu número é par')
+if num == 393:
+    print('Seu número é ímpar')
+if num == 394:
+    print('Seu número é par')
+if num == 395:
+    print('Seu número é ímpar')
+if num == 396:
+    print('Seu número é par')
+if num == 397:
+    print('Seu número é ímpar')
+if num == 398:
+    print('Seu número é par')
+if num == 399:
+    print('Seu número é ímpar')
+if num == 400:
+    print('Seu número é par')
+if num == 401:
+    print('Seu número é ímpar')
+if num == 402:
+    print('Seu número é par')
+if num == 403:
+    print('Seu número é ímpar')
+if num == 404:
+    print('Seu número é par')
+if num == 405:
+    print('Seu número é ímpar')
+if num == 406:
+    print('Seu número é par')
+if num == 407:
+    print('Seu número é ímpar')
+if num == 408:
+    print('Seu número é par')
+if num == 409:
+    print('Seu número é ímpar')
+if num == 410:
+    print('Seu número é par')
+if num == 411:
+    print('Seu número é ímpar')
+if num == 412:
+    print('Seu número é par')
+if num == 413:
+    print('Seu número é ímpar')
+if num == 414:
+    print('Seu número é par')
+if num == 415:
+    print('Seu número é ímpar')
+if num == 416:
+    print('Seu número é par')
+if num == 417:
+    print('Seu número é ímpar')
+if num == 418:
+    print('Seu número é par')
+if num == 419:
+    print('Seu número é ímpar')
+if num == 420:
+    print('Seu número é par')
+if num == 421:
+    print('Seu número é ímpar')
+if num == 422:
+    print('Seu número é par')
+if num == 423:
+    print('Seu número é ímpar')
+if num == 424:
+    print('Seu número é par')
+if num == 425:
+    print('Seu número é ímpar')
+if num == 426:
+    print('Seu número é par')
+if num == 427:
+    print('Seu número é ímpar')
+if num == 428:
+    print('Seu número é par')
+if num == 429:
+    print('Seu número é ímpar')
+if num == 430:
+    print('Seu número é par')
+if num == 431:
+    print('Seu número é ímpar')
+if num == 432:
+    print('Seu número é par')
+if num == 433:
+    print('Seu número é ímpar')
+if num == 434:
+    print('Seu número é par')
+if num == 435:
+    print('Seu número é ímpar')
+if num == 436:
+    print('Seu número é par')
+if num == 437:
+    print('Seu número é ímpar')
+if num == 438:
+    print('Seu número é par')
+if num == 439:
+    print('Seu número é ímpar')
+if num == 440:
+    print('Seu número é par')
+if num == 441:
+    print('Seu número é ímpar')
+if num == 442:
+    print('Seu número é par')
+if num == 443:
+    print('Seu número é ímpar')
+if num == 444:
+    print('Seu número é par')
+if num == 445:
+    print('Seu número é ímpar')
+if num == 446:
+    print('Seu número é par')
+if num == 447:
+    print('Seu número é ímpar')
+if num == 448:
+    print('Seu número é par')
+if num == 449:
+    print('Seu número é ímpar')
+if num == 450:
+    print('Seu número é par')
+if num == 451:
+    print('Seu número é ímpar')
+if num == 452:
+    print('Seu número é par')
+if num == 453:
+    print('Seu número é ímpar')
+if num == 454:
+    print('Seu número é par')
+if num == 455:
+    print('Seu número é ímpar')
+if num == 456:
+    print('Seu número é par')
+if num == 457:
+    print('Seu número é ímpar')
+if num == 458:
+    print('Seu número é par')
+if num == 459:
+    print('Seu número é ímpar')
+if num == 460:
+    print('Seu número é par')
+if num == 461:
+    print('Seu número é ímpar')
+if num == 462:
+    print('Seu número é par')
+if num == 463:
+    print('Seu número é ímpar')
+if num == 464:
+    print('Seu número é par')
+if num == 465:
+    print('Seu número é ímpar')
+if num == 466:
+    print('Seu número é par')
+if num == 467:
+    print('Seu número é ímpar')
+if num == 468:
+    print('Seu número é par')
+if num == 469:
+    print('Seu número é ímpar')
+if num == 470:
+    print('Seu número é par')
+if num == 471:
+    print('Seu número é ímpar')
+if num == 472:
+    print('Seu número é par')
+if num == 473:
+    print('Seu número é ímpar')
+if num == 474:
+    print('Seu número é par')
+if num == 475:
+    print('Seu número é ímpar')
+if num == 476:
+    print('Seu número é par')
+if num == 477:
+    print('Seu número é ímpar')
+if num == 478:
+    print('Seu número é par')
+if num == 479:
+    print('Seu número é ímpar')
+if num == 480:
+    print('Seu número é par')
+if num == 481:
+    print('Seu número é ímpar')
+if num == 482:
+    print('Seu número é par')
+if num == 483:
+    print('Seu número é ímpar')
+if num == 484:
+    print('Seu número é par')
+if num == 485:
+    print('Seu número é ímpar')
+if num == 486:
+    print('Seu número é par')
+if num == 487:
+    print('Seu número é ímpar')
+if num == 488:
+    print('Seu número é par')
+if num == 489:
+    print('Seu número é ímpar')
+if num == 490:
+    print('Seu número é par')
+if num == 491:
+    print('Seu número é ímpar')
+if num == 492:
+    print('Seu número é par')
+if num == 493:
+    print('Seu número é ímpar')
+if num == 494:
+    print('Seu número é par')
+if num == 495:
+    print('Seu número é ímpar')
+if num == 496:
+    print('Seu número é par')
+if num == 497:
+    print('Seu número é ímpar')
+if num == 498:
+    print('Seu número é par')
+if num == 499:
+    print('Seu número é ímpar')
+if num == 500:
+    print('Seu número é par')
+if num == 501:
+    print('Seu número é ímpar')
+if num == 502:
+    print('Seu número é par')
+if num == 503:
+    print('Seu número é ímpar')
+if num == 504:
+    print('Seu número é par')
+if num == 505:
+    print('Seu número é ímpar')
+if num == 506:
+    print('Seu número é par')
+if num == 507:
+    print('Seu número é ímpar')
+if num == 508:
+    print('Seu número é par')
+if num == 509:
+    print('Seu número é ímpar')
+if num == 510:
+    print('Seu número é par')
+if num == 511:
+    print('Seu número é ímpar')
+if num == 512:
+    print('Seu número é par')
+if num == 513:
+    print('Seu número é ímpar')
+if num == 514:
+    print('Seu número é par')
+if num == 515:
+    print('Seu número é ímpar')
+if num == 516:
+    print('Seu número é par')
+if num == 517:
+    print('Seu número é ímpar')
+if num == 518:
+    print('Seu número é par')
+if num == 519:
+    print('Seu número é ímpar')
+if num == 520:
+    print('Seu número é par')
+if num == 521:
+    print('Seu número é ímpar')
+if num == 522:
+    print('Seu número é par')
+if num == 523:
+    print('Seu número é ímpar')
+if num == 524:
+    print('Seu número é par')
+if num == 525:
+    print('Seu número é ímpar')
+if num == 526:
+    print('Seu número é par')
+if num == 527:
+    print('Seu número é ímpar')
+if num == 528:
+    print('Seu número é par')
+if num == 529:
+    print('Seu número é ímpar')
+if num == 530:
+    print('Seu número é par')
+if num == 531:
+    print('Seu número é ímpar')
+if num == 532:
+    print('Seu número é par')
+if num == 533:
+    print('Seu número é ímpar')
+if num == 534:
+    print('Seu número é par')
+if num == 535:
+    print('Seu número é ímpar')
+if num == 536:
+    print('Seu número é par')
+if num == 537:
+    print('Seu número é ímpar')
+if num == 538:
+    print('Seu número é par')
+if num == 539:
+    print('Seu número é ímpar')
+if num == 540:
+    print('Seu número é par')
+if num == 541:
+    print('Seu número é ímpar')
+if num == 542:
+    print('Seu número é par')
+if num == 543:
+    print('Seu número é ímpar')
+if num == 544:
+    print('Seu número é par')
+if num == 545:
+    print('Seu número é ímpar')
+if num == 546:
+    print('Seu número é par')
+if num == 547:
+    print('Seu número é ímpar')
+if num == 548:
+    print('Seu número é par')
+if num == 549:
+    print('Seu número é ímpar')
+if num == 550:
+    print('Seu número é par')
+if num == 551:
+    print('Seu número é ímpar')
+if num == 552:
+    print('Seu número é par')
+if num == 553:
+    print('Seu número é ímpar')
+if num == 554:
+    print('Seu número é par')
+if num == 555:
+    print('Seu número é ímpar')
+if num == 556:
+    print('Seu número é par')
+if num == 557:
+    print('Seu número é ímpar')
+if num == 558:
+    print('Seu número é par')
+if num == 559:
+    print('Seu número é ímpar')
+if num == 560:
+    print('Seu número é par')
+if num == 561:
+    print('Seu número é ímpar')
+if num == 562:
+    print('Seu número é par')
+if num == 563:
+    print('Seu número é ímpar')
+if num == 564:
+    print('Seu número é par')
+if num == 565:
+    print('Seu número é ímpar')
+if num == 566:
+    print('Seu número é par')
+if num == 567:
+    print('Seu número é ímpar')
+if num == 568:
+    print('Seu número é par')
+if num == 569:
+    print('Seu número é ímpar')
+if num == 570:
+    print('Seu número é par')
+if num == 571:
+    print('Seu número é ímpar')
+if num == 572:
+    print('Seu número é par')
+if num == 573:
+    print('Seu número é ímpar')
+if num == 574:
+    print('Seu número é par')
+if num == 575:
+    print('Seu número é ímpar')
+if num == 576:
+    print('Seu número é par')
+if num == 577:
+    print('Seu número é ímpar')
+if num == 578:
+    print('Seu número é par')
+if num == 579:
+    print('Seu número é ímpar')
+if num == 580:
+    print('Seu número é par')
+if num == 581:
+    print('Seu número é ímpar')
+if num == 582:
+    print('Seu número é par')
+if num == 583:
+    print('Seu número é ímpar')
+if num == 584:
+    print('Seu número é par')
+if num == 585:
+    print('Seu número é ímpar')
+if num == 586:
+    print('Seu número é par')
+if num == 587:
+    print('Seu número é ímpar')
+if num == 588:
+    print('Seu número é par')
+if num == 589:
+    print('Seu número é ímpar')
+if num == 590:
+    print('Seu número é par')
+if num == 591:
+    print('Seu número é ímpar')
+if num == 592:
+    print('Seu número é par')
+if num == 593:
+    print('Seu número é ímpar')
+if num == 594:
+    print('Seu número é par')
+if num == 595:
+    print('Seu número é ímpar')
+if num == 596:
+    print('Seu número é par')
+if num == 597:
+    print('Seu número é ímpar')
+if num == 598:
+    print('Seu número é par')
+if num == 599:
+    print('Seu número é ímpar')
+if num == 600:
+    print('Seu número é par')
+if num == 601:
+    print('Seu número é ímpar')
+if num == 602:
+    print('Seu número é par')
+if num == 603:
+    print('Seu número é ímpar')
+if num == 604:
+    print('Seu número é par')
+if num == 605:
+    print('Seu número é ímpar')
+if num == 606:
+    print('Seu número é par')
+if num == 607:
+    print('Seu número é ímpar')
+if num == 608:
+    print('Seu número é par')
+if num == 609:
+    print('Seu número é ímpar')
+if num == 610:
+    print('Seu número é par')
+if num == 611:
+    print('Seu número é ímpar')
+if num == 612:
+    print('Seu número é par')
+if num == 613:
+    print('Seu número é ímpar')
+if num == 614:
+    print('Seu número é par')
+if num == 615:
+    print('Seu número é ímpar')
+if num == 616:
+    print('Seu número é par')
+if num == 617:
+    print('Seu número é ímpar')
+if num == 618:
+    print('Seu número é par')
+if num == 619:
+    print('Seu número é ímpar')
+if num == 620:
+    print('Seu número é par')
+if num == 621:
+    print('Seu número é ímpar')
+if num == 622:
+    print('Seu número é par')
+if num == 623:
+    print('Seu número é ímpar')
+if num == 624:
+    print('Seu número é par')
+if num == 625:
+    print('Seu número é ímpar')
+if num == 626:
+    print('Seu número é par')
+if num == 627:
+    print('Seu número é ímpar')
+if num == 628:
+    print('Seu número é par')
+if num == 629:
+    print('Seu número é ímpar')
+if num == 630:
+    print('Seu número é par')
+if num == 631:
+    print('Seu número é ímpar')
+if num == 632:
+    print('Seu número é par')
+if num == 633:
+    print('Seu número é ímpar')
+if num == 634:
+    print('Seu número é par')
+if num == 635:
+    print('Seu número é ímpar')
+if num == 636:
+    print('Seu número é par')
+if num == 637:
+    print('Seu número é ímpar')
+if num == 638:
+    print('Seu número é par')
+if num == 639:
+    print('Seu número é ímpar')
+if num == 640:
+    print('Seu número é par')
+if num == 641:
+    print('Seu número é ímpar')
+if num == 642:
+    print('Seu número é par')
+if num == 643:
+    print('Seu número é ímpar')
+if num == 644:
+    print('Seu número é par')
+if num == 645:
+    print('Seu número é ímpar')
+if num == 646:
+    print('Seu número é par')
+if num == 647:
+    print('Seu número é ímpar')
+if num == 648:
+    print('Seu número é par')
+if num == 649:
+    print('Seu número é ímpar')
+if num == 650:
+    print('Seu número é par')
+if num == 651:
+    print('Seu número é ímpar')
+if num == 652:
+    print('Seu número é par')
+if num == 653:
+    print('Seu número é ímpar')
+if num == 654:
+    print('Seu número é par')
+if num == 655:
+    print('Seu número é ímpar')
+if num == 656:
+    print('Seu número é par')
+if num == 657:
+    print('Seu número é ímpar')
+if num == 658:
+    print('Seu número é par')
+if num == 659:
+    print('Seu número é ímpar')
+if num == 660:
+    print('Seu número é par')
+if num == 661:
+    print('Seu número é ímpar')
+if num == 662:
+    print('Seu número é par')
+if num == 663:
+    print('Seu número é ímpar')
+if num == 664:
+    print('Seu número é par')
+if num == 665:
+    print('Seu número é ímpar')
+if num == 666:
+    print('Seu número é par')
+if num == 667:
+    print('Seu número é ímpar')
+if num == 668:
+    print('Seu número é par')
+if num == 669:
+    print('Seu número é ímpar')
+if num == 670:
+    print('Seu número é par')
+if num == 671:
+    print('Seu número é ímpar')
+if num == 672:
+    print('Seu número é par')
+if num == 673:
+    print('Seu número é ímpar')
+if num == 674:
+    print('Seu número é par')
+if num == 675:
+    print('Seu número é ímpar')
+if num == 676:
+    print('Seu número é par')
+if num == 677:
+    print('Seu número é ímpar')
+if num == 678:
+    print('Seu número é par')
+if num == 679:
+    print('Seu número é ímpar')
+if num == 680:
+    print('Seu número é par')
+if num == 681:
+    print('Seu número é ímpar')
+if num == 682:
+    print('Seu número é par')
+if num == 683:
+    print('Seu número é ímpar')
+if num == 684:
+    print('Seu número é par')
+if num == 685:
+    print('Seu número é ímpar')
+if num == 686:
+    print('Seu número é par')
+if num == 687:
+    print('Seu número é ímpar')
+if num == 688:
+    print('Seu número é par')
+if num == 689:
+    print('Seu número é ímpar')
+if num == 690:
+    print('Seu número é par')
+if num == 691:
+    print('Seu número é ímpar')
+if num == 692:
+    print('Seu número é par')
+if num == 693:
+    print('Seu número é ímpar')
+if num == 694:
+    print('Seu número é par')
+if num == 695:
+    print('Seu número é ímpar')
+if num == 696:
+    print('Seu número é par')
+if num == 697:
+    print('Seu número é ímpar')
+if num == 698:
+    print('Seu número é par')
+if num == 699:
+    print('Seu número é ímpar')
+if num == 700:
+    print('Seu número é par')
+if num == 701:
+    print('Seu número é ímpar')
+if num == 702:
+    print('Seu número é par')
+if num == 703:
+    print('Seu número é ímpar')
+if num == 704:
+    print('Seu número é par')
+if num == 705:
+    print('Seu número é ímpar')
+if num == 706:
+    print('Seu número é par')
+if num == 707:
+    print('Seu número é ímpar')
+if num == 708:
+    print('Seu número é par')
+if num == 709:
+    print('Seu número é ímpar')
+if num == 710:
+    print('Seu número é par')
+if num == 711:
+    print('Seu número é ímpar')
+if num == 712:
+    print('Seu número é par')
+if num == 713:
+    print('Seu número é ímpar')
+if num == 714:
+    print('Seu número é par')
+if num == 715:
+    print('Seu número é ímpar')
+if num == 716:
+    print('Seu número é par')
+if num == 717:
+    print('Seu número é ímpar')
+if num == 718:
+    print('Seu número é par')
+if num == 719:
+    print('Seu número é ímpar')
+if num == 720:
+    print('Seu número é par')
+if num == 721:
+    print('Seu número é ímpar')
+if num == 722:
+    print('Seu número é par')
+if num == 723:
+    print('Seu número é ímpar')
+if num == 724:
+    print('Seu número é par')
+if num == 725:
+    print('Seu número é ímpar')
+if num == 726:
+    print('Seu número é par')
+if num == 727:
+    print('Seu número é ímpar')
+if num == 728:
+    print('Seu número é par')
+if num == 729:
+    print('Seu número é ímpar')
+if num == 730:
+    print('Seu número é par')
+if num == 731:
+    print('Seu número é ímpar')
+if num == 732:
+    print('Seu número é par')
+if num == 733:
+    print('Seu número é ímpar')
+if num == 734:
+    print('Seu número é par')
+if num == 735:
+    print('Seu número é ímpar')
+if num == 736:
+    print('Seu número é par')
+if num == 737:
+    print('Seu número é ímpar')
+if num == 738:
+    print('Seu número é par')
+if num == 739:
+    print('Seu número é ímpar')
+if num == 740:
+    print('Seu número é par')
+if num == 741:
+    print('Seu número é ímpar')
+if num == 742:
+    print('Seu número é par')
+if num == 743:
+    print('Seu número é ímpar')
+if num == 744:
+    print('Seu número é par')
+if num == 745:
+    print('Seu número é ímpar')
+if num == 746:
+    print('Seu número é par')
+if num == 747:
+    print('Seu número é ímpar')
+if num == 748:
+    print('Seu número é par')
+if num == 749:
+    print('Seu número é ímpar')
+if num == 750:
+    print('Seu número é par')
+if num == 751:
+    print('Seu número é ímpar')
+if num == 752:
+    print('Seu número é par')
+if num == 753:
+    print('Seu número é ímpar')
+if num == 754:
+    print('Seu número é par')
+if num == 755:
+    print('Seu número é ímpar')
+if num == 756:
+    print('Seu número é par')
+if num == 757:
+    print('Seu número é ímpar')
+if num == 758:
+    print('Seu número é par')
+if num == 759:
+    print('Seu número é ímpar')
+if num == 760:
+    print('Seu número é par')
+if num == 761:
+    print('Seu número é ímpar')
+if num == 762:
+    print('Seu número é par')
+if num == 763:
+    print('Seu número é ímpar')
+if num == 764:
+    print('Seu número é par')
+if num == 765:
+    print('Seu número é ímpar')
+if num == 766:
+    print('Seu número é par')
+if num == 767:
+    print('Seu número é ímpar')
+if num == 768:
+    print('Seu número é par')
+if num == 769:
+    print('Seu número é ímpar')
+if num == 770:
+    print('Seu número é par')
+if num == 771:
+    print('Seu número é ímpar')
+if num == 772:
+    print('Seu número é par')
+if num == 773:
+    print('Seu número é ímpar')
+if num == 774:
+    print('Seu número é par')
+if num == 775:
+    print('Seu número é ímpar')
+if num == 776:
+    print('Seu número é par')
+if num == 777:
+    print('Seu número é ímpar')
+if num == 778:
+    print('Seu número é par')
+if num == 779:
+    print('Seu número é ímpar')
+if num == 780:
+    print('Seu número é par')
+if num == 781:
+    print('Seu número é ímpar')
+if num == 782:
+    print('Seu número é par')
+if num == 783:
+    print('Seu número é ímpar')
+if num == 784:
+    print('Seu número é par')
+if num == 785:
+    print('Seu número é ímpar')
+if num == 786:
+    print('Seu número é par')
+if num == 787:
+    print('Seu número é ímpar')
+if num == 788:
+    print('Seu número é par')
+if num == 789:
+    print('Seu número é ímpar')
+if num == 790:
+    print('Seu número é par')
+if num == 791:
+    print('Seu número é ímpar')
+if num == 792:
+    print('Seu número é par')
+if num == 793:
+    print('Seu número é ímpar')
+if num == 794:
+    print('Seu número é par')
+if num == 795:
+    print('Seu número é ímpar')
+if num == 796:
+    print('Seu número é par')
+if num == 797:
+    print('Seu número é ímpar')
+if num == 798:
+    print('Seu número é par')
+if num == 799:
+    print('Seu número é ímpar')
+if num == 800:
+    print('Seu número é par')
+if num == 801:
+    print('Seu número é ímpar')
+if num == 802:
+    print('Seu número é par')
+if num == 803:
+    print('Seu número é ímpar')
+if num == 804:
+    print('Seu número é par')
+if num == 805:
+    print('Seu número é ímpar')
+if num == 806:
+    print('Seu número é par')
+if num == 807:
+    print('Seu número é ímpar')
+if num == 808:
+    print('Seu número é par')
+if num == 809:
+    print('Seu número é ímpar')
+if num == 810:
+    print('Seu número é par')
+if num == 811:
+    print('Seu número é ímpar')
+if num == 812:
+    print('Seu número é par')
+if num == 813:
+    print('Seu número é ímpar')
+if num == 814:
+    print('Seu número é par')
+if num == 815:
+    print('Seu número é ímpar')
+if num == 816:
+    print('Seu número é par')
+if num == 817:
+    print('Seu número é ímpar')
+if num == 818:
+    print('Seu número é par')
+if num == 819:
+    print('Seu número é ímpar')
+if num == 820:
+    print('Seu número é par')
+if num == 821:
+    print('Seu número é ímpar')
+if num == 822:
+    print('Seu número é par')
+if num == 823:
+    print('Seu número é ímpar')
+if num == 824:
+    print('Seu número é par')
+if num == 825:
+    print('Seu número é ímpar')
+if num == 826:
+    print('Seu número é par')
+if num == 827:
+    print('Seu número é ímpar')
+if num == 828:
+    print('Seu número é par')
+if num == 829:
+    print('Seu número é ímpar')
+if num == 830:
+    print('Seu número é par')
+if num == 831:
+    print('Seu número é ímpar')
+if num == 832:
+    print('Seu número é par')
+if num == 833:
+    print('Seu número é ímpar')
+if num == 834:
+    print('Seu número é par')
+if num == 835:
+    print('Seu número é ímpar')
+if num == 836:
+    print('Seu número é par')
+if num == 837:
+    print('Seu número é ímpar')
+if num == 838:
+    print('Seu número é par')
+if num == 839:
+    print('Seu número é ímpar')
+if num == 840:
+    print('Seu número é par')
+if num == 841:
+    print('Seu número é ímpar')
+if num == 842:
+    print('Seu número é par')
+if num == 843:
+    print('Seu número é ímpar')
+if num == 844:
+    print('Seu número é par')
+if num == 845:
+    print('Seu número é ímpar')
+if num == 846:
+    print('Seu número é par')
+if num == 847:
+    print('Seu número é ímpar')
+if num == 848:
+    print('Seu número é par')
+if num == 849:
+    print('Seu número é ímpar')
+if num == 850:
+    print('Seu número é par')
+if num == 851:
+    print('Seu número é ímpar')
+if num == 852:
+    print('Seu número é par')
+if num == 853:
+    print('Seu número é ímpar')
+if num == 854:
+    print('Seu número é par')
+if num == 855:
+    print('Seu número é ímpar')
+if num == 856:
+    print('Seu número é par')
+if num == 857:
+    print('Seu número é ímpar')
+if num == 858:
+    print('Seu número é par')
+if num == 859:
+    print('Seu número é ímpar')
+if num == 860:
+    print('Seu número é par')
+if num == 861:
+    print('Seu número é ímpar')
+if num == 862:
+    print('Seu número é par')
+if num == 863:
+    print('Seu número é ímpar')
+if num == 864:
+    print('Seu número é par')
+if num == 865:
+    print('Seu número é ímpar')
+if num == 866:
+    print('Seu número é par')
+if num == 867:
+    print('Seu número é ímpar')
+if num == 868:
+    print('Seu número é par')
+if num == 869:
+    print('Seu número é ímpar')
+if num == 870:
+    print('Seu número é par')
+if num == 871:
+    print('Seu número é ímpar')
+if num == 872:
+    print('Seu número é par')
+if num == 873:
+    print('Seu número é ímpar')
+if num == 874:
+    print('Seu número é par')
+if num == 875:
+    print('Seu número é ímpar')
+if num == 876:
+    print('Seu número é par')
+if num == 877:
+    print('Seu número é ímpar')
+if num == 878:
+    print('Seu número é par')
+if num == 879:
+    print('Seu número é ímpar')
+if num == 880:
+    print('Seu número é par')
+if num == 881:
+    print('Seu número é ímpar')
+if num == 882:
+    print('Seu número é par')
+if num == 883:
+    print('Seu número é ímpar')
+if num == 884:
+    print('Seu número é par')
+if num == 885:
+    print('Seu número é ímpar')
+if num == 886:
+    print('Seu número é par')
+if num == 887:
+    print('Seu número é ímpar')
+if num == 888:
+    print('Seu número é par')
+if num == 889:
+    print('Seu número é ímpar')
+if num == 890:
+    print('Seu número é par')
+if num == 891:
+    print('Seu número é ímpar')
+if num == 892:
+    print('Seu número é par')
+if num == 893:
+    print('Seu número é ímpar')
+if num == 894:
+    print('Seu número é par')
+if num == 895:
+    print('Seu número é ímpar')
+if num == 896:
+    print('Seu número é par')
+if num == 897:
+    print('Seu número é ímpar')
+if num == 898:
+    print('Seu número é par')
+if num == 899:
+    print('Seu número é ímpar')
+if num == 900:
+    print('Seu número é par')
+if num == 901:
+    print('Seu número é ímpar')
+if num == 902:
+    print('Seu número é par')
+if num == 903:
+    print('Seu número é ímpar')
+if num == 904:
+    print('Seu número é par')
+if num == 905:
+    print('Seu número é ímpar')
+if num == 906:
+    print('Seu número é par')
+if num == 907:
+    print('Seu número é ímpar')
+if num == 908:
+    print('Seu número é par')
+if num == 909:
+    print('Seu número é ímpar')
+if num == 910:
+    print('Seu número é par')
+if num == 911:
+    print('Seu número é ímpar')
+if num == 912:
+    print('Seu número é par')
+if num == 913:
+    print('Seu número é ímpar')
+if num == 914:
+    print('Seu número é par')
+if num == 915:
+    print('Seu número é ímpar')
+if num == 916:
+    print('Seu número é par')
+if num == 917:
+    print('Seu número é ímpar')
+if num == 918:
+    print('Seu número é par')
+if num == 919:
+    print('Seu número é ímpar')
+if num == 920:
+    print('Seu número é par')
+if num == 921:
+    print('Seu número é ímpar')
+if num == 922:
+    print('Seu número é par')
+if num == 923:
+    print('Seu número é ímpar')
+if num == 924:
+    print('Seu número é par')
+if num == 925:
+    print('Seu número é ímpar')
+if num == 926:
+    print('Seu número é par')
+if num == 927:
+    print('Seu número é ímpar')
+if num == 928:
+    print('Seu número é par')
+if num == 929:
+    print('Seu número é ímpar')
+if num == 930:
+    print('Seu número é par')
+if num == 931:
+    print('Seu número é ímpar')
+if num == 932:
+    print('Seu número é par')
+if num == 933:
+    print('Seu número é ímpar')
+if num == 934:
+    print('Seu número é par')
+if num == 935:
+    print('Seu número é ímpar')
+if num == 936:
+    print('Seu número é par')
+if num == 937:
+    print('Seu número é ímpar')
+if num == 938:
+    print('Seu número é par')
+if num == 939:
+    print('Seu número é ímpar')
+if num == 940:
+    print('Seu número é par')
+if num == 941:
+    print('Seu número é ímpar')
+if num == 942:
+    print('Seu número é par')
+if num == 943:
+    print('Seu número é ímpar')
+if num == 944:
+    print('Seu número é par')
+if num == 945:
+    print('Seu número é ímpar')
+if num == 946:
+    print('Seu número é par')
+if num == 947:
+    print('Seu número é ímpar')
+if num == 948:
+    print('Seu número é par')
+if num == 949:
+    print('Seu número é ímpar')
+if num == 950:
+    print('Seu número é par')
+if num == 951:
+    print('Seu número é ímpar')
+if num == 952:
+    print('Seu número é par')
+if num == 953:
+    print('Seu número é ímpar')
+if num == 954:
+    print('Seu número é par')
+if num == 955:
+    print('Seu número é ímpar')
+if num == 956:
+    print('Seu número é par')
+if num == 957:
+    print('Seu número é ímpar')
+if num == 958:
+    print('Seu número é par')
+if num == 959:
+    print('Seu número é ímpar')
+if num == 960:
+    print('Seu número é par')
+if num == 961:
+    print('Seu número é ímpar')
+if num == 962:
+    print('Seu número é par')
+if num == 963:
+    print('Seu número é ímpar')
+if num == 964:
+    print('Seu número é par')
+if num == 965:
+    print('Seu número é ímpar')
+if num == 966:
+    print('Seu número é par')
+if num == 967:
+    print('Seu número é ímpar')
+if num == 968:
+    print('Seu número é par')
+if num == 969:
+    print('Seu número é ímpar')
+if num == 970:
+    print('Seu número é par')
+if num == 971:
+    print('Seu número é ímpar')
+if num == 972:
+    print('Seu número é par')
+if num == 973:
+    print('Seu número é ímpar')
+if num == 974:
+    print('Seu número é par')
+if num == 975:
+    print('Seu número é ímpar')
+if num == 976:
+    print('Seu número é par')
+if num == 977:
+    print('Seu número é ímpar')
+if num == 978:
+    print('Seu número é par')
+if num == 979:
+    print('Seu número é ímpar')
+if num == 980:
+    print('Seu número é par')
+if num == 981:
+    print('Seu número é ímpar')
+if num == 982:
+    print('Seu número é par')
+if num == 983:
+    print('Seu número é ímpar')
+if num == 984:
+    print('Seu número é par')
+if num == 985:
+    print('Seu número é ímpar')
+if num == 986:
+    print('Seu número é par')
+if num == 987:
+    print('Seu número é ímpar')
+if num == 988:
+    print('Seu número é par')
+if num == 989:
+    print('Seu número é ímpar')
+if num == 990:
+    print('Seu número é par')
+if num == 991:
+    print('Seu número é ímpar')
+if num == 992:
+    print('Seu número é par')
+if num == 993:
+    print('Seu número é ímpar')
+if num == 994:
+    print('Seu número é par')
+if num == 995:
+    print('Seu número é ímpar')
+if num == 996:
+    print('Seu número é par')
+if num == 997:
+    print('Seu número é ímpar')
+if num == 998:
+    print('Seu número é par')
+if num == 999:
+    print('Seu número é ímpar')
+if num == 1000:
+    print('Seu número é par')
+if num == 1001:
+    print('Seu número é ímpar')
+if num == 1002:
+    print('Seu número é par')
+if num == 1003:
+    print('Seu número é ímpar')
+if num == 1004:
+    print('Seu número é par')
+if num == 1005:
+    print('Seu número é ímpar')
+if num == 1006:
+    print('Seu número é par')
+if num == 1007:
+    print('Seu número é ímpar')
+if num == 1008:
+    print('Seu número é par')
+if num == 1009:
+    print('Seu número é ímpar')
+if num == 1010:
+    print('Seu número é par')
+if num == 1011:
+    print('Seu número é ímpar')
+if num == 1012:
+    print('Seu número é par')
+if num == 1013:
+    print('Seu número é ímpar')
+if num == 1014:
+    print('Seu número é par')
+if num == 1015:
+    print('Seu número é ímpar')
+if num == 1016:
+    print('Seu número é par')
+if num == 1017:
+    print('Seu número é ímpar')
+if num == 1018:
+    print('Seu número é par')
+if num == 1019:
+    print('Seu número é ímpar')
+if num == 1020:
+    print('Seu número é par')
+if num == 1021:
+    print('Seu número é ímpar')
+if num == 1022:
+    print('Seu número é par')
+if num == 1023:
+    print('Seu número é ímpar')
+if num == 1024:
+    print('Seu número é par')
+if num == 1025:
+    print('Seu número é ímpar')
+if num == 1026:
+    print('Seu número é par')
+if num == 1027:
+    print('Seu número é ímpar')
+if num == 1028:
+    print('Seu número é par')
+if num == 1029:
+    print('Seu número é ímpar')
+if num == 1030:
+    print('Seu número é par')
+if num == 1031:
+    print('Seu número é ímpar')
+if num == 1032:
+    print('Seu número é par')
+if num == 1033:
+    print('Seu número é ímpar')
+if num == 1034:
+    print('Seu número é par')
+if num == 1035:
+    print('Seu número é ímpar')
+if num == 1036:
+    print('Seu número é par')
+if num == 1037:
+    print('Seu número é ímpar')
+if num == 1038:
+    print('Seu número é par')
+if num == 1039:
+    print('Seu número é ímpar')
+if num == 1040:
+    print('Seu número é par')
+if num == 1041:
+    print('Seu número é ímpar')
+if num == 1042:
+    print('Seu número é par')
+if num == 1043:
+    print('Seu número é ímpar')
+if num == 1044:
+    print('Seu número é par')
+if num == 1045:
+    print('Seu número é ímpar')
+if num == 1046:
+    print('Seu número é par')
+if num == 1047:
+    print('Seu número é ímpar')
+if num == 1048:
+    print('Seu número é par')
+if num == 1049:
+    print('Seu número é ímpar')
+if num == 1050:
+    print('Seu número é par')
+if num == 1051:
+    print('Seu número é ímpar')
+if num == 1052:
+    print('Seu número é par')
+if num == 1053:
+    print('Seu número é ímpar')
+if num == 1054:
+    print('Seu número é par')
+if num == 1055:
+    print('Seu número é ímpar')
+if num == 1056:
+    print('Seu número é par')
+if num == 1057:
+    print('Seu número é ímpar')
+if num == 1058:
+    print('Seu número é par')
+if num == 1059:
+    print('Seu número é ímpar')
+if num == 1060:
+    print('Seu número é par')
+if num == 1061:
+    print('Seu número é ímpar')
+if num == 1062:
+    print('Seu número é par')
+if num == 1063:
+    print('Seu número é ímpar')
+if num == 1064:
+    print('Seu número é par')
+if num == 1065:
+    print('Seu número é ímpar')
+if num == 1066:
+    print('Seu número é par')
+if num == 1067:
+    print('Seu número é ímpar')
+if num == 1068:
+    print('Seu número é par')
+if num == 1069:
+    print('Seu número é ímpar')
+if num == 1070:
+    print('Seu número é par')
+if num == 1071:
+    print('Seu número é ímpar')
+if num == 1072:
+    print('Seu número é par')
+if num == 1073:
+    print('Seu número é ímpar')
+if num == 1074:
+    print('Seu número é par')
+if num == 1075:
+    print('Seu número é ímpar')
+if num == 1076:
+    print('Seu número é par')
+if num == 1077:
+    print('Seu número é ímpar')
+if num == 1078:
+    print('Seu número é par')
+if num == 1079:
+    print('Seu número é ímpar')
+if num == 1080:
+    print('Seu número é par')
+if num == 1081:
+    print('Seu número é ímpar')
+if num == 1082:
+    print('Seu número é par')
+if num == 1083:
+    print('Seu número é ímpar')
+if num == 1084:
+    print('Seu número é par')
+if num == 1085:
+    print('Seu número é ímpar')
+if num == 1086:
+    print('Seu número é par')
+if num == 1087:
+    print('Seu número é ímpar')
+if num == 1088:
+    print('Seu número é par')
+if num == 1089:
+    print('Seu número é ímpar')
+if num == 1090:
+    print('Seu número é par')
+if num == 1091:
+    print('Seu número é ímpar')
+if num == 1092:
+    print('Seu número é par')
+if num == 1093:
+    print('Seu número é ímpar')
+if num == 1094:
+    print('Seu número é par')
+if num == 1095:
+    print('Seu número é ímpar')
+if num == 1096:
+    print('Seu número é par')
+if num == 1097:
+    print('Seu número é ímpar')
+if num == 1098:
+    print('Seu número é par')
+if num == 1099:
+    print('Seu número é ímpar')
+if num == 1100:
+    print('Seu número é par')
+if num == 1101:
+    print('Seu número é ímpar')
+if num == 1102:
+    print('Seu número é par')
+if num == 1103:
+    print('Seu número é ímpar')
+if num == 1104:
+    print('Seu número é par')
+if num == 1105:
+    print('Seu número é ímpar')
+if num == 1106:
+    print('Seu número é par')
+if num == 1107:
+    print('Seu número é ímpar')
+if num == 1108:
+    print('Seu número é par')
+if num == 1109:
+    print('Seu número é ímpar')
+if num == 1110:
+    print('Seu número é par')
+if num == 1111:
+    print('Seu número é ímpar')
+if num == 1112:
+    print('Seu número é par')
+if num == 1113:
+    print('Seu número é ímpar')
+if num == 1114:
+    print('Seu número é par')
+if num == 1115:
+    print('Seu número é ímpar')
+if num == 1116:
+    print('Seu número é par')
+if num == 1117:
+    print('Seu número é ímpar')
+if num == 1118:
+    print('Seu número é par')
+if num == 1119:
+    print('Seu número é ímpar')
+if num == 1120:
+    print('Seu número é par')
+if num == 1121:
+    print('Seu número é ímpar')
+if num == 1122:
+    print('Seu número é par')
+if num == 1123:
+    print('Seu número é ímpar')
+if num == 1124:
+    print('Seu número é par')
+if num == 1125:
+    print('Seu número é ímpar')
+if num == 1126:
+    print('Seu número é par')
+if num == 1127:
+    print('Seu número é ímpar')
+if num == 1128:
+    print('Seu número é par')
+if num == 1129:
+    print('Seu número é ímpar')
+if num == 1130:
+    print('Seu número é par')
+if num == 1131:
+    print('Seu número é ímpar')
+if num == 1132:
+    print('Seu número é par')
+if num == 1133:
+    print('Seu número é ímpar')
+if num == 1134:
+    print('Seu número é par')
+if num == 1135:
+    print('Seu número é ímpar')
+if num == 1136:
+    print('Seu número é par')
+if num == 1137:
+    print('Seu número é ímpar')
+if num == 1138:
+    print('Seu número é par')
+if num == 1139:
+    print('Seu número é ímpar')
+if num == 1140:
+    print('Seu número é par')
+if num == 1141:
+    print('Seu número é ímpar')
+if num == 1142:
+    print('Seu número é par')
+if num == 1143:
+    print('Seu número é ímpar')
+if num == 1144:
+    print('Seu número é par')
+if num == 1145:
+    print('Seu número é ímpar')
+if num == 1146:
+    print('Seu número é par')
+if num == 1147:
+    print('Seu número é ímpar')
+if num == 1148:
+    print('Seu número é par')
+if num == 1149:
+    print('Seu número é ímpar')
+if num == 1150:
+    print('Seu número é par')
+if num == 1151:
+    print('Seu número é ímpar')
+if num == 1152:
+    print('Seu número é par')
+if num == 1153:
+    print('Seu número é ímpar')
+if num == 1154:
+    print('Seu número é par')
+if num == 1155:
+    print('Seu número é ímpar')
+if num == 1156:
+    print('Seu número é par')
+if num == 1157:
+    print('Seu número é ímpar')
+if num == 1158:
+    print('Seu número é par')
+if num == 1159:
+    print('Seu número é ímpar')
+if num == 1160:
+    print('Seu número é par')
+if num == 1161:
+    print('Seu número é ímpar')
+if num == 1162:
+    print('Seu número é par')
+if num == 1163:
+    print('Seu número é ímpar')
+if num == 1164:
+    print('Seu número é par')
+if num == 1165:
+    print('Seu número é ímpar')
+if num == 1166:
+    print('Seu número é par')
+if num == 1167:
+    print('Seu número é ímpar')
+if num == 1168:
+    print('Seu número é par')
+if num == 1169:
+    print('Seu número é ímpar')
+if num == 1170:
+    print('Seu número é par')
+if num == 1171:
+    print('Seu número é ímpar')
+if num == 1172:
+    print('Seu número é par')
+if num == 1173:
+    print('Seu número é ímpar')
+if num == 1174:
+    print('Seu número é par')
+if num == 1175:
+    print('Seu número é ímpar')
+if num == 1176:
+    print('Seu número é par')
+if num == 1177:
+    print('Seu número é ímpar')
+if num == 1178:
+    print('Seu número é par')
+if num == 1179:
+    print('Seu número é ímpar')
+if num == 1180:
+    print('Seu número é par')
+if num == 1181:
+    print('Seu número é ímpar')
+if num == 1182:
+    print('Seu número é par')
+if num == 1183:
+    print('Seu número é ímpar')
+if num == 1184:
+    print('Seu número é par')
+if num == 1185:
+    print('Seu número é ímpar')
+if num == 1186:
+    print('Seu número é par')
+if num == 1187:
+    print('Seu número é ímpar')
+if num == 1188:
+    print('Seu número é par')
+if num == 1189:
+    print('Seu número é ímpar')
+if num == 1190:
+    print('Seu número é par')
+if num == 1191:
+    print('Seu número é ímpar')
+if num == 1192:
+    print('Seu número é par')
+if num == 1193:
+    print('Seu número é ímpar')
+if num == 1194:
+    print('Seu número é par')
+if num == 1195:
+    print('Seu número é ímpar')
+if num == 1196:
+    print('Seu número é par')
+if num == 1197:
+    print('Seu número é ímpar')
+if num == 1198:
+    print('Seu número é par')
+if num == 1199:
+    print('Seu número é ímpar')
+if num == 1200:
+    print('Seu número é par')
+if num == 1201:
+    print('Seu número é ímpar')
+if num == 1202:
+    print('Seu número é par')
+if num == 1203:
+    print('Seu número é ímpar')
+if num == 1204:
+    print('Seu número é par')
+if num == 1205:
+    print('Seu número é ímpar')
+if num == 1206:
+    print('Seu número é par')
+if num == 1207:
+    print('Seu número é ímpar')
+if num == 1208:
+    print('Seu número é par')
+if num == 1209:
+    print('Seu número é ímpar')
+if num == 1210:
+    print('Seu número é par')
+if num == 1211:
+    print('Seu número é ímpar')
+if num == 1212:
+    print('Seu número é par')
+if num == 1213:
+    print('Seu número é ímpar')
+if num == 1214:
+    print('Seu número é par')
+if num == 1215:
+    print('Seu número é ímpar')
+if num == 1216:
+    print('Seu número é par')
+if num == 1217:
+    print('Seu número é ímpar')
+if num == 1218:
+    print('Seu número é par')
+if num == 1219:
+    print('Seu número é ímpar')
+if num == 1220:
+    print('Seu número é par')
+if num == 1221:
+    print('Seu número é ímpar')
+if num == 1222:
+    print('Seu número é par')
+if num == 1223:
+    print('Seu número é ímpar')
+if num == 1224:
+    print('Seu número é par')
+if num == 1225:
+    print('Seu número é ímpar')
+if num == 1226:
+    print('Seu número é par')
+if num == 1227:
+    print('Seu número é ímpar')
+if num == 1228:
+    print('Seu número é par')
+if num == 1229:
+    print('Seu número é ímpar')
+if num == 1230:
+    print('Seu número é par')
+if num == 1231:
+    print('Seu número é ímpar')
+if num == 1232:
+    print('Seu número é par')
+if num == 1233:
+    print('Seu número é ímpar')
+if num == 1234:
+    print('Seu número é par')
+if num == 1235:
+    print('Seu número é ímpar')
+if num == 1236:
+    print('Seu número é par')
+if num == 1237:
+    print('Seu número é ímpar')
+if num == 1238:
+    print('Seu número é par')
+if num == 1239:
+    print('Seu número é ímpar')
+if num == 1240:
+    print('Seu número é par')
+if num == 1241:
+    print('Seu número é ímpar')
+if num == 1242:
+    print('Seu número é par')
+if num == 1243:
+    print('Seu número é ímpar')
+if num == 1244:
+    print('Seu número é par')
+if num == 1245:
+    print('Seu número é ímpar')
+if num == 1246:
+    print('Seu número é par')
+if num == 1247:
+    print('Seu número é ímpar')
+if num == 1248:
+    print('Seu número é par')
+if num == 1249:
+    print('Seu número é ímpar')
+if num == 1250:
+    print('Seu número é par')
+if num == 1251:
+    print('Seu número é ímpar')
+if num == 1252:
+    print('Seu número é par')
+if num == 1253:
+    print('Seu número é ímpar')
+if num == 1254:
+    print('Seu número é par')
+if num == 1255:
+    print('Seu número é ímpar')
+if num == 1256:
+    print('Seu número é par')
+if num == 1257:
+    print('Seu número é ímpar')
+if num == 1258:
+    print('Seu número é par')
+if num == 1259:
+    print('Seu número é ímpar')
+if num == 1260:
+    print('Seu número é par')
+if num == 1261:
+    print('Seu número é ímpar')
+if num == 1262:
+    print('Seu número é par')
+if num == 1263:
+    print('Seu número é ímpar')
+if num == 1264:
+    print('Seu número é par')
+if num == 1265:
+    print('Seu número é ímpar')
+if num == 1266:
+    print('Seu número é par')
+if num == 1267:
+    print('Seu número é ímpar')
+if num == 1268:
+    print('Seu número é par')
+if num == 1269:
+    print('Seu número é ímpar')
+if num == 1270:
+    print('Seu número é par')
+if num == 1271:
+    print('Seu número é ímpar')
+if num == 1272:
+    print('Seu número é par')
+if num == 1273:
+    print('Seu número é ímpar')
+if num == 1274:
+    print('Seu número é par')
+if num == 1275:
+    print('Seu número é ímpar')
+if num == 1276:
+    print('Seu número é par')
+if num == 1277:
+    print('Seu número é ímpar')
+if num == 1278:
+    print('Seu número é par')
+if num == 1279:
+    print('Seu número é ímpar')
+if num == 1280:
+    print('Seu número é par')
+if num == 1281:
+    print('Seu número é ímpar')
+if num == 1282:
+    print('Seu número é par')
+if num == 1283:
+    print('Seu número é ímpar')
+if num == 1284:
+    print('Seu número é par')
+if num == 1285:
+    print('Seu número é ímpar')
+if num == 1286:
+    print('Seu número é par')
+if num == 1287:
+    print('Seu número é ímpar')
+if num == 1288:
+    print('Seu número é par')
+if num == 1289:
+    print('Seu número é ímpar')
+if num == 1290:
+    print('Seu número é par')
+if num == 1291:
+    print('Seu número é ímpar')
+if num == 1292:
+    print('Seu número é par')
+if num == 1293:
+    print('Seu número é ímpar')
+if num == 1294:
+    print('Seu número é par')
+if num == 1295:
+    print('Seu número é ímpar')
+if num == 1296:
+    print('Seu número é par')
+if num == 1297:
+    print('Seu número é ímpar')
+if num == 1298:
+    print('Seu número é par')
+if num == 1299:
+    print('Seu número é ímpar')
+if num == 1300:
+    print('Seu número é par')
+if num == 1301:
+    print('Seu número é ímpar')
+if num == 1302:
+    print('Seu número é par')
+if num == 1303:
+    print('Seu número é ímpar')
+if num == 1304:
+    print('Seu número é par')
+if num == 1305:
+    print('Seu número é ímpar')
+if num == 1306:
+    print('Seu número é par')
+if num == 1307:
+    print('Seu número é ímpar')
+if num == 1308:
+    print('Seu número é par')
+if num == 1309:
+    print('Seu número é ímpar')
+if num == 1310:
+    print('Seu número é par')
+if num == 1311:
+    print('Seu número é ímpar')
+if num == 1312:
+    print('Seu número é par')
+if num == 1313:
+    print('Seu número é ímpar')
+if num == 1314:
+    print('Seu número é par')
+if num == 1315:
+    print('Seu número é ímpar')
+if num == 1316:
+    print('Seu número é par')
+if num == 1317:
+    print('Seu número é ímpar')
+if num == 1318:
+    print('Seu número é par')
+if num == 1319:
+    print('Seu número é ímpar')
+if num == 1320:
+    print('Seu número é par')
+if num == 1321:
+    print('Seu número é ímpar')
+if num == 1322:
+    print('Seu número é par')
+if num == 1323:
+    print('Seu número é ímpar')
+if num == 1324:
+    print('Seu número é par')
+if num == 1325:
+    print('Seu número é ímpar')
+if num == 1326:
+    print('Seu número é par')
+if num == 1327:
+    print('Seu número é ímpar')
+if num == 1328:
+    print('Seu número é par')
+if num == 1329:
+    print('Seu número é ímpar')
+if num == 1330:
+    print('Seu número é par')
+if num == 1331:
+    print('Seu número é ímpar')
+if num == 1332:
+    print('Seu número é par')
+if num == 1333:
+    print('Seu número é ímpar')
+if num == 1334:
+    print('Seu número é par')
+if num == 1335:
+    print('Seu número é ímpar')
+if num == 1336:
+    print('Seu número é par')
+if num == 1337:
+    print('Seu número é ímpar')
+if num == 1338:
+    print('Seu número é par')
+if num == 1339:
+    print('Seu número é ímpar')
+if num == 1340:
+    print('Seu número é par')
+if num == 1341:
+    print('Seu número é ímpar')
+if num == 1342:
+    print('Seu número é par')
+if num == 1343:
+    print('Seu número é ímpar')
+if num == 1344:
+    print('Seu número é par')
+if num == 1345:
+    print('Seu número é ímpar')
+if num == 1346:
+    print('Seu número é par')
+if num == 1347:
+    print('Seu número é ímpar')
+if num == 1348:
+    print('Seu número é par')
+if num == 1349:
+    print('Seu número é ímpar')
+if num == 1350:
+    print('Seu número é par')
+if num == 1351:
+    print('Seu número é ímpar')
+if num == 1352:
+    print('Seu número é par')
+if num == 1353:
+    print('Seu número é ímpar')
+if num == 1354:
+    print('Seu número é par')
+if num == 1355:
+    print('Seu número é ímpar')
+if num == 1356:
+    print('Seu número é par')
+if num == 1357:
+    print('Seu número é ímpar')
+if num == 1358:
+    print('Seu número é par')
+if num == 1359:
+    print('Seu número é ímpar')
+if num == 1360:
+    print('Seu número é par')
+if num == 1361:
+    print('Seu número é ímpar')
+if num == 1362:
+    print('Seu número é par')
+if num == 1363:
+    print('Seu número é ímpar')
+if num == 1364:
+    print('Seu número é par')
+if num == 1365:
+    print('Seu número é ímpar')
+if num == 1366:
+    print('Seu número é par')
+if num == 1367:
+    print('Seu número é ímpar')
+if num == 1368:
+    print('Seu número é par')
+if num == 1369:
+    print('Seu número é ímpar')
+if num == 1370:
+    print('Seu número é par')
+if num == 1371:
+    print('Seu número é ímpar')
+if num == 1372:
+    print('Seu número é par')
+if num == 1373:
+    print('Seu número é ímpar')
+if num == 1374:
+    print('Seu número é par')
+if num == 1375:
+    print('Seu número é ímpar')
+if num == 1376:
+    print('Seu número é par')
+if num == 1377:
+    print('Seu número é ímpar')
+if num == 1378:
+    print('Seu número é par')
+if num == 1379:
+    print('Seu número é ímpar')
+if num == 1380:
+    print('Seu número é par')
+if num == 1381:
+    print('Seu número é ímpar')
+if num == 1382:
+    print('Seu número é par')
+if num == 1383:
+    print('Seu número é ímpar')
+if num == 1384:
+    print('Seu número é par')
+if num == 1385:
+    print('Seu número é ímpar')
+if num == 1386:
+    print('Seu número é par')
+if num == 1387:
+    print('Seu número é ímpar')
+if num == 1388:
+    print('Seu número é par')
+if num == 1389:
+    print('Seu número é ímpar')
+if num == 1390:
+    print('Seu número é par')
+if num == 1391:
+    print('Seu número é ímpar')
+if num == 1392:
+    print('Seu número é par')
+if num == 1393:
+    print('Seu número é ímpar')
+if num == 1394:
+    print('Seu número é par')
+if num == 1395:
+    print('Seu número é ímpar')
+if num == 1396:
+    print('Seu número é par')
+if num == 1397:
+    print('Seu número é ímpar')
+if num == 1398:
+    print('Seu número é par')
+if num == 1399:
+    print('Seu número é ímpar')
+if num == 1400:
+    print('Seu número é par')
+if num == 1401:
+    print('Seu número é ímpar')
+if num == 1402:
+    print('Seu número é par')
+if num == 1403:
+    print('Seu número é ímpar')
+if num == 1404:
+    print('Seu número é par')
+if num == 1405:
+    print('Seu número é ímpar')
+if num == 1406:
+    print('Seu número é par')
+if num == 1407:
+    print('Seu número é ímpar')
+if num == 1408:
+    print('Seu número é par')
+if num == 1409:
+    print('Seu número é ímpar')
+if num == 1410:
+    print('Seu número é par')
+if num == 1411:
+    print('Seu número é ímpar')
+if num == 1412:
+    print('Seu número é par')
+if num == 1413:
+    print('Seu número é ímpar')
+if num == 1414:
+    print('Seu número é par')
+if num == 1415:
+    print('Seu número é ímpar')
+if num == 1416:
+    print('Seu número é par')
+if num == 1417:
+    print('Seu número é ímpar')
+if num == 1418:
+    print('Seu número é par')
+if num == 1419:
+    print('Seu número é ímpar')
+if num == 1420:
+    print('Seu número é par')
+if num == 1421:
+    print('Seu número é ímpar')
+if num == 1422:
+    print('Seu número é par')
+if num == 1423:
+    print('Seu número é ímpar')
+if num == 1424:
+    print('Seu número é par')
+if num == 1425:
+    print('Seu número é ímpar')
+if num == 1426:
+    print('Seu número é par')
+if num == 1427:
+    print('Seu número é ímpar')
+if num == 1428:
+    print('Seu número é par')
+if num == 1429:
+    print('Seu número é ímpar')
+if num == 1430:
+    print('Seu número é par')
+if num == 1431:
+    print('Seu número é ímpar')
+if num == 1432:
+    print('Seu número é par')
+if num == 1433:
+    print('Seu número é ímpar')
+if num == 1434:
+    print('Seu número é par')
+if num == 1435:
+    print('Seu número é ímpar')
+if num == 1436:
+    print('Seu número é par')
+if num == 1437:
+    print('Seu número é ímpar')
+if num == 1438:
+    print('Seu número é par')
+if num == 1439:
+    print('Seu número é ímpar')
+if num == 1440:
+    print('Seu número é par')
+if num == 1441:
+    print('Seu número é ímpar')
+if num == 1442:
+    print('Seu número é par')
+if num == 1443:
+    print('Seu número é ímpar')
+if num == 1444:
+    print('Seu número é par')
+if num == 1445:
+    print('Seu número é ímpar')
+if num == 1446:
+    print('Seu número é par')
+if num == 1447:
+    print('Seu número é ímpar')
+if num == 1448:
+    print('Seu número é par')
+if num == 1449:
+    print('Seu número é ímpar')
+if num == 1450:
+    print('Seu número é par')
+if num == 1451:
+    print('Seu número é ímpar')
+if num == 1452:
+    print('Seu número é par')
+if num == 1453:
+    print('Seu número é ímpar')
+if num == 1454:
+    print('Seu número é par')
+if num == 1455:
+    print('Seu número é ímpar')
+if num == 1456:
+    print('Seu número é par')
+if num == 1457:
+    print('Seu número é ímpar')
+if num == 1458:
+    print('Seu número é par')
+if num == 1459:
+    print('Seu número é ímpar')
+if num == 1460:
+    print('Seu número é par')
+if num == 1461:
+    print('Seu número é ímpar')
+if num == 1462:
+    print('Seu número é par')
+if num == 1463:
+    print('Seu número é ímpar')
+if num == 1464:
+    print('Seu número é par')
+if num == 1465:
+    print('Seu número é ímpar')
+if num == 1466:
+    print('Seu número é par')
+if num == 1467:
+    print('Seu número é ímpar')
+if num == 1468:
+    print('Seu número é par')
+if num == 1469:
+    print('Seu número é ímpar')
+if num == 1470:
+    print('Seu número é par')
+if num == 1471:
+    print('Seu número é ímpar')
+if num == 1472:
+    print('Seu número é par')
+if num == 1473:
+    print('Seu número é ímpar')
+if num == 1474:
+    print('Seu número é par')
+if num == 1475:
+    print('Seu número é ímpar')
+if num == 1476:
+    print('Seu número é par')
+if num == 1477:
+    print('Seu número é ímpar')
+if num == 1478:
+    print('Seu número é par')
+if num == 1479:
+    print('Seu número é ímpar')
+if num == 1480:
+    print('Seu número é par')
+if num == 1481:
+    print('Seu número é ímpar')
+if num == 1482:
+    print('Seu número é par')
+if num == 1483:
+    print('Seu número é ímpar')
+if num == 1484:
+    print('Seu número é par')
+if num == 1485:
+    print('Seu número é ímpar')
+if num == 1486:
+    print('Seu número é par')
+if num == 1487:
+    print('Seu número é ímpar')
+if num == 1488:
+    print('Seu número é par')
+if num == 1489:
+    print('Seu número é ímpar')
+if num == 1490:
+    print('Seu número é par')
+if num == 1491:
+    print('Seu número é ímpar')
+if num == 1492:
+    print('Seu número é par')
+if num == 1493:
+    print('Seu número é ímpar')
+if num == 1494:
+    print('Seu número é par')
+if num == 1495:
+    print('Seu número é ímpar')
+if num == 1496:
+    print('Seu número é par')
+if num == 1497:
+    print('Seu número é ímpar')
+if num == 1498:
+    print('Seu número é par')
+if num == 1499:
+    print('Seu número é ímpar')
+if num == 1500:
+    print('Seu número é par')
+if num == 1501:
+    print('Seu número é ímpar')
+if num == 1502:
+    print('Seu número é par')
+if num == 1503:
+    print('Seu número é ímpar')
+if num == 1504:
+    print('Seu número é par')
+if num == 1505:
+    print('Seu número é ímpar')
+if num == 1506:
+    print('Seu número é par')
+if num == 1507:
+    print('Seu número é ímpar')
+if num == 1508:
+    print('Seu número é par')
+if num == 1509:
+    print('Seu número é ímpar')
+if num == 1510:
+    print('Seu número é par')
+if num == 1511:
+    print('Seu número é ímpar')
+if num == 1512:
+    print('Seu número é par')
+if num == 1513:
+    print('Seu número é ímpar')
+if num == 1514:
+    print('Seu número é par')
+if num == 1515:
+    print('Seu número é ímpar')
+if num == 1516:
+    print('Seu número é par')
+if num == 1517:
+    print('Seu número é ímpar')
+if num == 1518:
+    print('Seu número é par')
+if num == 1519:
+    print('Seu número é ímpar')
+if num == 1520:
+    print('Seu número é par')
+if num == 1521:
+    print('Seu número é ímpar')
+if num == 1522:
+    print('Seu número é par')
+if num == 1523:
+    print('Seu número é ímpar')
+if num == 1524:
+    print('Seu número é par')
+if num == 1525:
+    print('Seu número é ímpar')
+if num == 1526:
+    print('Seu número é par')
+if num == 1527:
+    print('Seu número é ímpar')
+if num == 1528:
+    print('Seu número é par')
+if num == 1529:
+    print('Seu número é ímpar')
+if num == 1530:
+    print('Seu número é par')
+if num == 1531:
+    print('Seu número é ímpar')
+if num == 1532:
+    print('Seu número é par')
+if num == 1533:
+    print('Seu número é ímpar')
+if num == 1534:
+    print('Seu número é par')
+if num == 1535:
+    print('Seu número é ímpar')
+if num == 1536:
+    print('Seu número é par')
+if num == 1537:
+    print('Seu número é ímpar')
+if num == 1538:
+    print('Seu número é par')
+if num == 1539:
+    print('Seu número é ímpar')
+if num == 1540:
+    print('Seu número é par')
+if num == 1541:
+    print('Seu número é ímpar')
+if num == 1542:
+    print('Seu número é par')
+if num == 1543:
+    print('Seu número é ímpar')
+if num == 1544:
+    print('Seu número é par')
+if num == 1545:
+    print('Seu número é ímpar')
+if num == 1546:
+    print('Seu número é par')
+if num == 1547:
+    print('Seu número é ímpar')
+if num == 1548:
+    print('Seu número é par')
+if num == 1549:
+    print('Seu número é ímpar')
+if num == 1550:
+    print('Seu número é par')
+if num == 1551:
+    print('Seu número é ímpar')
+if num == 1552:
+    print('Seu número é par')
+if num == 1553:
+    print('Seu número é ímpar')
+if num == 1554:
+    print('Seu número é par')
+if num == 1555:
+    print('Seu número é ímpar')
+if num == 1556:
+    print('Seu número é par')
+if num == 1557:
+    print('Seu número é ímpar')
+if num == 1558:
+    print('Seu número é par')
+if num == 1559:
+    print('Seu número é ímpar')
+if num == 1560:
+    print('Seu número é par')
+if num == 1561:
+    print('Seu número é ímpar')
+if num == 1562:
+    print('Seu número é par')
+if num == 1563:
+    print('Seu número é ímpar')
+if num == 1564:
+    print('Seu número é par')
+if num == 1565:
+    print('Seu número é ímpar')
+if num == 1566:
+    print('Seu número é par')
+if num == 1567:
+    print('Seu número é ímpar')
+if num == 1568:
+    print('Seu número é par')
+if num == 1569:
+    print('Seu número é ímpar')
+if num == 1570:
+    print('Seu número é par')
+if num == 1571:
+    print('Seu número é ímpar')
+if num == 1572:
+    print('Seu número é par')
+if num == 1573:
+    print('Seu número é ímpar')
+if num == 1574:
+    print('Seu número é par')
+if num == 1575:
+    print('Seu número é ímpar')
+if num == 1576:
+    print('Seu número é par')
+if num == 1577:
+    print('Seu número é ímpar')
+if num == 1578:
+    print('Seu número é par')
+if num == 1579:
+    print('Seu número é ímpar')
+if num == 1580:
+    print('Seu número é par')
+if num == 1581:
+    print('Seu número é ímpar')
+if num == 1582:
+    print('Seu número é par')
+if num == 1583:
+    print('Seu número é ímpar')
+if num == 1584:
+    print('Seu número é par')
+if num == 1585:
+    print('Seu número é ímpar')
+if num == 1586:
+    print('Seu número é par')
+if num == 1587:
+    print('Seu número é ímpar')
+if num == 1588:
+    print('Seu número é par')
+if num == 1589:
+    print('Seu número é ímpar')
+if num == 1590:
+    print('Seu número é par')
+if num == 1591:
+    print('Seu número é ímpar')
+if num == 1592:
+    print('Seu número é par')
+if num == 1593:
+    print('Seu número é ímpar')
+if num == 1594:
+    print('Seu número é par')
+if num == 1595:
+    print('Seu número é ímpar')
+if num == 1596:
+    print('Seu número é par')
+if num == 1597:
+    print('Seu número é ímpar')
+if num == 1598:
+    print('Seu número é par')
+if num == 1599:
+    print('Seu número é ímpar')
+if num == 1600:
+    print('Seu número é par')
+if num == 1601:
+    print('Seu número é ímpar')
+if num == 1602:
+    print('Seu número é par')
+if num == 1603:
+    print('Seu número é ímpar')
+if num == 1604:
+    print('Seu número é par')
+if num == 1605:
+    print('Seu número é ímpar')
+if num == 1606:
+    print('Seu número é par')
+if num == 1607:
+    print('Seu número é ímpar')
+if num == 1608:
+    print('Seu número é par')
+if num == 1609:
+    print('Seu número é ímpar')
+if num == 1610:
+    print('Seu número é par')
+if num == 1611:
+    print('Seu número é ímpar')
+if num == 1612:
+    print('Seu número é par')
+if num == 1613:
+    print('Seu número é ímpar')
+if num == 1614:
+    print('Seu número é par')
+if num == 1615:
+    print('Seu número é ímpar')
+if num == 1616:
+    print('Seu número é par')
+if num == 1617:
+    print('Seu número é ímpar')
+if num == 1618:
+    print('Seu número é par')
+if num == 1619:
+    print('Seu número é ímpar')
+if num == 1620:
+    print('Seu número é par')
+if num == 1621:
+    print('Seu número é ímpar')
+if num == 1622:
+    print('Seu número é par')
+if num == 1623:
+    print('Seu número é ímpar')
+if num == 1624:
+    print('Seu número é par')
+if num == 1625:
+    print('Seu número é ímpar')
+if num == 1626:
+    print('Seu número é par')
+if num == 1627:
+    print('Seu número é ímpar')
+if num == 1628:
+    print('Seu número é par')
+if num == 1629:
+    print('Seu número é ímpar')
+if num == 1630:
+    print('Seu número é par')
+if num == 1631:
+    print('Seu número é ímpar')
+if num == 1632:
+    print('Seu número é par')
+if num == 1633:
+    print('Seu número é ímpar')
+if num == 1634:
+    print('Seu número é par')
+if num == 1635:
+    print('Seu número é ímpar')
+if num == 1636:
+    print('Seu número é par')
+if num == 1637:
+    print('Seu número é ímpar')
+if num == 1638:
+    print('Seu número é par')
+if num == 1639:
+    print('Seu número é ímpar')
+if num == 1640:
+    print('Seu número é par')
+if num == 1641:
+    print('Seu número é ímpar')
+if num == 1642:
+    print('Seu número é par')
+if num == 1643:
+    print('Seu número é ímpar')
+if num == 1644:
+    print('Seu número é par')
+if num == 1645:
+    print('Seu número é ímpar')
+if num == 1646:
+    print('Seu número é par')
+if num == 1647:
+    print('Seu número é ímpar')
+if num == 1648:
+    print('Seu número é par')
+if num == 1649:
+    print('Seu número é ímpar')
+if num == 1650:
+    print('Seu número é par')
+if num == 1651:
+    print('Seu número é ímpar')
+if num == 1652:
+    print('Seu número é par')
+if num == 1653:
+    print('Seu número é ímpar')
+if num == 1654:
+    print('Seu número é par')
+if num == 1655:
+    print('Seu número é ímpar')
+if num == 1656:
+    print('Seu número é par')
+if num == 1657:
+    print('Seu número é ímpar')
+if num == 1658:
+    print('Seu número é par')
+if num == 1659:
+    print('Seu número é ímpar')
+if num == 1660:
+    print('Seu número é par')
+if num == 1661:
+    print('Seu número é ímpar')
+if num == 1662:
+    print('Seu número é par')
+if num == 1663:
+    print('Seu número é ímpar')
+if num == 1664:
+    print('Seu número é par')
+if num == 1665:
+    print('Seu número é ímpar')
+if num == 1666:
+    print('Seu número é par')
+if num == 1667:
+    print('Seu número é ímpar')
+if num == 1668:
+    print('Seu número é par')
+if num == 1669:
+    print('Seu número é ímpar')
+if num == 1670:
+    print('Seu número é par')
+if num == 1671:
+    print('Seu número é ímpar')
+if num == 1672:
+    print('Seu número é par')
+if num == 1673:
+    print('Seu número é ímpar')
+if num == 1674:
+    print('Seu número é par')
+if num == 1675:
+    print('Seu número é ímpar')
+if num == 1676:
+    print('Seu número é par')
+if num == 1677:
+    print('Seu número é ímpar')
+if num == 1678:
+    print('Seu número é par')
+if num == 1679:
+    print('Seu número é ímpar')
+if num == 1680:
+    print('Seu número é par')
+if num == 1681:
+    print('Seu número é ímpar')
+if num == 1682:
+    print('Seu número é par')
+if num == 1683:
+    print('Seu número é ímpar')
+if num == 1684:
+    print('Seu número é par')
+if num == 1685:
+    print('Seu número é ímpar')
+if num == 1686:
+    print('Seu número é par')
+if num == 1687:
+    print('Seu número é ímpar')
+if num == 1688:
+    print('Seu número é par')
+if num == 1689:
+    print('Seu número é ímpar')
+if num == 1690:
+    print('Seu número é par')
+if num == 1691:
+    print('Seu número é ímpar')
+if num == 1692:
+    print('Seu número é par')
+if num == 1693:
+    print('Seu número é ímpar')
+if num == 1694:
+    print('Seu número é par')
+if num == 1695:
+    print('Seu número é ímpar')
+if num == 1696:
+    print('Seu número é par')
+if num == 1697:
+    print('Seu número é ímpar')
+if num == 1698:
+    print('Seu número é par')
+if num == 1699:
+    print('Seu número é ímpar')
+if num == 1700:
+    print('Seu número é par')
+if num == 1701:
+    print('Seu número é ímpar')
+if num == 1702:
+    print('Seu número é par')
+if num == 1703:
+    print('Seu número é ímpar')
+if num == 1704:
+    print('Seu número é par')
+if num == 1705:
+    print('Seu número é ímpar')
+if num == 1706:
+    print('Seu número é par')
+if num == 1707:
+    print('Seu número é ímpar')
+if num == 1708:
+    print('Seu número é par')
+if num == 1709:
+    print('Seu número é ímpar')
+if num == 1710:
+    print('Seu número é par')
+if num == 1711:
+    print('Seu número é ímpar')
+if num == 1712:
+    print('Seu número é par')
+if num == 1713:
+    print('Seu número é ímpar')
+if num == 1714:
+    print('Seu número é par')
+if num == 1715:
+    print('Seu número é ímpar')
+if num == 1716:
+    print('Seu número é par')
+if num == 1717:
+    print('Seu número é ímpar')
+if num == 1718:
+    print('Seu número é par')
+if num == 1719:
+    print('Seu número é ímpar')
+if num == 1720:
+    print('Seu número é par')
+if num == 1721:
+    print('Seu número é ímpar')
+if num == 1722:
+    print('Seu número é par')
+if num == 1723:
+    print('Seu número é ímpar')
+if num == 1724:
+    print('Seu número é par')
+if num == 1725:
+    print('Seu número é ímpar')
+if num == 1726:
+    print('Seu número é par')
+if num == 1727:
+    print('Seu número é ímpar')
+if num == 1728:
+    print('Seu número é par')
+if num == 1729:
+    print('Seu número é ímpar')
+if num == 1730:
+    print('Seu número é par')
+if num == 1731:
+    print('Seu número é ímpar')
+if num == 1732:
+    print('Seu número é par')
+if num == 1733:
+    print('Seu número é ímpar')
+if num == 1734:
+    print('Seu número é par')
+if num == 1735:
+    print('Seu número é ímpar')
+if num == 1736:
+    print('Seu número é par')
+if num == 1737:
+    print('Seu número é ímpar')
+if num == 1738:
+    print('Seu número é par')
+if num == 1739:
+    print('Seu número é ímpar')
+if num == 1740:
+    print('Seu número é par')
+if num == 1741:
+    print('Seu número é ímpar')
+if num == 1742:
+    print('Seu número é par')
+if num == 1743:
+    print('Seu número é ímpar')
+if num == 1744:
+    print('Seu número é par')
+if num == 1745:
+    print('Seu número é ímpar')
+if num == 1746:
+    print('Seu número é par')
+if num == 1747:
+    print('Seu número é ímpar')
+if num == 1748:
+    print('Seu número é par')
+if num == 1749:
+    print('Seu número é ímpar')
+if num == 1750:
+    print('Seu número é par')
+if num == 1751:
+    print('Seu número é ímpar')
+if num == 1752:
+    print('Seu número é par')
+if num == 1753:
+    print('Seu número é ímpar')
+if num == 1754:
+    print('Seu número é par')
+if num == 1755:
+    print('Seu número é ímpar')
+if num == 1756:
+    print('Seu número é par')
+if num == 1757:
+    print('Seu número é ímpar')
+if num == 1758:
+    print('Seu número é par')
+if num == 1759:
+    print('Seu número é ímpar')
+if num == 1760:
+    print('Seu número é par')
+if num == 1761:
+    print('Seu número é ímpar')
+if num == 1762:
+    print('Seu número é par')
+if num == 1763:
+    print('Seu número é ímpar')
+if num == 1764:
+    print('Seu número é par')
+if num == 1765:
+    print('Seu número é ímpar')
+if num == 1766:
+    print('Seu número é par')
+if num == 1767:
+    print('Seu número é ímpar')
+if num == 1768:
+    print('Seu número é par')
+if num == 1769:
+    print('Seu número é ímpar')
+if num == 1770:
+    print('Seu número é par')
+if num == 1771:
+    print('Seu número é ímpar')
+if num == 1772:
+    print('Seu número é par')
+if num == 1773:
+    print('Seu número é ímpar')
+if num == 1774:
+    print('Seu número é par')
+if num == 1775:
+    print('Seu número é ímpar')
+if num == 1776:
+    print('Seu número é par')
+if num == 1777:
+    print('Seu número é ímpar')
+if num == 1778:
+    print('Seu número é par')
+if num == 1779:
+    print('Seu número é ímpar')
+if num == 1780:
+    print('Seu número é par')
+if num == 1781:
+    print('Seu número é ímpar')
+if num == 1782:
+    print('Seu número é par')
+if num == 1783:
+    print('Seu número é ímpar')
+if num == 1784:
+    print('Seu número é par')
+if num == 1785:
+    print('Seu número é ímpar')
+if num == 1786:
+    print('Seu número é par')
+if num == 1787:
+    print('Seu número é ímpar')
+if num == 1788:
+    print('Seu número é par')
+if num == 1789:
+    print('Seu número é ímpar')
+if num == 1790:
+    print('Seu número é par')
+if num == 1791:
+    print('Seu número é ímpar')
+if num == 1792:
+    print('Seu número é par')
+if num == 1793:
+    print('Seu número é ímpar')
+if num == 1794:
+    print('Seu número é par')
+if num == 1795:
+    print('Seu número é ímpar')
+if num == 1796:
+    print('Seu número é par')
+if num == 1797:
+    print('Seu número é ímpar')
+if num == 1798:
+    print('Seu número é par')
+if num == 1799:
+    print('Seu número é ímpar')
+if num == 1800:
+    print('Seu número é par')
+if num == 1801:
+    print('Seu número é ímpar')
+if num == 1802:
+    print('Seu número é par')
+if num == 1803:
+    print('Seu número é ímpar')
+if num == 1804:
+    print('Seu número é par')
+if num == 1805:
+    print('Seu número é ímpar')
+if num == 1806:
+    print('Seu número é par')
+if num == 1807:
+    print('Seu número é ímpar')
+if num == 1808:
+    print('Seu número é par')
+if num == 1809:
+    print('Seu número é ímpar')
+if num == 1810:
+    print('Seu número é par')
+if num == 1811:
+    print('Seu número é ímpar')
+if num == 1812:
+    print('Seu número é par')
+if num == 1813:
+    print('Seu número é ímpar')
+if num == 1814:
+    print('Seu número é par')
+if num == 1815:
+    print('Seu número é ímpar')
+if num == 1816:
+    print('Seu número é par')
+if num == 1817:
+    print('Seu número é ímpar')
+if num == 1818:
+    print('Seu número é par')
+if num == 1819:
+    print('Seu número é ímpar')
+if num == 1820:
+    print('Seu número é par')
+if num == 1821:
+    print('Seu número é ímpar')
+if num == 1822:
+    print('Seu número é par')
+if num == 1823:
+    print('Seu número é ímpar')
+if num == 1824:
+    print('Seu número é par')
+if num == 1825:
+    print('Seu número é ímpar')
+if num == 1826:
+    print('Seu número é par')
+if num == 1827:
+    print('Seu número é ímpar')
+if num == 1828:
+    print('Seu número é par')
+if num == 1829:
+    print('Seu número é ímpar')
+if num == 1830:
+    print('Seu número é par')
+if num == 1831:
+    print('Seu número é ímpar')
+if num == 1832:
+    print('Seu número é par')
+if num == 1833:
+    print('Seu número é ímpar')
+if num == 1834:
+    print('Seu número é par')
+if num == 1835:
+    print('Seu número é ímpar')
+if num == 1836:
+    print('Seu número é par')
+if num == 1837:
+    print('Seu número é ímpar')
+if num == 1838:
+    print('Seu número é par')
+if num == 1839:
+    print('Seu número é ímpar')
+if num == 1840:
+    print('Seu número é par')
+if num == 1841:
+    print('Seu número é ímpar')
+if num == 1842:
+    print('Seu número é par')
+if num == 1843:
+    print('Seu número é ímpar')
+if num == 1844:
+    print('Seu número é par')
+if num == 1845:
+    print('Seu número é ímpar')
+if num == 1846:
+    print('Seu número é par')
+if num == 1847:
+    print('Seu número é ímpar')
+if num == 1848:
+    print('Seu número é par')
+if num == 1849:
+    print('Seu número é ímpar')
+if num == 1850:
+    print('Seu número é par')
+if num == 1851:
+    print('Seu número é ímpar')
+if num == 1852:
+    print('Seu número é par')
+if num == 1853:
+    print('Seu número é ímpar')
+if num == 1854:
+    print('Seu número é par')
+if num == 1855:
+    print('Seu número é ímpar')
+if num == 1856:
+    print('Seu número é par')
+if num == 1857:
+    print('Seu número é ímpar')
+if num == 1858:
+    print('Seu número é par')
+if num == 1859:
+    print('Seu número é ímpar')
+if num == 1860:
+    print('Seu número é par')
+if num == 1861:
+    print('Seu número é ímpar')
+if num == 1862:
+    print('Seu número é par')
+if num == 1863:
+    print('Seu número é ímpar')
+if num == 1864:
+    print('Seu número é par')
+if num == 1865:
+    print('Seu número é ímpar')
+if num == 1866:
+    print('Seu número é par')
+if num == 1867:
+    print('Seu número é ímpar')
+if num == 1868:
+    print('Seu número é par')
+if num == 1869:
+    print('Seu número é ímpar')
+if num == 1870:
+    print('Seu número é par')
+if num == 1871:
+    print('Seu número é ímpar')
+if num == 1872:
+    print('Seu número é par')
+if num == 1873:
+    print('Seu número é ímpar')
+if num == 1874:
+    print('Seu número é par')
+if num == 1875:
+    print('Seu número é ímpar')
+if num == 1876:
+    print('Seu número é par')
+if num == 1877:
+    print('Seu número é ímpar')
+if num == 1878:
+    print('Seu número é par')
+if num == 1879:
+    print('Seu número é ímpar')
+if num == 1880:
+    print('Seu número é par')
+if num == 1881:
+    print('Seu número é ímpar')
+if num == 1882:
+    print('Seu número é par')
+if num == 1883:
+    print('Seu número é ímpar')
+if num == 1884:
+    print('Seu número é par')
+if num == 1885:
+    print('Seu número é ímpar')
+if num == 1886:
+    print('Seu número é par')
+if num == 1887:
+    print('Seu número é ímpar')
+if num == 1888:
+    print('Seu número é par')
+if num == 1889:
+    print('Seu número é ímpar')
+if num == 1890:
+    print('Seu número é par')
+if num == 1891:
+    print('Seu número é ímpar')
+if num == 1892:
+    print('Seu número é par')
+if num == 1893:
+    print('Seu número é ímpar')
+if num == 1894:
+    print('Seu número é par')
+if num == 1895:
+    print('Seu número é ímpar')
+if num == 1896:
+    print('Seu número é par')
+if num == 1897:
+    print('Seu número é ímpar')
+if num == 1898:
+    print('Seu número é par')
+if num == 1899:
+    print('Seu número é ímpar')
+if num == 1900:
+    print('Seu número é par')
+if num == 1901:
+    print('Seu número é ímpar')
+if num == 1902:
+    print('Seu número é par')
+if num == 1903:
+    print('Seu número é ímpar')
+if num == 1904:
+    print('Seu número é par')
+if num == 1905:
+    print('Seu número é ímpar')
+if num == 1906:
+    print('Seu número é par')
+if num == 1907:
+    print('Seu número é ímpar')
+if num == 1908:
+    print('Seu número é par')
+if num == 1909:
+    print('Seu número é ímpar')
+if num == 1910:
+    print('Seu número é par')
+if num == 1911:
+    print('Seu número é ímpar')
+if num == 1912:
+    print('Seu número é par')
+if num == 1913:
+    print('Seu número é ímpar')
+if num == 1914:
+    print('Seu número é par')
+if num == 1915:
+    print('Seu número é ímpar')
+if num == 1916:
+    print('Seu número é par')
+if num == 1917:
+    print('Seu número é ímpar')
+if num == 1918:
+    print('Seu número é par')
+if num == 1919:
+    print('Seu número é ímpar')
+if num == 1920:
+    print('Seu número é par')
+if num == 1921:
+    print('Seu número é ímpar')
+if num == 1922:
+    print('Seu número é par')
+if num == 1923:
+    print('Seu número é ímpar')
+if num == 1924:
+    print('Seu número é par')
+if num == 1925:
+    print('Seu número é ímpar')
+if num == 1926:
+    print('Seu número é par')
+if num == 1927:
+    print('Seu número é ímpar')
+if num == 1928:
+    print('Seu número é par')
+if num == 1929:
+    print('Seu número é ímpar')
+if num == 1930:
+    print('Seu número é par')
+if num == 1931:
+    print('Seu número é ímpar')
+if num == 1932:
+    print('Seu número é par')
+if num == 1933:
+    print('Seu número é ímpar')
+if num == 1934:
+    print('Seu número é par')
+if num == 1935:
+    print('Seu número é ímpar')
+if num == 1936:
+    print('Seu número é par')
+if num == 1937:
+    print('Seu número é ímpar')
+if num == 1938:
+    print('Seu número é par')
+if num == 1939:
+    print('Seu número é ímpar')
+if num == 1940:
+    print('Seu número é par')
+if num == 1941:
+    print('Seu número é ímpar')
+if num == 1942:
+    print('Seu número é par')
+if num == 1943:
+    print('Seu número é ímpar')
+if num == 1944:
+    print('Seu número é par')
+if num == 1945:
+    print('Seu número é ímpar')
+if num == 1946:
+    print('Seu número é par')
+if num == 1947:
+    print('Seu número é ímpar')
+if num == 1948:
+    print('Seu número é par')
+if num == 1949:
+    print('Seu número é ímpar')
+if num == 1950:
+    print('Seu número é par')
+if num == 1951:
+    print('Seu número é ímpar')
+if num == 1952:
+    print('Seu número é par')
+if num == 1953:
+    print('Seu número é ímpar')
+if num == 1954:
+    print('Seu número é par')
+if num == 1955:
+    print('Seu número é ímpar')
+if num == 1956:
+    print('Seu número é par')
+if num == 1957:
+    print('Seu número é ímpar')
+if num == 1958:
+    print('Seu número é par')
+if num == 1959:
+    print('Seu número é ímpar')
+if num == 1960:
+    print('Seu número é par')
+if num == 1961:
+    print('Seu número é ímpar')
+if num == 1962:
+    print('Seu número é par')
+if num == 1963:
+    print('Seu número é ímpar')
+if num == 1964:
+    print('Seu número é par')
+if num == 1965:
+    print('Seu número é ímpar')
+if num == 1966:
+    print('Seu número é par')
+if num == 1967:
+    print('Seu número é ímpar')
+if num == 1968:
+    print('Seu número é par')
+if num == 1969:
+    print('Seu número é ímpar')
+if num == 1970:
+    print('Seu número é par')
+if num == 1971:
+    print('Seu número é ímpar')
+if num == 1972:
+    print('Seu número é par')
+if num == 1973:
+    print('Seu número é ímpar')
+if num == 1974:
+    print('Seu número é par')
+if num == 1975:
+    print('Seu número é ímpar')
+if num == 1976:
+    print('Seu número é par')
+if num == 1977:
+    print('Seu número é ímpar')
+if num == 1978:
+    print('Seu número é par')
+if num == 1979:
+    print('Seu número é ímpar')
+if num == 1980:
+    print('Seu número é par')
+if num == 1981:
+    print('Seu número é ímpar')
+if num == 1982:
+    print('Seu número é par')
+if num == 1983:
+    print('Seu número é ímpar')
+if num == 1984:
+    print('Seu número é par')
+if num == 1985:
+    print('Seu número é ímpar')
+if num == 1986:
+    print('Seu número é par')
+if num == 1987:
+    print('Seu número é ímpar')
+if num == 1988:
+    print('Seu número é par')
+if num == 1989:
+    print('Seu número é ímpar')
+if num == 1990:
+    print('Seu número é par')
+if num == 1991:
+    print('Seu número é ímpar')
+if num == 1992:
+    print('Seu número é par')
+if num == 1993:
+    print('Seu número é ímpar')
+if num == 1994:
+    print('Seu número é par')
+if num == 1995:
+    print('Seu número é ímpar')
+if num == 1996:
+    print('Seu número é par')
+if num == 1997:
+    print('Seu número é ímpar')
+if num == 1998:
+    print('Seu número é par')
+if num == 1999:
+    print('Seu número é ímpar')
+if num == 2000:
+    print('Seu número é par')
+if num == 2001:
+    print('Seu número é ímpar')
+if num == 2002:
+    print('Seu número é par')
+if num == 2003:
+    print('Seu número é ímpar')
+if num == 2004:
+    print('Seu número é par')
+if num == 2005:
+    print('Seu número é ímpar')
+if num == 2006:
+    print('Seu número é par')
+if num == 2007:
+    print('Seu número é ímpar')
+if num == 2008:
+    print('Seu número é par')
+if num == 2009:
+    print('Seu número é ímpar')
+if num == 2010:
+    print('Seu número é par')
+if num == 2011:
+    print('Seu número é ímpar')
+if num == 2012:
+    print('Seu número é par')
+if num == 2013:
+    print('Seu número é ímpar')
+if num == 2014:
+    print('Seu número é par')
+if num == 2015:
+    print('Seu número é ímpar')
+if num == 2016:
+    print('Seu número é par')
+if num == 2017:
+    print('Seu número é ímpar')
+if num == 2018:
+    print('Seu número é par')
+if num == 2019:
+    print('Seu número é ímpar')
+if num == 2020:
+    print('Seu número é par')
+if num == 2021:
+    print('Seu número é ímpar')
+if num == 2022:
+    print('Seu número é par')
+if num == 2023:
+    print('Seu número é ímpar')
+if num == 2024:
+    print('Seu número é par')
+if num == 2025:
+    print('Seu número é ímpar')
+if num == 2026:
+    print('Seu número é par')
+if num == 2027:
+    print('Seu número é ímpar')
+if num == 2028:
+    print('Seu número é par')
+if num == 2029:
+    print('Seu número é ímpar')
+if num == 2030:
+    print('Seu número é par')
+if num == 2031:
+    print('Seu número é ímpar')
+if num == 2032:
+    print('Seu número é par')
+if num == 2033:
+    print('Seu número é ímpar')
+if num == 2034:
+    print('Seu número é par')
+if num == 2035:
+    print('Seu número é ímpar')
+if num == 2036:
+    print('Seu número é par')
+if num == 2037:
+    print('Seu número é ímpar')
+if num == 2038:
+    print('Seu número é par')
+if num == 2039:
+    print('Seu número é ímpar')
+if num == 2040:
+    print('Seu número é par')
+if num == 2041:
+    print('Seu número é ímpar')
+if num == 2042:
+    print('Seu número é par')
+if num == 2043:
+    print('Seu número é ímpar')
+if num == 2044:
+    print('Seu número é par')
+if num == 2045:
+    print('Seu número é ímpar')
+if num == 2046:
+    print('Seu número é par')
+if num == 2047:
+    print('Seu número é ímpar')
+if num == 2048:
+    print('Seu número é par')
+if num == 2049:
+    print('Seu número é ímpar')
+if num == 2050:
+    print('Seu número é par')
+if num == 2051:
+    print('Seu número é ímpar')
+if num == 2052:
+    print('Seu número é par')
+if num == 2053:
+    print('Seu número é ímpar')
+if num == 2054:
+    print('Seu número é par')
+if num == 2055:
+    print('Seu número é ímpar')
+if num == 2056:
+    print('Seu número é par')
+if num == 2057:
+    print('Seu número é ímpar')
+if num == 2058:
+    print('Seu número é par')
+if num == 2059:
+    print('Seu número é ímpar')
+if num == 2060:
+    print('Seu número é par')
+if num == 2061:
+    print('Seu número é ímpar')
+if num == 2062:
+    print('Seu número é par')
+if num == 2063:
+    print('Seu número é ímpar')
+if num == 2064:
+    print('Seu número é par')
+if num == 2065:
+    print('Seu número é ímpar')
+if num == 2066:
+    print('Seu número é par')
+if num == 2067:
+    print('Seu número é ímpar')
+if num == 2068:
+    print('Seu número é par')
+if num == 2069:
+    print('Seu número é ímpar')
+if num == 2070:
+    print('Seu número é par')
+if num == 2071:
+    print('Seu número é ímpar')
+if num == 2072:
+    print('Seu número é par')
+if num == 2073:
+    print('Seu número é ímpar')
+if num == 2074:
+    print('Seu número é par')
+if num == 2075:
+    print('Seu número é ímpar')
+if num == 2076:
+    print('Seu número é par')
+if num == 2077:
+    print('Seu número é ímpar')
+if num == 2078:
+    print('Seu número é par')
+if num == 2079:
+    print('Seu número é ímpar')
+if num == 2080:
+    print('Seu número é par')
+if num == 2081:
+    print('Seu número é ímpar')
+if num == 2082:
+    print('Seu número é par')
+if num == 2083:
+    print('Seu número é ímpar')
+if num == 2084:
+    print('Seu número é par')
+if num == 2085:
+    print('Seu número é ímpar')
+if num == 2086:
+    print('Seu número é par')
+if num == 2087:
+    print('Seu número é ímpar')
+if num == 2088:
+    print('Seu número é par')
+if num == 2089:
+    print('Seu número é ímpar')
+if num == 2090:
+    print('Seu número é par')
+if num == 2091:
+    print('Seu número é ímpar')
+if num == 2092:
+    print('Seu número é par')
+if num == 2093:
+    print('Seu número é ímpar')
+if num == 2094:
+    print('Seu número é par')
+if num == 2095:
+    print('Seu número é ímpar')
+if num == 2096:
+    print('Seu número é par')
+if num == 2097:
+    print('Seu número é ímpar')
+if num == 2098:
+    print('Seu número é par')
+if num == 2099:
+    print('Seu número é ímpar')
+if num == 2100:
+    print('Seu número é par')
+if num == 2101:
+    print('Seu número é ímpar')
+if num == 2102:
+    print('Seu número é par')
+if num == 2103:
+    print('Seu número é ímpar')
+if num == 2104:
+    print('Seu número é par')
+if num == 2105:
+    print('Seu número é ímpar')
+if num == 2106:
+    print('Seu número é par')
+if num == 2107:
+    print('Seu número é ímpar')
+if num == 2108:
+    print('Seu número é par')
+if num == 2109:
+    print('Seu número é ímpar')
+if num == 2110:
+    print('Seu número é par')
+if num == 2111:
+    print('Seu número é ímpar')
+if num == 2112:
+    print('Seu número é par')
+if num == 2113:
+    print('Seu número é ímpar')
+if num == 2114:
+    print('Seu número é par')
+if num == 2115:
+    print('Seu número é ímpar')
+if num == 2116:
+    print('Seu número é par')
+if num == 2117:
+    print('Seu número é ímpar')
+if num == 2118:
+    print('Seu número é par')
+if num == 2119:
+    print('Seu número é ímpar')
+if num == 2120:
+    print('Seu número é par')
+if num == 2121:
+    print('Seu número é ímpar')
+if num == 2122:
+    print('Seu número é par')
+if num == 2123:
+    print('Seu número é ímpar')
+if num == 2124:
+    print('Seu número é par')
+if num == 2125:
+    print('Seu número é ímpar')
+if num == 2126:
+    print('Seu número é par')
+if num == 2127:
+    print('Seu número é ímpar')
+if num == 2128:
+    print('Seu número é par')
+if num == 2129:
+    print('Seu número é ímpar')
+if num == 2130:
+    print('Seu número é par')
+if num == 2131:
+    print('Seu número é ímpar')
+if num == 2132:
+    print('Seu número é par')
+if num == 2133:
+    print('Seu número é ímpar')
+if num == 2134:
+    print('Seu número é par')
+if num == 2135:
+    print('Seu número é ímpar')
+if num == 2136:
+    print('Seu número é par')
+if num == 2137:
+    print('Seu número é ímpar')
+if num == 2138:
+    print('Seu número é par')
+if num == 2139:
+    print('Seu número é ímpar')
+if num == 2140:
+    print('Seu número é par')
+if num == 2141:
+    print('Seu número é ímpar')
+if num == 2142:
+    print('Seu número é par')
+if num == 2143:
+    print('Seu número é ímpar')
+if num == 2144:
+    print('Seu número é par')
+if num == 2145:
+    print('Seu número é ímpar')
+if num == 2146:
+    print('Seu número é par')
+if num == 2147:
+    print('Seu número é ímpar')
+if num == 2148:
+    print('Seu número é par')
+if num == 2149:
+    print('Seu número é ímpar')
+if num == 2150:
+    print('Seu número é par')
+if num == 2151:
+    print('Seu número é ímpar')
+if num == 2152:
+    print('Seu número é par')
+if num == 2153:
+    print('Seu número é ímpar')
+if num == 2154:
+    print('Seu número é par')
+if num == 2155:
+    print('Seu número é ímpar')
+if num == 2156:
+    print('Seu número é par')
+if num == 2157:
+    print('Seu número é ímpar')
+if num == 2158:
+    print('Seu número é par')
+if num == 2159:
+    print('Seu número é ímpar')
+if num == 2160:
+    print('Seu número é par')
+if num == 2161:
+    print('Seu número é ímpar')
+if num == 2162:
+    print('Seu número é par')
+if num == 2163:
+    print('Seu número é ímpar')
+if num == 2164:
+    print('Seu número é par')
+if num == 2165:
+    print('Seu número é ímpar')
+if num == 2166:
+    print('Seu número é par')
+if num == 2167:
+    print('Seu número é ímpar')
+if num == 2168:
+    print('Seu número é par')
+if num == 2169:
+    print('Seu número é ímpar')
+if num == 2170:
+    print('Seu número é par')
+if num == 2171:
+    print('Seu número é ímpar')
+if num == 2172:
+    print('Seu número é par')
+if num == 2173:
+    print('Seu número é ímpar')
+if num == 2174:
+    print('Seu número é par')
+if num == 2175:
+    print('Seu número é ímpar')
+if num == 2176:
+    print('Seu número é par')
+if num == 2177:
+    print('Seu número é ímpar')
+if num == 2178:
+    print('Seu número é par')
+if num == 2179:
+    print('Seu número é ímpar')
+if num == 2180:
+    print('Seu número é par')
+if num == 2181:
+    print('Seu número é ímpar')
+if num == 2182:
+    print('Seu número é par')
+if num == 2183:
+    print('Seu número é ímpar')
+if num == 2184:
+    print('Seu número é par')
+if num == 2185:
+    print('Seu número é ímpar')
+if num == 2186:
+    print('Seu número é par')
+if num == 2187:
+    print('Seu número é ímpar')
+if num == 2188:
+    print('Seu número é par')
+if num == 2189:
+    print('Seu número é ímpar')
+if num == 2190:
+    print('Seu número é par')
+if num == 2191:
+    print('Seu número é ímpar')
+if num == 2192:
+    print('Seu número é par')
+if num == 2193:
+    print('Seu número é ímpar')
+if num == 2194:
+    print('Seu número é par')
+if num == 2195:
+    print('Seu número é ímpar')
+if num == 2196:
+    print('Seu número é par')
+if num == 2197:
+    print('Seu número é ímpar')
+if num == 2198:
+    print('Seu número é par')
+if num == 2199:
+    print('Seu número é ímpar')
+if num == 2200:
+    print('Seu número é par')
+if num == 2201:
+    print('Seu número é ímpar')
+if num == 2202:
+    print('Seu número é par')
+if num == 2203:
+    print('Seu número é ímpar')
+if num == 2204:
+    print('Seu número é par')
+if num == 2205:
+    print('Seu número é ímpar')
+if num == 2206:
+    print('Seu número é par')
+if num == 2207:
+    print('Seu número é ímpar')
+if num == 2208:
+    print('Seu número é par')
+if num == 2209:
+    print('Seu número é ímpar')
+if num == 2210:
+    print('Seu número é par')
+if num == 2211:
+    print('Seu número é ímpar')
+if num == 2212:
+    print('Seu número é par')
+if num == 2213:
+    print('Seu número é ímpar')
+if num == 2214:
+    print('Seu número é par')
+if num == 2215:
+    print('Seu número é ímpar')
+if num == 2216:
+    print('Seu número é par')
+if num == 2217:
+    print('Seu número é ímpar')
+if num == 2218:
+    print('Seu número é par')
+if num == 2219:
+    print('Seu número é ímpar')
+if num == 2220:
+    print('Seu número é par')
+if num == 2221:
+    print('Seu número é ímpar')
+if num == 2222:
+    print('Seu número é par')
+if num == 2223:
+    print('Seu número é ímpar')
+if num == 2224:
+    print('Seu número é par')
+if num == 2225:
+    print('Seu número é ímpar')
+if num == 2226:
+    print('Seu número é par')
+if num == 2227:
+    print('Seu número é ímpar')
+if num == 2228:
+    print('Seu número é par')
+if num == 2229:
+    print('Seu número é ímpar')
+if num == 2230:
+    print('Seu número é par')
+if num == 2231:
+    print('Seu número é ímpar')
+if num == 2232:
+    print('Seu número é par')
+if num == 2233:
+    print('Seu número é ímpar')
+if num == 2234:
+    print('Seu número é par')
+if num == 2235:
+    print('Seu número é ímpar')
+if num == 2236:
+    print('Seu número é par')
+if num == 2237:
+    print('Seu número é ímpar')
+if num == 2238:
+    print('Seu número é par')
+if num == 2239:
+    print('Seu número é ímpar')
+if num == 2240:
+    print('Seu número é par')
+if num == 2241:
+    print('Seu número é ímpar')
+if num == 2242:
+    print('Seu número é par')
+if num == 2243:
+    print('Seu número é ímpar')
+if num == 2244:
+    print('Seu número é par')
+if num == 2245:
+    print('Seu número é ímpar')
+if num == 2246:
+    print('Seu número é par')
+if num == 2247:
+    print('Seu número é ímpar')
+if num == 2248:
+    print('Seu número é par')
+if num == 2249:
+    print('Seu número é ímpar')
+if num == 2250:
+    print('Seu número é par')
+if num == 2251:
+    print('Seu número é ímpar')
+if num == 2252:
+    print('Seu número é par')
+if num == 2253:
+    print('Seu número é ímpar')
+if num == 2254:
+    print('Seu número é par')
+if num == 2255:
+    print('Seu número é ímpar')
+if num == 2256:
+    print('Seu número é par')
+if num == 2257:
+    print('Seu número é ímpar')
+if num == 2258:
+    print('Seu número é par')
+if num == 2259:
+    print('Seu número é ímpar')
+if num == 2260:
+    print('Seu número é par')
+if num == 2261:
+    print('Seu número é ímpar')
+if num == 2262:
+    print('Seu número é par')
+if num == 2263:
+    print('Seu número é ímpar')
+if num == 2264:
+    print('Seu número é par')
+if num == 2265:
+    print('Seu número é ímpar')
+if num == 2266:
+    print('Seu número é par')
+if num == 2267:
+    print('Seu número é ímpar')
+if num == 2268:
+    print('Seu número é par')
+if num == 2269:
+    print('Seu número é ímpar')
+if num == 2270:
+    print('Seu número é par')
+if num == 2271:
+    print('Seu número é ímpar')
+if num == 2272:
+    print('Seu número é par')
+if num == 2273:
+    print('Seu número é ímpar')
+if num == 2274:
+    print('Seu número é par')
+if num == 2275:
+    print('Seu número é ímpar')
+if num == 2276:
+    print('Seu número é par')
+if num == 2277:
+    print('Seu número é ímpar')
+if num == 2278:
+    print('Seu número é par')
+if num == 2279:
+    print('Seu número é ímpar')
+if num == 2280:
+    print('Seu número é par')
+if num == 2281:
+    print('Seu número é ímpar')
+if num == 2282:
+    print('Seu número é par')
+if num == 2283:
+    print('Seu número é ímpar')
+if num == 2284:
+    print('Seu número é par')
+if num == 2285:
+    print('Seu número é ímpar')
+if num == 2286:
+    print('Seu número é par')
+if num == 2287:
+    print('Seu número é ímpar')
+if num == 2288:
+    print('Seu número é par')
+if num == 2289:
+    print('Seu número é ímpar')
+if num == 2290:
+    print('Seu número é par')
+if num == 2291:
+    print('Seu número é ímpar')
+if num == 2292:
+    print('Seu número é par')
+if num == 2293:
+    print('Seu número é ímpar')
+if num == 2294:
+    print('Seu número é par')
+if num == 2295:
+    print('Seu número é ímpar')
+if num == 2296:
+    print('Seu número é par')
+if num == 2297:
+    print('Seu número é ímpar')
+if num == 2298:
+    print('Seu número é par')
+if num == 2299:
+    print('Seu número é ímpar')
+if num == 2300:
+    print('Seu número é par')
+if num == 2301:
+    print('Seu número é ímpar')
+if num == 2302:
+    print('Seu número é par')
+if num == 2303:
+    print('Seu número é ímpar')
+if num == 2304:
+    print('Seu número é par')
+if num == 2305:
+    print('Seu número é ímpar')
+if num == 2306:
+    print('Seu número é par')
+if num == 2307:
+    print('Seu número é ímpar')
+if num == 2308:
+    print('Seu número é par')
+if num == 2309:
+    print('Seu número é ímpar')
+if num == 2310:
+    print('Seu número é par')
+if num == 2311:
+    print('Seu número é ímpar')
+if num == 2312:
+    print('Seu número é par')
+if num == 2313:
+    print('Seu número é ímpar')
+if num == 2314:
+    print('Seu número é par')
+if num == 2315:
+    print('Seu número é ímpar')
+if num == 2316:
+    print('Seu número é par')
+if num == 2317:
+    print('Seu número é ímpar')
+if num == 2318:
+    print('Seu número é par')
+if num == 2319:
+    print('Seu número é ímpar')
+if num == 2320:
+    print('Seu número é par')
+if num == 2321:
+    print('Seu número é ímpar')
+if num == 2322:
+    print('Seu número é par')
+if num == 2323:
+    print('Seu número é ímpar')
+if num == 2324:
+    print('Seu número é par')
+if num == 2325:
+    print('Seu número é ímpar')
+if num == 2326:
+    print('Seu número é par')
+if num == 2327:
+    print('Seu número é ímpar')
+if num == 2328:
+    print('Seu número é par')
+if num == 2329:
+    print('Seu número é ímpar')
+if num == 2330:
+    print('Seu número é par')
+if num == 2331:
+    print('Seu número é ímpar')
+if num == 2332:
+    print('Seu número é par')
+if num == 2333:
+    print('Seu número é ímpar')
+if num == 2334:
+    print('Seu número é par')
+if num == 2335:
+    print('Seu número é ímpar')
+if num == 2336:
+    print('Seu número é par')
+if num == 2337:
+    print('Seu número é ímpar')
+if num == 2338:
+    print('Seu número é par')
+if num == 2339:
+    print('Seu número é ímpar')
+if num == 2340:
+    print('Seu número é par')
+if num == 2341:
+    print('Seu número é ímpar')
+if num == 2342:
+    print('Seu número é par')
+if num == 2343:
+    print('Seu número é ímpar')
+if num == 2344:
+    print('Seu número é par')
+if num == 2345:
+    print('Seu número é ímpar')
+if num == 2346:
+    print('Seu número é par')
+if num == 2347:
+    print('Seu número é ímpar')
+if num == 2348:
+    print('Seu número é par')
+if num == 2349:
+    print('Seu número é ímpar')
+if num == 2350:
+    print('Seu número é par')
+if num == 2351:
+    print('Seu número é ímpar')
+if num == 2352:
+    print('Seu número é par')
+if num == 2353:
+    print('Seu número é ímpar')
+if num == 2354:
+    print('Seu número é par')
+if num == 2355:
+    print('Seu número é ímpar')
+if num == 2356:
+    print('Seu número é par')
+if num == 2357:
+    print('Seu número é ímpar')
+if num == 2358:
+    print('Seu número é par')
+if num == 2359:
+    print('Seu número é ímpar')
+if num == 2360:
+    print('Seu número é par')
+if num == 2361:
+    print('Seu número é ímpar')
+if num == 2362:
+    print('Seu número é par')
+if num == 2363:
+    print('Seu número é ímpar')
+if num == 2364:
+    print('Seu número é par')
+if num == 2365:
+    print('Seu número é ímpar')
+if num == 2366:
+    print('Seu número é par')
+if num == 2367:
+    print('Seu número é ímpar')
+if num == 2368:
+    print('Seu número é par')
+if num == 2369:
+    print('Seu número é ímpar')
+if num == 2370:
+    print('Seu número é par')
+if num == 2371:
+    print('Seu número é ímpar')
+if num == 2372:
+    print('Seu número é par')
+if num == 2373:
+    print('Seu número é ímpar')
+if num == 2374:
+    print('Seu número é par')
+if num == 2375:
+    print('Seu número é ímpar')
+if num == 2376:
+    print('Seu número é par')
+if num == 2377:
+    print('Seu número é ímpar')
+if num == 2378:
+    print('Seu número é par')
+if num == 2379:
+    print('Seu número é ímpar')
+if num == 2380:
+    print('Seu número é par')
+if num == 2381:
+    print('Seu número é ímpar')
+if num == 2382:
+    print('Seu número é par')
+if num == 2383:
+    print('Seu número é ímpar')
+if num == 2384:
+    print('Seu número é par')
+if num == 2385:
+    print('Seu número é ímpar')
+if num == 2386:
+    print('Seu número é par')
+if num == 2387:
+    print('Seu número é ímpar')
+if num == 2388:
+    print('Seu número é par')
+if num == 2389:
+    print('Seu número é ímpar')
+if num == 2390:
+    print('Seu número é par')
+if num == 2391:
+    print('Seu número é ímpar')
+if num == 2392:
+    print('Seu número é par')
+if num == 2393:
+    print('Seu número é ímpar')
+if num == 2394:
+    print('Seu número é par')
+if num == 2395:
+    print('Seu número é ímpar')
+if num == 2396:
+    print('Seu número é par')
+if num == 2397:
+    print('Seu número é ímpar')
+if num == 2398:
+    print('Seu número é par')
+if num == 2399:
+    print('Seu número é ímpar')
+if num == 2400:
+    print('Seu número é par')
+if num == 2401:
+    print('Seu número é ímpar')
+if num == 2402:
+    print('Seu número é par')
+if num == 2403:
+    print('Seu número é ímpar')
+if num == 2404:
+    print('Seu número é par')
+if num == 2405:
+    print('Seu número é ímpar')
+if num == 2406:
+    print('Seu número é par')
+if num == 2407:
+    print('Seu número é ímpar')
+if num == 2408:
+    print('Seu número é par')
+if num == 2409:
+    print('Seu número é ímpar')
+if num == 2410:
+    print('Seu número é par')
+if num == 2411:
+    print('Seu número é ímpar')
+if num == 2412:
+    print('Seu número é par')
+if num == 2413:
+    print('Seu número é ímpar')
+if num == 2414:
+    print('Seu número é par')
+if num == 2415:
+    print('Seu número é ímpar')
+if num == 2416:
+    print('Seu número é par')
+if num == 2417:
+    print('Seu número é ímpar')
+if num == 2418:
+    print('Seu número é par')
+if num == 2419:
+    print('Seu número é ímpar')
+if num == 2420:
+    print('Seu número é par')
+if num == 2421:
+    print('Seu número é ímpar')
+if num == 2422:
+    print('Seu número é par')
+if num == 2423:
+    print('Seu número é ímpar')
+if num == 2424:
+    print('Seu número é par')
+if num == 2425:
+    print('Seu número é ímpar')
+if num == 2426:
+    print('Seu número é par')
+if num == 2427:
+    print('Seu número é ímpar')
+if num == 2428:
+    print('Seu número é par')
+if num == 2429:
+    print('Seu número é ímpar')
+if num == 2430:
+    print('Seu número é par')
+if num == 2431:
+    print('Seu número é ímpar')
+if num == 2432:
+    print('Seu número é par')
+if num == 2433:
+    print('Seu número é ímpar')
+if num == 2434:
+    print('Seu número é par')
+if num == 2435:
+    print('Seu número é ímpar')
+if num == 2436:
+    print('Seu número é par')
+if num == 2437:
+    print('Seu número é ímpar')
+if num == 2438:
+    print('Seu número é par')
+if num == 2439:
+    print('Seu número é ímpar')
+if num == 2440:
+    print('Seu número é par')
+if num == 2441:
+    print('Seu número é ímpar')
+if num == 2442:
+    print('Seu número é par')
+if num == 2443:
+    print('Seu número é ímpar')
+if num == 2444:
+    print('Seu número é par')
+if num == 2445:
+    print('Seu número é ímpar')
+if num == 2446:
+    print('Seu número é par')
+if num == 2447:
+    print('Seu número é ímpar')
+if num == 2448:
+    print('Seu número é par')
+if num == 2449:
+    print('Seu número é ímpar')
+if num == 2450:
+    print('Seu número é par')
+if num == 2451:
+    print('Seu número é ímpar')
+if num == 2452:
+    print('Seu número é par')
+if num == 2453:
+    print('Seu número é ímpar')
+if num == 2454:
+    print('Seu número é par')
+if num == 2455:
+    print('Seu número é ímpar')
+if num == 2456:
+    print('Seu número é par')
+if num == 2457:
+    print('Seu número é ímpar')
+if num == 2458:
+    print('Seu número é par')
+if num == 2459:
+    print('Seu número é ímpar')
+if num == 2460:
+    print('Seu número é par')
+if num == 2461:
+    print('Seu número é ímpar')
+if num == 2462:
+    print('Seu número é par')
+if num == 2463:
+    print('Seu número é ímpar')
+if num == 2464:
+    print('Seu número é par')
+if num == 2465:
+    print('Seu número é ímpar')
+if num == 2466:
+    print('Seu número é par')
+if num == 2467:
+    print('Seu número é ímpar')
+if num == 2468:
+    print('Seu número é par')
+if num == 2469:
+    print('Seu número é ímpar')
+if num == 2470:
+    print('Seu número é par')
+if num == 2471:
+    print('Seu número é ímpar')
+if num == 2472:
+    print('Seu número é par')
+if num == 2473:
+    print('Seu número é ímpar')
+if num == 2474:
+    print('Seu número é par')
+if num == 2475:
+    print('Seu número é ímpar')
+if num == 2476:
+    print('Seu número é par')
+if num == 2477:
+    print('Seu número é ímpar')
+if num == 2478:
+    print('Seu número é par')
+if num == 2479:
+    print('Seu número é ímpar')
+if num == 2480:
+    print('Seu número é par')
+if num == 2481:
+    print('Seu número é ímpar')
+if num == 2482:
+    print('Seu número é par')
+if num == 2483:
+    print('Seu número é ímpar')
+if num == 2484:
+    print('Seu número é par')
+if num == 2485:
+    print('Seu número é ímpar')
+if num == 2486:
+    print('Seu número é par')
+if num == 2487:
+    print('Seu número é ímpar')
+if num == 2488:
+    print('Seu número é par')
+if num == 2489:
+    print('Seu número é ímpar')
+if num == 2490:
+    print('Seu número é par')
+if num == 2491:
+    print('Seu número é ímpar')
+if num == 2492:
+    print('Seu número é par')
+if num == 2493:
+    print('Seu número é ímpar')
+if num == 2494:
+    print('Seu número é par')
+if num == 2495:
+    print('Seu número é ímpar')
+if num == 2496:
+    print('Seu número é par')
+if num == 2497:
+    print('Seu número é ímpar')
+if num == 2498:
+    print('Seu número é par')
+if num == 2499:
+    print('Seu número é ímpar')
+if num == 2500:
+    print('Seu número é par')
+if num == 2501:
+    print('Seu número é ímpar')
+if num == 2502:
+    print('Seu número é par')
+if num == 2503:
+    print('Seu número é ímpar')
+if num == 2504:
+    print('Seu número é par')
+if num == 2505:
+    print('Seu número é ímpar')
+if num == 2506:
+    print('Seu número é par')
+if num == 2507:
+    print('Seu número é ímpar')
+if num == 2508:
+    print('Seu número é par')
+if num == 2509:
+    print('Seu número é ímpar')
+if num == 2510:
+    print('Seu número é par')
+if num == 2511:
+    print('Seu número é ímpar')
+if num == 2512:
+    print('Seu número é par')
+if num == 2513:
+    print('Seu número é ímpar')
+if num == 2514:
+    print('Seu número é par')
+if num == 2515:
+    print('Seu número é ímpar')
+if num == 2516:
+    print('Seu número é par')
+if num == 2517:
+    print('Seu número é ímpar')
+if num == 2518:
+    print('Seu número é par')
+if num == 2519:
+    print('Seu número é ímpar')
+if num == 2520:
+    print('Seu número é par')
+if num == 2521:
+    print('Seu número é ímpar')
+if num == 2522:
+    print('Seu número é par')
+if num == 2523:
+    print('Seu número é ímpar')
+if num == 2524:
+    print('Seu número é par')
+if num == 2525:
+    print('Seu número é ímpar')
+if num == 2526:
+    print('Seu número é par')
+if num == 2527:
+    print('Seu número é ímpar')
+if num == 2528:
+    print('Seu número é par')
+if num == 2529:
+    print('Seu número é ímpar')
+if num == 2530:
+    print('Seu número é par')
+if num == 2531:
+    print('Seu número é ímpar')
+if num == 2532:
+    print('Seu número é par')
+if num == 2533:
+    print('Seu número é ímpar')
+if num == 2534:
+    print('Seu número é par')
+if num == 2535:
+    print('Seu número é ímpar')
+if num == 2536:
+    print('Seu número é par')
+if num == 2537:
+    print('Seu número é ímpar')
+if num == 2538:
+    print('Seu número é par')
+if num == 2539:
+    print('Seu número é ímpar')
+if num == 2540:
+    print('Seu número é par')
+if num == 2541:
+    print('Seu número é ímpar')
+if num == 2542:
+    print('Seu número é par')
+if num == 2543:
+    print('Seu número é ímpar')
+if num == 2544:
+    print('Seu número é par')
+if num == 2545:
+    print('Seu número é ímpar')
+if num == 2546:
+    print('Seu número é par')
+if num == 2547:
+    print('Seu número é ímpar')
+if num == 2548:
+    print('Seu número é par')
+if num == 2549:
+    print('Seu número é ímpar')
+if num == 2550:
+    print('Seu número é par')
+if num == 2551:
+    print('Seu número é ímpar')
+if num == 2552:
+    print('Seu número é par')
+if num == 2553:
+    print('Seu número é ímpar')
+if num == 2554:
+    print('Seu número é par')
+if num == 2555:
+    print('Seu número é ímpar')
+if num == 2556:
+    print('Seu número é par')
+if num == 2557:
+    print('Seu número é ímpar')
+if num == 2558:
+    print('Seu número é par')
+if num == 2559:
+    print('Seu número é ímpar')
+if num == 2560:
+    print('Seu número é par')
+if num == 2561:
+    print('Seu número é ímpar')
+if num == 2562:
+    print('Seu número é par')
+if num == 2563:
+    print('Seu número é ímpar')
+if num == 2564:
+    print('Seu número é par')
+if num == 2565:
+    print('Seu número é ímpar')
+if num == 2566:
+    print('Seu número é par')
+if num == 2567:
+    print('Seu número é ímpar')
+if num == 2568:
+    print('Seu número é par')
+if num == 2569:
+    print('Seu número é ímpar')
+if num == 2570:
+    print('Seu número é par')
+if num == 2571:
+    print('Seu número é ímpar')
+if num == 2572:
+    print('Seu número é par')
+if num == 2573:
+    print('Seu número é ímpar')
+if num == 2574:
+    print('Seu número é par')
+if num == 2575:
+    print('Seu número é ímpar')
+if num == 2576:
+    print('Seu número é par')
+if num == 2577:
+    print('Seu número é ímpar')
+if num == 2578:
+    print('Seu número é par')
+if num == 2579:
+    print('Seu número é ímpar')
+if num == 2580:
+    print('Seu número é par')
+if num == 2581:
+    print('Seu número é ímpar')
+if num == 2582:
+    print('Seu número é par')
+if num == 2583:
+    print('Seu número é ímpar')
+if num == 2584:
+    print('Seu número é par')
+if num == 2585:
+    print('Seu número é ímpar')
+if num == 2586:
+    print('Seu número é par')
+if num == 2587:
+    print('Seu número é ímpar')
+if num == 2588:
+    print('Seu número é par')
+if num == 2589:
+    print('Seu número é ímpar')
+if num == 2590:
+    print('Seu número é par')
+if num == 2591:
+    print('Seu número é ímpar')
+if num == 2592:
+    print('Seu número é par')
+if num == 2593:
+    print('Seu número é ímpar')
+if num == 2594:
+    print('Seu número é par')
+if num == 2595:
+    print('Seu número é ímpar')
+if num == 2596:
+    print('Seu número é par')
+if num == 2597:
+    print('Seu número é ímpar')
+if num == 2598:
+    print('Seu número é par')
+if num == 2599:
+    print('Seu número é ímpar')
+if num == 2600:
+    print('Seu número é par')
+if num == 2601:
+    print('Seu número é ímpar')
+if num == 2602:
+    print('Seu número é par')
+if num == 2603:
+    print('Seu número é ímpar')
+if num == 2604:
+    print('Seu número é par')
+if num == 2605:
+    print('Seu número é ímpar')
+if num == 2606:
+    print('Seu número é par')
+if num == 2607:
+    print('Seu número é ímpar')
+if num == 2608:
+    print('Seu número é par')
+if num == 2609:
+    print('Seu número é ímpar')
+if num == 2610:
+    print('Seu número é par')
+if num == 2611:
+    print('Seu número é ímpar')
+if num == 2612:
+    print('Seu número é par')
+if num == 2613:
+    print('Seu número é ímpar')
+if num == 2614:
+    print('Seu número é par')
+if num == 2615:
+    print('Seu número é ímpar')
+if num == 2616:
+    print('Seu número é par')
+if num == 2617:
+    print('Seu número é ímpar')
+if num == 2618:
+    print('Seu número é par')
+if num == 2619:
+    print('Seu número é ímpar')
+if num == 2620:
+    print('Seu número é par')
+if num == 2621:
+    print('Seu número é ímpar')
+if num == 2622:
+    print('Seu número é par')
+if num == 2623:
+    print('Seu número é ímpar')
+if num == 2624:
+    print('Seu número é par')
+if num == 2625:
+    print('Seu número é ímpar')
+if num == 2626:
+    print('Seu número é par')
+if num == 2627:
+    print('Seu número é ímpar')
+if num == 2628:
+    print('Seu número é par')
+if num == 2629:
+    print('Seu número é ímpar')
+if num == 2630:
+    print('Seu número é par')
+if num == 2631:
+    print('Seu número é ímpar')
+if num == 2632:
+    print('Seu número é par')
+if num == 2633:
+    print('Seu número é ímpar')
+if num == 2634:
+    print('Seu número é par')
+if num == 2635:
+    print('Seu número é ímpar')
+if num == 2636:
+    print('Seu número é par')
+if num == 2637:
+    print('Seu número é ímpar')
+if num == 2638:
+    print('Seu número é par')
+if num == 2639:
+    print('Seu número é ímpar')
+if num == 2640:
+    print('Seu número é par')
+if num == 2641:
+    print('Seu número é ímpar')
+if num == 2642:
+    print('Seu número é par')
+if num == 2643:
+    print('Seu número é ímpar')
+if num == 2644:
+    print('Seu número é par')
+if num == 2645:
+    print('Seu número é ímpar')
+if num == 2646:
+    print('Seu número é par')
+if num == 2647:
+    print('Seu número é ímpar')
+if num == 2648:
+    print('Seu número é par')
+if num == 2649:
+    print('Seu número é ímpar')
+if num == 2650:
+    print('Seu número é par')
+if num == 2651:
+    print('Seu número é ímpar')
+if num == 2652:
+    print('Seu número é par')
+if num == 2653:
+    print('Seu número é ímpar')
+if num == 2654:
+    print('Seu número é par')
+if num == 2655:
+    print('Seu número é ímpar')
+if num == 2656:
+    print('Seu número é par')
+if num == 2657:
+    print('Seu número é ímpar')
+if num == 2658:
+    print('Seu número é par')
+if num == 2659:
+    print('Seu número é ímpar')
+if num == 2660:
+    print('Seu número é par')
+if num == 2661:
+    print('Seu número é ímpar')
+if num == 2662:
+    print('Seu número é par')
+if num == 2663:
+    print('Seu número é ímpar')
+if num == 2664:
+    print('Seu número é par')
+if num == 2665:
+    print('Seu número é ímpar')
+if num == 2666:
+    print('Seu número é par')
+if num == 2667:
+    print('Seu número é ímpar')
+if num == 2668:
+    print('Seu número é par')
+if num == 2669:
+    print('Seu número é ímpar')
+if num == 2670:
+    print('Seu número é par')
+if num == 2671:
+    print('Seu número é ímpar')
+if num == 2672:
+    print('Seu número é par')
+if num == 2673:
+    print('Seu número é ímpar')
+if num == 2674:
+    print('Seu número é par')
+if num == 2675:
+    print('Seu número é ímpar')
+if num == 2676:
+    print('Seu número é par')
+if num == 2677:
+    print('Seu número é ímpar')
+if num == 2678:
+    print('Seu número é par')
+if num == 2679:
+    print('Seu número é ímpar')
+if num == 2680:
+    print('Seu número é par')
+if num == 2681:
+    print('Seu número é ímpar')
+if num == 2682:
+    print('Seu número é par')
+if num == 2683:
+    print('Seu número é ímpar')
+if num == 2684:
+    print('Seu número é par')
+if num == 2685:
+    print('Seu número é ímpar')
+if num == 2686:
+    print('Seu número é par')
+if num == 2687:
+    print('Seu número é ímpar')
+if num == 2688:
+    print('Seu número é par')
+if num == 2689:
+    print('Seu número é ímpar')
+if num == 2690:
+    print('Seu número é par')
+if num == 2691:
+    print('Seu número é ímpar')
+if num == 2692:
+    print('Seu número é par')
+if num == 2693:
+    print('Seu número é ímpar')
+if num == 2694:
+    print('Seu número é par')
+if num == 2695:
+    print('Seu número é ímpar')
+if num == 2696:
+    print('Seu número é par')
+if num == 2697:
+    print('Seu número é ímpar')
+if num == 2698:
+    print('Seu número é par')
+if num == 2699:
+    print('Seu número é ímpar')
+if num == 2700:
+    print('Seu número é par')
+if num == 2701:
+    print('Seu número é ímpar')
+if num == 2702:
+    print('Seu número é par')
+if num == 2703:
+    print('Seu número é ímpar')
+if num == 2704:
+    print('Seu número é par')
+if num == 2705:
+    print('Seu número é ímpar')
+if num == 2706:
+    print('Seu número é par')
+if num == 2707:
+    print('Seu número é ímpar')
+if num == 2708:
+    print('Seu número é par')
+if num == 2709:
+    print('Seu número é ímpar')
+if num == 2710:
+    print('Seu número é par')
+if num == 2711:
+    print('Seu número é ímpar')
+if num == 2712:
+    print('Seu número é par')
+if num == 2713:
+    print('Seu número é ímpar')
+if num == 2714:
+    print('Seu número é par')
+if num == 2715:
+    print('Seu número é ímpar')
+if num == 2716:
+    print('Seu número é par')
+if num == 2717:
+    print('Seu número é ímpar')
+if num == 2718:
+    print('Seu número é par')
+if num == 2719:
+    print('Seu número é ímpar')
+if num == 2720:
+    print('Seu número é par')
+if num == 2721:
+    print('Seu número é ímpar')
+if num == 2722:
+    print('Seu número é par')
+if num == 2723:
+    print('Seu número é ímpar')
+if num == 2724:
+    print('Seu número é par')
+if num == 2725:
+    print('Seu número é ímpar')
+if num == 2726:
+    print('Seu número é par')
+if num == 2727:
+    print('Seu número é ímpar')
+if num == 2728:
+    print('Seu número é par')
+if num == 2729:
+    print('Seu número é ímpar')
+if num == 2730:
+    print('Seu número é par')
+if num == 2731:
+    print('Seu número é ímpar')
+if num == 2732:
+    print('Seu número é par')
+if num == 2733:
+    print('Seu número é ímpar')
+if num == 2734:
+    print('Seu número é par')
+if num == 2735:
+    print('Seu número é ímpar')
+if num == 2736:
+    print('Seu número é par')
+if num == 2737:
+    print('Seu número é ímpar')
+if num == 2738:
+    print('Seu número é par')
+if num == 2739:
+    print('Seu número é ímpar')
+if num == 2740:
+    print('Seu número é par')
+if num == 2741:
+    print('Seu número é ímpar')
+if num == 2742:
+    print('Seu número é par')
+if num == 2743:
+    print('Seu número é ímpar')
+if num == 2744:
+    print('Seu número é par')
+if num == 2745:
+    print('Seu número é ímpar')
+if num == 2746:
+    print('Seu número é par')
+if num == 2747:
+    print('Seu número é ímpar')
+if num == 2748:
+    print('Seu número é par')
+if num == 2749:
+    print('Seu número é ímpar')
+if num == 2750:
+    print('Seu número é par')
+if num == 2751:
+    print('Seu número é ímpar')
+if num == 2752:
+    print('Seu número é par')
+if num == 2753:
+    print('Seu número é ímpar')
+if num == 2754:
+    print('Seu número é par')
+if num == 2755:
+    print('Seu número é ímpar')
+if num == 2756:
+    print('Seu número é par')
+if num == 2757:
+    print('Seu número é ímpar')
+if num == 2758:
+    print('Seu número é par')
+if num == 2759:
+    print('Seu número é ímpar')
+if num == 2760:
+    print('Seu número é par')
+if num == 2761:
+    print('Seu número é ímpar')
+if num == 2762:
+    print('Seu número é par')
+if num == 2763:
+    print('Seu número é ímpar')
+if num == 2764:
+    print('Seu número é par')
+if num == 2765:
+    print('Seu número é ímpar')
+if num == 2766:
+    print('Seu número é par')
+if num == 2767:
+    print('Seu número é ímpar')
+if num == 2768:
+    print('Seu número é par')
+if num == 2769:
+    print('Seu número é ímpar')
+if num == 2770:
+    print('Seu número é par')
+if num == 2771:
+    print('Seu número é ímpar')
+if num == 2772:
+    print('Seu número é par')
+if num == 2773:
+    print('Seu número é ímpar')
+if num == 2774:
+    print('Seu número é par')
+if num == 2775:
+    print('Seu número é ímpar')
+if num == 2776:
+    print('Seu número é par')
+if num == 2777:
+    print('Seu número é ímpar')
+if num == 2778:
+    print('Seu número é par')
+if num == 2779:
+    print('Seu número é ímpar')
+if num == 2780:
+    print('Seu número é par')
+if num == 2781:
+    print('Seu número é ímpar')
+if num == 2782:
+    print('Seu número é par')
+if num == 2783:
+    print('Seu número é ímpar')
+if num == 2784:
+    print('Seu número é par')
+if num == 2785:
+    print('Seu número é ímpar')
+if num == 2786:
+    print('Seu número é par')
+if num == 2787:
+    print('Seu número é ímpar')
+if num == 2788:
+    print('Seu número é par')
+if num == 2789:
+    print('Seu número é ímpar')
+if num == 2790:
+    print('Seu número é par')
+if num == 2791:
+    print('Seu número é ímpar')
+if num == 2792:
+    print('Seu número é par')
+if num == 2793:
+    print('Seu número é ímpar')
+if num == 2794:
+    print('Seu número é par')
+if num == 2795:
+    print('Seu número é ímpar')
+if num == 2796:
+    print('Seu número é par')
+if num == 2797:
+    print('Seu número é ímpar')
+if num == 2798:
+    print('Seu número é par')
+if num == 2799:
+    print('Seu número é ímpar')
+if num == 2800:
+    print('Seu número é par')
+if num == 2801:
+    print('Seu número é ímpar')
+if num == 2802:
+    print('Seu número é par')
+if num == 2803:
+    print('Seu número é ímpar')
+if num == 2804:
+    print('Seu número é par')
+if num == 2805:
+    print('Seu número é ímpar')
+if num == 2806:
+    print('Seu número é par')
+if num == 2807:
+    print('Seu número é ímpar')
+if num == 2808:
+    print('Seu número é par')
+if num == 2809:
+    print('Seu número é ímpar')
+if num == 2810:
+    print('Seu número é par')
+if num == 2811:
+    print('Seu número é ímpar')
+if num == 2812:
+    print('Seu número é par')
+if num == 2813:
+    print('Seu número é ímpar')
+if num == 2814:
+    print('Seu número é par')
+if num == 2815:
+    print('Seu número é ímpar')
+if num == 2816:
+    print('Seu número é par')
+if num == 2817:
+    print('Seu número é ímpar')
+if num == 2818:
+    print('Seu número é par')
+if num == 2819:
+    print('Seu número é ímpar')
+if num == 2820:
+    print('Seu número é par')
+if num == 2821:
+    print('Seu número é ímpar')
+if num == 2822:
+    print('Seu número é par')
+if num == 2823:
+    print('Seu número é ímpar')
+if num == 2824:
+    print('Seu número é par')
+if num == 2825:
+    print('Seu número é ímpar')
+if num == 2826:
+    print('Seu número é par')
+if num == 2827:
+    print('Seu número é ímpar')
+if num == 2828:
+    print('Seu número é par')
+if num == 2829:
+    print('Seu número é ímpar')
+if num == 2830:
+    print('Seu número é par')
+if num == 2831:
+    print('Seu número é ímpar')
+if num == 2832:
+    print('Seu número é par')
+if num == 2833:
+    print('Seu número é ímpar')
+if num == 2834:
+    print('Seu número é par')
+if num == 2835:
+    print('Seu número é ímpar')
+if num == 2836:
+    print('Seu número é par')
+if num == 2837:
+    print('Seu número é ímpar')
+if num == 2838:
+    print('Seu número é par')
+if num == 2839:
+    print('Seu número é ímpar')
+if num == 2840:
+    print('Seu número é par')
+if num == 2841:
+    print('Seu número é ímpar')
+if num == 2842:
+    print('Seu número é par')
+if num == 2843:
+    print('Seu número é ímpar')
+if num == 2844:
+    print('Seu número é par')
+if num == 2845:
+    print('Seu número é ímpar')
+if num == 2846:
+    print('Seu número é par')
+if num == 2847:
+    print('Seu número é ímpar')
+if num == 2848:
+    print('Seu número é par')
+if num == 2849:
+    print('Seu número é ímpar')
+if num == 2850:
+    print('Seu número é par')
+if num == 2851:
+    print('Seu número é ímpar')
+if num == 2852:
+    print('Seu número é par')
+if num == 2853:
+    print('Seu número é ímpar')
+if num == 2854:
+    print('Seu número é par')
+if num == 2855:
+    print('Seu número é ímpar')
+if num == 2856:
+    print('Seu número é par')
+if num == 2857:
+    print('Seu número é ímpar')
+if num == 2858:
+    print('Seu número é par')
+if num == 2859:
+    print('Seu número é ímpar')
+if num == 2860:
+    print('Seu número é par')
+if num == 2861:
+    print('Seu número é ímpar')
+if num == 2862:
+    print('Seu número é par')
+if num == 2863:
+    print('Seu número é ímpar')
+if num == 2864:
+    print('Seu número é par')
+if num == 2865:
+    print('Seu número é ímpar')
+if num == 2866:
+    print('Seu número é par')
+if num == 2867:
+    print('Seu número é ímpar')
+if num == 2868:
+    print('Seu número é par')
+if num == 2869:
+    print('Seu número é ímpar')
+if num == 2870:
+    print('Seu número é par')
+if num == 2871:
+    print('Seu número é ímpar')
+if num == 2872:
+    print('Seu número é par')
+if num == 2873:
+    print('Seu número é ímpar')
+if num == 2874:
+    print('Seu número é par')
+if num == 2875:
+    print('Seu número é ímpar')
+if num == 2876:
+    print('Seu número é par')
+if num == 2877:
+    print('Seu número é ímpar')
+if num == 2878:
+    print('Seu número é par')
+if num == 2879:
+    print('Seu número é ímpar')
+if num == 2880:
+    print('Seu número é par')
+if num == 2881:
+    print('Seu número é ímpar')
+if num == 2882:
+    print('Seu número é par')
+if num == 2883:
+    print('Seu número é ímpar')
+if num == 2884:
+    print('Seu número é par')
+if num == 2885:
+    print('Seu número é ímpar')
+if num == 2886:
+    print('Seu número é par')
+if num == 2887:
+    print('Seu número é ímpar')
+if num == 2888:
+    print('Seu número é par')
+if num == 2889:
+    print('Seu número é ímpar')
+if num == 2890:
+    print('Seu número é par')
+if num == 2891:
+    print('Seu número é ímpar')
+if num == 2892:
+    print('Seu número é par')
+if num == 2893:
+    print('Seu número é ímpar')
+if num == 2894:
+    print('Seu número é par')
+if num == 2895:
+    print('Seu número é ímpar')
+if num == 2896:
+    print('Seu número é par')
+if num == 2897:
+    print('Seu número é ímpar')
+if num == 2898:
+    print('Seu número é par')
+if num == 2899:
+    print('Seu número é ímpar')
+if num == 2900:
+    print('Seu número é par')
+if num == 2901:
+    print('Seu número é ímpar')
+if num == 2902:
+    print('Seu número é par')
+if num == 2903:
+    print('Seu número é ímpar')
+if num == 2904:
+    print('Seu número é par')
+if num == 2905:
+    print('Seu número é ímpar')
+if num == 2906:
+    print('Seu número é par')
+if num == 2907:
+    print('Seu número é ímpar')
+if num == 2908:
+    print('Seu número é par')
+if num == 2909:
+    print('Seu número é ímpar')
+if num == 2910:
+    print('Seu número é par')
+if num == 2911:
+    print('Seu número é ímpar')
+if num == 2912:
+    print('Seu número é par')
+if num == 2913:
+    print('Seu número é ímpar')
+if num == 2914:
+    print('Seu número é par')
+if num == 2915:
+    print('Seu número é ímpar')
+if num == 2916:
+    print('Seu número é par')
+if num == 2917:
+    print('Seu número é ímpar')
+if num == 2918:
+    print('Seu número é par')
+if num == 2919:
+    print('Seu número é ímpar')
+if num == 2920:
+    print('Seu número é par')
+if num == 2921:
+    print('Seu número é ímpar')
+if num == 2922:
+    print('Seu número é par')
+if num == 2923:
+    print('Seu número é ímpar')
+if num == 2924:
+    print('Seu número é par')
+if num == 2925:
+    print('Seu número é ímpar')
+if num == 2926:
+    print('Seu número é par')
+if num == 2927:
+    print('Seu número é ímpar')
+if num == 2928:
+    print('Seu número é par')
+if num == 2929:
+    print('Seu número é ímpar')
+if num == 2930:
+    print('Seu número é par')
+if num == 2931:
+    print('Seu número é ímpar')
+if num == 2932:
+    print('Seu número é par')
+if num == 2933:
+    print('Seu número é ímpar')
+if num == 2934:
+    print('Seu número é par')
+if num == 2935:
+    print('Seu número é ímpar')
+if num == 2936:
+    print('Seu número é par')
+if num == 2937:
+    print('Seu número é ímpar')
+if num == 2938:
+    print('Seu número é par')
+if num == 2939:
+    print('Seu número é ímpar')
+if num == 2940:
+    print('Seu número é par')
+if num == 2941:
+    print('Seu número é ímpar')
+if num == 2942:
+    print('Seu número é par')
+if num == 2943:
+    print('Seu número é ímpar')
+if num == 2944:
+    print('Seu número é par')
+if num == 2945:
+    print('Seu número é ímpar')
+if num == 2946:
+    print('Seu número é par')
+if num == 2947:
+    print('Seu número é ímpar')
+if num == 2948:
+    print('Seu número é par')
+if num == 2949:
+    print('Seu número é ímpar')
+if num == 2950:
+    print('Seu número é par')
+if num == 2951:
+    print('Seu número é ímpar')
+if num == 2952:
+    print('Seu número é par')
+if num == 2953:
+    print('Seu número é ímpar')
+if num == 2954:
+    print('Seu número é par')
+if num == 2955:
+    print('Seu número é ímpar')
+if num == 2956:
+    print('Seu número é par')
+if num == 2957:
+    print('Seu número é ímpar')
+if num == 2958:
+    print('Seu número é par')
+if num == 2959:
+    print('Seu número é ímpar')
+if num == 2960:
+    print('Seu número é par')
+if num == 2961:
+    print('Seu número é ímpar')
+if num == 2962:
+    print('Seu número é par')
+if num == 2963:
+    print('Seu número é ímpar')
+if num == 2964:
+    print('Seu número é par')
+if num == 2965:
+    print('Seu número é ímpar')
+if num == 2966:
+    print('Seu número é par')
+if num == 2967:
+    print('Seu número é ímpar')
+if num == 2968:
+    print('Seu número é par')
+if num == 2969:
+    print('Seu número é ímpar')
+if num == 2970:
+    print('Seu número é par')
+if num == 2971:
+    print('Seu número é ímpar')
+if num == 2972:
+    print('Seu número é par')
+if num == 2973:
+    print('Seu número é ímpar')
+if num == 2974:
+    print('Seu número é par')
+if num == 2975:
+    print('Seu número é ímpar')
+if num == 2976:
+    print('Seu número é par')
+if num == 2977:
+    print('Seu número é ímpar')
+if num == 2978:
+    print('Seu número é par')
+if num == 2979:
+    print('Seu número é ímpar')
+if num == 2980:
+    print('Seu número é par')
+if num == 2981:
+    print('Seu número é ímpar')
+if num == 2982:
+    print('Seu número é par')
+if num == 2983:
+    print('Seu número é ímpar')
+if num == 2984:
+    print('Seu número é par')
+if num == 2985:
+    print('Seu número é ímpar')
+if num == 2986:
+    print('Seu número é par')
+if num == 2987:
+    print('Seu número é ímpar')
+if num == 2988:
+    print('Seu número é par')
+if num == 2989:
+    print('Seu número é ímpar')
+if num == 2990:
+    print('Seu número é par')
+if num == 2991:
+    print('Seu número é ímpar')
+if num == 2992:
+    print('Seu número é par')
+if num == 2993:
+    print('Seu número é ímpar')
+if num == 2994:
+    print('Seu número é par')
+if num == 2995:
+    print('Seu número é ímpar')
+if num == 2996:
+    print('Seu número é par')
+if num == 2997:
+    print('Seu número é ímpar')
+if num == 2998:
+    print('Seu número é par')
+if num == 2999:
+    print('Seu número é ímpar')
+if num == 3000:
+    print('Seu número é par')
+if num == 3001:
+    print('Seu número é ímpar')
+if num == 3002:
+    print('Seu número é par')
+if num == 3003:
+    print('Seu número é ímpar')
+if num == 3004:
+    print('Seu número é par')
+if num == 3005:
+    print('Seu número é ímpar')
+if num == 3006:
+    print('Seu número é par')
+if num == 3007:
+    print('Seu número é ímpar')
+if num == 3008:
+    print('Seu número é par')
+if num == 3009:
+    print('Seu número é ímpar')
+if num == 3010:
+    print('Seu número é par')
+if num == 3011:
+    print('Seu número é ímpar')
+if num == 3012:
+    print('Seu número é par')
+if num == 3013:
+    print('Seu número é ímpar')
+if num == 3014:
+    print('Seu número é par')
+if num == 3015:
+    print('Seu número é ímpar')
+if num == 3016:
+    print('Seu número é par')
+if num == 3017:
+    print('Seu número é ímpar')
+if num == 3018:
+    print('Seu número é par')
+if num == 3019:
+    print('Seu número é ímpar')
+if num == 3020:
+    print('Seu número é par')
+if num == 3021:
+    print('Seu número é ímpar')
+if num == 3022:
+    print('Seu número é par')
+if num == 3023:
+    print('Seu número é ímpar')
+if num == 3024:
+    print('Seu número é par')
+if num == 3025:
+    print('Seu número é ímpar')
+if num == 3026:
+    print('Seu número é par')
+if num == 3027:
+    print('Seu número é ímpar')
+if num == 3028:
+    print('Seu número é par')
+if num == 3029:
+    print('Seu número é ímpar')
+if num == 3030:
+    print('Seu número é par')
+if num == 3031:
+    print('Seu número é ímpar')
+if num == 3032:
+    print('Seu número é par')
+if num == 3033:
+    print('Seu número é ímpar')
+if num == 3034:
+    print('Seu número é par')
+if num == 3035:
+    print('Seu número é ímpar')
+if num == 3036:
+    print('Seu número é par')
+if num == 3037:
+    print('Seu número é ímpar')
+if num == 3038:
+    print('Seu número é par')
+if num == 3039:
+    print('Seu número é ímpar')
+if num == 3040:
+    print('Seu número é par')
+if num == 3041:
+    print('Seu número é ímpar')
+if num == 3042:
+    print('Seu número é par')
+if num == 3043:
+    print('Seu número é ímpar')
+if num == 3044:
+    print('Seu número é par')
+if num == 3045:
+    print('Seu número é ímpar')
+if num == 3046:
+    print('Seu número é par')
+if num == 3047:
+    print('Seu número é ímpar')
+if num == 3048:
+    print('Seu número é par')
+if num == 3049:
+    print('Seu número é ímpar')
+if num == 3050:
+    print('Seu número é par')
+if num == 3051:
+    print('Seu número é ímpar')
+if num == 3052:
+    print('Seu número é par')
+if num == 3053:
+    print('Seu número é ímpar')
+if num == 3054:
+    print('Seu número é par')
+if num == 3055:
+    print('Seu número é ímpar')
+if num == 3056:
+    print('Seu número é par')
+if num == 3057:
+    print('Seu número é ímpar')
+if num == 3058:
+    print('Seu número é par')
+if num == 3059:
+    print('Seu número é ímpar')
+if num == 3060:
+    print('Seu número é par')
+if num == 3061:
+    print('Seu número é ímpar')
+if num == 3062:
+    print('Seu número é par')
+if num == 3063:
+    print('Seu número é ímpar')
+if num == 3064:
+    print('Seu número é par')
+if num == 3065:
+    print('Seu número é ímpar')
+if num == 3066:
+    print('Seu número é par')
+if num == 3067:
+    print('Seu número é ímpar')
+if num == 3068:
+    print('Seu número é par')
+if num == 3069:
+    print('Seu número é ímpar')
+if num == 3070:
+    print('Seu número é par')
+if num == 3071:
+    print('Seu número é ímpar')
+if num == 3072:
+    print('Seu número é par')
+if num == 3073:
+    print('Seu número é ímpar')
+if num == 3074:
+    print('Seu número é par')
+if num == 3075:
+    print('Seu número é ímpar')
+if num == 3076:
+    print('Seu número é par')
+if num == 3077:
+    print('Seu número é ímpar')
+if num == 3078:
+    print('Seu número é par')
+if num == 3079:
+    print('Seu número é ímpar')
+if num == 3080:
+    print('Seu número é par')
+if num == 3081:
+    print('Seu número é ímpar')
+if num == 3082:
+    print('Seu número é par')
+if num == 3083:
+    print('Seu número é ímpar')
+if num == 3084:
+    print('Seu número é par')
+if num == 3085:
+    print('Seu número é ímpar')
+if num == 3086:
+    print('Seu número é par')
+if num == 3087:
+    print('Seu número é ímpar')
+if num == 3088:
+    print('Seu número é par')
+if num == 3089:
+    print('Seu número é ímpar')
+if num == 3090:
+    print('Seu número é par')
+if num == 3091:
+    print('Seu número é ímpar')
+if num == 3092:
+    print('Seu número é par')
+if num == 3093:
+    print('Seu número é ímpar')
+if num == 3094:
+    print('Seu número é par')
+if num == 3095:
+    print('Seu número é ímpar')
+if num == 3096:
+    print('Seu número é par')
+if num == 3097:
+    print('Seu número é ímpar')
+if num == 3098:
+    print('Seu número é par')
+if num == 3099:
+    print('Seu número é ímpar')
+if num == 3100:
+    print('Seu número é par')
+if num == 3101:
+    print('Seu número é ímpar')
+if num == 3102:
+    print('Seu número é par')
+if num == 3103:
+    print('Seu número é ímpar')
+if num == 3104:
+    print('Seu número é par')
+if num == 3105:
+    print('Seu número é ímpar')
+if num == 3106:
+    print('Seu número é par')
+if num == 3107:
+    print('Seu número é ímpar')
+if num == 3108:
+    print('Seu número é par')
+if num == 3109:
+    print('Seu número é ímpar')
+if num == 3110:
+    print('Seu número é par')
+if num == 3111:
+    print('Seu número é ímpar')
+if num == 3112:
+    print('Seu número é par')
+if num == 3113:
+    print('Seu número é ímpar')
+if num == 3114:
+    print('Seu número é par')
+if num == 3115:
+    print('Seu número é ímpar')
+if num == 3116:
+    print('Seu número é par')
+if num == 3117:
+    print('Seu número é ímpar')
+if num == 3118:
+    print('Seu número é par')
+if num == 3119:
+    print('Seu número é ímpar')
+if num == 3120:
+    print('Seu número é par')
+if num == 3121:
+    print('Seu número é ímpar')
+if num == 3122:
+    print('Seu número é par')
+if num == 3123:
+    print('Seu número é ímpar')
+if num == 3124:
+    print('Seu número é par')
+if num == 3125:
+    print('Seu número é ímpar')
+if num == 3126:
+    print('Seu número é par')
+if num == 3127:
+    print('Seu número é ímpar')
+if num == 3128:
+    print('Seu número é par')
+if num == 3129:
+    print('Seu número é ímpar')
+if num == 3130:
+    print('Seu número é par')
+if num == 3131:
+    print('Seu número é ímpar')
+if num == 3132:
+    print('Seu número é par')
+if num == 3133:
+    print('Seu número é ímpar')
+if num == 3134:
+    print('Seu número é par')
+if num == 3135:
+    print('Seu número é ímpar')
+if num == 3136:
+    print('Seu número é par')
+if num == 3137:
+    print('Seu número é ímpar')
+if num == 3138:
+    print('Seu número é par')
+if num == 3139:
+    print('Seu número é ímpar')
+if num == 3140:
+    print('Seu número é par')
+if num == 3141:
+    print('Seu número é ímpar')
+if num == 3142:
+    print('Seu número é par')
+if num == 3143:
+    print('Seu número é ímpar')
+if num == 3144:
+    print('Seu número é par')
+if num == 3145:
+    print('Seu número é ímpar')
+if num == 3146:
+    print('Seu número é par')
+if num == 3147:
+    print('Seu número é ímpar')
+if num == 3148:
+    print('Seu número é par')
+if num == 3149:
+    print('Seu número é ímpar')
+if num == 3150:
+    print('Seu número é par')
+if num == 3151:
+    print('Seu número é ímpar')
+if num == 3152:
+    print('Seu número é par')
+if num == 3153:
+    print('Seu número é ímpar')
+if num == 3154:
+    print('Seu número é par')
+if num == 3155:
+    print('Seu número é ímpar')
+if num == 3156:
+    print('Seu número é par')
+if num == 3157:
+    print('Seu número é ímpar')
+if num == 3158:
+    print('Seu número é par')
+if num == 3159:
+    print('Seu número é ímpar')
+if num == 3160:
+    print('Seu número é par')
+if num == 3161:
+    print('Seu número é ímpar')
+if num == 3162:
+    print('Seu número é par')
+if num == 3163:
+    print('Seu número é ímpar')
+if num == 3164:
+    print('Seu número é par')
+if num == 3165:
+    print('Seu número é ímpar')
+if num == 3166:
+    print('Seu número é par')
+if num == 3167:
+    print('Seu número é ímpar')
+if num == 3168:
+    print('Seu número é par')
+if num == 3169:
+    print('Seu número é ímpar')
+if num == 3170:
+    print('Seu número é par')
+if num == 3171:
+    print('Seu número é ímpar')
+if num == 3172:
+    print('Seu número é par')
+if num == 3173:
+    print('Seu número é ímpar')
+if num == 3174:
+    print('Seu número é par')
+if num == 3175:
+    print('Seu número é ímpar')
+if num == 3176:
+    print('Seu número é par')
+if num == 3177:
+    print('Seu número é ímpar')
+if num == 3178:
+    print('Seu número é par')
+if num == 3179:
+    print('Seu número é ímpar')
+if num == 3180:
+    print('Seu número é par')
+if num == 3181:
+    print('Seu número é ímpar')
+if num == 3182:
+    print('Seu número é par')
+if num == 3183:
+    print('Seu número é ímpar')
+if num == 3184:
+    print('Seu número é par')
+if num == 3185:
+    print('Seu número é ímpar')
+if num == 3186:
+    print('Seu número é par')
+if num == 3187:
+    print('Seu número é ímpar')
+if num == 3188:
+    print('Seu número é par')
+if num == 3189:
+    print('Seu número é ímpar')
+if num == 3190:
+    print('Seu número é par')
+if num == 3191:
+    print('Seu número é ímpar')
+if num == 3192:
+    print('Seu número é par')
+if num == 3193:
+    print('Seu número é ímpar')
+if num == 3194:
+    print('Seu número é par')
+if num == 3195:
+    print('Seu número é ímpar')
+if num == 3196:
+    print('Seu número é par')
+if num == 3197:
+    print('Seu número é ímpar')
+if num == 3198:
+    print('Seu número é par')
+if num == 3199:
+    print('Seu número é ímpar')
+if num == 3200:
+    print('Seu número é par')
+if num == 3201:
+    print('Seu número é ímpar')
+if num == 3202:
+    print('Seu número é par')
+if num == 3203:
+    print('Seu número é ímpar')
+if num == 3204:
+    print('Seu número é par')
+if num == 3205:
+    print('Seu número é ímpar')
+if num == 3206:
+    print('Seu número é par')
+if num == 3207:
+    print('Seu número é ímpar')
+if num == 3208:
+    print('Seu número é par')
+if num == 3209:
+    print('Seu número é ímpar')
+if num == 3210:
+    print('Seu número é par')
+if num == 3211:
+    print('Seu número é ímpar')
+if num == 3212:
+    print('Seu número é par')
+if num == 3213:
+    print('Seu número é ímpar')
+if num == 3214:
+    print('Seu número é par')
+if num == 3215:
+    print('Seu número é ímpar')
+if num == 3216:
+    print('Seu número é par')
+if num == 3217:
+    print('Seu número é ímpar')
+if num == 3218:
+    print('Seu número é par')
+if num == 3219:
+    print('Seu número é ímpar')
+if num == 3220:
+    print('Seu número é par')
+if num == 3221:
+    print('Seu número é ímpar')
+if num == 3222:
+    print('Seu número é par')
+if num == 3223:
+    print('Seu número é ímpar')
+if num == 3224:
+    print('Seu número é par')
+if num == 3225:
+    print('Seu número é ímpar')
+if num == 3226:
+    print('Seu número é par')
+if num == 3227:
+    print('Seu número é ímpar')
+if num == 3228:
+    print('Seu número é par')
+if num == 3229:
+    print('Seu número é ímpar')
+if num == 3230:
+    print('Seu número é par')
+if num == 3231:
+    print('Seu número é ímpar')
+if num == 3232:
+    print('Seu número é par')
+if num == 3233:
+    print('Seu número é ímpar')
+if num == 3234:
+    print('Seu número é par')
+if num == 3235:
+    print('Seu número é ímpar')
+if num == 3236:
+    print('Seu número é par')
+if num == 3237:
+    print('Seu número é ímpar')
+if num == 3238:
+    print('Seu número é par')
+if num == 3239:
+    print('Seu número é ímpar')
+if num == 3240:
+    print('Seu número é par')
+if num == 3241:
+    print('Seu número é ímpar')
+if num == 3242:
+    print('Seu número é par')
+if num == 3243:
+    print('Seu número é ímpar')
+if num == 3244:
+    print('Seu número é par')
+if num == 3245:
+    print('Seu número é ímpar')
+if num == 3246:
+    print('Seu número é par')
+if num == 3247:
+    print('Seu número é ímpar')
+if num == 3248:
+    print('Seu número é par')
+if num == 3249:
+    print('Seu número é ímpar')
+if num == 3250:
+    print('Seu número é par')
+if num == 3251:
+    print('Seu número é ímpar')
+if num == 3252:
+    print('Seu número é par')
+if num == 3253:
+    print('Seu número é ímpar')
+if num == 3254:
+    print('Seu número é par')
+if num == 3255:
+    print('Seu número é ímpar')
+if num == 3256:
+    print('Seu número é par')
+if num == 3257:
+    print('Seu número é ímpar')
+if num == 3258:
+    print('Seu número é par')
+if num == 3259:
+    print('Seu número é ímpar')
+if num == 3260:
+    print('Seu número é par')
+if num == 3261:
+    print('Seu número é ímpar')
+if num == 3262:
+    print('Seu número é par')
+if num == 3263:
+    print('Seu número é ímpar')
+if num == 3264:
+    print('Seu número é par')
+if num == 3265:
+    print('Seu número é ímpar')
+if num == 3266:
+    print('Seu número é par')
+if num == 3267:
+    print('Seu número é ímpar')
+if num == 3268:
+    print('Seu número é par')
+if num == 3269:
+    print('Seu número é ímpar')
+if num == 3270:
+    print('Seu número é par')
+if num == 3271:
+    print('Seu número é ímpar')
+if num == 3272:
+    print('Seu número é par')
+if num == 3273:
+    print('Seu número é ímpar')
+if num == 3274:
+    print('Seu número é par')
+if num == 3275:
+    print('Seu número é ímpar')
+if num == 3276:
+    print('Seu número é par')
+if num == 3277:
+    print('Seu número é ímpar')
+if num == 3278:
+    print('Seu número é par')
+if num == 3279:
+    print('Seu número é ímpar')
+if num == 3280:
+    print('Seu número é par')
+if num == 3281:
+    print('Seu número é ímpar')
+if num == 3282:
+    print('Seu número é par')
+if num == 3283:
+    print('Seu número é ímpar')
+if num == 3284:
+    print('Seu número é par')
+if num == 3285:
+    print('Seu número é ímpar')
+if num == 3286:
+    print('Seu número é par')
+if num == 3287:
+    print('Seu número é ímpar')
+if num == 3288:
+    print('Seu número é par')
+if num == 3289:
+    print('Seu número é ímpar')
+if num == 3290:
+    print('Seu número é par')
+if num == 3291:
+    print('Seu número é ímpar')
+if num == 3292:
+    print('Seu número é par')
+if num == 3293:
+    print('Seu número é ímpar')
+if num == 3294:
+    print('Seu número é par')
+if num == 3295:
+    print('Seu número é ímpar')
+if num == 3296:
+    print('Seu número é par')
+if num == 3297:
+    print('Seu número é ímpar')
+if num == 3298:
+    print('Seu número é par')
+if num == 3299:
+    print('Seu número é ímpar')
+if num == 3300:
+    print('Seu número é par')
+if num == 3301:
+    print('Seu número é ímpar')
+if num == 3302:
+    print('Seu número é par')
+if num == 3303:
+    print('Seu número é ímpar')
+if num == 3304:
+    print('Seu número é par')
+if num == 3305:
+    print('Seu número é ímpar')
+if num == 3306:
+    print('Seu número é par')
+if num == 3307:
+    print('Seu número é ímpar')
+if num == 3308:
+    print('Seu número é par')
+if num == 3309:
+    print('Seu número é ímpar')
+if num == 3310:
+    print('Seu número é par')
+if num == 3311:
+    print('Seu número é ímpar')
+if num == 3312:
+    print('Seu número é par')
+if num == 3313:
+    print('Seu número é ímpar')
+if num == 3314:
+    print('Seu número é par')
+if num == 3315:
+    print('Seu número é ímpar')
+if num == 3316:
+    print('Seu número é par')
+if num == 3317:
+    print('Seu número é ímpar')
+if num == 3318:
+    print('Seu número é par')
+if num == 3319:
+    print('Seu número é ímpar')
+if num == 3320:
+    print('Seu número é par')
+if num == 3321:
+    print('Seu número é ímpar')
+if num == 3322:
+    print('Seu número é par')
+if num == 3323:
+    print('Seu número é ímpar')
+if num == 3324:
+    print('Seu número é par')
+if num == 3325:
+    print('Seu número é ímpar')
+if num == 3326:
+    print('Seu número é par')
+if num == 3327:
+    print('Seu número é ímpar')
+if num == 3328:
+    print('Seu número é par')
+if num == 3329:
+    print('Seu número é ímpar')
+if num == 3330:
+    print('Seu número é par')
+if num == 3331:
+    print('Seu número é ímpar')
+if num == 3332:
+    print('Seu número é par')
+if num == 3333:
+    print('Seu número é ímpar')
+if num == 3334:
+    print('Seu número é par')
+if num == 3335:
+    print('Seu número é ímpar')
+if num == 3336:
+    print('Seu número é par')
+if num == 3337:
+    print('Seu número é ímpar')
+if num == 3338:
+    print('Seu número é par')
+if num == 3339:
+    print('Seu número é ímpar')
+if num == 3340:
+    print('Seu número é par')
+if num == 3341:
+    print('Seu número é ímpar')
+if num == 3342:
+    print('Seu número é par')
+if num == 3343:
+    print('Seu número é ímpar')
+if num == 3344:
+    print('Seu número é par')
+if num == 3345:
+    print('Seu número é ímpar')
+if num == 3346:
+    print('Seu número é par')
+if num == 3347:
+    print('Seu número é ímpar')
+if num == 3348:
+    print('Seu número é par')
+if num == 3349:
+    print('Seu número é ímpar')
+if num == 3350:
+    print('Seu número é par')
+if num == 3351:
+    print('Seu número é ímpar')
+if num == 3352:
+    print('Seu número é par')
+if num == 3353:
+    print('Seu número é ímpar')
+if num == 3354:
+    print('Seu número é par')
+if num == 3355:
+    print('Seu número é ímpar')
+if num == 3356:
+    print('Seu número é par')
+if num == 3357:
+    print('Seu número é ímpar')
+if num == 3358:
+    print('Seu número é par')
+if num == 3359:
+    print('Seu número é ímpar')
+if num == 3360:
+    print('Seu número é par')
+if num == 3361:
+    print('Seu número é ímpar')
+if num == 3362:
+    print('Seu número é par')
+if num == 3363:
+    print('Seu número é ímpar')
+if num == 3364:
+    print('Seu número é par')
+if num == 3365:
+    print('Seu número é ímpar')
+if num == 3366:
+    print('Seu número é par')
+if num == 3367:
+    print('Seu número é ímpar')
+if num == 3368:
+    print('Seu número é par')
+if num == 3369:
+    print('Seu número é ímpar')
+if num == 3370:
+    print('Seu número é par')
+if num == 3371:
+    print('Seu número é ímpar')
+if num == 3372:
+    print('Seu número é par')
+if num == 3373:
+    print('Seu número é ímpar')
+if num == 3374:
+    print('Seu número é par')
+if num == 3375:
+    print('Seu número é ímpar')
+if num == 3376:
+    print('Seu número é par')
+if num == 3377:
+    print('Seu número é ímpar')
+if num == 3378:
+    print('Seu número é par')
+if num == 3379:
+    print('Seu número é ímpar')
+if num == 3380:
+    print('Seu número é par')
+if num == 3381:
+    print('Seu número é ímpar')
+if num == 3382:
+    print('Seu número é par')
+if num == 3383:
+    print('Seu número é ímpar')
+if num == 3384:
+    print('Seu número é par')
+if num == 3385:
+    print('Seu número é ímpar')
+if num == 3386:
+    print('Seu número é par')
+if num == 3387:
+    print('Seu número é ímpar')
+if num == 3388:
+    print('Seu número é par')
+if num == 3389:
+    print('Seu número é ímpar')
+if num == 3390:
+    print('Seu número é par')
+if num == 3391:
+    print('Seu número é ímpar')
+if num == 3392:
+    print('Seu número é par')
+if num == 3393:
+    print('Seu número é ímpar')
+if num == 3394:
+    print('Seu número é par')
+if num == 3395:
+    print('Seu número é ímpar')
+if num == 3396:
+    print('Seu número é par')
+if num == 3397:
+    print('Seu número é ímpar')
+if num == 3398:
+    print('Seu número é par')
+if num == 3399:
+    print('Seu número é ímpar')
+if num == 3400:
+    print('Seu número é par')
+if num == 3401:
+    print('Seu número é ímpar')
+if num == 3402:
+    print('Seu número é par')
+if num == 3403:
+    print('Seu número é ímpar')
+if num == 3404:
+    print('Seu número é par')
+if num == 3405:
+    print('Seu número é ímpar')
+if num == 3406:
+    print('Seu número é par')
+if num == 3407:
+    print('Seu número é ímpar')
+if num == 3408:
+    print('Seu número é par')
+if num == 3409:
+    print('Seu número é ímpar')
+if num == 3410:
+    print('Seu número é par')
+if num == 3411:
+    print('Seu número é ímpar')
+if num == 3412:
+    print('Seu número é par')
+if num == 3413:
+    print('Seu número é ímpar')
+if num == 3414:
+    print('Seu número é par')
+if num == 3415:
+    print('Seu número é ímpar')
+if num == 3416:
+    print('Seu número é par')
+if num == 3417:
+    print('Seu número é ímpar')
+if num == 3418:
+    print('Seu número é par')
+if num == 3419:
+    print('Seu número é ímpar')
+if num == 3420:
+    print('Seu número é par')
+if num == 3421:
+    print('Seu número é ímpar')
+if num == 3422:
+    print('Seu número é par')
+if num == 3423:
+    print('Seu número é ímpar')
+if num == 3424:
+    print('Seu número é par')
+if num == 3425:
+    print('Seu número é ímpar')
+if num == 3426:
+    print('Seu número é par')
+if num == 3427:
+    print('Seu número é ímpar')
+if num == 3428:
+    print('Seu número é par')
+if num == 3429:
+    print('Seu número é ímpar')
+if num == 3430:
+    print('Seu número é par')
+if num == 3431:
+    print('Seu número é ímpar')
+if num == 3432:
+    print('Seu número é par')
+if num == 3433:
+    print('Seu número é ímpar')
+if num == 3434:
+    print('Seu número é par')
+if num == 3435:
+    print('Seu número é ímpar')
+if num == 3436:
+    print('Seu número é par')
+if num == 3437:
+    print('Seu número é ímpar')
+if num == 3438:
+    print('Seu número é par')
+if num == 3439:
+    print('Seu número é ímpar')
+if num == 3440:
+    print('Seu número é par')
+if num == 3441:
+    print('Seu número é ímpar')
+if num == 3442:
+    print('Seu número é par')
+if num == 3443:
+    print('Seu número é ímpar')
+if num == 3444:
+    print('Seu número é par')
+if num == 3445:
+    print('Seu número é ímpar')
+if num == 3446:
+    print('Seu número é par')
+if num == 3447:
+    print('Seu número é ímpar')
+if num == 3448:
+    print('Seu número é par')
+if num == 3449:
+    print('Seu número é ímpar')
+if num == 3450:
+    print('Seu número é par')
+if num == 3451:
+    print('Seu número é ímpar')
+if num == 3452:
+    print('Seu número é par')
+if num == 3453:
+    print('Seu número é ímpar')
+if num == 3454:
+    print('Seu número é par')
+if num == 3455:
+    print('Seu número é ímpar')
+if num == 3456:
+    print('Seu número é par')
+if num == 3457:
+    print('Seu número é ímpar')
+if num == 3458:
+    print('Seu número é par')
+if num == 3459:
+    print('Seu número é ímpar')
+if num == 3460:
+    print('Seu número é par')
+if num == 3461:
+    print('Seu número é ímpar')
+if num == 3462:
+    print('Seu número é par')
+if num == 3463:
+    print('Seu número é ímpar')
+if num == 3464:
+    print('Seu número é par')
+if num == 3465:
+    print('Seu número é ímpar')
+if num == 3466:
+    print('Seu número é par')
+if num == 3467:
+    print('Seu número é ímpar')
+if num == 3468:
+    print('Seu número é par')
+if num == 3469:
+    print('Seu número é ímpar')
+if num == 3470:
+    print('Seu número é par')
+if num == 3471:
+    print('Seu número é ímpar')
+if num == 3472:
+    print('Seu número é par')
+if num == 3473:
+    print('Seu número é ímpar')
+if num == 3474:
+    print('Seu número é par')
+if num == 3475:
+    print('Seu número é ímpar')
+if num == 3476:
+    print('Seu número é par')
+if num == 3477:
+    print('Seu número é ímpar')
+if num == 3478:
+    print('Seu número é par')
+if num == 3479:
+    print('Seu número é ímpar')
+if num == 3480:
+    print('Seu número é par')
+if num == 3481:
+    print('Seu número é ímpar')
+if num == 3482:
+    print('Seu número é par')
+if num == 3483:
+    print('Seu número é ímpar')
+if num == 3484:
+    print('Seu número é par')
+if num == 3485:
+    print('Seu número é ímpar')
+if num == 3486:
+    print('Seu número é par')
+if num == 3487:
+    print('Seu número é ímpar')
+if num == 3488:
+    print('Seu número é par')
+if num == 3489:
+    print('Seu número é ímpar')
+if num == 3490:
+    print('Seu número é par')
+if num == 3491:
+    print('Seu número é ímpar')
+if num == 3492:
+    print('Seu número é par')
+if num == 3493:
+    print('Seu número é ímpar')
+if num == 3494:
+    print('Seu número é par')
+if num == 3495:
+    print('Seu número é ímpar')
+if num == 3496:
+    print('Seu número é par')
+if num == 3497:
+    print('Seu número é ímpar')
+if num == 3498:
+    print('Seu número é par')
+if num == 3499:
+    print('Seu número é ímpar')
+if num == 3500:
+    print('Seu número é par')
+if num == 3501:
+    print('Seu número é ímpar')
+if num == 3502:
+    print('Seu número é par')
+if num == 3503:
+    print('Seu número é ímpar')
+if num == 3504:
+    print('Seu número é par')
+if num == 3505:
+    print('Seu número é ímpar')
+if num == 3506:
+    print('Seu número é par')
+if num == 3507:
+    print('Seu número é ímpar')
+if num == 3508:
+    print('Seu número é par')
+if num == 3509:
+    print('Seu número é ímpar')
+if num == 3510:
+    print('Seu número é par')
+if num == 3511:
+    print('Seu número é ímpar')
+if num == 3512:
+    print('Seu número é par')
+if num == 3513:
+    print('Seu número é ímpar')
+if num == 3514:
+    print('Seu número é par')
+if num == 3515:
+    print('Seu número é ímpar')
+if num == 3516:
+    print('Seu número é par')
+if num == 3517:
+    print('Seu número é ímpar')
+if num == 3518:
+    print('Seu número é par')
+if num == 3519:
+    print('Seu número é ímpar')
+if num == 3520:
+    print('Seu número é par')
+if num == 3521:
+    print('Seu número é ímpar')
+if num == 3522:
+    print('Seu número é par')
+if num == 3523:
+    print('Seu número é ímpar')
+if num == 3524:
+    print('Seu número é par')
+if num == 3525:
+    print('Seu número é ímpar')
+if num == 3526:
+    print('Seu número é par')
+if num == 3527:
+    print('Seu número é ímpar')
+if num == 3528:
+    print('Seu número é par')
+if num == 3529:
+    print('Seu número é ímpar')
+if num == 3530:
+    print('Seu número é par')
+if num == 3531:
+    print('Seu número é ímpar')
+if num == 3532:
+    print('Seu número é par')
+if num == 3533:
+    print('Seu número é ímpar')
+if num == 3534:
+    print('Seu número é par')
+if num == 3535:
+    print('Seu número é ímpar')
+if num == 3536:
+    print('Seu número é par')
+if num == 3537:
+    print('Seu número é ímpar')
+if num == 3538:
+    print('Seu número é par')
+if num == 3539:
+    print('Seu número é ímpar')
+if num == 3540:
+    print('Seu número é par')
+if num == 3541:
+    print('Seu número é ímpar')
+if num == 3542:
+    print('Seu número é par')
+if num == 3543:
+    print('Seu número é ímpar')
+if num == 3544:
+    print('Seu número é par')
+if num == 3545:
+    print('Seu número é ímpar')
+if num == 3546:
+    print('Seu número é par')
+if num == 3547:
+    print('Seu número é ímpar')
+if num == 3548:
+    print('Seu número é par')
+if num == 3549:
+    print('Seu número é ímpar')
+if num == 3550:
+    print('Seu número é par')
+if num == 3551:
+    print('Seu número é ímpar')
+if num == 3552:
+    print('Seu número é par')
+if num == 3553:
+    print('Seu número é ímpar')
+if num == 3554:
+    print('Seu número é par')
+if num == 3555:
+    print('Seu número é ímpar')
+if num == 3556:
+    print('Seu número é par')
+if num == 3557:
+    print('Seu número é ímpar')
+if num == 3558:
+    print('Seu número é par')
+if num == 3559:
+    print('Seu número é ímpar')
+if num == 3560:
+    print('Seu número é par')
+if num == 3561:
+    print('Seu número é ímpar')
+if num == 3562:
+    print('Seu número é par')
+if num == 3563:
+    print('Seu número é ímpar')
+if num == 3564:
+    print('Seu número é par')
+if num == 3565:
+    print('Seu número é ímpar')
+if num == 3566:
+    print('Seu número é par')
+if num == 3567:
+    print('Seu número é ímpar')
+if num == 3568:
+    print('Seu número é par')
+if num == 3569:
+    print('Seu número é ímpar')
+if num == 3570:
+    print('Seu número é par')
+if num == 3571:
+    print('Seu número é ímpar')
+if num == 3572:
+    print('Seu número é par')
+if num == 3573:
+    print('Seu número é ímpar')
+if num == 3574:
+    print('Seu número é par')
+if num == 3575:
+    print('Seu número é ímpar')
+if num == 3576:
+    print('Seu número é par')
+if num == 3577:
+    print('Seu número é ímpar')
+if num == 3578:
+    print('Seu número é par')
+if num == 3579:
+    print('Seu número é ímpar')
+if num == 3580:
+    print('Seu número é par')
+if num == 3581:
+    print('Seu número é ímpar')
+if num == 3582:
+    print('Seu número é par')
+if num == 3583:
+    print('Seu número é ímpar')
+if num == 3584:
+    print('Seu número é par')
+if num == 3585:
+    print('Seu número é ímpar')
+if num == 3586:
+    print('Seu número é par')
+if num == 3587:
+    print('Seu número é ímpar')
+if num == 3588:
+    print('Seu número é par')
+if num == 3589:
+    print('Seu número é ímpar')
+if num == 3590:
+    print('Seu número é par')
+if num == 3591:
+    print('Seu número é ímpar')
+if num == 3592:
+    print('Seu número é par')
+if num == 3593:
+    print('Seu número é ímpar')
+if num == 3594:
+    print('Seu número é par')
+if num == 3595:
+    print('Seu número é ímpar')
+if num == 3596:
+    print('Seu número é par')
+if num == 3597:
+    print('Seu número é ímpar')
+if num == 3598:
+    print('Seu número é par')
+if num == 3599:
+    print('Seu número é ímpar')
+if num == 3600:
+    print('Seu número é par')
+if num == 3601:
+    print('Seu número é ímpar')
+if num == 3602:
+    print('Seu número é par')
+if num == 3603:
+    print('Seu número é ímpar')
+if num == 3604:
+    print('Seu número é par')
+if num == 3605:
+    print('Seu número é ímpar')
+if num == 3606:
+    print('Seu número é par')
+if num == 3607:
+    print('Seu número é ímpar')
+if num == 3608:
+    print('Seu número é par')
+if num == 3609:
+    print('Seu número é ímpar')
+if num == 3610:
+    print('Seu número é par')
+if num == 3611:
+    print('Seu número é ímpar')
+if num == 3612:
+    print('Seu número é par')
+if num == 3613:
+    print('Seu número é ímpar')
+if num == 3614:
+    print('Seu número é par')
+if num == 3615:
+    print('Seu número é ímpar')
+if num == 3616:
+    print('Seu número é par')
+if num == 3617:
+    print('Seu número é ímpar')
+if num == 3618:
+    print('Seu número é par')
+if num == 3619:
+    print('Seu número é ímpar')
+if num == 3620:
+    print('Seu número é par')
+if num == 3621:
+    print('Seu número é ímpar')
+if num == 3622:
+    print('Seu número é par')
+if num == 3623:
+    print('Seu número é ímpar')
+if num == 3624:
+    print('Seu número é par')
+if num == 3625:
+    print('Seu número é ímpar')
+if num == 3626:
+    print('Seu número é par')
+if num == 3627:
+    print('Seu número é ímpar')
+if num == 3628:
+    print('Seu número é par')
+if num == 3629:
+    print('Seu número é ímpar')
+if num == 3630:
+    print('Seu número é par')
+if num == 3631:
+    print('Seu número é ímpar')
+if num == 3632:
+    print('Seu número é par')
+if num == 3633:
+    print('Seu número é ímpar')
+if num == 3634:
+    print('Seu número é par')
+if num == 3635:
+    print('Seu número é ímpar')
+if num == 3636:
+    print('Seu número é par')
+if num == 3637:
+    print('Seu número é ímpar')
+if num == 3638:
+    print('Seu número é par')
+if num == 3639:
+    print('Seu número é ímpar')
+if num == 3640:
+    print('Seu número é par')
+if num == 3641:
+    print('Seu número é ímpar')
+if num == 3642:
+    print('Seu número é par')
+if num == 3643:
+    print('Seu número é ímpar')
+if num == 3644:
+    print('Seu número é par')
+if num == 3645:
+    print('Seu número é ímpar')
+if num == 3646:
+    print('Seu número é par')
+if num == 3647:
+    print('Seu número é ímpar')
+if num == 3648:
+    print('Seu número é par')
+if num == 3649:
+    print('Seu número é ímpar')
+if num == 3650:
+    print('Seu número é par')
+if num == 3651:
+    print('Seu número é ímpar')
+if num == 3652:
+    print('Seu número é par')
+if num == 3653:
+    print('Seu número é ímpar')
+if num == 3654:
+    print('Seu número é par')
+if num == 3655:
+    print('Seu número é ímpar')
+if num == 3656:
+    print('Seu número é par')
+if num == 3657:
+    print('Seu número é ímpar')
+if num == 3658:
+    print('Seu número é par')
+if num == 3659:
+    print('Seu número é ímpar')
+if num == 3660:
+    print('Seu número é par')
+if num == 3661:
+    print('Seu número é ímpar')
+if num == 3662:
+    print('Seu número é par')
+if num == 3663:
+    print('Seu número é ímpar')
+if num == 3664:
+    print('Seu número é par')
+if num == 3665:
+    print('Seu número é ímpar')
+if num == 3666:
+    print('Seu número é par')
+if num == 3667:
+    print('Seu número é ímpar')
+if num == 3668:
+    print('Seu número é par')
+if num == 3669:
+    print('Seu número é ímpar')
+if num == 3670:
+    print('Seu número é par')
+if num == 3671:
+    print('Seu número é ímpar')
+if num == 3672:
+    print('Seu número é par')
+if num == 3673:
+    print('Seu número é ímpar')
+if num == 3674:
+    print('Seu número é par')
+if num == 3675:
+    print('Seu número é ímpar')
+if num == 3676:
+    print('Seu número é par')
+if num == 3677:
+    print('Seu número é ímpar')
+if num == 3678:
+    print('Seu número é par')
+if num == 3679:
+    print('Seu número é ímpar')
+if num == 3680:
+    print('Seu número é par')
+if num == 3681:
+    print('Seu número é ímpar')
+if num == 3682:
+    print('Seu número é par')
+if num == 3683:
+    print('Seu número é ímpar')
+if num == 3684:
+    print('Seu número é par')
+if num == 3685:
+    print('Seu número é ímpar')
+if num == 3686:
+    print('Seu número é par')
+if num == 3687:
+    print('Seu número é ímpar')
+if num == 3688:
+    print('Seu número é par')
+if num == 3689:
+    print('Seu número é ímpar')
+if num == 3690:
+    print('Seu número é par')
+if num == 3691:
+    print('Seu número é ímpar')
+if num == 3692:
+    print('Seu número é par')
+if num == 3693:
+    print('Seu número é ímpar')
+if num == 3694:
+    print('Seu número é par')
+if num == 3695:
+    print('Seu número é ímpar')
+if num == 3696:
+    print('Seu número é par')
+if num == 3697:
+    print('Seu número é ímpar')
+if num == 3698:
+    print('Seu número é par')
+if num == 3699:
+    print('Seu número é ímpar')
+if num == 3700:
+    print('Seu número é par')
+if num == 3701:
+    print('Seu número é ímpar')
+if num == 3702:
+    print('Seu número é par')
+if num == 3703:
+    print('Seu número é ímpar')
+if num == 3704:
+    print('Seu número é par')
+if num == 3705:
+    print('Seu número é ímpar')
+if num == 3706:
+    print('Seu número é par')
+if num == 3707:
+    print('Seu número é ímpar')
+if num == 3708:
+    print('Seu número é par')
+if num == 3709:
+    print('Seu número é ímpar')
+if num == 3710:
+    print('Seu número é par')
+if num == 3711:
+    print('Seu número é ímpar')
+if num == 3712:
+    print('Seu número é par')
+if num == 3713:
+    print('Seu número é ímpar')
+if num == 3714:
+    print('Seu número é par')
+if num == 3715:
+    print('Seu número é ímpar')
+if num == 3716:
+    print('Seu número é par')
+if num == 3717:
+    print('Seu número é ímpar')
+if num == 3718:
+    print('Seu número é par')
+if num == 3719:
+    print('Seu número é ímpar')
+if num == 3720:
+    print('Seu número é par')
+if num == 3721:
+    print('Seu número é ímpar')
+if num == 3722:
+    print('Seu número é par')
+if num == 3723:
+    print('Seu número é ímpar')
+if num == 3724:
+    print('Seu número é par')
+if num == 3725:
+    print('Seu número é ímpar')
+if num == 3726:
+    print('Seu número é par')
+if num == 3727:
+    print('Seu número é ímpar')
+if num == 3728:
+    print('Seu número é par')
+if num == 3729:
+    print('Seu número é ímpar')
+if num == 3730:
+    print('Seu número é par')
+if num == 3731:
+    print('Seu número é ímpar')
+if num == 3732:
+    print('Seu número é par')
+if num == 3733:
+    print('Seu número é ímpar')
+if num == 3734:
+    print('Seu número é par')
+if num == 3735:
+    print('Seu número é ímpar')
+if num == 3736:
+    print('Seu número é par')
+if num == 3737:
+    print('Seu número é ímpar')
+if num == 3738:
+    print('Seu número é par')
+if num == 3739:
+    print('Seu número é ímpar')
+if num == 3740:
+    print('Seu número é par')
+if num == 3741:
+    print('Seu número é ímpar')
+if num == 3742:
+    print('Seu número é par')
+if num == 3743:
+    print('Seu número é ímpar')
+if num == 3744:
+    print('Seu número é par')
+if num == 3745:
+    print('Seu número é ímpar')
+if num == 3746:
+    print('Seu número é par')
+if num == 3747:
+    print('Seu número é ímpar')
+if num == 3748:
+    print('Seu número é par')
+if num == 3749:
+    print('Seu número é ímpar')
+if num == 3750:
+    print('Seu número é par')
+if num == 3751:
+    print('Seu número é ímpar')
+if num == 3752:
+    print('Seu número é par')
+if num == 3753:
+    print('Seu número é ímpar')
+if num == 3754:
+    print('Seu número é par')
+if num == 3755:
+    print('Seu número é ímpar')
+if num == 3756:
+    print('Seu número é par')
+if num == 3757:
+    print('Seu número é ímpar')
+if num == 3758:
+    print('Seu número é par')
+if num == 3759:
+    print('Seu número é ímpar')
+if num == 3760:
+    print('Seu número é par')
+if num == 3761:
+    print('Seu número é ímpar')
+if num == 3762:
+    print('Seu número é par')
+if num == 3763:
+    print('Seu número é ímpar')
+if num == 3764:
+    print('Seu número é par')
+if num == 3765:
+    print('Seu número é ímpar')
+if num == 3766:
+    print('Seu número é par')
+if num == 3767:
+    print('Seu número é ímpar')
+if num == 3768:
+    print('Seu número é par')
+if num == 3769:
+    print('Seu número é ímpar')
+if num == 3770:
+    print('Seu número é par')
+if num == 3771:
+    print('Seu número é ímpar')
+if num == 3772:
+    print('Seu número é par')
+if num == 3773:
+    print('Seu número é ímpar')
+if num == 3774:
+    print('Seu número é par')
+if num == 3775:
+    print('Seu número é ímpar')
+if num == 3776:
+    print('Seu número é par')
+if num == 3777:
+    print('Seu número é ímpar')
+if num == 3778:
+    print('Seu número é par')
+if num == 3779:
+    print('Seu número é ímpar')
+if num == 3780:
+    print('Seu número é par')
+if num == 3781:
+    print('Seu número é ímpar')
+if num == 3782:
+    print('Seu número é par')
+if num == 3783:
+    print('Seu número é ímpar')
+if num == 3784:
+    print('Seu número é par')
+if num == 3785:
+    print('Seu número é ímpar')
+if num == 3786:
+    print('Seu número é par')
+if num == 3787:
+    print('Seu número é ímpar')
+if num == 3788:
+    print('Seu número é par')
+if num == 3789:
+    print('Seu número é ímpar')
+if num == 3790:
+    print('Seu número é par')
+if num == 3791:
+    print('Seu número é ímpar')
+if num == 3792:
+    print('Seu número é par')
+if num == 3793:
+    print('Seu número é ímpar')
+if num == 3794:
+    print('Seu número é par')
+if num == 3795:
+    print('Seu número é ímpar')
+if num == 3796:
+    print('Seu número é par')
+if num == 3797:
+    print('Seu número é ímpar')
+if num == 3798:
+    print('Seu número é par')
+if num == 3799:
+    print('Seu número é ímpar')
+if num == 3800:
+    print('Seu número é par')
+if num == 3801:
+    print('Seu número é ímpar')
+if num == 3802:
+    print('Seu número é par')
+if num == 3803:
+    print('Seu número é ímpar')
+if num == 3804:
+    print('Seu número é par')
+if num == 3805:
+    print('Seu número é ímpar')
+if num == 3806:
+    print('Seu número é par')
+if num == 3807:
+    print('Seu número é ímpar')
+if num == 3808:
+    print('Seu número é par')
+if num == 3809:
+    print('Seu número é ímpar')
+if num == 3810:
+    print('Seu número é par')
+if num == 3811:
+    print('Seu número é ímpar')
+if num == 3812:
+    print('Seu número é par')
+if num == 3813:
+    print('Seu número é ímpar')
+if num == 3814:
+    print('Seu número é par')
+if num == 3815:
+    print('Seu número é ímpar')
+if num == 3816:
+    print('Seu número é par')
+if num == 3817:
+    print('Seu número é ímpar')
+if num == 3818:
+    print('Seu número é par')
+if num == 3819:
+    print('Seu número é ímpar')
+if num == 3820:
+    print('Seu número é par')
+if num == 3821:
+    print('Seu número é ímpar')
+if num == 3822:
+    print('Seu número é par')
+if num == 3823:
+    print('Seu número é ímpar')
+if num == 3824:
+    print('Seu número é par')
+if num == 3825:
+    print('Seu número é ímpar')
+if num == 3826:
+    print('Seu número é par')
+if num == 3827:
+    print('Seu número é ímpar')
+if num == 3828:
+    print('Seu número é par')
+if num == 3829:
+    print('Seu número é ímpar')
+if num == 3830:
+    print('Seu número é par')
+if num == 3831:
+    print('Seu número é ímpar')
+if num == 3832:
+    print('Seu número é par')
+if num == 3833:
+    print('Seu número é ímpar')
+if num == 3834:
+    print('Seu número é par')
+if num == 3835:
+    print('Seu número é ímpar')
+if num == 3836:
+    print('Seu número é par')
+if num == 3837:
+    print('Seu número é ímpar')
+if num == 3838:
+    print('Seu número é par')
+if num == 3839:
+    print('Seu número é ímpar')
+if num == 3840:
+    print('Seu número é par')
+if num == 3841:
+    print('Seu número é ímpar')
+if num == 3842:
+    print('Seu número é par')
+if num == 3843:
+    print('Seu número é ímpar')
+if num == 3844:
+    print('Seu número é par')
+if num == 3845:
+    print('Seu número é ímpar')
+if num == 3846:
+    print('Seu número é par')
+if num == 3847:
+    print('Seu número é ímpar')
+if num == 3848:
+    print('Seu número é par')
+if num == 3849:
+    print('Seu número é ímpar')
+if num == 3850:
+    print('Seu número é par')
+if num == 3851:
+    print('Seu número é ímpar')
+if num == 3852:
+    print('Seu número é par')
+if num == 3853:
+    print('Seu número é ímpar')
+if num == 3854:
+    print('Seu número é par')
+if num == 3855:
+    print('Seu número é ímpar')
+if num == 3856:
+    print('Seu número é par')
+if num == 3857:
+    print('Seu número é ímpar')
+if num == 3858:
+    print('Seu número é par')
+if num == 3859:
+    print('Seu número é ímpar')
+if num == 3860:
+    print('Seu número é par')
+if num == 3861:
+    print('Seu número é ímpar')
+if num == 3862:
+    print('Seu número é par')
+if num == 3863:
+    print('Seu número é ímpar')
+if num == 3864:
+    print('Seu número é par')
+if num == 3865:
+    print('Seu número é ímpar')
+if num == 3866:
+    print('Seu número é par')
+if num == 3867:
+    print('Seu número é ímpar')
+if num == 3868:
+    print('Seu número é par')
+if num == 3869:
+    print('Seu número é ímpar')
+if num == 3870:
+    print('Seu número é par')
+if num == 3871:
+    print('Seu número é ímpar')
+if num == 3872:
+    print('Seu número é par')
+if num == 3873:
+    print('Seu número é ímpar')
+if num == 3874:
+    print('Seu número é par')
+if num == 3875:
+    print('Seu número é ímpar')
+if num == 3876:
+    print('Seu número é par')
+if num == 3877:
+    print('Seu número é ímpar')
+if num == 3878:
+    print('Seu número é par')
+if num == 3879:
+    print('Seu número é ímpar')
+if num == 3880:
+    print('Seu número é par')
+if num == 3881:
+    print('Seu número é ímpar')
+if num == 3882:
+    print('Seu número é par')
+if num == 3883:
+    print('Seu número é ímpar')
+if num == 3884:
+    print('Seu número é par')
+if num == 3885:
+    print('Seu número é ímpar')
+if num == 3886:
+    print('Seu número é par')
+if num == 3887:
+    print('Seu número é ímpar')
+if num == 3888:
+    print('Seu número é par')
+if num == 3889:
+    print('Seu número é ímpar')
+if num == 3890:
+    print('Seu número é par')
+if num == 3891:
+    print('Seu número é ímpar')
+if num == 3892:
+    print('Seu número é par')
+if num == 3893:
+    print('Seu número é ímpar')
+if num == 3894:
+    print('Seu número é par')
+if num == 3895:
+    print('Seu número é ímpar')
+if num == 3896:
+    print('Seu número é par')
+if num == 3897:
+    print('Seu número é ímpar')
+if num == 3898:
+    print('Seu número é par')
+if num == 3899:
+    print('Seu número é ímpar')
+if num == 3900:
+    print('Seu número é par')
+if num == 3901:
+    print('Seu número é ímpar')
+if num == 3902:
+    print('Seu número é par')
+if num == 3903:
+    print('Seu número é ímpar')
+if num == 3904:
+    print('Seu número é par')
+if num == 3905:
+    print('Seu número é ímpar')
+if num == 3906:
+    print('Seu número é par')
+if num == 3907:
+    print('Seu número é ímpar')
+if num == 3908:
+    print('Seu número é par')
+if num == 3909:
+    print('Seu número é ímpar')
+if num == 3910:
+    print('Seu número é par')
+if num == 3911:
+    print('Seu número é ímpar')
+if num == 3912:
+    print('Seu número é par')
+if num == 3913:
+    print('Seu número é ímpar')
+if num == 3914:
+    print('Seu número é par')
+if num == 3915:
+    print('Seu número é ímpar')
+if num == 3916:
+    print('Seu número é par')
+if num == 3917:
+    print('Seu número é ímpar')
+if num == 3918:
+    print('Seu número é par')
+if num == 3919:
+    print('Seu número é ímpar')
+if num == 3920:
+    print('Seu número é par')
+if num == 3921:
+    print('Seu número é ímpar')
+if num == 3922:
+    print('Seu número é par')
+if num == 3923:
+    print('Seu número é ímpar')
+if num == 3924:
+    print('Seu número é par')
+if num == 3925:
+    print('Seu número é ímpar')
+if num == 3926:
+    print('Seu número é par')
+if num == 3927:
+    print('Seu número é ímpar')
+if num == 3928:
+    print('Seu número é par')
+if num == 3929:
+    print('Seu número é ímpar')
+if num == 3930:
+    print('Seu número é par')
+if num == 3931:
+    print('Seu número é ímpar')
+if num == 3932:
+    print('Seu número é par')
+if num == 3933:
+    print('Seu número é ímpar')
+if num == 3934:
+    print('Seu número é par')
+if num == 3935:
+    print('Seu número é ímpar')
+if num == 3936:
+    print('Seu número é par')
+if num == 3937:
+    print('Seu número é ímpar')
+if num == 3938:
+    print('Seu número é par')
+if num == 3939:
+    print('Seu número é ímpar')
+if num == 3940:
+    print('Seu número é par')
+if num == 3941:
+    print('Seu número é ímpar')
+if num == 3942:
+    print('Seu número é par')
+if num == 3943:
+    print('Seu número é ímpar')
+if num == 3944:
+    print('Seu número é par')
+if num == 3945:
+    print('Seu número é ímpar')
+if num == 3946:
+    print('Seu número é par')
+if num == 3947:
+    print('Seu número é ímpar')
+if num == 3948:
+    print('Seu número é par')
+if num == 3949:
+    print('Seu número é ímpar')
+if num == 3950:
+    print('Seu número é par')
+if num == 3951:
+    print('Seu número é ímpar')
+if num == 3952:
+    print('Seu número é par')
+if num == 3953:
+    print('Seu número é ímpar')
+if num == 3954:
+    print('Seu número é par')
+if num == 3955:
+    print('Seu número é ímpar')
+if num == 3956:
+    print('Seu número é par')
+if num == 3957:
+    print('Seu número é ímpar')
+if num == 3958:
+    print('Seu número é par')
+if num == 3959:
+    print('Seu número é ímpar')
+if num == 3960:
+    print('Seu número é par')
+if num == 3961:
+    print('Seu número é ímpar')
+if num == 3962:
+    print('Seu número é par')
+if num == 3963:
+    print('Seu número é ímpar')
+if num == 3964:
+    print('Seu número é par')
+if num == 3965:
+    print('Seu número é ímpar')
+if num == 3966:
+    print('Seu número é par')
+if num == 3967:
+    print('Seu número é ímpar')
+if num == 3968:
+    print('Seu número é par')
+if num == 3969:
+    print('Seu número é ímpar')
+if num == 3970:
+    print('Seu número é par')
+if num == 3971:
+    print('Seu número é ímpar')
+if num == 3972:
+    print('Seu número é par')
+if num == 3973:
+    print('Seu número é ímpar')
+if num == 3974:
+    print('Seu número é par')
+if num == 3975:
+    print('Seu número é ímpar')
+if num == 3976:
+    print('Seu número é par')
+if num == 3977:
+    print('Seu número é ímpar')
+if num == 3978:
+    print('Seu número é par')
+if num == 3979:
+    print('Seu número é ímpar')
+if num == 3980:
+    print('Seu número é par')
+if num == 3981:
+    print('Seu número é ímpar')
+if num == 3982:
+    print('Seu número é par')
+if num == 3983:
+    print('Seu número é ímpar')
+if num == 3984:
+    print('Seu número é par')
+if num == 3985:
+    print('Seu número é ímpar')
+if num == 3986:
+    print('Seu número é par')
+if num == 3987:
+    print('Seu número é ímpar')
+if num == 3988:
+    print('Seu número é par')
+if num == 3989:
+    print('Seu número é ímpar')
+if num == 3990:
+    print('Seu número é par')
+if num == 3991:
+    print('Seu número é ímpar')
+if num == 3992:
+    print('Seu número é par')
+if num == 3993:
+    print('Seu número é ímpar')
+if num == 3994:
+    print('Seu número é par')
+if num == 3995:
+    print('Seu número é ímpar')
+if num == 3996:
+    print('Seu número é par')
+if num == 3997:
+    print('Seu número é ímpar')
+if num == 3998:
+    print('Seu número é par')
+if num == 3999:
+    print('Seu número é ímpar')
+if num == 4000:
+    print('Seu número é par')
+if num == 4001:
+    print('Seu número é ímpar')
+if num == 4002:
+    print('Seu número é par')
+if num == 4003:
+    print('Seu número é ímpar')
+if num == 4004:
+    print('Seu número é par')
+if num == 4005:
+    print('Seu número é ímpar')
+if num == 4006:
+    print('Seu número é par')
+if num == 4007:
+    print('Seu número é ímpar')
+if num == 4008:
+    print('Seu número é par')
+if num == 4009:
+    print('Seu número é ímpar')
+if num == 4010:
+    print('Seu número é par')
+if num == 4011:
+    print('Seu número é ímpar')
+if num == 4012:
+    print('Seu número é par')
+if num == 4013:
+    print('Seu número é ímpar')
+if num == 4014:
+    print('Seu número é par')
+if num == 4015:
+    print('Seu número é ímpar')
+if num == 4016:
+    print('Seu número é par')
+if num == 4017:
+    print('Seu número é ímpar')
+if num == 4018:
+    print('Seu número é par')
+if num == 4019:
+    print('Seu número é ímpar')
+if num == 4020:
+    print('Seu número é par')
+if num == 4021:
+    print('Seu número é ímpar')
+if num == 4022:
+    print('Seu número é par')
+if num == 4023:
+    print('Seu número é ímpar')
+if num == 4024:
+    print('Seu número é par')
+if num == 4025:
+    print('Seu número é ímpar')
+if num == 4026:
+    print('Seu número é par')
+if num == 4027:
+    print('Seu número é ímpar')
+if num == 4028:
+    print('Seu número é par')
+if num == 4029:
+    print('Seu número é ímpar')
+if num == 4030:
+    print('Seu número é par')
+if num == 4031:
+    print('Seu número é ímpar')
+if num == 4032:
+    print('Seu número é par')
+if num == 4033:
+    print('Seu número é ímpar')
+if num == 4034:
+    print('Seu número é par')
+if num == 4035:
+    print('Seu número é ímpar')
+if num == 4036:
+    print('Seu número é par')
+if num == 4037:
+    print('Seu número é ímpar')
+if num == 4038:
+    print('Seu número é par')
+if num == 4039:
+    print('Seu número é ímpar')
+if num == 4040:
+    print('Seu número é par')
+if num == 4041:
+    print('Seu número é ímpar')
+if num == 4042:
+    print('Seu número é par')
+if num == 4043:
+    print('Seu número é ímpar')
+if num == 4044:
+    print('Seu número é par')
+if num == 4045:
+    print('Seu número é ímpar')
+if num == 4046:
+    print('Seu número é par')
+if num == 4047:
+    print('Seu número é ímpar')
+if num == 4048:
+    print('Seu número é par')
+if num == 4049:
+    print('Seu número é ímpar')
+if num == 4050:
+    print('Seu número é par')
+if num == 4051:
+    print('Seu número é ímpar')
+if num == 4052:
+    print('Seu número é par')
+if num == 4053:
+    print('Seu número é ímpar')
+if num == 4054:
+    print('Seu número é par')
+if num == 4055:
+    print('Seu número é ímpar')
+if num == 4056:
+    print('Seu número é par')
+if num == 4057:
+    print('Seu número é ímpar')
+if num == 4058:
+    print('Seu número é par')
+if num == 4059:
+    print('Seu número é ímpar')
+if num == 4060:
+    print('Seu número é par')
+if num == 4061:
+    print('Seu número é ímpar')
+if num == 4062:
+    print('Seu número é par')
+if num == 4063:
+    print('Seu número é ímpar')
+if num == 4064:
+    print('Seu número é par')
+if num == 4065:
+    print('Seu número é ímpar')
+if num == 4066:
+    print('Seu número é par')
+if num == 4067:
+    print('Seu número é ímpar')
+if num == 4068:
+    print('Seu número é par')
+if num == 4069:
+    print('Seu número é ímpar')
+if num == 4070:
+    print('Seu número é par')
+if num == 4071:
+    print('Seu número é ímpar')
+if num == 4072:
+    print('Seu número é par')
+if num == 4073:
+    print('Seu número é ímpar')
+if num == 4074:
+    print('Seu número é par')
+if num == 4075:
+    print('Seu número é ímpar')
+if num == 4076:
+    print('Seu número é par')
+if num == 4077:
+    print('Seu número é ímpar')
+if num == 4078:
+    print('Seu número é par')
+if num == 4079:
+    print('Seu número é ímpar')
+if num == 4080:
+    print('Seu número é par')
+if num == 4081:
+    print('Seu número é ímpar')
+if num == 4082:
+    print('Seu número é par')
+if num == 4083:
+    print('Seu número é ímpar')
+if num == 4084:
+    print('Seu número é par')
+if num == 4085:
+    print('Seu número é ímpar')
+if num == 4086:
+    print('Seu número é par')
+if num == 4087:
+    print('Seu número é ímpar')
+if num == 4088:
+    print('Seu número é par')
+if num == 4089:
+    print('Seu número é ímpar')
+if num == 4090:
+    print('Seu número é par')
+if num == 4091:
+    print('Seu número é ímpar')
+if num == 4092:
+    print('Seu número é par')
+if num == 4093:
+    print('Seu número é ímpar')
+if num == 4094:
+    print('Seu número é par')
+if num == 4095:
+    print('Seu número é ímpar')
+if num == 4096:
+    print('Seu número é par')
+if num == 4097:
+    print('Seu número é ímpar')
+if num == 4098:
+    print('Seu número é par')
+if num == 4099:
+    print('Seu número é ímpar')
+if num == 4100:
+    print('Seu número é par')
+if num == 4101:
+    print('Seu número é ímpar')
+if num == 4102:
+    print('Seu número é par')
+if num == 4103:
+    print('Seu número é ímpar')
+if num == 4104:
+    print('Seu número é par')
+if num == 4105:
+    print('Seu número é ímpar')
+if num == 4106:
+    print('Seu número é par')
+if num == 4107:
+    print('Seu número é ímpar')
+if num == 4108:
+    print('Seu número é par')
+if num == 4109:
+    print('Seu número é ímpar')
+if num == 4110:
+    print('Seu número é par')
+if num == 4111:
+    print('Seu número é ímpar')
+if num == 4112:
+    print('Seu número é par')
+if num == 4113:
+    print('Seu número é ímpar')
+if num == 4114:
+    print('Seu número é par')
+if num == 4115:
+    print('Seu número é ímpar')
+if num == 4116:
+    print('Seu número é par')
+if num == 4117:
+    print('Seu número é ímpar')
+if num == 4118:
+    print('Seu número é par')
+if num == 4119:
+    print('Seu número é ímpar')
+if num == 4120:
+    print('Seu número é par')
+if num == 4121:
+    print('Seu número é ímpar')
+if num == 4122:
+    print('Seu número é par')
+if num == 4123:
+    print('Seu número é ímpar')
+if num == 4124:
+    print('Seu número é par')
+if num == 4125:
+    print('Seu número é ímpar')
+if num == 4126:
+    print('Seu número é par')
+if num == 4127:
+    print('Seu número é ímpar')
+if num == 4128:
+    print('Seu número é par')
+if num == 4129:
+    print('Seu número é ímpar')
+if num == 4130:
+    print('Seu número é par')
+if num == 4131:
+    print('Seu número é ímpar')
+if num == 4132:
+    print('Seu número é par')
+if num == 4133:
+    print('Seu número é ímpar')
+if num == 4134:
+    print('Seu número é par')
+if num == 4135:
+    print('Seu número é ímpar')
+if num == 4136:
+    print('Seu número é par')
+if num == 4137:
+    print('Seu número é ímpar')
+if num == 4138:
+    print('Seu número é par')
+if num == 4139:
+    print('Seu número é ímpar')
+if num == 4140:
+    print('Seu número é par')
+if num == 4141:
+    print('Seu número é ímpar')
+if num == 4142:
+    print('Seu número é par')
+if num == 4143:
+    print('Seu número é ímpar')
+if num == 4144:
+    print('Seu número é par')
+if num == 4145:
+    print('Seu número é ímpar')
+if num == 4146:
+    print('Seu número é par')
+if num == 4147:
+    print('Seu número é ímpar')
+if num == 4148:
+    print('Seu número é par')
+if num == 4149:
+    print('Seu número é ímpar')
+if num == 4150:
+    print('Seu número é par')
+if num == 4151:
+    print('Seu número é ímpar')
+if num == 4152:
+    print('Seu número é par')
+if num == 4153:
+    print('Seu número é ímpar')
+if num == 4154:
+    print('Seu número é par')
+if num == 4155:
+    print('Seu número é ímpar')
+if num == 4156:
+    print('Seu número é par')
+if num == 4157:
+    print('Seu número é ímpar')
+if num == 4158:
+    print('Seu número é par')
+if num == 4159:
+    print('Seu número é ímpar')
+if num == 4160:
+    print('Seu número é par')
+if num == 4161:
+    print('Seu número é ímpar')
+if num == 4162:
+    print('Seu número é par')
+if num == 4163:
+    print('Seu número é ímpar')
+if num == 4164:
+    print('Seu número é par')
+if num == 4165:
+    print('Seu número é ímpar')
+if num == 4166:
+    print('Seu número é par')
+if num == 4167:
+    print('Seu número é ímpar')
+if num == 4168:
+    print('Seu número é par')
+if num == 4169:
+    print('Seu número é ímpar')
+if num == 4170:
+    print('Seu número é par')
+if num == 4171:
+    print('Seu número é ímpar')
+if num == 4172:
+    print('Seu número é par')
+if num == 4173:
+    print('Seu número é ímpar')
+if num == 4174:
+    print('Seu número é par')
+if num == 4175:
+    print('Seu número é ímpar')
+if num == 4176:
+    print('Seu número é par')
+if num == 4177:
+    print('Seu número é ímpar')
+if num == 4178:
+    print('Seu número é par')
+if num == 4179:
+    print('Seu número é ímpar')
+if num == 4180:
+    print('Seu número é par')
+if num == 4181:
+    print('Seu número é ímpar')
+if num == 4182:
+    print('Seu número é par')
+if num == 4183:
+    print('Seu número é ímpar')
+if num == 4184:
+    print('Seu número é par')
+if num == 4185:
+    print('Seu número é ímpar')
+if num == 4186:
+    print('Seu número é par')
+if num == 4187:
+    print('Seu número é ímpar')
+if num == 4188:
+    print('Seu número é par')
+if num == 4189:
+    print('Seu número é ímpar')
+if num == 4190:
+    print('Seu número é par')
+if num == 4191:
+    print('Seu número é ímpar')
+if num == 4192:
+    print('Seu número é par')
+if num == 4193:
+    print('Seu número é ímpar')
+if num == 4194:
+    print('Seu número é par')
+if num == 4195:
+    print('Seu número é ímpar')
+if num == 4196:
+    print('Seu número é par')
+if num == 4197:
+    print('Seu número é ímpar')
+if num == 4198:
+    print('Seu número é par')
+if num == 4199:
+    print('Seu número é ímpar')
+if num == 4200:
+    print('Seu número é par')
+if num == 4201:
+    print('Seu número é ímpar')
+if num == 4202:
+    print('Seu número é par')
+if num == 4203:
+    print('Seu número é ímpar')
+if num == 4204:
+    print('Seu número é par')
+if num == 4205:
+    print('Seu número é ímpar')
+if num == 4206:
+    print('Seu número é par')
+if num == 4207:
+    print('Seu número é ímpar')
+if num == 4208:
+    print('Seu número é par')
+if num == 4209:
+    print('Seu número é ímpar')
+if num == 4210:
+    print('Seu número é par')
+if num == 4211:
+    print('Seu número é ímpar')
+if num == 4212:
+    print('Seu número é par')
+if num == 4213:
+    print('Seu número é ímpar')
+if num == 4214:
+    print('Seu número é par')
+if num == 4215:
+    print('Seu número é ímpar')
+if num == 4216:
+    print('Seu número é par')
+if num == 4217:
+    print('Seu número é ímpar')
+if num == 4218:
+    print('Seu número é par')
+if num == 4219:
+    print('Seu número é ímpar')
+if num == 4220:
+    print('Seu número é par')
+if num == 4221:
+    print('Seu número é ímpar')
+if num == 4222:
+    print('Seu número é par')
+if num == 4223:
+    print('Seu número é ímpar')
+if num == 4224:
+    print('Seu número é par')
+if num == 4225:
+    print('Seu número é ímpar')
+if num == 4226:
+    print('Seu número é par')
+if num == 4227:
+    print('Seu número é ímpar')
+if num == 4228:
+    print('Seu número é par')
+if num == 4229:
+    print('Seu número é ímpar')
+if num == 4230:
+    print('Seu número é par')
+if num == 4231:
+    print('Seu número é ímpar')
+if num == 4232:
+    print('Seu número é par')
+if num == 4233:
+    print('Seu número é ímpar')
+if num == 4234:
+    print('Seu número é par')
+if num == 4235:
+    print('Seu número é ímpar')
+if num == 4236:
+    print('Seu número é par')
+if num == 4237:
+    print('Seu número é ímpar')
+if num == 4238:
+    print('Seu número é par')
+if num == 4239:
+    print('Seu número é ímpar')
+if num == 4240:
+    print('Seu número é par')
+if num == 4241:
+    print('Seu número é ímpar')
+if num == 4242:
+    print('Seu número é par')
+if num == 4243:
+    print('Seu número é ímpar')
+if num == 4244:
+    print('Seu número é par')
+if num == 4245:
+    print('Seu número é ímpar')
+if num == 4246:
+    print('Seu número é par')
+if num == 4247:
+    print('Seu número é ímpar')
+if num == 4248:
+    print('Seu número é par')
+if num == 4249:
+    print('Seu número é ímpar')
+if num == 4250:
+    print('Seu número é par')
+if num == 4251:
+    print('Seu número é ímpar')
+if num == 4252:
+    print('Seu número é par')
+if num == 4253:
+    print('Seu número é ímpar')
+if num == 4254:
+    print('Seu número é par')
+if num == 4255:
+    print('Seu número é ímpar')
+if num == 4256:
+    print('Seu número é par')
+if num == 4257:
+    print('Seu número é ímpar')
+if num == 4258:
+    print('Seu número é par')
+if num == 4259:
+    print('Seu número é ímpar')
+if num == 4260:
+    print('Seu número é par')
+if num == 4261:
+    print('Seu número é ímpar')
+if num == 4262:
+    print('Seu número é par')
+if num == 4263:
+    print('Seu número é ímpar')
+if num == 4264:
+    print('Seu número é par')
+if num == 4265:
+    print('Seu número é ímpar')
+if num == 4266:
+    print('Seu número é par')
+if num == 4267:
+    print('Seu número é ímpar')
+if num == 4268:
+    print('Seu número é par')
+if num == 4269:
+    print('Seu número é ímpar')
+if num == 4270:
+    print('Seu número é par')
+if num == 4271:
+    print('Seu número é ímpar')
+if num == 4272:
+    print('Seu número é par')
+if num == 4273:
+    print('Seu número é ímpar')
+if num == 4274:
+    print('Seu número é par')
+if num == 4275:
+    print('Seu número é ímpar')
+if num == 4276:
+    print('Seu número é par')
+if num == 4277:
+    print('Seu número é ímpar')
+if num == 4278:
+    print('Seu número é par')
+if num == 4279:
+    print('Seu número é ímpar')
+if num == 4280:
+    print('Seu número é par')
+if num == 4281:
+    print('Seu número é ímpar')
+if num == 4282:
+    print('Seu número é par')
+if num == 4283:
+    print('Seu número é ímpar')
+if num == 4284:
+    print('Seu número é par')
+if num == 4285:
+    print('Seu número é ímpar')
+if num == 4286:
+    print('Seu número é par')
+if num == 4287:
+    print('Seu número é ímpar')
+if num == 4288:
+    print('Seu número é par')
+if num == 4289:
+    print('Seu número é ímpar')
+if num == 4290:
+    print('Seu número é par')
+if num == 4291:
+    print('Seu número é ímpar')
+if num == 4292:
+    print('Seu número é par')
+if num == 4293:
+    print('Seu número é ímpar')
+if num == 4294:
+    print('Seu número é par')
+if num == 4295:
+    print('Seu número é ímpar')
+if num == 4296:
+    print('Seu número é par')
+if num == 4297:
+    print('Seu número é ímpar')
+if num == 4298:
+    print('Seu número é par')
+if num == 4299:
+    print('Seu número é ímpar')
+if num == 4300:
+    print('Seu número é par')
+if num == 4301:
+    print('Seu número é ímpar')
+if num == 4302:
+    print('Seu número é par')
+if num == 4303:
+    print('Seu número é ímpar')
+if num == 4304:
+    print('Seu número é par')
+if num == 4305:
+    print('Seu número é ímpar')
+if num == 4306:
+    print('Seu número é par')
+if num == 4307:
+    print('Seu número é ímpar')
+if num == 4308:
+    print('Seu número é par')
+if num == 4309:
+    print('Seu número é ímpar')
+if num == 4310:
+    print('Seu número é par')
+if num == 4311:
+    print('Seu número é ímpar')
+if num == 4312:
+    print('Seu número é par')
+if num == 4313:
+    print('Seu número é ímpar')
+if num == 4314:
+    print('Seu número é par')
+if num == 4315:
+    print('Seu número é ímpar')
+if num == 4316:
+    print('Seu número é par')
+if num == 4317:
+    print('Seu número é ímpar')
+if num == 4318:
+    print('Seu número é par')
+if num == 4319:
+    print('Seu número é ímpar')
+if num == 4320:
+    print('Seu número é par')
+if num == 4321:
+    print('Seu número é ímpar')
+if num == 4322:
+    print('Seu número é par')
+if num == 4323:
+    print('Seu número é ímpar')
+if num == 4324:
+    print('Seu número é par')
+if num == 4325:
+    print('Seu número é ímpar')
+if num == 4326:
+    print('Seu número é par')
+if num == 4327:
+    print('Seu número é ímpar')
+if num == 4328:
+    print('Seu número é par')
+if num == 4329:
+    print('Seu número é ímpar')
+if num == 4330:
+    print('Seu número é par')
+if num == 4331:
+    print('Seu número é ímpar')
+if num == 4332:
+    print('Seu número é par')
+if num == 4333:
+    print('Seu número é ímpar')
+if num == 4334:
+    print('Seu número é par')
+if num == 4335:
+    print('Seu número é ímpar')
+if num == 4336:
+    print('Seu número é par')
+if num == 4337:
+    print('Seu número é ímpar')
+if num == 4338:
+    print('Seu número é par')
+if num == 4339:
+    print('Seu número é ímpar')
+if num == 4340:
+    print('Seu número é par')
+if num == 4341:
+    print('Seu número é ímpar')
+if num == 4342:
+    print('Seu número é par')
+if num == 4343:
+    print('Seu número é ímpar')
+if num == 4344:
+    print('Seu número é par')
+if num == 4345:
+    print('Seu número é ímpar')
+if num == 4346:
+    print('Seu número é par')
+if num == 4347:
+    print('Seu número é ímpar')
+if num == 4348:
+    print('Seu número é par')
+if num == 4349:
+    print('Seu número é ímpar')
+if num == 4350:
+    print('Seu número é par')
+if num == 4351:
+    print('Seu número é ímpar')
+if num == 4352:
+    print('Seu número é par')
+if num == 4353:
+    print('Seu número é ímpar')
+if num == 4354:
+    print('Seu número é par')
+if num == 4355:
+    print('Seu número é ímpar')
+if num == 4356:
+    print('Seu número é par')
+if num == 4357:
+    print('Seu número é ímpar')
+if num == 4358:
+    print('Seu número é par')
+if num == 4359:
+    print('Seu número é ímpar')
+if num == 4360:
+    print('Seu número é par')
+if num == 4361:
+    print('Seu número é ímpar')
+if num == 4362:
+    print('Seu número é par')
+if num == 4363:
+    print('Seu número é ímpar')
+if num == 4364:
+    print('Seu número é par')
+if num == 4365:
+    print('Seu número é ímpar')
+if num == 4366:
+    print('Seu número é par')
+if num == 4367:
+    print('Seu número é ímpar')
+if num == 4368:
+    print('Seu número é par')
+if num == 4369:
+    print('Seu número é ímpar')
+if num == 4370:
+    print('Seu número é par')
+if num == 4371:
+    print('Seu número é ímpar')
+if num == 4372:
+    print('Seu número é par')
+if num == 4373:
+    print('Seu número é ímpar')
+if num == 4374:
+    print('Seu número é par')
+if num == 4375:
+    print('Seu número é ímpar')
+if num == 4376:
+    print('Seu número é par')
+if num == 4377:
+    print('Seu número é ímpar')
+if num == 4378:
+    print('Seu número é par')
+if num == 4379:
+    print('Seu número é ímpar')
+if num == 4380:
+    print('Seu número é par')
+if num == 4381:
+    print('Seu número é ímpar')
+if num == 4382:
+    print('Seu número é par')
+if num == 4383:
+    print('Seu número é ímpar')
+if num == 4384:
+    print('Seu número é par')
+if num == 4385:
+    print('Seu número é ímpar')
+if num == 4386:
+    print('Seu número é par')
+if num == 4387:
+    print('Seu número é ímpar')
+if num == 4388:
+    print('Seu número é par')
+if num == 4389:
+    print('Seu número é ímpar')
+if num == 4390:
+    print('Seu número é par')
+if num == 4391:
+    print('Seu número é ímpar')
+if num == 4392:
+    print('Seu número é par')
+if num == 4393:
+    print('Seu número é ímpar')
+if num == 4394:
+    print('Seu número é par')
+if num == 4395:
+    print('Seu número é ímpar')
+if num == 4396:
+    print('Seu número é par')
+if num == 4397:
+    print('Seu número é ímpar')
+if num == 4398:
+    print('Seu número é par')
+if num == 4399:
+    print('Seu número é ímpar')
+if num == 4400:
+    print('Seu número é par')
+if num == 4401:
+    print('Seu número é ímpar')
+if num == 4402:
+    print('Seu número é par')
+if num == 4403:
+    print('Seu número é ímpar')
+if num == 4404:
+    print('Seu número é par')
+if num == 4405:
+    print('Seu número é ímpar')
+if num == 4406:
+    print('Seu número é par')
+if num == 4407:
+    print('Seu número é ímpar')
+if num == 4408:
+    print('Seu número é par')
+if num == 4409:
+    print('Seu número é ímpar')
+if num == 4410:
+    print('Seu número é par')
+if num == 4411:
+    print('Seu número é ímpar')
+if num == 4412:
+    print('Seu número é par')
+if num == 4413:
+    print('Seu número é ímpar')
+if num == 4414:
+    print('Seu número é par')
+if num == 4415:
+    print('Seu número é ímpar')
+if num == 4416:
+    print('Seu número é par')
+if num == 4417:
+    print('Seu número é ímpar')
+if num == 4418:
+    print('Seu número é par')
+if num == 4419:
+    print('Seu número é ímpar')
+if num == 4420:
+    print('Seu número é par')
+if num == 4421:
+    print('Seu número é ímpar')
+if num == 4422:
+    print('Seu número é par')
+if num == 4423:
+    print('Seu número é ímpar')
+if num == 4424:
+    print('Seu número é par')
+if num == 4425:
+    print('Seu número é ímpar')
+if num == 4426:
+    print('Seu número é par')
+if num == 4427:
+    print('Seu número é ímpar')
+if num == 4428:
+    print('Seu número é par')
+if num == 4429:
+    print('Seu número é ímpar')
+if num == 4430:
+    print('Seu número é par')
+if num == 4431:
+    print('Seu número é ímpar')
+if num == 4432:
+    print('Seu número é par')
+if num == 4433:
+    print('Seu número é ímpar')
+if num == 4434:
+    print('Seu número é par')
+if num == 4435:
+    print('Seu número é ímpar')
+if num == 4436:
+    print('Seu número é par')
+if num == 4437:
+    print('Seu número é ímpar')
+if num == 4438:
+    print('Seu número é par')
+if num == 4439:
+    print('Seu número é ímpar')
+if num == 4440:
+    print('Seu número é par')
+if num == 4441:
+    print('Seu número é ímpar')
+if num == 4442:
+    print('Seu número é par')
+if num == 4443:
+    print('Seu número é ímpar')
+if num == 4444:
+    print('Seu número é par')
+if num == 4445:
+    print('Seu número é ímpar')
+if num == 4446:
+    print('Seu número é par')
+if num == 4447:
+    print('Seu número é ímpar')
+if num == 4448:
+    print('Seu número é par')
+if num == 4449:
+    print('Seu número é ímpar')
+if num == 4450:
+    print('Seu número é par')
+if num == 4451:
+    print('Seu número é ímpar')
+if num == 4452:
+    print('Seu número é par')
+if num == 4453:
+    print('Seu número é ímpar')
+if num == 4454:
+    print('Seu número é par')
+if num == 4455:
+    print('Seu número é ímpar')
+if num == 4456:
+    print('Seu número é par')
+if num == 4457:
+    print('Seu número é ímpar')
+if num == 4458:
+    print('Seu número é par')
+if num == 4459:
+    print('Seu número é ímpar')
+if num == 4460:
+    print('Seu número é par')
+if num == 4461:
+    print('Seu número é ímpar')
+if num == 4462:
+    print('Seu número é par')
+if num == 4463:
+    print('Seu número é ímpar')
+if num == 4464:
+    print('Seu número é par')
+if num == 4465:
+    print('Seu número é ímpar')
+if num == 4466:
+    print('Seu número é par')
+if num == 4467:
+    print('Seu número é ímpar')
+if num == 4468:
+    print('Seu número é par')
+if num == 4469:
+    print('Seu número é ímpar')
+if num == 4470:
+    print('Seu número é par')
+if num == 4471:
+    print('Seu número é ímpar')
+if num == 4472:
+    print('Seu número é par')
+if num == 4473:
+    print('Seu número é ímpar')
+if num == 4474:
+    print('Seu número é par')
+if num == 4475:
+    print('Seu número é ímpar')
+if num == 4476:
+    print('Seu número é par')
+if num == 4477:
+    print('Seu número é ímpar')
+if num == 4478:
+    print('Seu número é par')
+if num == 4479:
+    print('Seu número é ímpar')
+if num == 4480:
+    print('Seu número é par')
+if num == 4481:
+    print('Seu número é ímpar')
+if num == 4482:
+    print('Seu número é par')
+if num == 4483:
+    print('Seu número é ímpar')
+if num == 4484:
+    print('Seu número é par')
+if num == 4485:
+    print('Seu número é ímpar')
+if num == 4486:
+    print('Seu número é par')
+if num == 4487:
+    print('Seu número é ímpar')
+if num == 4488:
+    print('Seu número é par')
+if num == 4489:
+    print('Seu número é ímpar')
+if num == 4490:
+    print('Seu número é par')
+if num == 4491:
+    print('Seu número é ímpar')
+if num == 4492:
+    print('Seu número é par')
+if num == 4493:
+    print('Seu número é ímpar')
+if num == 4494:
+    print('Seu número é par')
+if num == 4495:
+    print('Seu número é ímpar')
+if num == 4496:
+    print('Seu número é par')
+if num == 4497:
+    print('Seu número é ímpar')
+if num == 4498:
+    print('Seu número é par')
+if num == 4499:
+    print('Seu número é ímpar')
+if num == 4500:
+    print('Seu número é par')
+if num == 4501:
+    print('Seu número é ímpar')
+if num == 4502:
+    print('Seu número é par')
+if num == 4503:
+    print('Seu número é ímpar')
+if num == 4504:
+    print('Seu número é par')
+if num == 4505:
+    print('Seu número é ímpar')
+if num == 4506:
+    print('Seu número é par')
+if num == 4507:
+    print('Seu número é ímpar')
+if num == 4508:
+    print('Seu número é par')
+if num == 4509:
+    print('Seu número é ímpar')
+if num == 4510:
+    print('Seu número é par')
+if num == 4511:
+    print('Seu número é ímpar')
+if num == 4512:
+    print('Seu número é par')
+if num == 4513:
+    print('Seu número é ímpar')
+if num == 4514:
+    print('Seu número é par')
+if num == 4515:
+    print('Seu número é ímpar')
+if num == 4516:
+    print('Seu número é par')
+if num == 4517:
+    print('Seu número é ímpar')
+if num == 4518:
+    print('Seu número é par')
+if num == 4519:
+    print('Seu número é ímpar')
+if num == 4520:
+    print('Seu número é par')
+if num == 4521:
+    print('Seu número é ímpar')
+if num == 4522:
+    print('Seu número é par')
+if num == 4523:
+    print('Seu número é ímpar')
+if num == 4524:
+    print('Seu número é par')
+if num == 4525:
+    print('Seu número é ímpar')
+if num == 4526:
+    print('Seu número é par')
+if num == 4527:
+    print('Seu número é ímpar')
+if num == 4528:
+    print('Seu número é par')
+if num == 4529:
+    print('Seu número é ímpar')
+if num == 4530:
+    print('Seu número é par')
+if num == 4531:
+    print('Seu número é ímpar')
+if num == 4532:
+    print('Seu número é par')
+if num == 4533:
+    print('Seu número é ímpar')
+if num == 4534:
+    print('Seu número é par')
+if num == 4535:
+    print('Seu número é ímpar')
+if num == 4536:
+    print('Seu número é par')
+if num == 4537:
+    print('Seu número é ímpar')
+if num == 4538:
+    print('Seu número é par')
+if num == 4539:
+    print('Seu número é ímpar')
+if num == 4540:
+    print('Seu número é par')
+if num == 4541:
+    print('Seu número é ímpar')
+if num == 4542:
+    print('Seu número é par')
+if num == 4543:
+    print('Seu número é ímpar')
+if num == 4544:
+    print('Seu número é par')
+if num == 4545:
+    print('Seu número é ímpar')
+if num == 4546:
+    print('Seu número é par')
+if num == 4547:
+    print('Seu número é ímpar')
+if num == 4548:
+    print('Seu número é par')
+if num == 4549:
+    print('Seu número é ímpar')
+if num == 4550:
+    print('Seu número é par')
+if num == 4551:
+    print('Seu número é ímpar')
+if num == 4552:
+    print('Seu número é par')
+if num == 4553:
+    print('Seu número é ímpar')
+if num == 4554:
+    print('Seu número é par')
+if num == 4555:
+    print('Seu número é ímpar')
+if num == 4556:
+    print('Seu número é par')
+if num == 4557:
+    print('Seu número é ímpar')
+if num == 4558:
+    print('Seu número é par')
+if num == 4559:
+    print('Seu número é ímpar')
+if num == 4560:
+    print('Seu número é par')
+if num == 4561:
+    print('Seu número é ímpar')
+if num == 4562:
+    print('Seu número é par')
+if num == 4563:
+    print('Seu número é ímpar')
+if num == 4564:
+    print('Seu número é par')
+if num == 4565:
+    print('Seu número é ímpar')
+if num == 4566:
+    print('Seu número é par')
+if num == 4567:
+    print('Seu número é ímpar')
+if num == 4568:
+    print('Seu número é par')
+if num == 4569:
+    print('Seu número é ímpar')
+if num == 4570:
+    print('Seu número é par')
+if num == 4571:
+    print('Seu número é ímpar')
+if num == 4572:
+    print('Seu número é par')
+if num == 4573:
+    print('Seu número é ímpar')
+if num == 4574:
+    print('Seu número é par')
+if num == 4575:
+    print('Seu número é ímpar')
+if num == 4576:
+    print('Seu número é par')
+if num == 4577:
+    print('Seu número é ímpar')
+if num == 4578:
+    print('Seu número é par')
+if num == 4579:
+    print('Seu número é ímpar')
+if num == 4580:
+    print('Seu número é par')
+if num == 4581:
+    print('Seu número é ímpar')
+if num == 4582:
+    print('Seu número é par')
+if num == 4583:
+    print('Seu número é ímpar')
+if num == 4584:
+    print('Seu número é par')
+if num == 4585:
+    print('Seu número é ímpar')
+if num == 4586:
+    print('Seu número é par')
+if num == 4587:
+    print('Seu número é ímpar')
+if num == 4588:
+    print('Seu número é par')
+if num == 4589:
+    print('Seu número é ímpar')
+if num == 4590:
+    print('Seu número é par')
+if num == 4591:
+    print('Seu número é ímpar')
+if num == 4592:
+    print('Seu número é par')
+if num == 4593:
+    print('Seu número é ímpar')
+if num == 4594:
+    print('Seu número é par')
+if num == 4595:
+    print('Seu número é ímpar')
+if num == 4596:
+    print('Seu número é par')
+if num == 4597:
+    print('Seu número é ímpar')
+if num == 4598:
+    print('Seu número é par')
+if num == 4599:
+    print('Seu número é ímpar')
+if num == 4600:
+    print('Seu número é par')
+if num == 4601:
+    print('Seu número é ímpar')
+if num == 4602:
+    print('Seu número é par')
+if num == 4603:
+    print('Seu número é ímpar')
+if num == 4604:
+    print('Seu número é par')
+if num == 4605:
+    print('Seu número é ímpar')
+if num == 4606:
+    print('Seu número é par')
+if num == 4607:
+    print('Seu número é ímpar')
+if num == 4608:
+    print('Seu número é par')
+if num == 4609:
+    print('Seu número é ímpar')
+if num == 4610:
+    print('Seu número é par')
+if num == 4611:
+    print('Seu número é ímpar')
+if num == 4612:
+    print('Seu número é par')
+if num == 4613:
+    print('Seu número é ímpar')
+if num == 4614:
+    print('Seu número é par')
+if num == 4615:
+    print('Seu número é ímpar')
+if num == 4616:
+    print('Seu número é par')
+if num == 4617:
+    print('Seu número é ímpar')
+if num == 4618:
+    print('Seu número é par')
+if num == 4619:
+    print('Seu número é ímpar')
+if num == 4620:
+    print('Seu número é par')
+if num == 4621:
+    print('Seu número é ímpar')
+if num == 4622:
+    print('Seu número é par')
+if num == 4623:
+    print('Seu número é ímpar')
+if num == 4624:
+    print('Seu número é par')
+if num == 4625:
+    print('Seu número é ímpar')
+if num == 4626:
+    print('Seu número é par')
+if num == 4627:
+    print('Seu número é ímpar')
+if num == 4628:
+    print('Seu número é par')
+if num == 4629:
+    print('Seu número é ímpar')
+if num == 4630:
+    print('Seu número é par')
+if num == 4631:
+    print('Seu número é ímpar')
+if num == 4632:
+    print('Seu número é par')
+if num == 4633:
+    print('Seu número é ímpar')
+if num == 4634:
+    print('Seu número é par')
+if num == 4635:
+    print('Seu número é ímpar')
+if num == 4636:
+    print('Seu número é par')
+if num == 4637:
+    print('Seu número é ímpar')
+if num == 4638:
+    print('Seu número é par')
+if num == 4639:
+    print('Seu número é ímpar')
+if num == 4640:
+    print('Seu número é par')
+if num == 4641:
+    print('Seu número é ímpar')
+if num == 4642:
+    print('Seu número é par')
+if num == 4643:
+    print('Seu número é ímpar')
+if num == 4644:
+    print('Seu número é par')
+if num == 4645:
+    print('Seu número é ímpar')
+if num == 4646:
+    print('Seu número é par')
+if num == 4647:
+    print('Seu número é ímpar')
+if num == 4648:
+    print('Seu número é par')
+if num == 4649:
+    print('Seu número é ímpar')
+if num == 4650:
+    print('Seu número é par')
+if num == 4651:
+    print('Seu número é ímpar')
+if num == 4652:
+    print('Seu número é par')
+if num == 4653:
+    print('Seu número é ímpar')
+if num == 4654:
+    print('Seu número é par')
+if num == 4655:
+    print('Seu número é ímpar')
+if num == 4656:
+    print('Seu número é par')
+if num == 4657:
+    print('Seu número é ímpar')
+if num == 4658:
+    print('Seu número é par')
+if num == 4659:
+    print('Seu número é ímpar')
+if num == 4660:
+    print('Seu número é par')
+if num == 4661:
+    print('Seu número é ímpar')
+if num == 4662:
+    print('Seu número é par')
+if num == 4663:
+    print('Seu número é ímpar')
+if num == 4664:
+    print('Seu número é par')
+if num == 4665:
+    print('Seu número é ímpar')
+if num == 4666:
+    print('Seu número é par')
+if num == 4667:
+    print('Seu número é ímpar')
+if num == 4668:
+    print('Seu número é par')
+if num == 4669:
+    print('Seu número é ímpar')
+if num == 4670:
+    print('Seu número é par')
+if num == 4671:
+    print('Seu número é ímpar')
+if num == 4672:
+    print('Seu número é par')
+if num == 4673:
+    print('Seu número é ímpar')
+if num == 4674:
+    print('Seu número é par')
+if num == 4675:
+    print('Seu número é ímpar')
+if num == 4676:
+    print('Seu número é par')
+if num == 4677:
+    print('Seu número é ímpar')
+if num == 4678:
+    print('Seu número é par')
+if num == 4679:
+    print('Seu número é ímpar')
+if num == 4680:
+    print('Seu número é par')
+if num == 4681:
+    print('Seu número é ímpar')
+if num == 4682:
+    print('Seu número é par')
+if num == 4683:
+    print('Seu número é ímpar')
+if num == 4684:
+    print('Seu número é par')
+if num == 4685:
+    print('Seu número é ímpar')
+if num == 4686:
+    print('Seu número é par')
+if num == 4687:
+    print('Seu número é ímpar')
+if num == 4688:
+    print('Seu número é par')
+if num == 4689:
+    print('Seu número é ímpar')
+if num == 4690:
+    print('Seu número é par')
+if num == 4691:
+    print('Seu número é ímpar')
+if num == 4692:
+    print('Seu número é par')
+if num == 4693:
+    print('Seu número é ímpar')
+if num == 4694:
+    print('Seu número é par')
+if num == 4695:
+    print('Seu número é ímpar')
+if num == 4696:
+    print('Seu número é par')
+if num == 4697:
+    print('Seu número é ímpar')
+if num == 4698:
+    print('Seu número é par')
+if num == 4699:
+    print('Seu número é ímpar')
+if num == 4700:
+    print('Seu número é par')
+if num == 4701:
+    print('Seu número é ímpar')
+if num == 4702:
+    print('Seu número é par')
+if num == 4703:
+    print('Seu número é ímpar')
+if num == 4704:
+    print('Seu número é par')
+if num == 4705:
+    print('Seu número é ímpar')
+if num == 4706:
+    print('Seu número é par')
+if num == 4707:
+    print('Seu número é ímpar')
+if num == 4708:
+    print('Seu número é par')
+if num == 4709:
+    print('Seu número é ímpar')
+if num == 4710:
+    print('Seu número é par')
+if num == 4711:
+    print('Seu número é ímpar')
+if num == 4712:
+    print('Seu número é par')
+if num == 4713:
+    print('Seu número é ímpar')
+if num == 4714:
+    print('Seu número é par')
+if num == 4715:
+    print('Seu número é ímpar')
+if num == 4716:
+    print('Seu número é par')
+if num == 4717:
+    print('Seu número é ímpar')
+if num == 4718:
+    print('Seu número é par')
+if num == 4719:
+    print('Seu número é ímpar')
+if num == 4720:
+    print('Seu número é par')
+if num == 4721:
+    print('Seu número é ímpar')
+if num == 4722:
+    print('Seu número é par')
+if num == 4723:
+    print('Seu número é ímpar')
+if num == 4724:
+    print('Seu número é par')
+if num == 4725:
+    print('Seu número é ímpar')
+if num == 4726:
+    print('Seu número é par')
+if num == 4727:
+    print('Seu número é ímpar')
+if num == 4728:
+    print('Seu número é par')
+if num == 4729:
+    print('Seu número é ímpar')
+if num == 4730:
+    print('Seu número é par')
+if num == 4731:
+    print('Seu número é ímpar')
+if num == 4732:
+    print('Seu número é par')
+if num == 4733:
+    print('Seu número é ímpar')
+if num == 4734:
+    print('Seu número é par')
+if num == 4735:
+    print('Seu número é ímpar')
+if num == 4736:
+    print('Seu número é par')
+if num == 4737:
+    print('Seu número é ímpar')
+if num == 4738:
+    print('Seu número é par')
+if num == 4739:
+    print('Seu número é ímpar')
+if num == 4740:
+    print('Seu número é par')
+if num == 4741:
+    print('Seu número é ímpar')
+if num == 4742:
+    print('Seu número é par')
+if num == 4743:
+    print('Seu número é ímpar')
+if num == 4744:
+    print('Seu número é par')
+if num == 4745:
+    print('Seu número é ímpar')
+if num == 4746:
+    print('Seu número é par')
+if num == 4747:
+    print('Seu número é ímpar')
+if num == 4748:
+    print('Seu número é par')
+if num == 4749:
+    print('Seu número é ímpar')
+if num == 4750:
+    print('Seu número é par')
+if num == 4751:
+    print('Seu número é ímpar')
+if num == 4752:
+    print('Seu número é par')
+if num == 4753:
+    print('Seu número é ímpar')
+if num == 4754:
+    print('Seu número é par')
+if num == 4755:
+    print('Seu número é ímpar')
+if num == 4756:
+    print('Seu número é par')
+if num == 4757:
+    print('Seu número é ímpar')
+if num == 4758:
+    print('Seu número é par')
+if num == 4759:
+    print('Seu número é ímpar')
+if num == 4760:
+    print('Seu número é par')
+if num == 4761:
+    print('Seu número é ímpar')
+if num == 4762:
+    print('Seu número é par')
+if num == 4763:
+    print('Seu número é ímpar')
+if num == 4764:
+    print('Seu número é par')
+if num == 4765:
+    print('Seu número é ímpar')
+if num == 4766:
+    print('Seu número é par')
+if num == 4767:
+    print('Seu número é ímpar')
+if num == 4768:
+    print('Seu número é par')
+if num == 4769:
+    print('Seu número é ímpar')
+if num == 4770:
+    print('Seu número é par')
+if num == 4771:
+    print('Seu número é ímpar')
+if num == 4772:
+    print('Seu número é par')
+if num == 4773:
+    print('Seu número é ímpar')
+if num == 4774:
+    print('Seu número é par')
+if num == 4775:
+    print('Seu número é ímpar')
+if num == 4776:
+    print('Seu número é par')
+if num == 4777:
+    print('Seu número é ímpar')
+if num == 4778:
+    print('Seu número é par')
+if num == 4779:
+    print('Seu número é ímpar')
+if num == 4780:
+    print('Seu número é par')
+if num == 4781:
+    print('Seu número é ímpar')
+if num == 4782:
+    print('Seu número é par')
+if num == 4783:
+    print('Seu número é ímpar')
+if num == 4784:
+    print('Seu número é par')
+if num == 4785:
+    print('Seu número é ímpar')
+if num == 4786:
+    print('Seu número é par')
+if num == 4787:
+    print('Seu número é ímpar')
+if num == 4788:
+    print('Seu número é par')
+if num == 4789:
+    print('Seu número é ímpar')
+if num == 4790:
+    print('Seu número é par')
+if num == 4791:
+    print('Seu número é ímpar')
+if num == 4792:
+    print('Seu número é par')
+if num == 4793:
+    print('Seu número é ímpar')
+if num == 4794:
+    print('Seu número é par')
+if num == 4795:
+    print('Seu número é ímpar')
+if num == 4796:
+    print('Seu número é par')
+if num == 4797:
+    print('Seu número é ímpar')
+if num == 4798:
+    print('Seu número é par')
+if num == 4799:
+    print('Seu número é ímpar')
+if num == 4800:
+    print('Seu número é par')
+if num == 4801:
+    print('Seu número é ímpar')
+if num == 4802:
+    print('Seu número é par')
+if num == 4803:
+    print('Seu número é ímpar')
+if num == 4804:
+    print('Seu número é par')
+if num == 4805:
+    print('Seu número é ímpar')
+if num == 4806:
+    print('Seu número é par')
+if num == 4807:
+    print('Seu número é ímpar')
+if num == 4808:
+    print('Seu número é par')
+if num == 4809:
+    print('Seu número é ímpar')
+if num == 4810:
+    print('Seu número é par')
+if num == 4811:
+    print('Seu número é ímpar')
+if num == 4812:
+    print('Seu número é par')
+if num == 4813:
+    print('Seu número é ímpar')
+if num == 4814:
+    print('Seu número é par')
+if num == 4815:
+    print('Seu número é ímpar')
+if num == 4816:
+    print('Seu número é par')
+if num == 4817:
+    print('Seu número é ímpar')
+if num == 4818:
+    print('Seu número é par')
+if num == 4819:
+    print('Seu número é ímpar')
+if num == 4820:
+    print('Seu número é par')
+if num == 4821:
+    print('Seu número é ímpar')
+if num == 4822:
+    print('Seu número é par')
+if num == 4823:
+    print('Seu número é ímpar')
+if num == 4824:
+    print('Seu número é par')
+if num == 4825:
+    print('Seu número é ímpar')
+if num == 4826:
+    print('Seu número é par')
+if num == 4827:
+    print('Seu número é ímpar')
+if num == 4828:
+    print('Seu número é par')
+if num == 4829:
+    print('Seu número é ímpar')
+if num == 4830:
+    print('Seu número é par')
+if num == 4831:
+    print('Seu número é ímpar')
+if num == 4832:
+    print('Seu número é par')
+if num == 4833:
+    print('Seu número é ímpar')
+if num == 4834:
+    print('Seu número é par')
+if num == 4835:
+    print('Seu número é ímpar')
+if num == 4836:
+    print('Seu número é par')
+if num == 4837:
+    print('Seu número é ímpar')
+if num == 4838:
+    print('Seu número é par')
+if num == 4839:
+    print('Seu número é ímpar')
+if num == 4840:
+    print('Seu número é par')
+if num == 4841:
+    print('Seu número é ímpar')
+if num == 4842:
+    print('Seu número é par')
+if num == 4843:
+    print('Seu número é ímpar')
+if num == 4844:
+    print('Seu número é par')
+if num == 4845:
+    print('Seu número é ímpar')
+if num == 4846:
+    print('Seu número é par')
+if num == 4847:
+    print('Seu número é ímpar')
+if num == 4848:
+    print('Seu número é par')
+if num == 4849:
+    print('Seu número é ímpar')
+if num == 4850:
+    print('Seu número é par')
+if num == 4851:
+    print('Seu número é ímpar')
+if num == 4852:
+    print('Seu número é par')
+if num == 4853:
+    print('Seu número é ímpar')
+if num == 4854:
+    print('Seu número é par')
+if num == 4855:
+    print('Seu número é ímpar')
+if num == 4856:
+    print('Seu número é par')
+if num == 4857:
+    print('Seu número é ímpar')
+if num == 4858:
+    print('Seu número é par')
+if num == 4859:
+    print('Seu número é ímpar')
+if num == 4860:
+    print('Seu número é par')
+if num == 4861:
+    print('Seu número é ímpar')
+if num == 4862:
+    print('Seu número é par')
+if num == 4863:
+    print('Seu número é ímpar')
+if num == 4864:
+    print('Seu número é par')
+if num == 4865:
+    print('Seu número é ímpar')
+if num == 4866:
+    print('Seu número é par')
+if num == 4867:
+    print('Seu número é ímpar')
+if num == 4868:
+    print('Seu número é par')
+if num == 4869:
+    print('Seu número é ímpar')
+if num == 4870:
+    print('Seu número é par')
+if num == 4871:
+    print('Seu número é ímpar')
+if num == 4872:
+    print('Seu número é par')
+if num == 4873:
+    print('Seu número é ímpar')
+if num == 4874:
+    print('Seu número é par')
+if num == 4875:
+    print('Seu número é ímpar')
+if num == 4876:
+    print('Seu número é par')
+if num == 4877:
+    print('Seu número é ímpar')
+if num == 4878:
+    print('Seu número é par')
+if num == 4879:
+    print('Seu número é ímpar')
+if num == 4880:
+    print('Seu número é par')
+if num == 4881:
+    print('Seu número é ímpar')
+if num == 4882:
+    print('Seu número é par')
+if num == 4883:
+    print('Seu número é ímpar')
+if num == 4884:
+    print('Seu número é par')
+if num == 4885:
+    print('Seu número é ímpar')
+if num == 4886:
+    print('Seu número é par')
+if num == 4887:
+    print('Seu número é ímpar')
+if num == 4888:
+    print('Seu número é par')
+if num == 4889:
+    print('Seu número é ímpar')
+if num == 4890:
+    print('Seu número é par')
+if num == 4891:
+    print('Seu número é ímpar')
+if num == 4892:
+    print('Seu número é par')
+if num == 4893:
+    print('Seu número é ímpar')
+if num == 4894:
+    print('Seu número é par')
+if num == 4895:
+    print('Seu número é ímpar')
+if num == 4896:
+    print('Seu número é par')
+if num == 4897:
+    print('Seu número é ímpar')
+if num == 4898:
+    print('Seu número é par')
+if num == 4899:
+    print('Seu número é ímpar')
+if num == 4900:
+    print('Seu número é par')
+if num == 4901:
+    print('Seu número é ímpar')
+if num == 4902:
+    print('Seu número é par')
+if num == 4903:
+    print('Seu número é ímpar')
+if num == 4904:
+    print('Seu número é par')
+if num == 4905:
+    print('Seu número é ímpar')
+if num == 4906:
+    print('Seu número é par')
+if num == 4907:
+    print('Seu número é ímpar')
+if num == 4908:
+    print('Seu número é par')
+if num == 4909:
+    print('Seu número é ímpar')
+if num == 4910:
+    print('Seu número é par')
+if num == 4911:
+    print('Seu número é ímpar')
+if num == 4912:
+    print('Seu número é par')
+if num == 4913:
+    print('Seu número é ímpar')
+if num == 4914:
+    print('Seu número é par')
+if num == 4915:
+    print('Seu número é ímpar')
+if num == 4916:
+    print('Seu número é par')
+if num == 4917:
+    print('Seu número é ímpar')
+if num == 4918:
+    print('Seu número é par')
+if num == 4919:
+    print('Seu número é ímpar')
+if num == 4920:
+    print('Seu número é par')
+if num == 4921:
+    print('Seu número é ímpar')
+if num == 4922:
+    print('Seu número é par')
+if num == 4923:
+    print('Seu número é ímpar')
+if num == 4924:
+    print('Seu número é par')
+if num == 4925:
+    print('Seu número é ímpar')
+if num == 4926:
+    print('Seu número é par')
+if num == 4927:
+    print('Seu número é ímpar')
+if num == 4928:
+    print('Seu número é par')
+if num == 4929:
+    print('Seu número é ímpar')
+if num == 4930:
+    print('Seu número é par')
+if num == 4931:
+    print('Seu número é ímpar')
+if num == 4932:
+    print('Seu número é par')
+if num == 4933:
+    print('Seu número é ímpar')
+if num == 4934:
+    print('Seu número é par')
+if num == 4935:
+    print('Seu número é ímpar')
+if num == 4936:
+    print('Seu número é par')
+if num == 4937:
+    print('Seu número é ímpar')
+if num == 4938:
+    print('Seu número é par')
+if num == 4939:
+    print('Seu número é ímpar')
+if num == 4940:
+    print('Seu número é par')
+if num == 4941:
+    print('Seu número é ímpar')
+if num == 4942:
+    print('Seu número é par')
+if num == 4943:
+    print('Seu número é ímpar')
+if num == 4944:
+    print('Seu número é par')
+if num == 4945:
+    print('Seu número é ímpar')
+if num == 4946:
+    print('Seu número é par')
+if num == 4947:
+    print('Seu número é ímpar')
+if num == 4948:
+    print('Seu número é par')
+if num == 4949:
+    print('Seu número é ímpar')
+if num == 4950:
+    print('Seu número é par')
+if num == 4951:
+    print('Seu número é ímpar')
+if num == 4952:
+    print('Seu número é par')
+if num == 4953:
+    print('Seu número é ímpar')
+if num == 4954:
+    print('Seu número é par')
+if num == 4955:
+    print('Seu número é ímpar')
+if num == 4956:
+    print('Seu número é par')
+if num == 4957:
+    print('Seu número é ímpar')
+if num == 4958:
+    print('Seu número é par')
+if num == 4959:
+    print('Seu número é ímpar')
+if num == 4960:
+    print('Seu número é par')
+if num == 4961:
+    print('Seu número é ímpar')
+if num == 4962:
+    print('Seu número é par')
+if num == 4963:
+    print('Seu número é ímpar')
+if num == 4964:
+    print('Seu número é par')
+if num == 4965:
+    print('Seu número é ímpar')
+if num == 4966:
+    print('Seu número é par')
+if num == 4967:
+    print('Seu número é ímpar')
+if num == 4968:
+    print('Seu número é par')
+if num == 4969:
+    print('Seu número é ímpar')
+if num == 4970:
+    print('Seu número é par')
+if num == 4971:
+    print('Seu número é ímpar')
+if num == 4972:
+    print('Seu número é par')
+if num == 4973:
+    print('Seu número é ímpar')
+if num == 4974:
+    print('Seu número é par')
+if num == 4975:
+    print('Seu número é ímpar')
+if num == 4976:
+    print('Seu número é par')
+if num == 4977:
+    print('Seu número é ímpar')
+if num == 4978:
+    print('Seu número é par')
+if num == 4979:
+    print('Seu número é ímpar')
+if num == 4980:
+    print('Seu número é par')
+if num == 4981:
+    print('Seu número é ímpar')
+if num == 4982:
+    print('Seu número é par')
+if num == 4983:
+    print('Seu número é ímpar')
+if num == 4984:
+    print('Seu número é par')
+if num == 4985:
+    print('Seu número é ímpar')
+if num == 4986:
+    print('Seu número é par')
+if num == 4987:
+    print('Seu número é ímpar')
+if num == 4988:
+    print('Seu número é par')
+if num == 4989:
+    print('Seu número é ímpar')
+if num == 4990:
+    print('Seu número é par')
+if num == 4991:
+    print('Seu número é ímpar')
+if num == 4992:
+    print('Seu número é par')
+if num == 4993:
+    print('Seu número é ímpar')
+if num == 4994:
+    print('Seu número é par')
+if num == 4995:
+    print('Seu número é ímpar')
+if num == 4996:
+    print('Seu número é par')
+if num == 4997:
+    print('Seu número é ímpar')
+if num == 4998:
+    print('Seu número é par')
+if num == 4999:
+    print('Seu número é ímpar')
+if num == 5000:
+    print('Seu número é par')
+if num == 5001:
+    print('Seu número é ímpar')
+if num == 5002:
+    print('Seu número é par')
+if num == 5003:
+    print('Seu número é ímpar')
+if num == 5004:
+    print('Seu número é par')
+if num == 5005:
+    print('Seu número é ímpar')
+if num == 5006:
+    print('Seu número é par')
+if num == 5007:
+    print('Seu número é ímpar')
+if num == 5008:
+    print('Seu número é par')
+if num == 5009:
+    print('Seu número é ímpar')
+if num == 5010:
+    print('Seu número é par')
+if num == 5011:
+    print('Seu número é ímpar')
+if num == 5012:
+    print('Seu número é par')
+if num == 5013:
+    print('Seu número é ímpar')
+if num == 5014:
+    print('Seu número é par')
+if num == 5015:
+    print('Seu número é ímpar')
+if num == 5016:
+    print('Seu número é par')
+if num == 5017:
+    print('Seu número é ímpar')
+if num == 5018:
+    print('Seu número é par')
+if num == 5019:
+    print('Seu número é ímpar')
+if num == 5020:
+    print('Seu número é par')
+if num == 5021:
+    print('Seu número é ímpar')
+if num == 5022:
+    print('Seu número é par')
+if num == 5023:
+    print('Seu número é ímpar')
+if num == 5024:
+    print('Seu número é par')
+if num == 5025:
+    print('Seu número é ímpar')
+if num == 5026:
+    print('Seu número é par')
+if num == 5027:
+    print('Seu número é ímpar')
+if num == 5028:
+    print('Seu número é par')
+if num == 5029:
+    print('Seu número é ímpar')
+if num == 5030:
+    print('Seu número é par')
+if num == 5031:
+    print('Seu número é ímpar')
+if num == 5032:
+    print('Seu número é par')
+if num == 5033:
+    print('Seu número é ímpar')
+if num == 5034:
+    print('Seu número é par')
+if num == 5035:
+    print('Seu número é ímpar')
+if num == 5036:
+    print('Seu número é par')
+if num == 5037:
+    print('Seu número é ímpar')
+if num == 5038:
+    print('Seu número é par')
+if num == 5039:
+    print('Seu número é ímpar')
+if num == 5040:
+    print('Seu número é par')
+if num == 5041:
+    print('Seu número é ímpar')
+if num == 5042:
+    print('Seu número é par')
+if num == 5043:
+    print('Seu número é ímpar')
+if num == 5044:
+    print('Seu número é par')
+if num == 5045:
+    print('Seu número é ímpar')
+if num == 5046:
+    print('Seu número é par')
+if num == 5047:
+    print('Seu número é ímpar')
+if num == 5048:
+    print('Seu número é par')
+if num == 5049:
+    print('Seu número é ímpar')
+if num == 5050:
+    print('Seu número é par')
+if num == 5051:
+    print('Seu número é ímpar')
+if num == 5052:
+    print('Seu número é par')
+if num == 5053:
+    print('Seu número é ímpar')
+if num == 5054:
+    print('Seu número é par')
+if num == 5055:
+    print('Seu número é ímpar')
+if num == 5056:
+    print('Seu número é par')
+if num == 5057:
+    print('Seu número é ímpar')
+if num == 5058:
+    print('Seu número é par')
+if num == 5059:
+    print('Seu número é ímpar')
+if num == 5060:
+    print('Seu número é par')
+if num == 5061:
+    print('Seu número é ímpar')
+if num == 5062:
+    print('Seu número é par')
+if num == 5063:
+    print('Seu número é ímpar')
+if num == 5064:
+    print('Seu número é par')
+if num == 5065:
+    print('Seu número é ímpar')
+if num == 5066:
+    print('Seu número é par')
+if num == 5067:
+    print('Seu número é ímpar')
+if num == 5068:
+    print('Seu número é par')
+if num == 5069:
+    print('Seu número é ímpar')
+if num == 5070:
+    print('Seu número é par')
+if num == 5071:
+    print('Seu número é ímpar')
+if num == 5072:
+    print('Seu número é par')
+if num == 5073:
+    print('Seu número é ímpar')
+if num == 5074:
+    print('Seu número é par')
+if num == 5075:
+    print('Seu número é ímpar')
+if num == 5076:
+    print('Seu número é par')
+if num == 5077:
+    print('Seu número é ímpar')
+if num == 5078:
+    print('Seu número é par')
+if num == 5079:
+    print('Seu número é ímpar')
+if num == 5080:
+    print('Seu número é par')
+if num == 5081:
+    print('Seu número é ímpar')
+if num == 5082:
+    print('Seu número é par')
+if num == 5083:
+    print('Seu número é ímpar')
+if num == 5084:
+    print('Seu número é par')
+if num == 5085:
+    print('Seu número é ímpar')
+if num == 5086:
+    print('Seu número é par')
+if num == 5087:
+    print('Seu número é ímpar')
+if num == 5088:
+    print('Seu número é par')
+if num == 5089:
+    print('Seu número é ímpar')
+if num == 5090:
+    print('Seu número é par')
+if num == 5091:
+    print('Seu número é ímpar')
+if num == 5092:
+    print('Seu número é par')
+if num == 5093:
+    print('Seu número é ímpar')
+if num == 5094:
+    print('Seu número é par')
+if num == 5095:
+    print('Seu número é ímpar')
+if num == 5096:
+    print('Seu número é par')
+if num == 5097:
+    print('Seu número é ímpar')
+if num == 5098:
+    print('Seu número é par')
+if num == 5099:
+    print('Seu número é ímpar')
+if num == 5100:
+    print('Seu número é par')
+if num == 5101:
+    print('Seu número é ímpar')
+if num == 5102:
+    print('Seu número é par')
+if num == 5103:
+    print('Seu número é ímpar')
+if num == 5104:
+    print('Seu número é par')
+if num == 5105:
+    print('Seu número é ímpar')
+if num == 5106:
+    print('Seu número é par')
+if num == 5107:
+    print('Seu número é ímpar')
+if num == 5108:
+    print('Seu número é par')
+if num == 5109:
+    print('Seu número é ímpar')
+if num == 5110:
+    print('Seu número é par')
+if num == 5111:
+    print('Seu número é ímpar')
+if num == 5112:
+    print('Seu número é par')
+if num == 5113:
+    print('Seu número é ímpar')
+if num == 5114:
+    print('Seu número é par')
+if num == 5115:
+    print('Seu número é ímpar')
+if num == 5116:
+    print('Seu número é par')
+if num == 5117:
+    print('Seu número é ímpar')
+if num == 5118:
+    print('Seu número é par')
+if num == 5119:
+    print('Seu número é ímpar')
+if num == 5120:
+    print('Seu número é par')
+if num == 5121:
+    print('Seu número é ímpar')
+if num == 5122:
+    print('Seu número é par')
+if num == 5123:
+    print('Seu número é ímpar')
+if num == 5124:
+    print('Seu número é par')
+if num == 5125:
+    print('Seu número é ímpar')
+if num == 5126:
+    print('Seu número é par')
+if num == 5127:
+    print('Seu número é ímpar')
+if num == 5128:
+    print('Seu número é par')
+if num == 5129:
+    print('Seu número é ímpar')
+if num == 5130:
+    print('Seu número é par')
+if num == 5131:
+    print('Seu número é ímpar')
+if num == 5132:
+    print('Seu número é par')
+if num == 5133:
+    print('Seu número é ímpar')
+if num == 5134:
+    print('Seu número é par')
+if num == 5135:
+    print('Seu número é ímpar')
+if num == 5136:
+    print('Seu número é par')
+if num == 5137:
+    print('Seu número é ímpar')
+if num == 5138:
+    print('Seu número é par')
+if num == 5139:
+    print('Seu número é ímpar')
+if num == 5140:
+    print('Seu número é par')
+if num == 5141:
+    print('Seu número é ímpar')
+if num == 5142:
+    print('Seu número é par')
+if num == 5143:
+    print('Seu número é ímpar')
+if num == 5144:
+    print('Seu número é par')
+if num == 5145:
+    print('Seu número é ímpar')
+if num == 5146:
+    print('Seu número é par')
+if num == 5147:
+    print('Seu número é ímpar')
+if num == 5148:
+    print('Seu número é par')
+if num == 5149:
+    print('Seu número é ímpar')
+if num == 5150:
+    print('Seu número é par')
+if num == 5151:
+    print('Seu número é ímpar')
+if num == 5152:
+    print('Seu número é par')
+if num == 5153:
+    print('Seu número é ímpar')
+if num == 5154:
+    print('Seu número é par')
+if num == 5155:
+    print('Seu número é ímpar')
+if num == 5156:
+    print('Seu número é par')
+if num == 5157:
+    print('Seu número é ímpar')
+if num == 5158:
+    print('Seu número é par')
+if num == 5159:
+    print('Seu número é ímpar')
+if num == 5160:
+    print('Seu número é par')
+if num == 5161:
+    print('Seu número é ímpar')
+if num == 5162:
+    print('Seu número é par')
+if num == 5163:
+    print('Seu número é ímpar')
+if num == 5164:
+    print('Seu número é par')
+if num == 5165:
+    print('Seu número é ímpar')
+if num == 5166:
+    print('Seu número é par')
+if num == 5167:
+    print('Seu número é ímpar')
+if num == 5168:
+    print('Seu número é par')
+if num == 5169:
+    print('Seu número é ímpar')
+if num == 5170:
+    print('Seu número é par')
+if num == 5171:
+    print('Seu número é ímpar')
+if num == 5172:
+    print('Seu número é par')
+if num == 5173:
+    print('Seu número é ímpar')
+if num == 5174:
+    print('Seu número é par')
+if num == 5175:
+    print('Seu número é ímpar')
+if num == 5176:
+    print('Seu número é par')
+if num == 5177:
+    print('Seu número é ímpar')
+if num == 5178:
+    print('Seu número é par')
+if num == 5179:
+    print('Seu número é ímpar')
+if num == 5180:
+    print('Seu número é par')
+if num == 5181:
+    print('Seu número é ímpar')
+if num == 5182:
+    print('Seu número é par')
+if num == 5183:
+    print('Seu número é ímpar')
+if num == 5184:
+    print('Seu número é par')
+if num == 5185:
+    print('Seu número é ímpar')
+if num == 5186:
+    print('Seu número é par')
+if num == 5187:
+    print('Seu número é ímpar')
+if num == 5188:
+    print('Seu número é par')
+if num == 5189:
+    print('Seu número é ímpar')
+if num == 5190:
+    print('Seu número é par')
+if num == 5191:
+    print('Seu número é ímpar')
+if num == 5192:
+    print('Seu número é par')
+if num == 5193:
+    print('Seu número é ímpar')
+if num == 5194:
+    print('Seu número é par')
+if num == 5195:
+    print('Seu número é ímpar')
+if num == 5196:
+    print('Seu número é par')
+if num == 5197:
+    print('Seu número é ímpar')
+if num == 5198:
+    print('Seu número é par')
+if num == 5199:
+    print('Seu número é ímpar')
+if num == 5200:
+    print('Seu número é par')
+if num == 5201:
+    print('Seu número é ímpar')
+if num == 5202:
+    print('Seu número é par')
+if num == 5203:
+    print('Seu número é ímpar')
+if num == 5204:
+    print('Seu número é par')
+if num == 5205:
+    print('Seu número é ímpar')
+if num == 5206:
+    print('Seu número é par')
+if num == 5207:
+    print('Seu número é ímpar')
+if num == 5208:
+    print('Seu número é par')
+if num == 5209:
+    print('Seu número é ímpar')
+if num == 5210:
+    print('Seu número é par')
+if num == 5211:
+    print('Seu número é ímpar')
+if num == 5212:
+    print('Seu número é par')
+if num == 5213:
+    print('Seu número é ímpar')
+if num == 5214:
+    print('Seu número é par')
+if num == 5215:
+    print('Seu número é ímpar')
+if num == 5216:
+    print('Seu número é par')
+if num == 5217:
+    print('Seu número é ímpar')
+if num == 5218:
+    print('Seu número é par')
+if num == 5219:
+    print('Seu número é ímpar')
+if num == 5220:
+    print('Seu número é par')
+if num == 5221:
+    print('Seu número é ímpar')
+if num == 5222:
+    print('Seu número é par')
+if num == 5223:
+    print('Seu número é ímpar')
+if num == 5224:
+    print('Seu número é par')
+if num == 5225:
+    print('Seu número é ímpar')
+if num == 5226:
+    print('Seu número é par')
+if num == 5227:
+    print('Seu número é ímpar')
+if num == 5228:
+    print('Seu número é par')
+if num == 5229:
+    print('Seu número é ímpar')
+if num == 5230:
+    print('Seu número é par')
+if num == 5231:
+    print('Seu número é ímpar')
+if num == 5232:
+    print('Seu número é par')
+if num == 5233:
+    print('Seu número é ímpar')
+if num == 5234:
+    print('Seu número é par')
+if num == 5235:
+    print('Seu número é ímpar')
+if num == 5236:
+    print('Seu número é par')
+if num == 5237:
+    print('Seu número é ímpar')
+if num == 5238:
+    print('Seu número é par')
+if num == 5239:
+    print('Seu número é ímpar')
+if num == 5240:
+    print('Seu número é par')
+if num == 5241:
+    print('Seu número é ímpar')
+if num == 5242:
+    print('Seu número é par')
+if num == 5243:
+    print('Seu número é ímpar')
+if num == 5244:
+    print('Seu número é par')
+if num == 5245:
+    print('Seu número é ímpar')
+if num == 5246:
+    print('Seu número é par')
+if num == 5247:
+    print('Seu número é ímpar')
+if num == 5248:
+    print('Seu número é par')
+if num == 5249:
+    print('Seu número é ímpar')
+if num == 5250:
+    print('Seu número é par')
+if num == 5251:
+    print('Seu número é ímpar')
+if num == 5252:
+    print('Seu número é par')
+if num == 5253:
+    print('Seu número é ímpar')
+if num == 5254:
+    print('Seu número é par')
+if num == 5255:
+    print('Seu número é ímpar')
+if num == 5256:
+    print('Seu número é par')
+if num == 5257:
+    print('Seu número é ímpar')
+if num == 5258:
+    print('Seu número é par')
+if num == 5259:
+    print('Seu número é ímpar')
+if num == 5260:
+    print('Seu número é par')
+if num == 5261:
+    print('Seu número é ímpar')
+if num == 5262:
+    print('Seu número é par')
+if num == 5263:
+    print('Seu número é ímpar')
+if num == 5264:
+    print('Seu número é par')
+if num == 5265:
+    print('Seu número é ímpar')
+if num == 5266:
+    print('Seu número é par')
+if num == 5267:
+    print('Seu número é ímpar')
+if num == 5268:
+    print('Seu número é par')
+if num == 5269:
+    print('Seu número é ímpar')
+if num == 5270:
+    print('Seu número é par')
+if num == 5271:
+    print('Seu número é ímpar')
+if num == 5272:
+    print('Seu número é par')
+if num == 5273:
+    print('Seu número é ímpar')
+if num == 5274:
+    print('Seu número é par')
+if num == 5275:
+    print('Seu número é ímpar')
+if num == 5276:
+    print('Seu número é par')
+if num == 5277:
+    print('Seu número é ímpar')
+if num == 5278:
+    print('Seu número é par')
+if num == 5279:
+    print('Seu número é ímpar')
+if num == 5280:
+    print('Seu número é par')
+if num == 5281:
+    print('Seu número é ímpar')
+if num == 5282:
+    print('Seu número é par')
+if num == 5283:
+    print('Seu número é ímpar')
+if num == 5284:
+    print('Seu número é par')
+if num == 5285:
+    print('Seu número é ímpar')
+if num == 5286:
+    print('Seu número é par')
+if num == 5287:
+    print('Seu número é ímpar')
+if num == 5288:
+    print('Seu número é par')
+if num == 5289:
+    print('Seu número é ímpar')
+if num == 5290:
+    print('Seu número é par')
+if num == 5291:
+    print('Seu número é ímpar')
+if num == 5292:
+    print('Seu número é par')
+if num == 5293:
+    print('Seu número é ímpar')
+if num == 5294:
+    print('Seu número é par')
+if num == 5295:
+    print('Seu número é ímpar')
+if num == 5296:
+    print('Seu número é par')
+if num == 5297:
+    print('Seu número é ímpar')
+if num == 5298:
+    print('Seu número é par')
+if num == 5299:
+    print('Seu número é ímpar')
+if num == 5300:
+    print('Seu número é par')
+if num == 5301:
+    print('Seu número é ímpar')
+if num == 5302:
+    print('Seu número é par')
+if num == 5303:
+    print('Seu número é ímpar')
+if num == 5304:
+    print('Seu número é par')
+if num == 5305:
+    print('Seu número é ímpar')
+if num == 5306:
+    print('Seu número é par')
+if num == 5307:
+    print('Seu número é ímpar')
+if num == 5308:
+    print('Seu número é par')
+if num == 5309:
+    print('Seu número é ímpar')
+if num == 5310:
+    print('Seu número é par')
+if num == 5311:
+    print('Seu número é ímpar')
+if num == 5312:
+    print('Seu número é par')
+if num == 5313:
+    print('Seu número é ímpar')
+if num == 5314:
+    print('Seu número é par')
+if num == 5315:
+    print('Seu número é ímpar')
+if num == 5316:
+    print('Seu número é par')
+if num == 5317:
+    print('Seu número é ímpar')
+if num == 5318:
+    print('Seu número é par')
+if num == 5319:
+    print('Seu número é ímpar')
+if num == 5320:
+    print('Seu número é par')
+if num == 5321:
+    print('Seu número é ímpar')
+if num == 5322:
+    print('Seu número é par')
+if num == 5323:
+    print('Seu número é ímpar')
+if num == 5324:
+    print('Seu número é par')
+if num == 5325:
+    print('Seu número é ímpar')
+if num == 5326:
+    print('Seu número é par')
+if num == 5327:
+    print('Seu número é ímpar')
+if num == 5328:
+    print('Seu número é par')
+if num == 5329:
+    print('Seu número é ímpar')
+if num == 5330:
+    print('Seu número é par')
+if num == 5331:
+    print('Seu número é ímpar')
+if num == 5332:
+    print('Seu número é par')
+if num == 5333:
+    print('Seu número é ímpar')
+if num == 5334:
+    print('Seu número é par')
+if num == 5335:
+    print('Seu número é ímpar')
+if num == 5336:
+    print('Seu número é par')
+if num == 5337:
+    print('Seu número é ímpar')
+if num == 5338:
+    print('Seu número é par')
+if num == 5339:
+    print('Seu número é ímpar')
+if num == 5340:
+    print('Seu número é par')
+if num == 5341:
+    print('Seu número é ímpar')
+if num == 5342:
+    print('Seu número é par')
+if num == 5343:
+    print('Seu número é ímpar')
+if num == 5344:
+    print('Seu número é par')
+if num == 5345:
+    print('Seu número é ímpar')
+if num == 5346:
+    print('Seu número é par')
+if num == 5347:
+    print('Seu número é ímpar')
+if num == 5348:
+    print('Seu número é par')
+if num == 5349:
+    print('Seu número é ímpar')
+if num == 5350:
+    print('Seu número é par')
+if num == 5351:
+    print('Seu número é ímpar')
+if num == 5352:
+    print('Seu número é par')
+if num == 5353:
+    print('Seu número é ímpar')
+if num == 5354:
+    print('Seu número é par')
+if num == 5355:
+    print('Seu número é ímpar')
+if num == 5356:
+    print('Seu número é par')
+if num == 5357:
+    print('Seu número é ímpar')
+if num == 5358:
+    print('Seu número é par')
+if num == 5359:
+    print('Seu número é ímpar')
+if num == 5360:
+    print('Seu número é par')
+if num == 5361:
+    print('Seu número é ímpar')
+if num == 5362:
+    print('Seu número é par')
+if num == 5363:
+    print('Seu número é ímpar')
+if num == 5364:
+    print('Seu número é par')
+if num == 5365:
+    print('Seu número é ímpar')
+if num == 5366:
+    print('Seu número é par')
+if num == 5367:
+    print('Seu número é ímpar')
+if num == 5368:
+    print('Seu número é par')
+if num == 5369:
+    print('Seu número é ímpar')
+if num == 5370:
+    print('Seu número é par')
+if num == 5371:
+    print('Seu número é ímpar')
+if num == 5372:
+    print('Seu número é par')
+if num == 5373:
+    print('Seu número é ímpar')
+if num == 5374:
+    print('Seu número é par')
+if num == 5375:
+    print('Seu número é ímpar')
+if num == 5376:
+    print('Seu número é par')
+if num == 5377:
+    print('Seu número é ímpar')
+if num == 5378:
+    print('Seu número é par')
+if num == 5379:
+    print('Seu número é ímpar')
+if num == 5380:
+    print('Seu número é par')
+if num == 5381:
+    print('Seu número é ímpar')
+if num == 5382:
+    print('Seu número é par')
+if num == 5383:
+    print('Seu número é ímpar')
+if num == 5384:
+    print('Seu número é par')
+if num == 5385:
+    print('Seu número é ímpar')
+if num == 5386:
+    print('Seu número é par')
+if num == 5387:
+    print('Seu número é ímpar')
+if num == 5388:
+    print('Seu número é par')
+if num == 5389:
+    print('Seu número é ímpar')
+if num == 5390:
+    print('Seu número é par')
+if num == 5391:
+    print('Seu número é ímpar')
+if num == 5392:
+    print('Seu número é par')
+if num == 5393:
+    print('Seu número é ímpar')
+if num == 5394:
+    print('Seu número é par')
+if num == 5395:
+    print('Seu número é ímpar')
+if num == 5396:
+    print('Seu número é par')
+if num == 5397:
+    print('Seu número é ímpar')
+if num == 5398:
+    print('Seu número é par')
+if num == 5399:
+    print('Seu número é ímpar')
+if num == 5400:
+    print('Seu número é par')
+if num == 5401:
+    print('Seu número é ímpar')
+if num == 5402:
+    print('Seu número é par')
+if num == 5403:
+    print('Seu número é ímpar')
+if num == 5404:
+    print('Seu número é par')
+if num == 5405:
+    print('Seu número é ímpar')
+if num == 5406:
+    print('Seu número é par')
+if num == 5407:
+    print('Seu número é ímpar')
+if num == 5408:
+    print('Seu número é par')
+if num == 5409:
+    print('Seu número é ímpar')
+if num == 5410:
+    print('Seu número é par')
+if num == 5411:
+    print('Seu número é ímpar')
+if num == 5412:
+    print('Seu número é par')
+if num == 5413:
+    print('Seu número é ímpar')
+if num == 5414:
+    print('Seu número é par')
+if num == 5415:
+    print('Seu número é ímpar')
+if num == 5416:
+    print('Seu número é par')
+if num == 5417:
+    print('Seu número é ímpar')
+if num == 5418:
+    print('Seu número é par')
+if num == 5419:
+    print('Seu número é ímpar')
+if num == 5420:
+    print('Seu número é par')
+if num == 5421:
+    print('Seu número é ímpar')
+if num == 5422:
+    print('Seu número é par')
+if num == 5423:
+    print('Seu número é ímpar')
+if num == 5424:
+    print('Seu número é par')
+if num == 5425:
+    print('Seu número é ímpar')
+if num == 5426:
+    print('Seu número é par')
+if num == 5427:
+    print('Seu número é ímpar')
+if num == 5428:
+    print('Seu número é par')
+if num == 5429:
+    print('Seu número é ímpar')
+if num == 5430:
+    print('Seu número é par')
+if num == 5431:
+    print('Seu número é ímpar')
+if num == 5432:
+    print('Seu número é par')
+if num == 5433:
+    print('Seu número é ímpar')
+if num == 5434:
+    print('Seu número é par')
+if num == 5435:
+    print('Seu número é ímpar')
+if num == 5436:
+    print('Seu número é par')
+if num == 5437:
+    print('Seu número é ímpar')
+if num == 5438:
+    print('Seu número é par')
+if num == 5439:
+    print('Seu número é ímpar')
+if num == 5440:
+    print('Seu número é par')
+if num == 5441:
+    print('Seu número é ímpar')
+if num == 5442:
+    print('Seu número é par')
+if num == 5443:
+    print('Seu número é ímpar')
+if num == 5444:
+    print('Seu número é par')
+if num == 5445:
+    print('Seu número é ímpar')
+if num == 5446:
+    print('Seu número é par')
+if num == 5447:
+    print('Seu número é ímpar')
+if num == 5448:
+    print('Seu número é par')
+if num == 5449:
+    print('Seu número é ímpar')
+if num == 5450:
+    print('Seu número é par')
+if num == 5451:
+    print('Seu número é ímpar')
+if num == 5452:
+    print('Seu número é par')
+if num == 5453:
+    print('Seu número é ímpar')
+if num == 5454:
+    print('Seu número é par')
+if num == 5455:
+    print('Seu número é ímpar')
+if num == 5456:
+    print('Seu número é par')
+if num == 5457:
+    print('Seu número é ímpar')
+if num == 5458:
+    print('Seu número é par')
+if num == 5459:
+    print('Seu número é ímpar')
+if num == 5460:
+    print('Seu número é par')
+if num == 5461:
+    print('Seu número é ímpar')
+if num == 5462:
+    print('Seu número é par')
+if num == 5463:
+    print('Seu número é ímpar')
+if num == 5464:
+    print('Seu número é par')
+if num == 5465:
+    print('Seu número é ímpar')
+if num == 5466:
+    print('Seu número é par')
+if num == 5467:
+    print('Seu número é ímpar')
+if num == 5468:
+    print('Seu número é par')
+if num == 5469:
+    print('Seu número é ímpar')
+if num == 5470:
+    print('Seu número é par')
+if num == 5471:
+    print('Seu número é ímpar')
+if num == 5472:
+    print('Seu número é par')
+if num == 5473:
+    print('Seu número é ímpar')
+if num == 5474:
+    print('Seu número é par')
+if num == 5475:
+    print('Seu número é ímpar')
+if num == 5476:
+    print('Seu número é par')
+if num == 5477:
+    print('Seu número é ímpar')
+if num == 5478:
+    print('Seu número é par')
+if num == 5479:
+    print('Seu número é ímpar')
+if num == 5480:
+    print('Seu número é par')
+if num == 5481:
+    print('Seu número é ímpar')
+if num == 5482:
+    print('Seu número é par')
+if num == 5483:
+    print('Seu número é ímpar')
+if num == 5484:
+    print('Seu número é par')
+if num == 5485:
+    print('Seu número é ímpar')
+if num == 5486:
+    print('Seu número é par')
+if num == 5487:
+    print('Seu número é ímpar')
+if num == 5488:
+    print('Seu número é par')
+if num == 5489:
+    print('Seu número é ímpar')
+if num == 5490:
+    print('Seu número é par')
+if num == 5491:
+    print('Seu número é ímpar')
+if num == 5492:
+    print('Seu número é par')
+if num == 5493:
+    print('Seu número é ímpar')
+if num == 5494:
+    print('Seu número é par')
+if num == 5495:
+    print('Seu número é ímpar')
+if num == 5496:
+    print('Seu número é par')
+if num == 5497:
+    print('Seu número é ímpar')
+if num == 5498:
+    print('Seu número é par')
+if num == 5499:
+    print('Seu número é ímpar')
+if num == 5500:
+    print('Seu número é par')
+if num == 5501:
+    print('Seu número é ímpar')
+if num == 5502:
+    print('Seu número é par')
+if num == 5503:
+    print('Seu número é ímpar')
+if num == 5504:
+    print('Seu número é par')
+if num == 5505:
+    print('Seu número é ímpar')
+if num == 5506:
+    print('Seu número é par')
+if num == 5507:
+    print('Seu número é ímpar')
+if num == 5508:
+    print('Seu número é par')
+if num == 5509:
+    print('Seu número é ímpar')
+if num == 5510:
+    print('Seu número é par')
+if num == 5511:
+    print('Seu número é ímpar')
+if num == 5512:
+    print('Seu número é par')
+if num == 5513:
+    print('Seu número é ímpar')
+if num == 5514:
+    print('Seu número é par')
+if num == 5515:
+    print('Seu número é ímpar')
+if num == 5516:
+    print('Seu número é par')
+if num == 5517:
+    print('Seu número é ímpar')
+if num == 5518:
+    print('Seu número é par')
+if num == 5519:
+    print('Seu número é ímpar')
+if num == 5520:
+    print('Seu número é par')
+if num == 5521:
+    print('Seu número é ímpar')
+if num == 5522:
+    print('Seu número é par')
+if num == 5523:
+    print('Seu número é ímpar')
+if num == 5524:
+    print('Seu número é par')
+if num == 5525:
+    print('Seu número é ímpar')
+if num == 5526:
+    print('Seu número é par')
+if num == 5527:
+    print('Seu número é ímpar')
+if num == 5528:
+    print('Seu número é par')
+if num == 5529:
+    print('Seu número é ímpar')
+if num == 5530:
+    print('Seu número é par')
+if num == 5531:
+    print('Seu número é ímpar')
+if num == 5532:
+    print('Seu número é par')
+if num == 5533:
+    print('Seu número é ímpar')
+if num == 5534:
+    print('Seu número é par')
+if num == 5535:
+    print('Seu número é ímpar')
+if num == 5536:
+    print('Seu número é par')
+if num == 5537:
+    print('Seu número é ímpar')
+if num == 5538:
+    print('Seu número é par')
+if num == 5539:
+    print('Seu número é ímpar')
+if num == 5540:
+    print('Seu número é par')
+if num == 5541:
+    print('Seu número é ímpar')
+if num == 5542:
+    print('Seu número é par')
+if num == 5543:
+    print('Seu número é ímpar')
+if num == 5544:
+    print('Seu número é par')
+if num == 5545:
+    print('Seu número é ímpar')
+if num == 5546:
+    print('Seu número é par')
+if num == 5547:
+    print('Seu número é ímpar')
+if num == 5548:
+    print('Seu número é par')
+if num == 5549:
+    print('Seu número é ímpar')
+if num == 5550:
+    print('Seu número é par')
+if num == 5551:
+    print('Seu número é ímpar')
+if num == 5552:
+    print('Seu número é par')
+if num == 5553:
+    print('Seu número é ímpar')
+if num == 5554:
+    print('Seu número é par')
+if num == 5555:
+    print('Seu número é ímpar')
+if num == 5556:
+    print('Seu número é par')
+if num == 5557:
+    print('Seu número é ímpar')
+if num == 5558:
+    print('Seu número é par')
+if num == 5559:
+    print('Seu número é ímpar')
+if num == 5560:
+    print('Seu número é par')
+if num == 5561:
+    print('Seu número é ímpar')
+if num == 5562:
+    print('Seu número é par')
+if num == 5563:
+    print('Seu número é ímpar')
+if num == 5564:
+    print('Seu número é par')
+if num == 5565:
+    print('Seu número é ímpar')
+if num == 5566:
+    print('Seu número é par')
+if num == 5567:
+    print('Seu número é ímpar')
+if num == 5568:
+    print('Seu número é par')
+if num == 5569:
+    print('Seu número é ímpar')
+if num == 5570:
+    print('Seu número é par')
+if num == 5571:
+    print('Seu número é ímpar')
+if num == 5572:
+    print('Seu número é par')
+if num == 5573:
+    print('Seu número é ímpar')
+if num == 5574:
+    print('Seu número é par')
+if num == 5575:
+    print('Seu número é ímpar')
+if num == 5576:
+    print('Seu número é par')
+if num == 5577:
+    print('Seu número é ímpar')
+if num == 5578:
+    print('Seu número é par')
+if num == 5579:
+    print('Seu número é ímpar')
+if num == 5580:
+    print('Seu número é par')
+if num == 5581:
+    print('Seu número é ímpar')
+if num == 5582:
+    print('Seu número é par')
+if num == 5583:
+    print('Seu número é ímpar')
+if num == 5584:
+    print('Seu número é par')
+if num == 5585:
+    print('Seu número é ímpar')
+if num == 5586:
+    print('Seu número é par')
+if num == 5587:
+    print('Seu número é ímpar')
+if num == 5588:
+    print('Seu número é par')
+if num == 5589:
+    print('Seu número é ímpar')
+if num == 5590:
+    print('Seu número é par')
+if num == 5591:
+    print('Seu número é ímpar')
+if num == 5592:
+    print('Seu número é par')
+if num == 5593:
+    print('Seu número é ímpar')
+if num == 5594:
+    print('Seu número é par')
+if num == 5595:
+    print('Seu número é ímpar')
+if num == 5596:
+    print('Seu número é par')
+if num == 5597:
+    print('Seu número é ímpar')
+if num == 5598:
+    print('Seu número é par')
+if num == 5599:
+    print('Seu número é ímpar')
+if num == 5600:
+    print('Seu número é par')
+if num == 5601:
+    print('Seu número é ímpar')
+if num == 5602:
+    print('Seu número é par')
+if num == 5603:
+    print('Seu número é ímpar')
+if num == 5604:
+    print('Seu número é par')
+if num == 5605:
+    print('Seu número é ímpar')
+if num == 5606:
+    print('Seu número é par')
+if num == 5607:
+    print('Seu número é ímpar')
+if num == 5608:
+    print('Seu número é par')
+if num == 5609:
+    print('Seu número é ímpar')
+if num == 5610:
+    print('Seu número é par')
+if num == 5611:
+    print('Seu número é ímpar')
+if num == 5612:
+    print('Seu número é par')
+if num == 5613:
+    print('Seu número é ímpar')
+if num == 5614:
+    print('Seu número é par')
+if num == 5615:
+    print('Seu número é ímpar')
+if num == 5616:
+    print('Seu número é par')
+if num == 5617:
+    print('Seu número é ímpar')
+if num == 5618:
+    print('Seu número é par')
+if num == 5619:
+    print('Seu número é ímpar')
+if num == 5620:
+    print('Seu número é par')
+if num == 5621:
+    print('Seu número é ímpar')
+if num == 5622:
+    print('Seu número é par')
+if num == 5623:
+    print('Seu número é ímpar')
+if num == 5624:
+    print('Seu número é par')
+if num == 5625:
+    print('Seu número é ímpar')
+if num == 5626:
+    print('Seu número é par')
+if num == 5627:
+    print('Seu número é ímpar')
+if num == 5628:
+    print('Seu número é par')
+if num == 5629:
+    print('Seu número é ímpar')
+if num == 5630:
+    print('Seu número é par')
+if num == 5631:
+    print('Seu número é ímpar')
+if num == 5632:
+    print('Seu número é par')
+if num == 5633:
+    print('Seu número é ímpar')
+if num == 5634:
+    print('Seu número é par')
+if num == 5635:
+    print('Seu número é ímpar')
+if num == 5636:
+    print('Seu número é par')
+if num == 5637:
+    print('Seu número é ímpar')
+if num == 5638:
+    print('Seu número é par')
+if num == 5639:
+    print('Seu número é ímpar')
+if num == 5640:
+    print('Seu número é par')
+if num == 5641:
+    print('Seu número é ímpar')
+if num == 5642:
+    print('Seu número é par')
+if num == 5643:
+    print('Seu número é ímpar')
+if num == 5644:
+    print('Seu número é par')
+if num == 5645:
+    print('Seu número é ímpar')
+if num == 5646:
+    print('Seu número é par')
+if num == 5647:
+    print('Seu número é ímpar')
+if num == 5648:
+    print('Seu número é par')
+if num == 5649:
+    print('Seu número é ímpar')
+if num == 5650:
+    print('Seu número é par')
+if num == 5651:
+    print('Seu número é ímpar')
+if num == 5652:
+    print('Seu número é par')
+if num == 5653:
+    print('Seu número é ímpar')
+if num == 5654:
+    print('Seu número é par')
+if num == 5655:
+    print('Seu número é ímpar')
+if num == 5656:
+    print('Seu número é par')
+if num == 5657:
+    print('Seu número é ímpar')
+if num == 5658:
+    print('Seu número é par')
+if num == 5659:
+    print('Seu número é ímpar')
+if num == 5660:
+    print('Seu número é par')
+if num == 5661:
+    print('Seu número é ímpar')
+if num == 5662:
+    print('Seu número é par')
+if num == 5663:
+    print('Seu número é ímpar')
+if num == 5664:
+    print('Seu número é par')
+if num == 5665:
+    print('Seu número é ímpar')
+if num == 5666:
+    print('Seu número é par')
+if num == 5667:
+    print('Seu número é ímpar')
+if num == 5668:
+    print('Seu número é par')
+if num == 5669:
+    print('Seu número é ímpar')
+if num == 5670:
+    print('Seu número é par')
+if num == 5671:
+    print('Seu número é ímpar')
+if num == 5672:
+    print('Seu número é par')
+if num == 5673:
+    print('Seu número é ímpar')
+if num == 5674:
+    print('Seu número é par')
+if num == 5675:
+    print('Seu número é ímpar')
+if num == 5676:
+    print('Seu número é par')
+if num == 5677:
+    print('Seu número é ímpar')
+if num == 5678:
+    print('Seu número é par')
+if num == 5679:
+    print('Seu número é ímpar')
+if num == 5680:
+    print('Seu número é par')
+if num == 5681:
+    print('Seu número é ímpar')
+if num == 5682:
+    print('Seu número é par')
+if num == 5683:
+    print('Seu número é ímpar')
+if num == 5684:
+    print('Seu número é par')
+if num == 5685:
+    print('Seu número é ímpar')
+if num == 5686:
+    print('Seu número é par')
+if num == 5687:
+    print('Seu número é ímpar')
+if num == 5688:
+    print('Seu número é par')
+if num == 5689:
+    print('Seu número é ímpar')
+if num == 5690:
+    print('Seu número é par')
+if num == 5691:
+    print('Seu número é ímpar')
+if num == 5692:
+    print('Seu número é par')
+if num == 5693:
+    print('Seu número é ímpar')
+if num == 5694:
+    print('Seu número é par')
+if num == 5695:
+    print('Seu número é ímpar')
+if num == 5696:
+    print('Seu número é par')
+if num == 5697:
+    print('Seu número é ímpar')
+if num == 5698:
+    print('Seu número é par')
+if num == 5699:
+    print('Seu número é ímpar')
+if num == 5700:
+    print('Seu número é par')
+if num == 5701:
+    print('Seu número é ímpar')
+if num == 5702:
+    print('Seu número é par')
+if num == 5703:
+    print('Seu número é ímpar')
+if num == 5704:
+    print('Seu número é par')
+if num == 5705:
+    print('Seu número é ímpar')
+if num == 5706:
+    print('Seu número é par')
+if num == 5707:
+    print('Seu número é ímpar')
+if num == 5708:
+    print('Seu número é par')
+if num == 5709:
+    print('Seu número é ímpar')
+if num == 5710:
+    print('Seu número é par')
+if num == 5711:
+    print('Seu número é ímpar')
+if num == 5712:
+    print('Seu número é par')
+if num == 5713:
+    print('Seu número é ímpar')
+if num == 5714:
+    print('Seu número é par')
+if num == 5715:
+    print('Seu número é ímpar')
+if num == 5716:
+    print('Seu número é par')
+if num == 5717:
+    print('Seu número é ímpar')
+if num == 5718:
+    print('Seu número é par')
+if num == 5719:
+    print('Seu número é ímpar')
+if num == 5720:
+    print('Seu número é par')
+if num == 5721:
+    print('Seu número é ímpar')
+if num == 5722:
+    print('Seu número é par')
+if num == 5723:
+    print('Seu número é ímpar')
+if num == 5724:
+    print('Seu número é par')
+if num == 5725:
+    print('Seu número é ímpar')
+if num == 5726:
+    print('Seu número é par')
+if num == 5727:
+    print('Seu número é ímpar')
+if num == 5728:
+    print('Seu número é par')
+if num == 5729:
+    print('Seu número é ímpar')
+if num == 5730:
+    print('Seu número é par')
+if num == 5731:
+    print('Seu número é ímpar')
+if num == 5732:
+    print('Seu número é par')
+if num == 5733:
+    print('Seu número é ímpar')
+if num == 5734:
+    print('Seu número é par')
+if num == 5735:
+    print('Seu número é ímpar')
+if num == 5736:
+    print('Seu número é par')
+if num == 5737:
+    print('Seu número é ímpar')
+if num == 5738:
+    print('Seu número é par')
+if num == 5739:
+    print('Seu número é ímpar')
+if num == 5740:
+    print('Seu número é par')
+if num == 5741:
+    print('Seu número é ímpar')
+if num == 5742:
+    print('Seu número é par')
+if num == 5743:
+    print('Seu número é ímpar')
+if num == 5744:
+    print('Seu número é par')
+if num == 5745:
+    print('Seu número é ímpar')
+if num == 5746:
+    print('Seu número é par')
+if num == 5747:
+    print('Seu número é ímpar')
+if num == 5748:
+    print('Seu número é par')
+if num == 5749:
+    print('Seu número é ímpar')
+if num == 5750:
+    print('Seu número é par')
+if num == 5751:
+    print('Seu número é ímpar')
+if num == 5752:
+    print('Seu número é par')
+if num == 5753:
+    print('Seu número é ímpar')
+if num == 5754:
+    print('Seu número é par')
+if num == 5755:
+    print('Seu número é ímpar')
+if num == 5756:
+    print('Seu número é par')
+if num == 5757:
+    print('Seu número é ímpar')
+if num == 5758:
+    print('Seu número é par')
+if num == 5759:
+    print('Seu número é ímpar')
+if num == 5760:
+    print('Seu número é par')
+if num == 5761:
+    print('Seu número é ímpar')
+if num == 5762:
+    print('Seu número é par')
+if num == 5763:
+    print('Seu número é ímpar')
+if num == 5764:
+    print('Seu número é par')
+if num == 5765:
+    print('Seu número é ímpar')
+if num == 5766:
+    print('Seu número é par')
+if num == 5767:
+    print('Seu número é ímpar')
+if num == 5768:
+    print('Seu número é par')
+if num == 5769:
+    print('Seu número é ímpar')
+if num == 5770:
+    print('Seu número é par')
+if num == 5771:
+    print('Seu número é ímpar')
+if num == 5772:
+    print('Seu número é par')
+if num == 5773:
+    print('Seu número é ímpar')
+if num == 5774:
+    print('Seu número é par')
+if num == 5775:
+    print('Seu número é ímpar')
+if num == 5776:
+    print('Seu número é par')
+if num == 5777:
+    print('Seu número é ímpar')
+if num == 5778:
+    print('Seu número é par')
+if num == 5779:
+    print('Seu número é ímpar')
+if num == 5780:
+    print('Seu número é par')
+if num == 5781:
+    print('Seu número é ímpar')
+if num == 5782:
+    print('Seu número é par')
+if num == 5783:
+    print('Seu número é ímpar')
+if num == 5784:
+    print('Seu número é par')
+if num == 5785:
+    print('Seu número é ímpar')
+if num == 5786:
+    print('Seu número é par')
+if num == 5787:
+    print('Seu número é ímpar')
+if num == 5788:
+    print('Seu número é par')
+if num == 5789:
+    print('Seu número é ímpar')
+if num == 5790:
+    print('Seu número é par')
+if num == 5791:
+    print('Seu número é ímpar')
+if num == 5792:
+    print('Seu número é par')
+if num == 5793:
+    print('Seu número é ímpar')
+if num == 5794:
+    print('Seu número é par')
+if num == 5795:
+    print('Seu número é ímpar')
+if num == 5796:
+    print('Seu número é par')
+if num == 5797:
+    print('Seu número é ímpar')
+if num == 5798:
+    print('Seu número é par')
+if num == 5799:
+    print('Seu número é ímpar')
+if num == 5800:
+    print('Seu número é par')
+if num == 5801:
+    print('Seu número é ímpar')
+if num == 5802:
+    print('Seu número é par')
+if num == 5803:
+    print('Seu número é ímpar')
+if num == 5804:
+    print('Seu número é par')
+if num == 5805:
+    print('Seu número é ímpar')
+if num == 5806:
+    print('Seu número é par')
+if num == 5807:
+    print('Seu número é ímpar')
+if num == 5808:
+    print('Seu número é par')
+if num == 5809:
+    print('Seu número é ímpar')
+if num == 5810:
+    print('Seu número é par')
+if num == 5811:
+    print('Seu número é ímpar')
+if num == 5812:
+    print('Seu número é par')
+if num == 5813:
+    print('Seu número é ímpar')
+if num == 5814:
+    print('Seu número é par')
+if num == 5815:
+    print('Seu número é ímpar')
+if num == 5816:
+    print('Seu número é par')
+if num == 5817:
+    print('Seu número é ímpar')
+if num == 5818:
+    print('Seu número é par')
+if num == 5819:
+    print('Seu número é ímpar')
+if num == 5820:
+    print('Seu número é par')
+if num == 5821:
+    print('Seu número é ímpar')
+if num == 5822:
+    print('Seu número é par')
+if num == 5823:
+    print('Seu número é ímpar')
+if num == 5824:
+    print('Seu número é par')
+if num == 5825:
+    print('Seu número é ímpar')
+if num == 5826:
+    print('Seu número é par')
+if num == 5827:
+    print('Seu número é ímpar')
+if num == 5828:
+    print('Seu número é par')
+if num == 5829:
+    print('Seu número é ímpar')
+if num == 5830:
+    print('Seu número é par')
+if num == 5831:
+    print('Seu número é ímpar')
+if num == 5832:
+    print('Seu número é par')
+if num == 5833:
+    print('Seu número é ímpar')
+if num == 5834:
+    print('Seu número é par')
+if num == 5835:
+    print('Seu número é ímpar')
+if num == 5836:
+    print('Seu número é par')
+if num == 5837:
+    print('Seu número é ímpar')
+if num == 5838:
+    print('Seu número é par')
+if num == 5839:
+    print('Seu número é ímpar')
+if num == 5840:
+    print('Seu número é par')
+if num == 5841:
+    print('Seu número é ímpar')
+if num == 5842:
+    print('Seu número é par')
+if num == 5843:
+    print('Seu número é ímpar')
+if num == 5844:
+    print('Seu número é par')
+if num == 5845:
+    print('Seu número é ímpar')
+if num == 5846:
+    print('Seu número é par')
+if num == 5847:
+    print('Seu número é ímpar')
+if num == 5848:
+    print('Seu número é par')
+if num == 5849:
+    print('Seu número é ímpar')
+if num == 5850:
+    print('Seu número é par')
+if num == 5851:
+    print('Seu número é ímpar')
+if num == 5852:
+    print('Seu número é par')
+if num == 5853:
+    print('Seu número é ímpar')
+if num == 5854:
+    print('Seu número é par')
+if num == 5855:
+    print('Seu número é ímpar')
+if num == 5856:
+    print('Seu número é par')
+if num == 5857:
+    print('Seu número é ímpar')
+if num == 5858:
+    print('Seu número é par')
+if num == 5859:
+    print('Seu número é ímpar')
+if num == 5860:
+    print('Seu número é par')
+if num == 5861:
+    print('Seu número é ímpar')
+if num == 5862:
+    print('Seu número é par')
+if num == 5863:
+    print('Seu número é ímpar')
+if num == 5864:
+    print('Seu número é par')
+if num == 5865:
+    print('Seu número é ímpar')
+if num == 5866:
+    print('Seu número é par')
+if num == 5867:
+    print('Seu número é ímpar')
+if num == 5868:
+    print('Seu número é par')
+if num == 5869:
+    print('Seu número é ímpar')
+if num == 5870:
+    print('Seu número é par')
+if num == 5871:
+    print('Seu número é ímpar')
+if num == 5872:
+    print('Seu número é par')
+if num == 5873:
+    print('Seu número é ímpar')
+if num == 5874:
+    print('Seu número é par')
+if num == 5875:
+    print('Seu número é ímpar')
+if num == 5876:
+    print('Seu número é par')
+if num == 5877:
+    print('Seu número é ímpar')
+if num == 5878:
+    print('Seu número é par')
+if num == 5879:
+    print('Seu número é ímpar')
+if num == 5880:
+    print('Seu número é par')
+if num == 5881:
+    print('Seu número é ímpar')
+if num == 5882:
+    print('Seu número é par')
+if num == 5883:
+    print('Seu número é ímpar')
+if num == 5884:
+    print('Seu número é par')
+if num == 5885:
+    print('Seu número é ímpar')
+if num == 5886:
+    print('Seu número é par')
+if num == 5887:
+    print('Seu número é ímpar')
+if num == 5888:
+    print('Seu número é par')
+if num == 5889:
+    print('Seu número é ímpar')
+if num == 5890:
+    print('Seu número é par')
+if num == 5891:
+    print('Seu número é ímpar')
+if num == 5892:
+    print('Seu número é par')
+if num == 5893:
+    print('Seu número é ímpar')
+if num == 5894:
+    print('Seu número é par')
+if num == 5895:
+    print('Seu número é ímpar')
+if num == 5896:
+    print('Seu número é par')
+if num == 5897:
+    print('Seu número é ímpar')
+if num == 5898:
+    print('Seu número é par')
+if num == 5899:
+    print('Seu número é ímpar')
+if num == 5900:
+    print('Seu número é par')
+if num == 5901:
+    print('Seu número é ímpar')
+if num == 5902:
+    print('Seu número é par')
+if num == 5903:
+    print('Seu número é ímpar')
+if num == 5904:
+    print('Seu número é par')
+if num == 5905:
+    print('Seu número é ímpar')
+if num == 5906:
+    print('Seu número é par')
+if num == 5907:
+    print('Seu número é ímpar')
+if num == 5908:
+    print('Seu número é par')
+if num == 5909:
+    print('Seu número é ímpar')
+if num == 5910:
+    print('Seu número é par')
+if num == 5911:
+    print('Seu número é ímpar')
+if num == 5912:
+    print('Seu número é par')
+if num == 5913:
+    print('Seu número é ímpar')
+if num == 5914:
+    print('Seu número é par')
+if num == 5915:
+    print('Seu número é ímpar')
+if num == 5916:
+    print('Seu número é par')
+if num == 5917:
+    print('Seu número é ímpar')
+if num == 5918:
+    print('Seu número é par')
+if num == 5919:
+    print('Seu número é ímpar')
+if num == 5920:
+    print('Seu número é par')
+if num == 5921:
+    print('Seu número é ímpar')
+if num == 5922:
+    print('Seu número é par')
+if num == 5923:
+    print('Seu número é ímpar')
+if num == 5924:
+    print('Seu número é par')
+if num == 5925:
+    print('Seu número é ímpar')
+if num == 5926:
+    print('Seu número é par')
+if num == 5927:
+    print('Seu número é ímpar')
+if num == 5928:
+    print('Seu número é par')
+if num == 5929:
+    print('Seu número é ímpar')
+if num == 5930:
+    print('Seu número é par')
+if num == 5931:
+    print('Seu número é ímpar')
+if num == 5932:
+    print('Seu número é par')
+if num == 5933:
+    print('Seu número é ímpar')
+if num == 5934:
+    print('Seu número é par')
+if num == 5935:
+    print('Seu número é ímpar')
+if num == 5936:
+    print('Seu número é par')
+if num == 5937:
+    print('Seu número é ímpar')
+if num == 5938:
+    print('Seu número é par')
+if num == 5939:
+    print('Seu número é ímpar')
+if num == 5940:
+    print('Seu número é par')
+if num == 5941:
+    print('Seu número é ímpar')
+if num == 5942:
+    print('Seu número é par')
+if num == 5943:
+    print('Seu número é ímpar')
+if num == 5944:
+    print('Seu número é par')
+if num == 5945:
+    print('Seu número é ímpar')
+if num == 5946:
+    print('Seu número é par')
+if num == 5947:
+    print('Seu número é ímpar')
+if num == 5948:
+    print('Seu número é par')
+if num == 5949:
+    print('Seu número é ímpar')
+if num == 5950:
+    print('Seu número é par')
+if num == 5951:
+    print('Seu número é ímpar')
+if num == 5952:
+    print('Seu número é par')
+if num == 5953:
+    print('Seu número é ímpar')
+if num == 5954:
+    print('Seu número é par')
+if num == 5955:
+    print('Seu número é ímpar')
+if num == 5956:
+    print('Seu número é par')
+if num == 5957:
+    print('Seu número é ímpar')
+if num == 5958:
+    print('Seu número é par')
+if num == 5959:
+    print('Seu número é ímpar')
+if num == 5960:
+    print('Seu número é par')
+if num == 5961:
+    print('Seu número é ímpar')
+if num == 5962:
+    print('Seu número é par')
+if num == 5963:
+    print('Seu número é ímpar')
+if num == 5964:
+    print('Seu número é par')
+if num == 5965:
+    print('Seu número é ímpar')
+if num == 5966:
+    print('Seu número é par')
+if num == 5967:
+    print('Seu número é ímpar')
+if num == 5968:
+    print('Seu número é par')
+if num == 5969:
+    print('Seu número é ímpar')
+if num == 5970:
+    print('Seu número é par')
+if num == 5971:
+    print('Seu número é ímpar')
+if num == 5972:
+    print('Seu número é par')
+if num == 5973:
+    print('Seu número é ímpar')
+if num == 5974:
+    print('Seu número é par')
+if num == 5975:
+    print('Seu número é ímpar')
+if num == 5976:
+    print('Seu número é par')
+if num == 5977:
+    print('Seu número é ímpar')
+if num == 5978:
+    print('Seu número é par')
+if num == 5979:
+    print('Seu número é ímpar')
+if num == 5980:
+    print('Seu número é par')
+if num == 5981:
+    print('Seu número é ímpar')
+if num == 5982:
+    print('Seu número é par')
+if num == 5983:
+    print('Seu número é ímpar')
+if num == 5984:
+    print('Seu número é par')
+if num == 5985:
+    print('Seu número é ímpar')
+if num == 5986:
+    print('Seu número é par')
+if num == 5987:
+    print('Seu número é ímpar')
+if num == 5988:
+    print('Seu número é par')
+if num == 5989:
+    print('Seu número é ímpar')
+if num == 5990:
+    print('Seu número é par')
+if num == 5991:
+    print('Seu número é ímpar')
+if num == 5992:
+    print('Seu número é par')
+if num == 5993:
+    print('Seu número é ímpar')
+if num == 5994:
+    print('Seu número é par')
+if num == 5995:
+    print('Seu número é ímpar')
+if num == 5996:
+    print('Seu número é par')
+if num == 5997:
+    print('Seu número é ímpar')
+if num == 5998:
+    print('Seu número é par')
+if num == 5999:
+    print('Seu número é ímpar')
+if num == 6000:
+    print('Seu número é par')
+if num == 6001:
+    print('Seu número é ímpar')
+if num == 6002:
+    print('Seu número é par')
+if num == 6003:
+    print('Seu número é ímpar')
+if num == 6004:
+    print('Seu número é par')
+if num == 6005:
+    print('Seu número é ímpar')
+if num == 6006:
+    print('Seu número é par')
+if num == 6007:
+    print('Seu número é ímpar')
+if num == 6008:
+    print('Seu número é par')
+if num == 6009:
+    print('Seu número é ímpar')
+if num == 6010:
+    print('Seu número é par')
+if num == 6011:
+    print('Seu número é ímpar')
+if num == 6012:
+    print('Seu número é par')
+if num == 6013:
+    print('Seu número é ímpar')
+if num == 6014:
+    print('Seu número é par')
+if num == 6015:
+    print('Seu número é ímpar')
+if num == 6016:
+    print('Seu número é par')
+if num == 6017:
+    print('Seu número é ímpar')
+if num == 6018:
+    print('Seu número é par')
+if num == 6019:
+    print('Seu número é ímpar')
+if num == 6020:
+    print('Seu número é par')
+if num == 6021:
+    print('Seu número é ímpar')
+if num == 6022:
+    print('Seu número é par')
+if num == 6023:
+    print('Seu número é ímpar')
+if num == 6024:
+    print('Seu número é par')
+if num == 6025:
+    print('Seu número é ímpar')
+if num == 6026:
+    print('Seu número é par')
+if num == 6027:
+    print('Seu número é ímpar')
+if num == 6028:
+    print('Seu número é par')
+if num == 6029:
+    print('Seu número é ímpar')
+if num == 6030:
+    print('Seu número é par')
+if num == 6031:
+    print('Seu número é ímpar')
+if num == 6032:
+    print('Seu número é par')
+if num == 6033:
+    print('Seu número é ímpar')
+if num == 6034:
+    print('Seu número é par')
+if num == 6035:
+    print('Seu número é ímpar')
+if num == 6036:
+    print('Seu número é par')
+if num == 6037:
+    print('Seu número é ímpar')
+if num == 6038:
+    print('Seu número é par')
+if num == 6039:
+    print('Seu número é ímpar')
+if num == 6040:
+    print('Seu número é par')
+if num == 6041:
+    print('Seu número é ímpar')
+if num == 6042:
+    print('Seu número é par')
+if num == 6043:
+    print('Seu número é ímpar')
+if num == 6044:
+    print('Seu número é par')
+if num == 6045:
+    print('Seu número é ímpar')
+if num == 6046:
+    print('Seu número é par')
+if num == 6047:
+    print('Seu número é ímpar')
+if num == 6048:
+    print('Seu número é par')
+if num == 6049:
+    print('Seu número é ímpar')
+if num == 6050:
+    print('Seu número é par')
+if num == 6051:
+    print('Seu número é ímpar')
+if num == 6052:
+    print('Seu número é par')
+if num == 6053:
+    print('Seu número é ímpar')
+if num == 6054:
+    print('Seu número é par')
+if num == 6055:
+    print('Seu número é ímpar')
+if num == 6056:
+    print('Seu número é par')
+if num == 6057:
+    print('Seu número é ímpar')
+if num == 6058:
+    print('Seu número é par')
+if num == 6059:
+    print('Seu número é ímpar')
+if num == 6060:
+    print('Seu número é par')
+if num == 6061:
+    print('Seu número é ímpar')
+if num == 6062:
+    print('Seu número é par')
+if num == 6063:
+    print('Seu número é ímpar')
+if num == 6064:
+    print('Seu número é par')
+if num == 6065:
+    print('Seu número é ímpar')
+if num == 6066:
+    print('Seu número é par')
+if num == 6067:
+    print('Seu número é ímpar')
+if num == 6068:
+    print('Seu número é par')
+if num == 6069:
+    print('Seu número é ímpar')
+if num == 6070:
+    print('Seu número é par')
+if num == 6071:
+    print('Seu número é ímpar')
+if num == 6072:
+    print('Seu número é par')
+if num == 6073:
+    print('Seu número é ímpar')
+if num == 6074:
+    print('Seu número é par')
+if num == 6075:
+    print('Seu número é ímpar')
+if num == 6076:
+    print('Seu número é par')
+if num == 6077:
+    print('Seu número é ímpar')
+if num == 6078:
+    print('Seu número é par')
+if num == 6079:
+    print('Seu número é ímpar')
+if num == 6080:
+    print('Seu número é par')
+if num == 6081:
+    print('Seu número é ímpar')
+if num == 6082:
+    print('Seu número é par')
+if num == 6083:
+    print('Seu número é ímpar')
+if num == 6084:
+    print('Seu número é par')
+if num == 6085:
+    print('Seu número é ímpar')
+if num == 6086:
+    print('Seu número é par')
+if num == 6087:
+    print('Seu número é ímpar')
+if num == 6088:
+    print('Seu número é par')
+if num == 6089:
+    print('Seu número é ímpar')
+if num == 6090:
+    print('Seu número é par')
+if num == 6091:
+    print('Seu número é ímpar')
+if num == 6092:
+    print('Seu número é par')
+if num == 6093:
+    print('Seu número é ímpar')
+if num == 6094:
+    print('Seu número é par')
+if num == 6095:
+    print('Seu número é ímpar')
+if num == 6096:
+    print('Seu número é par')
+if num == 6097:
+    print('Seu número é ímpar')
+if num == 6098:
+    print('Seu número é par')
+if num == 6099:
+    print('Seu número é ímpar')
+if num == 6100:
+    print('Seu número é par')
+if num == 6101:
+    print('Seu número é ímpar')
+if num == 6102:
+    print('Seu número é par')
+if num == 6103:
+    print('Seu número é ímpar')
+if num == 6104:
+    print('Seu número é par')
+if num == 6105:
+    print('Seu número é ímpar')
+if num == 6106:
+    print('Seu número é par')
+if num == 6107:
+    print('Seu número é ímpar')
+if num == 6108:
+    print('Seu número é par')
+if num == 6109:
+    print('Seu número é ímpar')
+if num == 6110:
+    print('Seu número é par')
+if num == 6111:
+    print('Seu número é ímpar')
+if num == 6112:
+    print('Seu número é par')
+if num == 6113:
+    print('Seu número é ímpar')
+if num == 6114:
+    print('Seu número é par')
+if num == 6115:
+    print('Seu número é ímpar')
+if num == 6116:
+    print('Seu número é par')
+if num == 6117:
+    print('Seu número é ímpar')
+if num == 6118:
+    print('Seu número é par')
+if num == 6119:
+    print('Seu número é ímpar')
+if num == 6120:
+    print('Seu número é par')
+if num == 6121:
+    print('Seu número é ímpar')
+if num == 6122:
+    print('Seu número é par')
+if num == 6123:
+    print('Seu número é ímpar')
+if num == 6124:
+    print('Seu número é par')
+if num == 6125:
+    print('Seu número é ímpar')
+if num == 6126:
+    print('Seu número é par')
+if num == 6127:
+    print('Seu número é ímpar')
+if num == 6128:
+    print('Seu número é par')
+if num == 6129:
+    print('Seu número é ímpar')
+if num == 6130:
+    print('Seu número é par')
+if num == 6131:
+    print('Seu número é ímpar')
+if num == 6132:
+    print('Seu número é par')
+if num == 6133:
+    print('Seu número é ímpar')
+if num == 6134:
+    print('Seu número é par')
+if num == 6135:
+    print('Seu número é ímpar')
+if num == 6136:
+    print('Seu número é par')
+if num == 6137:
+    print('Seu número é ímpar')
+if num == 6138:
+    print('Seu número é par')
+if num == 6139:
+    print('Seu número é ímpar')
+if num == 6140:
+    print('Seu número é par')
+if num == 6141:
+    print('Seu número é ímpar')
+if num == 6142:
+    print('Seu número é par')
+if num == 6143:
+    print('Seu número é ímpar')
+if num == 6144:
+    print('Seu número é par')
+if num == 6145:
+    print('Seu número é ímpar')
+if num == 6146:
+    print('Seu número é par')
+if num == 6147:
+    print('Seu número é ímpar')
+if num == 6148:
+    print('Seu número é par')
+if num == 6149:
+    print('Seu número é ímpar')
+if num == 6150:
+    print('Seu número é par')
+if num == 6151:
+    print('Seu número é ímpar')
+if num == 6152:
+    print('Seu número é par')
+if num == 6153:
+    print('Seu número é ímpar')
+if num == 6154:
+    print('Seu número é par')
+if num == 6155:
+    print('Seu número é ímpar')
+if num == 6156:
+    print('Seu número é par')
+if num == 6157:
+    print('Seu número é ímpar')
+if num == 6158:
+    print('Seu número é par')
+if num == 6159:
+    print('Seu número é ímpar')
+if num == 6160:
+    print('Seu número é par')
+if num == 6161:
+    print('Seu número é ímpar')
+if num == 6162:
+    print('Seu número é par')
+if num == 6163:
+    print('Seu número é ímpar')
+if num == 6164:
+    print('Seu número é par')
+if num == 6165:
+    print('Seu número é ímpar')
+if num == 6166:
+    print('Seu número é par')
+if num == 6167:
+    print('Seu número é ímpar')
+if num == 6168:
+    print('Seu número é par')
+if num == 6169:
+    print('Seu número é ímpar')
+if num == 6170:
+    print('Seu número é par')
+if num == 6171:
+    print('Seu número é ímpar')
+if num == 6172:
+    print('Seu número é par')
+if num == 6173:
+    print('Seu número é ímpar')
+if num == 6174:
+    print('Seu número é par')
+if num == 6175:
+    print('Seu número é ímpar')
+if num == 6176:
+    print('Seu número é par')
+if num == 6177:
+    print('Seu número é ímpar')
+if num == 6178:
+    print('Seu número é par')
+if num == 6179:
+    print('Seu número é ímpar')
+if num == 6180:
+    print('Seu número é par')
+if num == 6181:
+    print('Seu número é ímpar')
+if num == 6182:
+    print('Seu número é par')
+if num == 6183:
+    print('Seu número é ímpar')
+if num == 6184:
+    print('Seu número é par')
+if num == 6185:
+    print('Seu número é ímpar')
+if num == 6186:
+    print('Seu número é par')
+if num == 6187:
+    print('Seu número é ímpar')
+if num == 6188:
+    print('Seu número é par')
+if num == 6189:
+    print('Seu número é ímpar')
+if num == 6190:
+    print('Seu número é par')
+if num == 6191:
+    print('Seu número é ímpar')
+if num == 6192:
+    print('Seu número é par')
+if num == 6193:
+    print('Seu número é ímpar')
+if num == 6194:
+    print('Seu número é par')
+if num == 6195:
+    print('Seu número é ímpar')
+if num == 6196:
+    print('Seu número é par')
+if num == 6197:
+    print('Seu número é ímpar')
+if num == 6198:
+    print('Seu número é par')
+if num == 6199:
+    print('Seu número é ímpar')
+if num == 6200:
+    print('Seu número é par')
+if num == 6201:
+    print('Seu número é ímpar')
+if num == 6202:
+    print('Seu número é par')
+if num == 6203:
+    print('Seu número é ímpar')
+if num == 6204:
+    print('Seu número é par')
+if num == 6205:
+    print('Seu número é ímpar')
+if num == 6206:
+    print('Seu número é par')
+if num == 6207:
+    print('Seu número é ímpar')
+if num == 6208:
+    print('Seu número é par')
+if num == 6209:
+    print('Seu número é ímpar')
+if num == 6210:
+    print('Seu número é par')
+if num == 6211:
+    print('Seu número é ímpar')
+if num == 6212:
+    print('Seu número é par')
+if num == 6213:
+    print('Seu número é ímpar')
+if num == 6214:
+    print('Seu número é par')
+if num == 6215:
+    print('Seu número é ímpar')
+if num == 6216:
+    print('Seu número é par')
+if num == 6217:
+    print('Seu número é ímpar')
+if num == 6218:
+    print('Seu número é par')
+if num == 6219:
+    print('Seu número é ímpar')
+if num == 6220:
+    print('Seu número é par')
+if num == 6221:
+    print('Seu número é ímpar')
+if num == 6222:
+    print('Seu número é par')
+if num == 6223:
+    print('Seu número é ímpar')
+if num == 6224:
+    print('Seu número é par')
+if num == 6225:
+    print('Seu número é ímpar')
+if num == 6226:
+    print('Seu número é par')
+if num == 6227:
+    print('Seu número é ímpar')
+if num == 6228:
+    print('Seu número é par')
+if num == 6229:
+    print('Seu número é ímpar')
+if num == 6230:
+    print('Seu número é par')
+if num == 6231:
+    print('Seu número é ímpar')
+if num == 6232:
+    print('Seu número é par')
+if num == 6233:
+    print('Seu número é ímpar')
+if num == 6234:
+    print('Seu número é par')
+if num == 6235:
+    print('Seu número é ímpar')
+if num == 6236:
+    print('Seu número é par')
+if num == 6237:
+    print('Seu número é ímpar')
+if num == 6238:
+    print('Seu número é par')
+if num == 6239:
+    print('Seu número é ímpar')
+if num == 6240:
+    print('Seu número é par')
+if num == 6241:
+    print('Seu número é ímpar')
+if num == 6242:
+    print('Seu número é par')
+if num == 6243:
+    print('Seu número é ímpar')
+if num == 6244:
+    print('Seu número é par')
+if num == 6245:
+    print('Seu número é ímpar')
+if num == 6246:
+    print('Seu número é par')
+if num == 6247:
+    print('Seu número é ímpar')
+if num == 6248:
+    print('Seu número é par')
+if num == 6249:
+    print('Seu número é ímpar')
+if num == 6250:
+    print('Seu número é par')
+if num == 6251:
+    print('Seu número é ímpar')
+if num == 6252:
+    print('Seu número é par')
+if num == 6253:
+    print('Seu número é ímpar')
+if num == 6254:
+    print('Seu número é par')
+if num == 6255:
+    print('Seu número é ímpar')
+if num == 6256:
+    print('Seu número é par')
+if num == 6257:
+    print('Seu número é ímpar')
+if num == 6258:
+    print('Seu número é par')
+if num == 6259:
+    print('Seu número é ímpar')
+if num == 6260:
+    print('Seu número é par')
+if num == 6261:
+    print('Seu número é ímpar')
+if num == 6262:
+    print('Seu número é par')
+if num == 6263:
+    print('Seu número é ímpar')
+if num == 6264:
+    print('Seu número é par')
+if num == 6265:
+    print('Seu número é ímpar')
+if num == 6266:
+    print('Seu número é par')
+if num == 6267:
+    print('Seu número é ímpar')
+if num == 6268:
+    print('Seu número é par')
+if num == 6269:
+    print('Seu número é ímpar')
+if num == 6270:
+    print('Seu número é par')
+if num == 6271:
+    print('Seu número é ímpar')
+if num == 6272:
+    print('Seu número é par')
+if num == 6273:
+    print('Seu número é ímpar')
+if num == 6274:
+    print('Seu número é par')
+if num == 6275:
+    print('Seu número é ímpar')
+if num == 6276:
+    print('Seu número é par')
+if num == 6277:
+    print('Seu número é ímpar')
+if num == 6278:
+    print('Seu número é par')
+if num == 6279:
+    print('Seu número é ímpar')
+if num == 6280:
+    print('Seu número é par')
+if num == 6281:
+    print('Seu número é ímpar')
+if num == 6282:
+    print('Seu número é par')
+if num == 6283:
+    print('Seu número é ímpar')
+if num == 6284:
+    print('Seu número é par')
+if num == 6285:
+    print('Seu número é ímpar')
+if num == 6286:
+    print('Seu número é par')
+if num == 6287:
+    print('Seu número é ímpar')
+if num == 6288:
+    print('Seu número é par')
+if num == 6289:
+    print('Seu número é ímpar')
+if num == 6290:
+    print('Seu número é par')
+if num == 6291:
+    print('Seu número é ímpar')
+if num == 6292:
+    print('Seu número é par')
+if num == 6293:
+    print('Seu número é ímpar')
+if num == 6294:
+    print('Seu número é par')
+if num == 6295:
+    print('Seu número é ímpar')
+if num == 6296:
+    print('Seu número é par')
+if num == 6297:
+    print('Seu número é ímpar')
+if num == 6298:
+    print('Seu número é par')
+if num == 6299:
+    print('Seu número é ímpar')
+if num == 6300:
+    print('Seu número é par')
+if num == 6301:
+    print('Seu número é ímpar')
+if num == 6302:
+    print('Seu número é par')
+if num == 6303:
+    print('Seu número é ímpar')
+if num == 6304:
+    print('Seu número é par')
+if num == 6305:
+    print('Seu número é ímpar')
+if num == 6306:
+    print('Seu número é par')
+if num == 6307:
+    print('Seu número é ímpar')
+if num == 6308:
+    print('Seu número é par')
+if num == 6309:
+    print('Seu número é ímpar')
+if num == 6310:
+    print('Seu número é par')
+if num == 6311:
+    print('Seu número é ímpar')
+if num == 6312:
+    print('Seu número é par')
+if num == 6313:
+    print('Seu número é ímpar')
+if num == 6314:
+    print('Seu número é par')
+if num == 6315:
+    print('Seu número é ímpar')
+if num == 6316:
+    print('Seu número é par')
+if num == 6317:
+    print('Seu número é ímpar')
+if num == 6318:
+    print('Seu número é par')
+if num == 6319:
+    print('Seu número é ímpar')
+if num == 6320:
+    print('Seu número é par')
+if num == 6321:
+    print('Seu número é ímpar')
+if num == 6322:
+    print('Seu número é par')
+if num == 6323:
+    print('Seu número é ímpar')
+if num == 6324:
+    print('Seu número é par')
+if num == 6325:
+    print('Seu número é ímpar')
+if num == 6326:
+    print('Seu número é par')
+if num == 6327:
+    print('Seu número é ímpar')
+if num == 6328:
+    print('Seu número é par')
+if num == 6329:
+    print('Seu número é ímpar')
+if num == 6330:
+    print('Seu número é par')
+if num == 6331:
+    print('Seu número é ímpar')
+if num == 6332:
+    print('Seu número é par')
+if num == 6333:
+    print('Seu número é ímpar')
+if num == 6334:
+    print('Seu número é par')
+if num == 6335:
+    print('Seu número é ímpar')
+if num == 6336:
+    print('Seu número é par')
+if num == 6337:
+    print('Seu número é ímpar')
+if num == 6338:
+    print('Seu número é par')
+if num == 6339:
+    print('Seu número é ímpar')
+if num == 6340:
+    print('Seu número é par')
+if num == 6341:
+    print('Seu número é ímpar')
+if num == 6342:
+    print('Seu número é par')
+if num == 6343:
+    print('Seu número é ímpar')
+if num == 6344:
+    print('Seu número é par')
+if num == 6345:
+    print('Seu número é ímpar')
+if num == 6346:
+    print('Seu número é par')
+if num == 6347:
+    print('Seu número é ímpar')
+if num == 6348:
+    print('Seu número é par')
+if num == 6349:
+    print('Seu número é ímpar')
+if num == 6350:
+    print('Seu número é par')
+if num == 6351:
+    print('Seu número é ímpar')
+if num == 6352:
+    print('Seu número é par')
+if num == 6353:
+    print('Seu número é ímpar')
+if num == 6354:
+    print('Seu número é par')
+if num == 6355:
+    print('Seu número é ímpar')
+if num == 6356:
+    print('Seu número é par')
+if num == 6357:
+    print('Seu número é ímpar')
+if num == 6358:
+    print('Seu número é par')
+if num == 6359:
+    print('Seu número é ímpar')
+if num == 6360:
+    print('Seu número é par')
+if num == 6361:
+    print('Seu número é ímpar')
+if num == 6362:
+    print('Seu número é par')
+if num == 6363:
+    print('Seu número é ímpar')
+if num == 6364:
+    print('Seu número é par')
+if num == 6365:
+    print('Seu número é ímpar')
+if num == 6366:
+    print('Seu número é par')
+if num == 6367:
+    print('Seu número é ímpar')
+if num == 6368:
+    print('Seu número é par')
+if num == 6369:
+    print('Seu número é ímpar')
+if num == 6370:
+    print('Seu número é par')
+if num == 6371:
+    print('Seu número é ímpar')
+if num == 6372:
+    print('Seu número é par')
+if num == 6373:
+    print('Seu número é ímpar')
+if num == 6374:
+    print('Seu número é par')
+if num == 6375:
+    print('Seu número é ímpar')
+if num == 6376:
+    print('Seu número é par')
+if num == 6377:
+    print('Seu número é ímpar')
+if num == 6378:
+    print('Seu número é par')
+if num == 6379:
+    print('Seu número é ímpar')
+if num == 6380:
+    print('Seu número é par')
+if num == 6381:
+    print('Seu número é ímpar')
+if num == 6382:
+    print('Seu número é par')
+if num == 6383:
+    print('Seu número é ímpar')
+if num == 6384:
+    print('Seu número é par')
+if num == 6385:
+    print('Seu número é ímpar')
+if num == 6386:
+    print('Seu número é par')
+if num == 6387:
+    print('Seu número é ímpar')
+if num == 6388:
+    print('Seu número é par')
+if num == 6389:
+    print('Seu número é ímpar')
+if num == 6390:
+    print('Seu número é par')
+if num == 6391:
+    print('Seu número é ímpar')
+if num == 6392:
+    print('Seu número é par')
+if num == 6393:
+    print('Seu número é ímpar')
+if num == 6394:
+    print('Seu número é par')
+if num == 6395:
+    print('Seu número é ímpar')
+if num == 6396:
+    print('Seu número é par')
+if num == 6397:
+    print('Seu número é ímpar')
+if num == 6398:
+    print('Seu número é par')
+if num == 6399:
+    print('Seu número é ímpar')
+if num == 6400:
+    print('Seu número é par')
+if num == 6401:
+    print('Seu número é ímpar')
+if num == 6402:
+    print('Seu número é par')
+if num == 6403:
+    print('Seu número é ímpar')
+if num == 6404:
+    print('Seu número é par')
+if num == 6405:
+    print('Seu número é ímpar')
+if num == 6406:
+    print('Seu número é par')
+if num == 6407:
+    print('Seu número é ímpar')
+if num == 6408:
+    print('Seu número é par')
+if num == 6409:
+    print('Seu número é ímpar')
+if num == 6410:
+    print('Seu número é par')
+if num == 6411:
+    print('Seu número é ímpar')
+if num == 6412:
+    print('Seu número é par')
+if num == 6413:
+    print('Seu número é ímpar')
+if num == 6414:
+    print('Seu número é par')
+if num == 6415:
+    print('Seu número é ímpar')
+if num == 6416:
+    print('Seu número é par')
+if num == 6417:
+    print('Seu número é ímpar')
+if num == 6418:
+    print('Seu número é par')
+if num == 6419:
+    print('Seu número é ímpar')
+if num == 6420:
+    print('Seu número é par')
+if num == 6421:
+    print('Seu número é ímpar')
+if num == 6422:
+    print('Seu número é par')
+if num == 6423:
+    print('Seu número é ímpar')
+if num == 6424:
+    print('Seu número é par')
+if num == 6425:
+    print('Seu número é ímpar')
+if num == 6426:
+    print('Seu número é par')
+if num == 6427:
+    print('Seu número é ímpar')
+if num == 6428:
+    print('Seu número é par')
+if num == 6429:
+    print('Seu número é ímpar')
+if num == 6430:
+    print('Seu número é par')
+if num == 6431:
+    print('Seu número é ímpar')
+if num == 6432:
+    print('Seu número é par')
+if num == 6433:
+    print('Seu número é ímpar')
+if num == 6434:
+    print('Seu número é par')
+if num == 6435:
+    print('Seu número é ímpar')
+if num == 6436:
+    print('Seu número é par')
+if num == 6437:
+    print('Seu número é ímpar')
+if num == 6438:
+    print('Seu número é par')
+if num == 6439:
+    print('Seu número é ímpar')
+if num == 6440:
+    print('Seu número é par')
+if num == 6441:
+    print('Seu número é ímpar')
+if num == 6442:
+    print('Seu número é par')
+if num == 6443:
+    print('Seu número é ímpar')
+if num == 6444:
+    print('Seu número é par')
+if num == 6445:
+    print('Seu número é ímpar')
+if num == 6446:
+    print('Seu número é par')
+if num == 6447:
+    print('Seu número é ímpar')
+if num == 6448:
+    print('Seu número é par')
+if num == 6449:
+    print('Seu número é ímpar')
+if num == 6450:
+    print('Seu número é par')
+if num == 6451:
+    print('Seu número é ímpar')
+if num == 6452:
+    print('Seu número é par')
+if num == 6453:
+    print('Seu número é ímpar')
+if num == 6454:
+    print('Seu número é par')
+if num == 6455:
+    print('Seu número é ímpar')
+if num == 6456:
+    print('Seu número é par')
+if num == 6457:
+    print('Seu número é ímpar')
+if num == 6458:
+    print('Seu número é par')
+if num == 6459:
+    print('Seu número é ímpar')
+if num == 6460:
+    print('Seu número é par')
+if num == 6461:
+    print('Seu número é ímpar')
+if num == 6462:
+    print('Seu número é par')
+if num == 6463:
+    print('Seu número é ímpar')
+if num == 6464:
+    print('Seu número é par')
+if num == 6465:
+    print('Seu número é ímpar')
+if num == 6466:
+    print('Seu número é par')
+if num == 6467:
+    print('Seu número é ímpar')
+if num == 6468:
+    print('Seu número é par')
+if num == 6469:
+    print('Seu número é ímpar')
+if num == 6470:
+    print('Seu número é par')
+if num == 6471:
+    print('Seu número é ímpar')
+if num == 6472:
+    print('Seu número é par')
+if num == 6473:
+    print('Seu número é ímpar')
+if num == 6474:
+    print('Seu número é par')
+if num == 6475:
+    print('Seu número é ímpar')
+if num == 6476:
+    print('Seu número é par')
+if num == 6477:
+    print('Seu número é ímpar')
+if num == 6478:
+    print('Seu número é par')
+if num == 6479:
+    print('Seu número é ímpar')
+if num == 6480:
+    print('Seu número é par')
+if num == 6481:
+    print('Seu número é ímpar')
+if num == 6482:
+    print('Seu número é par')
+if num == 6483:
+    print('Seu número é ímpar')
+if num == 6484:
+    print('Seu número é par')
+if num == 6485:
+    print('Seu número é ímpar')
+if num == 6486:
+    print('Seu número é par')
+if num == 6487:
+    print('Seu número é ímpar')
+if num == 6488:
+    print('Seu número é par')
+if num == 6489:
+    print('Seu número é ímpar')
+if num == 6490:
+    print('Seu número é par')
+if num == 6491:
+    print('Seu número é ímpar')
+if num == 6492:
+    print('Seu número é par')
+if num == 6493:
+    print('Seu número é ímpar')
+if num == 6494:
+    print('Seu número é par')
+if num == 6495:
+    print('Seu número é ímpar')
+if num == 6496:
+    print('Seu número é par')
+if num == 6497:
+    print('Seu número é ímpar')
+if num == 6498:
+    print('Seu número é par')
+if num == 6499:
+    print('Seu número é ímpar')
+if num == 6500:
+    print('Seu número é par')
+if num == 6501:
+    print('Seu número é ímpar')
+if num == 6502:
+    print('Seu número é par')
+if num == 6503:
+    print('Seu número é ímpar')
+if num == 6504:
+    print('Seu número é par')
+if num == 6505:
+    print('Seu número é ímpar')
+if num == 6506:
+    print('Seu número é par')
+if num == 6507:
+    print('Seu número é ímpar')
+if num == 6508:
+    print('Seu número é par')
+if num == 6509:
+    print('Seu número é ímpar')
+if num == 6510:
+    print('Seu número é par')
+if num == 6511:
+    print('Seu número é ímpar')
+if num == 6512:
+    print('Seu número é par')
+if num == 6513:
+    print('Seu número é ímpar')
+if num == 6514:
+    print('Seu número é par')
+if num == 6515:
+    print('Seu número é ímpar')
+if num == 6516:
+    print('Seu número é par')
+if num == 6517:
+    print('Seu número é ímpar')
+if num == 6518:
+    print('Seu número é par')
+if num == 6519:
+    print('Seu número é ímpar')
+if num == 6520:
+    print('Seu número é par')
+if num == 6521:
+    print('Seu número é ímpar')
+if num == 6522:
+    print('Seu número é par')
+if num == 6523:
+    print('Seu número é ímpar')
+if num == 6524:
+    print('Seu número é par')
+if num == 6525:
+    print('Seu número é ímpar')
+if num == 6526:
+    print('Seu número é par')
+if num == 6527:
+    print('Seu número é ímpar')
+if num == 6528:
+    print('Seu número é par')
+if num == 6529:
+    print('Seu número é ímpar')
+if num == 6530:
+    print('Seu número é par')
+if num == 6531:
+    print('Seu número é ímpar')
+if num == 6532:
+    print('Seu número é par')
+if num == 6533:
+    print('Seu número é ímpar')
+if num == 6534:
+    print('Seu número é par')
+if num == 6535:
+    print('Seu número é ímpar')
+if num == 6536:
+    print('Seu número é par')
+if num == 6537:
+    print('Seu número é ímpar')
+if num == 6538:
+    print('Seu número é par')
+if num == 6539:
+    print('Seu número é ímpar')
+if num == 6540:
+    print('Seu número é par')
+if num == 6541:
+    print('Seu número é ímpar')
+if num == 6542:
+    print('Seu número é par')
+if num == 6543:
+    print('Seu número é ímpar')
+if num == 6544:
+    print('Seu número é par')
+if num == 6545:
+    print('Seu número é ímpar')
+if num == 6546:
+    print('Seu número é par')
+if num == 6547:
+    print('Seu número é ímpar')
+if num == 6548:
+    print('Seu número é par')
+if num == 6549:
+    print('Seu número é ímpar')
+if num == 6550:
+    print('Seu número é par')
+if num == 6551:
+    print('Seu número é ímpar')
+if num == 6552:
+    print('Seu número é par')
+if num == 6553:
+    print('Seu número é ímpar')
+if num == 6554:
+    print('Seu número é par')
+if num == 6555:
+    print('Seu número é ímpar')
+if num == 6556:
+    print('Seu número é par')
+if num == 6557:
+    print('Seu número é ímpar')
+if num == 6558:
+    print('Seu número é par')
+if num == 6559:
+    print('Seu número é ímpar')
+if num == 6560:
+    print('Seu número é par')
+if num == 6561:
+    print('Seu número é ímpar')
+if num == 6562:
+    print('Seu número é par')
+if num == 6563:
+    print('Seu número é ímpar')
+if num == 6564:
+    print('Seu número é par')
+if num == 6565:
+    print('Seu número é ímpar')
+if num == 6566:
+    print('Seu número é par')
+if num == 6567:
+    print('Seu número é ímpar')
+if num == 6568:
+    print('Seu número é par')
+if num == 6569:
+    print('Seu número é ímpar')
+if num == 6570:
+    print('Seu número é par')
+if num == 6571:
+    print('Seu número é ímpar')
+if num == 6572:
+    print('Seu número é par')
+if num == 6573:
+    print('Seu número é ímpar')
+if num == 6574:
+    print('Seu número é par')
+if num == 6575:
+    print('Seu número é ímpar')
+if num == 6576:
+    print('Seu número é par')
+if num == 6577:
+    print('Seu número é ímpar')
+if num == 6578:
+    print('Seu número é par')
+if num == 6579:
+    print('Seu número é ímpar')
+if num == 6580:
+    print('Seu número é par')
+if num == 6581:
+    print('Seu número é ímpar')
+if num == 6582:
+    print('Seu número é par')
+if num == 6583:
+    print('Seu número é ímpar')
+if num == 6584:
+    print('Seu número é par')
+if num == 6585:
+    print('Seu número é ímpar')
+if num == 6586:
+    print('Seu número é par')
+if num == 6587:
+    print('Seu número é ímpar')
+if num == 6588:
+    print('Seu número é par')
+if num == 6589:
+    print('Seu número é ímpar')
+if num == 6590:
+    print('Seu número é par')
+if num == 6591:
+    print('Seu número é ímpar')
+if num == 6592:
+    print('Seu número é par')
+if num == 6593:
+    print('Seu número é ímpar')
+if num == 6594:
+    print('Seu número é par')
+if num == 6595:
+    print('Seu número é ímpar')
+if num == 6596:
+    print('Seu número é par')
+if num == 6597:
+    print('Seu número é ímpar')
+if num == 6598:
+    print('Seu número é par')
+if num == 6599:
+    print('Seu número é ímpar')
+if num == 6600:
+    print('Seu número é par')
+if num == 6601:
+    print('Seu número é ímpar')
+if num == 6602:
+    print('Seu número é par')
+if num == 6603:
+    print('Seu número é ímpar')
+if num == 6604:
+    print('Seu número é par')
+if num == 6605:
+    print('Seu número é ímpar')
+if num == 6606:
+    print('Seu número é par')
+if num == 6607:
+    print('Seu número é ímpar')
+if num == 6608:
+    print('Seu número é par')
+if num == 6609:
+    print('Seu número é ímpar')
+if num == 6610:
+    print('Seu número é par')
+if num == 6611:
+    print('Seu número é ímpar')
+if num == 6612:
+    print('Seu número é par')
+if num == 6613:
+    print('Seu número é ímpar')
+if num == 6614:
+    print('Seu número é par')
+if num == 6615:
+    print('Seu número é ímpar')
+if num == 6616:
+    print('Seu número é par')
+if num == 6617:
+    print('Seu número é ímpar')
+if num == 6618:
+    print('Seu número é par')
+if num == 6619:
+    print('Seu número é ímpar')
+if num == 6620:
+    print('Seu número é par')
+if num == 6621:
+    print('Seu número é ímpar')
+if num == 6622:
+    print('Seu número é par')
+if num == 6623:
+    print('Seu número é ímpar')
+if num == 6624:
+    print('Seu número é par')
+if num == 6625:
+    print('Seu número é ímpar')
+if num == 6626:
+    print('Seu número é par')
+if num == 6627:
+    print('Seu número é ímpar')
+if num == 6628:
+    print('Seu número é par')
+if num == 6629:
+    print('Seu número é ímpar')
+if num == 6630:
+    print('Seu número é par')
+if num == 6631:
+    print('Seu número é ímpar')
+if num == 6632:
+    print('Seu número é par')
+if num == 6633:
+    print('Seu número é ímpar')
+if num == 6634:
+    print('Seu número é par')
+if num == 6635:
+    print('Seu número é ímpar')
+if num == 6636:
+    print('Seu número é par')
+if num == 6637:
+    print('Seu número é ímpar')
+if num == 6638:
+    print('Seu número é par')
+if num == 6639:
+    print('Seu número é ímpar')
+if num == 6640:
+    print('Seu número é par')
+if num == 6641:
+    print('Seu número é ímpar')
+if num == 6642:
+    print('Seu número é par')
+if num == 6643:
+    print('Seu número é ímpar')
+if num == 6644:
+    print('Seu número é par')
+if num == 6645:
+    print('Seu número é ímpar')
+if num == 6646:
+    print('Seu número é par')
+if num == 6647:
+    print('Seu número é ímpar')
+if num == 6648:
+    print('Seu número é par')
+if num == 6649:
+    print('Seu número é ímpar')
+if num == 6650:
+    print('Seu número é par')
+if num == 6651:
+    print('Seu número é ímpar')
+if num == 6652:
+    print('Seu número é par')
+if num == 6653:
+    print('Seu número é ímpar')
+if num == 6654:
+    print('Seu número é par')
+if num == 6655:
+    print('Seu número é ímpar')
+if num == 6656:
+    print('Seu número é par')
+if num == 6657:
+    print('Seu número é ímpar')
+if num == 6658:
+    print('Seu número é par')
+if num == 6659:
+    print('Seu número é ímpar')
+if num == 6660:
+    print('Seu número é par')
+if num == 6661:
+    print('Seu número é ímpar')
+if num == 6662:
+    print('Seu número é par')
+if num == 6663:
+    print('Seu número é ímpar')
+if num == 6664:
+    print('Seu número é par')
+if num == 6665:
+    print('Seu número é ímpar')
+if num == 6666:
+    print('Seu número é par')
+if num == 6667:
+    print('Seu número é ímpar')
+if num == 6668:
+    print('Seu número é par')
+if num == 6669:
+    print('Seu número é ímpar')
+if num == 6670:
+    print('Seu número é par')
+if num == 6671:
+    print('Seu número é ímpar')
+if num == 6672:
+    print('Seu número é par')
+if num == 6673:
+    print('Seu número é ímpar')
+if num == 6674:
+    print('Seu número é par')
+if num == 6675:
+    print('Seu número é ímpar')
+if num == 6676:
+    print('Seu número é par')
+if num == 6677:
+    print('Seu número é ímpar')
+if num == 6678:
+    print('Seu número é par')
+if num == 6679:
+    print('Seu número é ímpar')
+if num == 6680:
+    print('Seu número é par')
+if num == 6681:
+    print('Seu número é ímpar')
+if num == 6682:
+    print('Seu número é par')
+if num == 6683:
+    print('Seu número é ímpar')
+if num == 6684:
+    print('Seu número é par')
+if num == 6685:
+    print('Seu número é ímpar')
+if num == 6686:
+    print('Seu número é par')
+if num == 6687:
+    print('Seu número é ímpar')
+if num == 6688:
+    print('Seu número é par')
+if num == 6689:
+    print('Seu número é ímpar')
+if num == 6690:
+    print('Seu número é par')
+if num == 6691:
+    print('Seu número é ímpar')
+if num == 6692:
+    print('Seu número é par')
+if num == 6693:
+    print('Seu número é ímpar')
+if num == 6694:
+    print('Seu número é par')
+if num == 6695:
+    print('Seu número é ímpar')
+if num == 6696:
+    print('Seu número é par')
+if num == 6697:
+    print('Seu número é ímpar')
+if num == 6698:
+    print('Seu número é par')
+if num == 6699:
+    print('Seu número é ímpar')
+if num == 6700:
+    print('Seu número é par')
+if num == 6701:
+    print('Seu número é ímpar')
+if num == 6702:
+    print('Seu número é par')
+if num == 6703:
+    print('Seu número é ímpar')
+if num == 6704:
+    print('Seu número é par')
+if num == 6705:
+    print('Seu número é ímpar')
+if num == 6706:
+    print('Seu número é par')
+if num == 6707:
+    print('Seu número é ímpar')
+if num == 6708:
+    print('Seu número é par')
+if num == 6709:
+    print('Seu número é ímpar')
+if num == 6710:
+    print('Seu número é par')
+if num == 6711:
+    print('Seu número é ímpar')
+if num == 6712:
+    print('Seu número é par')
+if num == 6713:
+    print('Seu número é ímpar')
+if num == 6714:
+    print('Seu número é par')
+if num == 6715:
+    print('Seu número é ímpar')
+if num == 6716:
+    print('Seu número é par')
+if num == 6717:
+    print('Seu número é ímpar')
+if num == 6718:
+    print('Seu número é par')
+if num == 6719:
+    print('Seu número é ímpar')
+if num == 6720:
+    print('Seu número é par')
+if num == 6721:
+    print('Seu número é ímpar')
+if num == 6722:
+    print('Seu número é par')
+if num == 6723:
+    print('Seu número é ímpar')
+if num == 6724:
+    print('Seu número é par')
+if num == 6725:
+    print('Seu número é ímpar')
+if num == 6726:
+    print('Seu número é par')
+if num == 6727:
+    print('Seu número é ímpar')
+if num == 6728:
+    print('Seu número é par')
+if num == 6729:
+    print('Seu número é ímpar')
+if num == 6730:
+    print('Seu número é par')
+if num == 6731:
+    print('Seu número é ímpar')
+if num == 6732:
+    print('Seu número é par')
+if num == 6733:
+    print('Seu número é ímpar')
+if num == 6734:
+    print('Seu número é par')
+if num == 6735:
+    print('Seu número é ímpar')
+if num == 6736:
+    print('Seu número é par')
+if num == 6737:
+    print('Seu número é ímpar')
+if num == 6738:
+    print('Seu número é par')
+if num == 6739:
+    print('Seu número é ímpar')
+if num == 6740:
+    print('Seu número é par')
+if num == 6741:
+    print('Seu número é ímpar')
+if num == 6742:
+    print('Seu número é par')
+if num == 6743:
+    print('Seu número é ímpar')
+if num == 6744:
+    print('Seu número é par')
+if num == 6745:
+    print('Seu número é ímpar')
+if num == 6746:
+    print('Seu número é par')
+if num == 6747:
+    print('Seu número é ímpar')
+if num == 6748:
+    print('Seu número é par')
+if num == 6749:
+    print('Seu número é ímpar')
+if num == 6750:
+    print('Seu número é par')
+if num == 6751:
+    print('Seu número é ímpar')
+if num == 6752:
+    print('Seu número é par')
+if num == 6753:
+    print('Seu número é ímpar')
+if num == 6754:
+    print('Seu número é par')
+if num == 6755:
+    print('Seu número é ímpar')
+if num == 6756:
+    print('Seu número é par')
+if num == 6757:
+    print('Seu número é ímpar')
+if num == 6758:
+    print('Seu número é par')
+if num == 6759:
+    print('Seu número é ímpar')
+if num == 6760:
+    print('Seu número é par')
+if num == 6761:
+    print('Seu número é ímpar')
+if num == 6762:
+    print('Seu número é par')
+if num == 6763:
+    print('Seu número é ímpar')
+if num == 6764:
+    print('Seu número é par')
+if num == 6765:
+    print('Seu número é ímpar')
+if num == 6766:
+    print('Seu número é par')
+if num == 6767:
+    print('Seu número é ímpar')
+if num == 6768:
+    print('Seu número é par')
+if num == 6769:
+    print('Seu número é ímpar')
+if num == 6770:
+    print('Seu número é par')
+if num == 6771:
+    print('Seu número é ímpar')
+if num == 6772:
+    print('Seu número é par')
+if num == 6773:
+    print('Seu número é ímpar')
+if num == 6774:
+    print('Seu número é par')
+if num == 6775:
+    print('Seu número é ímpar')
+if num == 6776:
+    print('Seu número é par')
+if num == 6777:
+    print('Seu número é ímpar')
+if num == 6778:
+    print('Seu número é par')
+if num == 6779:
+    print('Seu número é ímpar')
+if num == 6780:
+    print('Seu número é par')
+if num == 6781:
+    print('Seu número é ímpar')
+if num == 6782:
+    print('Seu número é par')
+if num == 6783:
+    print('Seu número é ímpar')
+if num == 6784:
+    print('Seu número é par')
+if num == 6785:
+    print('Seu número é ímpar')
+if num == 6786:
+    print('Seu número é par')
+if num == 6787:
+    print('Seu número é ímpar')
+if num == 6788:
+    print('Seu número é par')
+if num == 6789:
+    print('Seu número é ímpar')
+if num == 6790:
+    print('Seu número é par')
+if num == 6791:
+    print('Seu número é ímpar')
+if num == 6792:
+    print('Seu número é par')
+if num == 6793:
+    print('Seu número é ímpar')
+if num == 6794:
+    print('Seu número é par')
+if num == 6795:
+    print('Seu número é ímpar')
+if num == 6796:
+    print('Seu número é par')
+if num == 6797:
+    print('Seu número é ímpar')
+if num == 6798:
+    print('Seu número é par')
+if num == 6799:
+    print('Seu número é ímpar')
+if num == 6800:
+    print('Seu número é par')
+if num == 6801:
+    print('Seu número é ímpar')
+if num == 6802:
+    print('Seu número é par')
+if num == 6803:
+    print('Seu número é ímpar')
+if num == 6804:
+    print('Seu número é par')
+if num == 6805:
+    print('Seu número é ímpar')
+if num == 6806:
+    print('Seu número é par')
+if num == 6807:
+    print('Seu número é ímpar')
+if num == 6808:
+    print('Seu número é par')
+if num == 6809:
+    print('Seu número é ímpar')
+if num == 6810:
+    print('Seu número é par')
+if num == 6811:
+    print('Seu número é ímpar')
+if num == 6812:
+    print('Seu número é par')
+if num == 6813:
+    print('Seu número é ímpar')
+if num == 6814:
+    print('Seu número é par')
+if num == 6815:
+    print('Seu número é ímpar')
+if num == 6816:
+    print('Seu número é par')
+if num == 6817:
+    print('Seu número é ímpar')
+if num == 6818:
+    print('Seu número é par')
+if num == 6819:
+    print('Seu número é ímpar')
+if num == 6820:
+    print('Seu número é par')
+if num == 6821:
+    print('Seu número é ímpar')
+if num == 6822:
+    print('Seu número é par')
+if num == 6823:
+    print('Seu número é ímpar')
+if num == 6824:
+    print('Seu número é par')
+if num == 6825:
+    print('Seu número é ímpar')
+if num == 6826:
+    print('Seu número é par')
+if num == 6827:
+    print('Seu número é ímpar')
+if num == 6828:
+    print('Seu número é par')
+if num == 6829:
+    print('Seu número é ímpar')
+if num == 6830:
+    print('Seu número é par')
+if num == 6831:
+    print('Seu número é ímpar')
+if num == 6832:
+    print('Seu número é par')
+if num == 6833:
+    print('Seu número é ímpar')
+if num == 6834:
+    print('Seu número é par')
+if num == 6835:
+    print('Seu número é ímpar')
+if num == 6836:
+    print('Seu número é par')
+if num == 6837:
+    print('Seu número é ímpar')
+if num == 6838:
+    print('Seu número é par')
+if num == 6839:
+    print('Seu número é ímpar')
+if num == 6840:
+    print('Seu número é par')
+if num == 6841:
+    print('Seu número é ímpar')
+if num == 6842:
+    print('Seu número é par')
+if num == 6843:
+    print('Seu número é ímpar')
+if num == 6844:
+    print('Seu número é par')
+if num == 6845:
+    print('Seu número é ímpar')
+if num == 6846:
+    print('Seu número é par')
+if num == 6847:
+    print('Seu número é ímpar')
+if num == 6848:
+    print('Seu número é par')
+if num == 6849:
+    print('Seu número é ímpar')
+if num == 6850:
+    print('Seu número é par')
+if num == 6851:
+    print('Seu número é ímpar')
+if num == 6852:
+    print('Seu número é par')
+if num == 6853:
+    print('Seu número é ímpar')
+if num == 6854:
+    print('Seu número é par')
+if num == 6855:
+    print('Seu número é ímpar')
+if num == 6856:
+    print('Seu número é par')
+if num == 6857:
+    print('Seu número é ímpar')
+if num == 6858:
+    print('Seu número é par')
+if num == 6859:
+    print('Seu número é ímpar')
+if num == 6860:
+    print('Seu número é par')
+if num == 6861:
+    print('Seu número é ímpar')
+if num == 6862:
+    print('Seu número é par')
+if num == 6863:
+    print('Seu número é ímpar')
+if num == 6864:
+    print('Seu número é par')
+if num == 6865:
+    print('Seu número é ímpar')
+if num == 6866:
+    print('Seu número é par')
+if num == 6867:
+    print('Seu número é ímpar')
+if num == 6868:
+    print('Seu número é par')
+if num == 6869:
+    print('Seu número é ímpar')
+if num == 6870:
+    print('Seu número é par')
+if num == 6871:
+    print('Seu número é ímpar')
+if num == 6872:
+    print('Seu número é par')
+if num == 6873:
+    print('Seu número é ímpar')
+if num == 6874:
+    print('Seu número é par')
+if num == 6875:
+    print('Seu número é ímpar')
+if num == 6876:
+    print('Seu número é par')
+if num == 6877:
+    print('Seu número é ímpar')
+if num == 6878:
+    print('Seu número é par')
+if num == 6879:
+    print('Seu número é ímpar')
+if num == 6880:
+    print('Seu número é par')
+if num == 6881:
+    print('Seu número é ímpar')
+if num == 6882:
+    print('Seu número é par')
+if num == 6883:
+    print('Seu número é ímpar')
+if num == 6884:
+    print('Seu número é par')
+if num == 6885:
+    print('Seu número é ímpar')
+if num == 6886:
+    print('Seu número é par')
+if num == 6887:
+    print('Seu número é ímpar')
+if num == 6888:
+    print('Seu número é par')
+if num == 6889:
+    print('Seu número é ímpar')
+if num == 6890:
+    print('Seu número é par')
+if num == 6891:
+    print('Seu número é ímpar')
+if num == 6892:
+    print('Seu número é par')
+if num == 6893:
+    print('Seu número é ímpar')
+if num == 6894:
+    print('Seu número é par')
+if num == 6895:
+    print('Seu número é ímpar')
+if num == 6896:
+    print('Seu número é par')
+if num == 6897:
+    print('Seu número é ímpar')
+if num == 6898:
+    print('Seu número é par')
+if num == 6899:
+    print('Seu número é ímpar')
+if num == 6900:
+    print('Seu número é par')
+if num == 6901:
+    print('Seu número é ímpar')
+if num == 6902:
+    print('Seu número é par')
+if num == 6903:
+    print('Seu número é ímpar')
+if num == 6904:
+    print('Seu número é par')
+if num == 6905:
+    print('Seu número é ímpar')
+if num == 6906:
+    print('Seu número é par')
+if num == 6907:
+    print('Seu número é ímpar')
+if num == 6908:
+    print('Seu número é par')
+if num == 6909:
+    print('Seu número é ímpar')
+if num == 6910:
+    print('Seu número é par')
+if num == 6911:
+    print('Seu número é ímpar')
+if num == 6912:
+    print('Seu número é par')
+if num == 6913:
+    print('Seu número é ímpar')
+if num == 6914:
+    print('Seu número é par')
+if num == 6915:
+    print('Seu número é ímpar')
+if num == 6916:
+    print('Seu número é par')
+if num == 6917:
+    print('Seu número é ímpar')
+if num == 6918:
+    print('Seu número é par')
+if num == 6919:
+    print('Seu número é ímpar')
+if num == 6920:
+    print('Seu número é par')
+if num == 6921:
+    print('Seu número é ímpar')
+if num == 6922:
+    print('Seu número é par')
+if num == 6923:
+    print('Seu número é ímpar')
+if num == 6924:
+    print('Seu número é par')
+if num == 6925:
+    print('Seu número é ímpar')
+if num == 6926:
+    print('Seu número é par')
+if num == 6927:
+    print('Seu número é ímpar')
+if num == 6928:
+    print('Seu número é par')
+if num == 6929:
+    print('Seu número é ímpar')
+if num == 6930:
+    print('Seu número é par')
+if num == 6931:
+    print('Seu número é ímpar')
+if num == 6932:
+    print('Seu número é par')
+if num == 6933:
+    print('Seu número é ímpar')
+if num == 6934:
+    print('Seu número é par')
+if num == 6935:
+    print('Seu número é ímpar')
+if num == 6936:
+    print('Seu número é par')
+if num == 6937:
+    print('Seu número é ímpar')
+if num == 6938:
+    print('Seu número é par')
+if num == 6939:
+    print('Seu número é ímpar')
+if num == 6940:
+    print('Seu número é par')
+if num == 6941:
+    print('Seu número é ímpar')
+if num == 6942:
+    print('Seu número é par')
+if num == 6943:
+    print('Seu número é ímpar')
+if num == 6944:
+    print('Seu número é par')
+if num == 6945:
+    print('Seu número é ímpar')
+if num == 6946:
+    print('Seu número é par')
+if num == 6947:
+    print('Seu número é ímpar')
+if num == 6948:
+    print('Seu número é par')
+if num == 6949:
+    print('Seu número é ímpar')
+if num == 6950:
+    print('Seu número é par')
+if num == 6951:
+    print('Seu número é ímpar')
+if num == 6952:
+    print('Seu número é par')
+if num == 6953:
+    print('Seu número é ímpar')
+if num == 6954:
+    print('Seu número é par')
+if num == 6955:
+    print('Seu número é ímpar')
+if num == 6956:
+    print('Seu número é par')
+if num == 6957:
+    print('Seu número é ímpar')
+if num == 6958:
+    print('Seu número é par')
+if num == 6959:
+    print('Seu número é ímpar')
+if num == 6960:
+    print('Seu número é par')
+if num == 6961:
+    print('Seu número é ímpar')
+if num == 6962:
+    print('Seu número é par')
+if num == 6963:
+    print('Seu número é ímpar')
+if num == 6964:
+    print('Seu número é par')
+if num == 6965:
+    print('Seu número é ímpar')
+if num == 6966:
+    print('Seu número é par')
+if num == 6967:
+    print('Seu número é ímpar')
+if num == 6968:
+    print('Seu número é par')
+if num == 6969:
+    print('Seu número é ímpar')
+if num == 6970:
+    print('Seu número é par')
+if num == 6971:
+    print('Seu número é ímpar')
+if num == 6972:
+    print('Seu número é par')
+if num == 6973:
+    print('Seu número é ímpar')
+if num == 6974:
+    print('Seu número é par')
+if num == 6975:
+    print('Seu número é ímpar')
+if num == 6976:
+    print('Seu número é par')
+if num == 6977:
+    print('Seu número é ímpar')
+if num == 6978:
+    print('Seu número é par')
+if num == 6979:
+    print('Seu número é ímpar')
+if num == 6980:
+    print('Seu número é par')
+if num == 6981:
+    print('Seu número é ímpar')
+if num == 6982:
+    print('Seu número é par')
+if num == 6983:
+    print('Seu número é ímpar')
+if num == 6984:
+    print('Seu número é par')
+if num == 6985:
+    print('Seu número é ímpar')
+if num == 6986:
+    print('Seu número é par')
+if num == 6987:
+    print('Seu número é ímpar')
+if num == 6988:
+    print('Seu número é par')
+if num == 6989:
+    print('Seu número é ímpar')
+if num == 6990:
+    print('Seu número é par')
+if num == 6991:
+    print('Seu número é ímpar')
+if num == 6992:
+    print('Seu número é par')
+if num == 6993:
+    print('Seu número é ímpar')
+if num == 6994:
+    print('Seu número é par')
+if num == 6995:
+    print('Seu número é ímpar')
+if num == 6996:
+    print('Seu número é par')
+if num == 6997:
+    print('Seu número é ímpar')
+if num == 6998:
+    print('Seu número é par')
+if num == 6999:
+    print('Seu número é ímpar')
+if num == 7000:
+    print('Seu número é par')
+if num == 7001:
+    print('Seu número é ímpar')
+if num == 7002:
+    print('Seu número é par')
+if num == 7003:
+    print('Seu número é ímpar')
+if num == 7004:
+    print('Seu número é par')
+if num == 7005:
+    print('Seu número é ímpar')
+if num == 7006:
+    print('Seu número é par')
+if num == 7007:
+    print('Seu número é ímpar')
+if num == 7008:
+    print('Seu número é par')
+if num == 7009:
+    print('Seu número é ímpar')
+if num == 7010:
+    print('Seu número é par')
+if num == 7011:
+    print('Seu número é ímpar')
+if num == 7012:
+    print('Seu número é par')
+if num == 7013:
+    print('Seu número é ímpar')
+if num == 7014:
+    print('Seu número é par')
+if num == 7015:
+    print('Seu número é ímpar')
+if num == 7016:
+    print('Seu número é par')
+if num == 7017:
+    print('Seu número é ímpar')
+if num == 7018:
+    print('Seu número é par')
+if num == 7019:
+    print('Seu número é ímpar')
+if num == 7020:
+    print('Seu número é par')
+if num == 7021:
+    print('Seu número é ímpar')
+if num == 7022:
+    print('Seu número é par')
+if num == 7023:
+    print('Seu número é ímpar')
+if num == 7024:
+    print('Seu número é par')
+if num == 7025:
+    print('Seu número é ímpar')
+if num == 7026:
+    print('Seu número é par')
+if num == 7027:
+    print('Seu número é ímpar')
+if num == 7028:
+    print('Seu número é par')
+if num == 7029:
+    print('Seu número é ímpar')
+if num == 7030:
+    print('Seu número é par')
+if num == 7031:
+    print('Seu número é ímpar')
+if num == 7032:
+    print('Seu número é par')
+if num == 7033:
+    print('Seu número é ímpar')
+if num == 7034:
+    print('Seu número é par')
+if num == 7035:
+    print('Seu número é ímpar')
+if num == 7036:
+    print('Seu número é par')
+if num == 7037:
+    print('Seu número é ímpar')
+if num == 7038:
+    print('Seu número é par')
+if num == 7039:
+    print('Seu número é ímpar')
+if num == 7040:
+    print('Seu número é par')
+if num == 7041:
+    print('Seu número é ímpar')
+if num == 7042:
+    print('Seu número é par')
+if num == 7043:
+    print('Seu número é ímpar')
+if num == 7044:
+    print('Seu número é par')
+if num == 7045:
+    print('Seu número é ímpar')
+if num == 7046:
+    print('Seu número é par')
+if num == 7047:
+    print('Seu número é ímpar')
+if num == 7048:
+    print('Seu número é par')
+if num == 7049:
+    print('Seu número é ímpar')
+if num == 7050:
+    print('Seu número é par')
+if num == 7051:
+    print('Seu número é ímpar')
+if num == 7052:
+    print('Seu número é par')
+if num == 7053:
+    print('Seu número é ímpar')
+if num == 7054:
+    print('Seu número é par')
+if num == 7055:
+    print('Seu número é ímpar')
+if num == 7056:
+    print('Seu número é par')
+if num == 7057:
+    print('Seu número é ímpar')
+if num == 7058:
+    print('Seu número é par')
+if num == 7059:
+    print('Seu número é ímpar')
+if num == 7060:
+    print('Seu número é par')
+if num == 7061:
+    print('Seu número é ímpar')
+if num == 7062:
+    print('Seu número é par')
+if num == 7063:
+    print('Seu número é ímpar')
+if num == 7064:
+    print('Seu número é par')
+if num == 7065:
+    print('Seu número é ímpar')
+if num == 7066:
+    print('Seu número é par')
+if num == 7067:
+    print('Seu número é ímpar')
+if num == 7068:
+    print('Seu número é par')
+if num == 7069:
+    print('Seu número é ímpar')
+if num == 7070:
+    print('Seu número é par')
+if num == 7071:
+    print('Seu número é ímpar')
+if num == 7072:
+    print('Seu número é par')
+if num == 7073:
+    print('Seu número é ímpar')
+if num == 7074:
+    print('Seu número é par')
+if num == 7075:
+    print('Seu número é ímpar')
+if num == 7076:
+    print('Seu número é par')
+if num == 7077:
+    print('Seu número é ímpar')
+if num == 7078:
+    print('Seu número é par')
+if num == 7079:
+    print('Seu número é ímpar')
+if num == 7080:
+    print('Seu número é par')
+if num == 7081:
+    print('Seu número é ímpar')
+if num == 7082:
+    print('Seu número é par')
+if num == 7083:
+    print('Seu número é ímpar')
+if num == 7084:
+    print('Seu número é par')
+if num == 7085:
+    print('Seu número é ímpar')
+if num == 7086:
+    print('Seu número é par')
+if num == 7087:
+    print('Seu número é ímpar')
+if num == 7088:
+    print('Seu número é par')
+if num == 7089:
+    print('Seu número é ímpar')
+if num == 7090:
+    print('Seu número é par')
+if num == 7091:
+    print('Seu número é ímpar')
+if num == 7092:
+    print('Seu número é par')
+if num == 7093:
+    print('Seu número é ímpar')
+if num == 7094:
+    print('Seu número é par')
+if num == 7095:
+    print('Seu número é ímpar')
+if num == 7096:
+    print('Seu número é par')
+if num == 7097:
+    print('Seu número é ímpar')
+if num == 7098:
+    print('Seu número é par')
+if num == 7099:
+    print('Seu número é ímpar')
+if num == 7100:
+    print('Seu número é par')
+if num == 7101:
+    print('Seu número é ímpar')
+if num == 7102:
+    print('Seu número é par')
+if num == 7103:
+    print('Seu número é ímpar')
+if num == 7104:
+    print('Seu número é par')
+if num == 7105:
+    print('Seu número é ímpar')
+if num == 7106:
+    print('Seu número é par')
+if num == 7107:
+    print('Seu número é ímpar')
+if num == 7108:
+    print('Seu número é par')
+if num == 7109:
+    print('Seu número é ímpar')
+if num == 7110:
+    print('Seu número é par')
+if num == 7111:
+    print('Seu número é ímpar')
+if num == 7112:
+    print('Seu número é par')
+if num == 7113:
+    print('Seu número é ímpar')
+if num == 7114:
+    print('Seu número é par')
+if num == 7115:
+    print('Seu número é ímpar')
+if num == 7116:
+    print('Seu número é par')
+if num == 7117:
+    print('Seu número é ímpar')
+if num == 7118:
+    print('Seu número é par')
+if num == 7119:
+    print('Seu número é ímpar')
+if num == 7120:
+    print('Seu número é par')
+if num == 7121:
+    print('Seu número é ímpar')
+if num == 7122:
+    print('Seu número é par')
+if num == 7123:
+    print('Seu número é ímpar')
+if num == 7124:
+    print('Seu número é par')
+if num == 7125:
+    print('Seu número é ímpar')
+if num == 7126:
+    print('Seu número é par')
+if num == 7127:
+    print('Seu número é ímpar')
+if num == 7128:
+    print('Seu número é par')
+if num == 7129:
+    print('Seu número é ímpar')
+if num == 7130:
+    print('Seu número é par')
+if num == 7131:
+    print('Seu número é ímpar')
+if num == 7132:
+    print('Seu número é par')
+if num == 7133:
+    print('Seu número é ímpar')
+if num == 7134:
+    print('Seu número é par')
+if num == 7135:
+    print('Seu número é ímpar')
+if num == 7136:
+    print('Seu número é par')
+if num == 7137:
+    print('Seu número é ímpar')
+if num == 7138:
+    print('Seu número é par')
+if num == 7139:
+    print('Seu número é ímpar')
+if num == 7140:
+    print('Seu número é par')
+if num == 7141:
+    print('Seu número é ímpar')
+if num == 7142:
+    print('Seu número é par')
+if num == 7143:
+    print('Seu número é ímpar')
+if num == 7144:
+    print('Seu número é par')
+if num == 7145:
+    print('Seu número é ímpar')
+if num == 7146:
+    print('Seu número é par')
+if num == 7147:
+    print('Seu número é ímpar')
+if num == 7148:
+    print('Seu número é par')
+if num == 7149:
+    print('Seu número é ímpar')
+if num == 7150:
+    print('Seu número é par')
+if num == 7151:
+    print('Seu número é ímpar')
+if num == 7152:
+    print('Seu número é par')
+if num == 7153:
+    print('Seu número é ímpar')
+if num == 7154:
+    print('Seu número é par')
+if num == 7155:
+    print('Seu número é ímpar')
+if num == 7156:
+    print('Seu número é par')
+if num == 7157:
+    print('Seu número é ímpar')
+if num == 7158:
+    print('Seu número é par')
+if num == 7159:
+    print('Seu número é ímpar')
+if num == 7160:
+    print('Seu número é par')
+if num == 7161:
+    print('Seu número é ímpar')
+if num == 7162:
+    print('Seu número é par')
+if num == 7163:
+    print('Seu número é ímpar')
+if num == 7164:
+    print('Seu número é par')
+if num == 7165:
+    print('Seu número é ímpar')
+if num == 7166:
+    print('Seu número é par')
+if num == 7167:
+    print('Seu número é ímpar')
+if num == 7168:
+    print('Seu número é par')
+if num == 7169:
+    print('Seu número é ímpar')
+if num == 7170:
+    print('Seu número é par')
+if num == 7171:
+    print('Seu número é ímpar')
+if num == 7172:
+    print('Seu número é par')
+if num == 7173:
+    print('Seu número é ímpar')
+if num == 7174:
+    print('Seu número é par')
+if num == 7175:
+    print('Seu número é ímpar')
+if num == 7176:
+    print('Seu número é par')
+if num == 7177:
+    print('Seu número é ímpar')
+if num == 7178:
+    print('Seu número é par')
+if num == 7179:
+    print('Seu número é ímpar')
+if num == 7180:
+    print('Seu número é par')
+if num == 7181:
+    print('Seu número é ímpar')
+if num == 7182:
+    print('Seu número é par')
+if num == 7183:
+    print('Seu número é ímpar')
+if num == 7184:
+    print('Seu número é par')
+if num == 7185:
+    print('Seu número é ímpar')
+if num == 7186:
+    print('Seu número é par')
+if num == 7187:
+    print('Seu número é ímpar')
+if num == 7188:
+    print('Seu número é par')
+if num == 7189:
+    print('Seu número é ímpar')
+if num == 7190:
+    print('Seu número é par')
+if num == 7191:
+    print('Seu número é ímpar')
+if num == 7192:
+    print('Seu número é par')
+if num == 7193:
+    print('Seu número é ímpar')
+if num == 7194:
+    print('Seu número é par')
+if num == 7195:
+    print('Seu número é ímpar')
+if num == 7196:
+    print('Seu número é par')
+if num == 7197:
+    print('Seu número é ímpar')
+if num == 7198:
+    print('Seu número é par')
+if num == 7199:
+    print('Seu número é ímpar')
+if num == 7200:
+    print('Seu número é par')
+if num == 7201:
+    print('Seu número é ímpar')
+if num == 7202:
+    print('Seu número é par')
+if num == 7203:
+    print('Seu número é ímpar')
+if num == 7204:
+    print('Seu número é par')
+if num == 7205:
+    print('Seu número é ímpar')
+if num == 7206:
+    print('Seu número é par')
+if num == 7207:
+    print('Seu número é ímpar')
+if num == 7208:
+    print('Seu número é par')
+if num == 7209:
+    print('Seu número é ímpar')
+if num == 7210:
+    print('Seu número é par')
+if num == 7211:
+    print('Seu número é ímpar')
+if num == 7212:
+    print('Seu número é par')
+if num == 7213:
+    print('Seu número é ímpar')
+if num == 7214:
+    print('Seu número é par')
+if num == 7215:
+    print('Seu número é ímpar')
+if num == 7216:
+    print('Seu número é par')
+if num == 7217:
+    print('Seu número é ímpar')
+if num == 7218:
+    print('Seu número é par')
+if num == 7219:
+    print('Seu número é ímpar')
+if num == 7220:
+    print('Seu número é par')
+if num == 7221:
+    print('Seu número é ímpar')
+if num == 7222:
+    print('Seu número é par')
+if num == 7223:
+    print('Seu número é ímpar')
+if num == 7224:
+    print('Seu número é par')
+if num == 7225:
+    print('Seu número é ímpar')
+if num == 7226:
+    print('Seu número é par')
+if num == 7227:
+    print('Seu número é ímpar')
+if num == 7228:
+    print('Seu número é par')
+if num == 7229:
+    print('Seu número é ímpar')
+if num == 7230:
+    print('Seu número é par')
+if num == 7231:
+    print('Seu número é ímpar')
+if num == 7232:
+    print('Seu número é par')
+if num == 7233:
+    print('Seu número é ímpar')
+if num == 7234:
+    print('Seu número é par')
+if num == 7235:
+    print('Seu número é ímpar')
+if num == 7236:
+    print('Seu número é par')
+if num == 7237:
+    print('Seu número é ímpar')
+if num == 7238:
+    print('Seu número é par')
+if num == 7239:
+    print('Seu número é ímpar')
+if num == 7240:
+    print('Seu número é par')
+if num == 7241:
+    print('Seu número é ímpar')
+if num == 7242:
+    print('Seu número é par')
+if num == 7243:
+    print('Seu número é ímpar')
+if num == 7244:
+    print('Seu número é par')
+if num == 7245:
+    print('Seu número é ímpar')
+if num == 7246:
+    print('Seu número é par')
+if num == 7247:
+    print('Seu número é ímpar')
+if num == 7248:
+    print('Seu número é par')
+if num == 7249:
+    print('Seu número é ímpar')
+if num == 7250:
+    print('Seu número é par')
+if num == 7251:
+    print('Seu número é ímpar')
+if num == 7252:
+    print('Seu número é par')
+if num == 7253:
+    print('Seu número é ímpar')
+if num == 7254:
+    print('Seu número é par')
+if num == 7255:
+    print('Seu número é ímpar')
+if num == 7256:
+    print('Seu número é par')
+if num == 7257:
+    print('Seu número é ímpar')
+if num == 7258:
+    print('Seu número é par')
+if num == 7259:
+    print('Seu número é ímpar')
+if num == 7260:
+    print('Seu número é par')
+if num == 7261:
+    print('Seu número é ímpar')
+if num == 7262:
+    print('Seu número é par')
+if num == 7263:
+    print('Seu número é ímpar')
+if num == 7264:
+    print('Seu número é par')
+if num == 7265:
+    print('Seu número é ímpar')
+if num == 7266:
+    print('Seu número é par')
+if num == 7267:
+    print('Seu número é ímpar')
+if num == 7268:
+    print('Seu número é par')
+if num == 7269:
+    print('Seu número é ímpar')
+if num == 7270:
+    print('Seu número é par')
+if num == 7271:
+    print('Seu número é ímpar')
+if num == 7272:
+    print('Seu número é par')
+if num == 7273:
+    print('Seu número é ímpar')
+if num == 7274:
+    print('Seu número é par')
+if num == 7275:
+    print('Seu número é ímpar')
+if num == 7276:
+    print('Seu número é par')
+if num == 7277:
+    print('Seu número é ímpar')
+if num == 7278:
+    print('Seu número é par')
+if num == 7279:
+    print('Seu número é ímpar')
+if num == 7280:
+    print('Seu número é par')
+if num == 7281:
+    print('Seu número é ímpar')
+if num == 7282:
+    print('Seu número é par')
+if num == 7283:
+    print('Seu número é ímpar')
+if num == 7284:
+    print('Seu número é par')
+if num == 7285:
+    print('Seu número é ímpar')
+if num == 7286:
+    print('Seu número é par')
+if num == 7287:
+    print('Seu número é ímpar')
+if num == 7288:
+    print('Seu número é par')
+if num == 7289:
+    print('Seu número é ímpar')
+if num == 7290:
+    print('Seu número é par')
+if num == 7291:
+    print('Seu número é ímpar')
+if num == 7292:
+    print('Seu número é par')
+if num == 7293:
+    print('Seu número é ímpar')
+if num == 7294:
+    print('Seu número é par')
+if num == 7295:
+    print('Seu número é ímpar')
+if num == 7296:
+    print('Seu número é par')
+if num == 7297:
+    print('Seu número é ímpar')
+if num == 7298:
+    print('Seu número é par')
+if num == 7299:
+    print('Seu número é ímpar')
+if num == 7300:
+    print('Seu número é par')
+if num == 7301:
+    print('Seu número é ímpar')
+if num == 7302:
+    print('Seu número é par')
+if num == 7303:
+    print('Seu número é ímpar')
+if num == 7304:
+    print('Seu número é par')
+if num == 7305:
+    print('Seu número é ímpar')
+if num == 7306:
+    print('Seu número é par')
+if num == 7307:
+    print('Seu número é ímpar')
+if num == 7308:
+    print('Seu número é par')
+if num == 7309:
+    print('Seu número é ímpar')
+if num == 7310:
+    print('Seu número é par')
+if num == 7311:
+    print('Seu número é ímpar')
+if num == 7312:
+    print('Seu número é par')
+if num == 7313:
+    print('Seu número é ímpar')
+if num == 7314:
+    print('Seu número é par')
+if num == 7315:
+    print('Seu número é ímpar')
+if num == 7316:
+    print('Seu número é par')
+if num == 7317:
+    print('Seu número é ímpar')
+if num == 7318:
+    print('Seu número é par')
+if num == 7319:
+    print('Seu número é ímpar')
+if num == 7320:
+    print('Seu número é par')
+if num == 7321:
+    print('Seu número é ímpar')
+if num == 7322:
+    print('Seu número é par')
+if num == 7323:
+    print('Seu número é ímpar')
+if num == 7324:
+    print('Seu número é par')
+if num == 7325:
+    print('Seu número é ímpar')
+if num == 7326:
+    print('Seu número é par')
+if num == 7327:
+    print('Seu número é ímpar')
+if num == 7328:
+    print('Seu número é par')
+if num == 7329:
+    print('Seu número é ímpar')
+if num == 7330:
+    print('Seu número é par')
+if num == 7331:
+    print('Seu número é ímpar')
+if num == 7332:
+    print('Seu número é par')
+if num == 7333:
+    print('Seu número é ímpar')
+if num == 7334:
+    print('Seu número é par')
+if num == 7335:
+    print('Seu número é ímpar')
+if num == 7336:
+    print('Seu número é par')
+if num == 7337:
+    print('Seu número é ímpar')
+if num == 7338:
+    print('Seu número é par')
+if num == 7339:
+    print('Seu número é ímpar')
+if num == 7340:
+    print('Seu número é par')
+if num == 7341:
+    print('Seu número é ímpar')
+if num == 7342:
+    print('Seu número é par')
+if num == 7343:
+    print('Seu número é ímpar')
+if num == 7344:
+    print('Seu número é par')
+if num == 7345:
+    print('Seu número é ímpar')
+if num == 7346:
+    print('Seu número é par')
+if num == 7347:
+    print('Seu número é ímpar')
+if num == 7348:
+    print('Seu número é par')
+if num == 7349:
+    print('Seu número é ímpar')
+if num == 7350:
+    print('Seu número é par')
+if num == 7351:
+    print('Seu número é ímpar')
+if num == 7352:
+    print('Seu número é par')
+if num == 7353:
+    print('Seu número é ímpar')
+if num == 7354:
+    print('Seu número é par')
+if num == 7355:
+    print('Seu número é ímpar')
+if num == 7356:
+    print('Seu número é par')
+if num == 7357:
+    print('Seu número é ímpar')
+if num == 7358:
+    print('Seu número é par')
+if num == 7359:
+    print('Seu número é ímpar')
+if num == 7360:
+    print('Seu número é par')
+if num == 7361:
+    print('Seu número é ímpar')
+if num == 7362:
+    print('Seu número é par')
+if num == 7363:
+    print('Seu número é ímpar')
+if num == 7364:
+    print('Seu número é par')
+if num == 7365:
+    print('Seu número é ímpar')
+if num == 7366:
+    print('Seu número é par')
+if num == 7367:
+    print('Seu número é ímpar')
+if num == 7368:
+    print('Seu número é par')
+if num == 7369:
+    print('Seu número é ímpar')
+if num == 7370:
+    print('Seu número é par')
+if num == 7371:
+    print('Seu número é ímpar')
+if num == 7372:
+    print('Seu número é par')
+if num == 7373:
+    print('Seu número é ímpar')
+if num == 7374:
+    print('Seu número é par')
+if num == 7375:
+    print('Seu número é ímpar')
+if num == 7376:
+    print('Seu número é par')
+if num == 7377:
+    print('Seu número é ímpar')
+if num == 7378:
+    print('Seu número é par')
+if num == 7379:
+    print('Seu número é ímpar')
+if num == 7380:
+    print('Seu número é par')
+if num == 7381:
+    print('Seu número é ímpar')
+if num == 7382:
+    print('Seu número é par')
+if num == 7383:
+    print('Seu número é ímpar')
+if num == 7384:
+    print('Seu número é par')
+if num == 7385:
+    print('Seu número é ímpar')
+if num == 7386:
+    print('Seu número é par')
+if num == 7387:
+    print('Seu número é ímpar')
+if num == 7388:
+    print('Seu número é par')
+if num == 7389:
+    print('Seu número é ímpar')
+if num == 7390:
+    print('Seu número é par')
+if num == 7391:
+    print('Seu número é ímpar')
+if num == 7392:
+    print('Seu número é par')
+if num == 7393:
+    print('Seu número é ímpar')
+if num == 7394:
+    print('Seu número é par')
+if num == 7395:
+    print('Seu número é ímpar')
+if num == 7396:
+    print('Seu número é par')
+if num == 7397:
+    print('Seu número é ímpar')
+if num == 7398:
+    print('Seu número é par')
+if num == 7399:
+    print('Seu número é ímpar')
+if num == 7400:
+    print('Seu número é par')
+if num == 7401:
+    print('Seu número é ímpar')
+if num == 7402:
+    print('Seu número é par')
+if num == 7403:
+    print('Seu número é ímpar')
+if num == 7404:
+    print('Seu número é par')
+if num == 7405:
+    print('Seu número é ímpar')
+if num == 7406:
+    print('Seu número é par')
+if num == 7407:
+    print('Seu número é ímpar')
+if num == 7408:
+    print('Seu número é par')
+if num == 7409:
+    print('Seu número é ímpar')
+if num == 7410:
+    print('Seu número é par')
+if num == 7411:
+    print('Seu número é ímpar')
+if num == 7412:
+    print('Seu número é par')
+if num == 7413:
+    print('Seu número é ímpar')
+if num == 7414:
+    print('Seu número é par')
+if num == 7415:
+    print('Seu número é ímpar')
+if num == 7416:
+    print('Seu número é par')
+if num == 7417:
+    print('Seu número é ímpar')
+if num == 7418:
+    print('Seu número é par')
+if num == 7419:
+    print('Seu número é ímpar')
+if num == 7420:
+    print('Seu número é par')
+if num == 7421:
+    print('Seu número é ímpar')
+if num == 7422:
+    print('Seu número é par')
+if num == 7423:
+    print('Seu número é ímpar')
+if num == 7424:
+    print('Seu número é par')
+if num == 7425:
+    print('Seu número é ímpar')
+if num == 7426:
+    print('Seu número é par')
+if num == 7427:
+    print('Seu número é ímpar')
+if num == 7428:
+    print('Seu número é par')
+if num == 7429:
+    print('Seu número é ímpar')
+if num == 7430:
+    print('Seu número é par')
+if num == 7431:
+    print('Seu número é ímpar')
+if num == 7432:
+    print('Seu número é par')
+if num == 7433:
+    print('Seu número é ímpar')
+if num == 7434:
+    print('Seu número é par')
+if num == 7435:
+    print('Seu número é ímpar')
+if num == 7436:
+    print('Seu número é par')
+if num == 7437:
+    print('Seu número é ímpar')
+if num == 7438:
+    print('Seu número é par')
+if num == 7439:
+    print('Seu número é ímpar')
+if num == 7440:
+    print('Seu número é par')
+if num == 7441:
+    print('Seu número é ímpar')
+if num == 7442:
+    print('Seu número é par')
+if num == 7443:
+    print('Seu número é ímpar')
+if num == 7444:
+    print('Seu número é par')
+if num == 7445:
+    print('Seu número é ímpar')
+if num == 7446:
+    print('Seu número é par')
+if num == 7447:
+    print('Seu número é ímpar')
+if num == 7448:
+    print('Seu número é par')
+if num == 7449:
+    print('Seu número é ímpar')
+if num == 7450:
+    print('Seu número é par')
+if num == 7451:
+    print('Seu número é ímpar')
+if num == 7452:
+    print('Seu número é par')
+if num == 7453:
+    print('Seu número é ímpar')
+if num == 7454:
+    print('Seu número é par')
+if num == 7455:
+    print('Seu número é ímpar')
+if num == 7456:
+    print('Seu número é par')
+if num == 7457:
+    print('Seu número é ímpar')
+if num == 7458:
+    print('Seu número é par')
+if num == 7459:
+    print('Seu número é ímpar')
+if num == 7460:
+    print('Seu número é par')
+if num == 7461:
+    print('Seu número é ímpar')
+if num == 7462:
+    print('Seu número é par')
+if num == 7463:
+    print('Seu número é ímpar')
+if num == 7464:
+    print('Seu número é par')
+if num == 7465:
+    print('Seu número é ímpar')
+if num == 7466:
+    print('Seu número é par')
+if num == 7467:
+    print('Seu número é ímpar')
+if num == 7468:
+    print('Seu número é par')
+if num == 7469:
+    print('Seu número é ímpar')
+if num == 7470:
+    print('Seu número é par')
+if num == 7471:
+    print('Seu número é ímpar')
+if num == 7472:
+    print('Seu número é par')
+if num == 7473:
+    print('Seu número é ímpar')
+if num == 7474:
+    print('Seu número é par')
+if num == 7475:
+    print('Seu número é ímpar')
+if num == 7476:
+    print('Seu número é par')
+if num == 7477:
+    print('Seu número é ímpar')
+if num == 7478:
+    print('Seu número é par')
+if num == 7479:
+    print('Seu número é ímpar')
+if num == 7480:
+    print('Seu número é par')
+if num == 7481:
+    print('Seu número é ímpar')
+if num == 7482:
+    print('Seu número é par')
+if num == 7483:
+    print('Seu número é ímpar')
+if num == 7484:
+    print('Seu número é par')
+if num == 7485:
+    print('Seu número é ímpar')
+if num == 7486:
+    print('Seu número é par')
+if num == 7487:
+    print('Seu número é ímpar')
+if num == 7488:
+    print('Seu número é par')
+if num == 7489:
+    print('Seu número é ímpar')
+if num == 7490:
+    print('Seu número é par')
+if num == 7491:
+    print('Seu número é ímpar')
+if num == 7492:
+    print('Seu número é par')
+if num == 7493:
+    print('Seu número é ímpar')
+if num == 7494:
+    print('Seu número é par')
+if num == 7495:
+    print('Seu número é ímpar')
+if num == 7496:
+    print('Seu número é par')
+if num == 7497:
+    print('Seu número é ímpar')
+if num == 7498:
+    print('Seu número é par')
+if num == 7499:
+    print('Seu número é ímpar')
+if num == 7500:
+    print('Seu número é par')
+if num == 7501:
+    print('Seu número é ímpar')
+if num == 7502:
+    print('Seu número é par')
+if num == 7503:
+    print('Seu número é ímpar')
+if num == 7504:
+    print('Seu número é par')
+if num == 7505:
+    print('Seu número é ímpar')
+if num == 7506:
+    print('Seu número é par')
+if num == 7507:
+    print('Seu número é ímpar')
+if num == 7508:
+    print('Seu número é par')
+if num == 7509:
+    print('Seu número é ímpar')
+if num == 7510:
+    print('Seu número é par')
+if num == 7511:
+    print('Seu número é ímpar')
+if num == 7512:
+    print('Seu número é par')
+if num == 7513:
+    print('Seu número é ímpar')
+if num == 7514:
+    print('Seu número é par')
+if num == 7515:
+    print('Seu número é ímpar')
+if num == 7516:
+    print('Seu número é par')
+if num == 7517:
+    print('Seu número é ímpar')
+if num == 7518:
+    print('Seu número é par')
+if num == 7519:
+    print('Seu número é ímpar')
+if num == 7520:
+    print('Seu número é par')
+if num == 7521:
+    print('Seu número é ímpar')
+if num == 7522:
+    print('Seu número é par')
+if num == 7523:
+    print('Seu número é ímpar')
+if num == 7524:
+    print('Seu número é par')
+if num == 7525:
+    print('Seu número é ímpar')
+if num == 7526:
+    print('Seu número é par')
+if num == 7527:
+    print('Seu número é ímpar')
+if num == 7528:
+    print('Seu número é par')
+if num == 7529:
+    print('Seu número é ímpar')
+if num == 7530:
+    print('Seu número é par')
+if num == 7531:
+    print('Seu número é ímpar')
+if num == 7532:
+    print('Seu número é par')
+if num == 7533:
+    print('Seu número é ímpar')
+if num == 7534:
+    print('Seu número é par')
+if num == 7535:
+    print('Seu número é ímpar')
+if num == 7536:
+    print('Seu número é par')
+if num == 7537:
+    print('Seu número é ímpar')
+if num == 7538:
+    print('Seu número é par')
+if num == 7539:
+    print('Seu número é ímpar')
+if num == 7540:
+    print('Seu número é par')
+if num == 7541:
+    print('Seu número é ímpar')
+if num == 7542:
+    print('Seu número é par')
+if num == 7543:
+    print('Seu número é ímpar')
+if num == 7544:
+    print('Seu número é par')
+if num == 7545:
+    print('Seu número é ímpar')
+if num == 7546:
+    print('Seu número é par')
+if num == 7547:
+    print('Seu número é ímpar')
+if num == 7548:
+    print('Seu número é par')
+if num == 7549:
+    print('Seu número é ímpar')
+if num == 7550:
+    print('Seu número é par')
+if num == 7551:
+    print('Seu número é ímpar')
+if num == 7552:
+    print('Seu número é par')
+if num == 7553:
+    print('Seu número é ímpar')
+if num == 7554:
+    print('Seu número é par')
+if num == 7555:
+    print('Seu número é ímpar')
+if num == 7556:
+    print('Seu número é par')
+if num == 7557:
+    print('Seu número é ímpar')
+if num == 7558:
+    print('Seu número é par')
+if num == 7559:
+    print('Seu número é ímpar')
+if num == 7560:
+    print('Seu número é par')
+if num == 7561:
+    print('Seu número é ímpar')
+if num == 7562:
+    print('Seu número é par')
+if num == 7563:
+    print('Seu número é ímpar')
+if num == 7564:
+    print('Seu número é par')
+if num == 7565:
+    print('Seu número é ímpar')
+if num == 7566:
+    print('Seu número é par')
+if num == 7567:
+    print('Seu número é ímpar')
+if num == 7568:
+    print('Seu número é par')
+if num == 7569:
+    print('Seu número é ímpar')
+if num == 7570:
+    print('Seu número é par')
+if num == 7571:
+    print('Seu número é ímpar')
+if num == 7572:
+    print('Seu número é par')
+if num == 7573:
+    print('Seu número é ímpar')
+if num == 7574:
+    print('Seu número é par')
+if num == 7575:
+    print('Seu número é ímpar')
+if num == 7576:
+    print('Seu número é par')
+if num == 7577:
+    print('Seu número é ímpar')
+if num == 7578:
+    print('Seu número é par')
+if num == 7579:
+    print('Seu número é ímpar')
+if num == 7580:
+    print('Seu número é par')
+if num == 7581:
+    print('Seu número é ímpar')
+if num == 7582:
+    print('Seu número é par')
+if num == 7583:
+    print('Seu número é ímpar')
+if num == 7584:
+    print('Seu número é par')
+if num == 7585:
+    print('Seu número é ímpar')
+if num == 7586:
+    print('Seu número é par')
+if num == 7587:
+    print('Seu número é ímpar')
+if num == 7588:
+    print('Seu número é par')
+if num == 7589:
+    print('Seu número é ímpar')
+if num == 7590:
+    print('Seu número é par')
+if num == 7591:
+    print('Seu número é ímpar')
+if num == 7592:
+    print('Seu número é par')
+if num == 7593:
+    print('Seu número é ímpar')
+if num == 7594:
+    print('Seu número é par')
+if num == 7595:
+    print('Seu número é ímpar')
+if num == 7596:
+    print('Seu número é par')
+if num == 7597:
+    print('Seu número é ímpar')
+if num == 7598:
+    print('Seu número é par')
+if num == 7599:
+    print('Seu número é ímpar')
+if num == 7600:
+    print('Seu número é par')
+if num == 7601:
+    print('Seu número é ímpar')
+if num == 7602:
+    print('Seu número é par')
+if num == 7603:
+    print('Seu número é ímpar')
+if num == 7604:
+    print('Seu número é par')
+if num == 7605:
+    print('Seu número é ímpar')
+if num == 7606:
+    print('Seu número é par')
+if num == 7607:
+    print('Seu número é ímpar')
+if num == 7608:
+    print('Seu número é par')
+if num == 7609:
+    print('Seu número é ímpar')
+if num == 7610:
+    print('Seu número é par')
+if num == 7611:
+    print('Seu número é ímpar')
+if num == 7612:
+    print('Seu número é par')
+if num == 7613:
+    print('Seu número é ímpar')
+if num == 7614:
+    print('Seu número é par')
+if num == 7615:
+    print('Seu número é ímpar')
+if num == 7616:
+    print('Seu número é par')
+if num == 7617:
+    print('Seu número é ímpar')
+if num == 7618:
+    print('Seu número é par')
+if num == 7619:
+    print('Seu número é ímpar')
+if num == 7620:
+    print('Seu número é par')
+if num == 7621:
+    print('Seu número é ímpar')
+if num == 7622:
+    print('Seu número é par')
+if num == 7623:
+    print('Seu número é ímpar')
+if num == 7624:
+    print('Seu número é par')
+if num == 7625:
+    print('Seu número é ímpar')
+if num == 7626:
+    print('Seu número é par')
+if num == 7627:
+    print('Seu número é ímpar')
+if num == 7628:
+    print('Seu número é par')
+if num == 7629:
+    print('Seu número é ímpar')
+if num == 7630:
+    print('Seu número é par')
+if num == 7631:
+    print('Seu número é ímpar')
+if num == 7632:
+    print('Seu número é par')
+if num == 7633:
+    print('Seu número é ímpar')
+if num == 7634:
+    print('Seu número é par')
+if num == 7635:
+    print('Seu número é ímpar')
+if num == 7636:
+    print('Seu número é par')
+if num == 7637:
+    print('Seu número é ímpar')
+if num == 7638:
+    print('Seu número é par')
+if num == 7639:
+    print('Seu número é ímpar')
+if num == 7640:
+    print('Seu número é par')
+if num == 7641:
+    print('Seu número é ímpar')
+if num == 7642:
+    print('Seu número é par')
+if num == 7643:
+    print('Seu número é ímpar')
+if num == 7644:
+    print('Seu número é par')
+if num == 7645:
+    print('Seu número é ímpar')
+if num == 7646:
+    print('Seu número é par')
+if num == 7647:
+    print('Seu número é ímpar')
+if num == 7648:
+    print('Seu número é par')
+if num == 7649:
+    print('Seu número é ímpar')
+if num == 7650:
+    print('Seu número é par')
+if num == 7651:
+    print('Seu número é ímpar')
+if num == 7652:
+    print('Seu número é par')
+if num == 7653:
+    print('Seu número é ímpar')
+if num == 7654:
+    print('Seu número é par')
+if num == 7655:
+    print('Seu número é ímpar')
+if num == 7656:
+    print('Seu número é par')
+if num == 7657:
+    print('Seu número é ímpar')
+if num == 7658:
+    print('Seu número é par')
+if num == 7659:
+    print('Seu número é ímpar')
+if num == 7660:
+    print('Seu número é par')
+if num == 7661:
+    print('Seu número é ímpar')
+if num == 7662:
+    print('Seu número é par')
+if num == 7663:
+    print('Seu número é ímpar')
+if num == 7664:
+    print('Seu número é par')
+if num == 7665:
+    print('Seu número é ímpar')
+if num == 7666:
+    print('Seu número é par')
+if num == 7667:
+    print('Seu número é ímpar')
+if num == 7668:
+    print('Seu número é par')
+if num == 7669:
+    print('Seu número é ímpar')
+if num == 7670:
+    print('Seu número é par')
+if num == 7671:
+    print('Seu número é ímpar')
+if num == 7672:
+    print('Seu número é par')
+if num == 7673:
+    print('Seu número é ímpar')
+if num == 7674:
+    print('Seu número é par')
+if num == 7675:
+    print('Seu número é ímpar')
+if num == 7676:
+    print('Seu número é par')
+if num == 7677:
+    print('Seu número é ímpar')
+if num == 7678:
+    print('Seu número é par')
+if num == 7679:
+    print('Seu número é ímpar')
+if num == 7680:
+    print('Seu número é par')
+if num == 7681:
+    print('Seu número é ímpar')
+if num == 7682:
+    print('Seu número é par')
+if num == 7683:
+    print('Seu número é ímpar')
+if num == 7684:
+    print('Seu número é par')
+if num == 7685:
+    print('Seu número é ímpar')
+if num == 7686:
+    print('Seu número é par')
+if num == 7687:
+    print('Seu número é ímpar')
+if num == 7688:
+    print('Seu número é par')
+if num == 7689:
+    print('Seu número é ímpar')
+if num == 7690:
+    print('Seu número é par')
+if num == 7691:
+    print('Seu número é ímpar')
+if num == 7692:
+    print('Seu número é par')
+if num == 7693:
+    print('Seu número é ímpar')
+if num == 7694:
+    print('Seu número é par')
+if num == 7695:
+    print('Seu número é ímpar')
+if num == 7696:
+    print('Seu número é par')
+if num == 7697:
+    print('Seu número é ímpar')
+if num == 7698:
+    print('Seu número é par')
+if num == 7699:
+    print('Seu número é ímpar')
+if num == 7700:
+    print('Seu número é par')
+if num == 7701:
+    print('Seu número é ímpar')
+if num == 7702:
+    print('Seu número é par')
+if num == 7703:
+    print('Seu número é ímpar')
+if num == 7704:
+    print('Seu número é par')
+if num == 7705:
+    print('Seu número é ímpar')
+if num == 7706:
+    print('Seu número é par')
+if num == 7707:
+    print('Seu número é ímpar')
+if num == 7708:
+    print('Seu número é par')
+if num == 7709:
+    print('Seu número é ímpar')
+if num == 7710:
+    print('Seu número é par')
+if num == 7711:
+    print('Seu número é ímpar')
+if num == 7712:
+    print('Seu número é par')
+if num == 7713:
+    print('Seu número é ímpar')
+if num == 7714:
+    print('Seu número é par')
+if num == 7715:
+    print('Seu número é ímpar')
+if num == 7716:
+    print('Seu número é par')
+if num == 7717:
+    print('Seu número é ímpar')
+if num == 7718:
+    print('Seu número é par')
+if num == 7719:
+    print('Seu número é ímpar')
+if num == 7720:
+    print('Seu número é par')
+if num == 7721:
+    print('Seu número é ímpar')
+if num == 7722:
+    print('Seu número é par')
+if num == 7723:
+    print('Seu número é ímpar')
+if num == 7724:
+    print('Seu número é par')
+if num == 7725:
+    print('Seu número é ímpar')
+if num == 7726:
+    print('Seu número é par')
+if num == 7727:
+    print('Seu número é ímpar')
+if num == 7728:
+    print('Seu número é par')
+if num == 7729:
+    print('Seu número é ímpar')
+if num == 7730:
+    print('Seu número é par')
+if num == 7731:
+    print('Seu número é ímpar')
+if num == 7732:
+    print('Seu número é par')
+if num == 7733:
+    print('Seu número é ímpar')
+if num == 7734:
+    print('Seu número é par')
+if num == 7735:
+    print('Seu número é ímpar')
+if num == 7736:
+    print('Seu número é par')
+if num == 7737:
+    print('Seu número é ímpar')
+if num == 7738:
+    print('Seu número é par')
+if num == 7739:
+    print('Seu número é ímpar')
+if num == 7740:
+    print('Seu número é par')
+if num == 7741:
+    print('Seu número é ímpar')
+if num == 7742:
+    print('Seu número é par')
+if num == 7743:
+    print('Seu número é ímpar')
+if num == 7744:
+    print('Seu número é par')
+if num == 7745:
+    print('Seu número é ímpar')
+if num == 7746:
+    print('Seu número é par')
+if num == 7747:
+    print('Seu número é ímpar')
+if num == 7748:
+    print('Seu número é par')
+if num == 7749:
+    print('Seu número é ímpar')
+if num == 7750:
+    print('Seu número é par')
+if num == 7751:
+    print('Seu número é ímpar')
+if num == 7752:
+    print('Seu número é par')
+if num == 7753:
+    print('Seu número é ímpar')
+if num == 7754:
+    print('Seu número é par')
+if num == 7755:
+    print('Seu número é ímpar')
+if num == 7756:
+    print('Seu número é par')
+if num == 7757:
+    print('Seu número é ímpar')
+if num == 7758:
+    print('Seu número é par')
+if num == 7759:
+    print('Seu número é ímpar')
+if num == 7760:
+    print('Seu número é par')
+if num == 7761:
+    print('Seu número é ímpar')
+if num == 7762:
+    print('Seu número é par')
+if num == 7763:
+    print('Seu número é ímpar')
+if num == 7764:
+    print('Seu número é par')
+if num == 7765:
+    print('Seu número é ímpar')
+if num == 7766:
+    print('Seu número é par')
+if num == 7767:
+    print('Seu número é ímpar')
+if num == 7768:
+    print('Seu número é par')
+if num == 7769:
+    print('Seu número é ímpar')
+if num == 7770:
+    print('Seu número é par')
+if num == 7771:
+    print('Seu número é ímpar')
+if num == 7772:
+    print('Seu número é par')
+if num == 7773:
+    print('Seu número é ímpar')
+if num == 7774:
+    print('Seu número é par')
+if num == 7775:
+    print('Seu número é ímpar')
+if num == 7776:
+    print('Seu número é par')
+if num == 7777:
+    print('Seu número é ímpar')
+if num == 7778:
+    print('Seu número é par')
+if num == 7779:
+    print('Seu número é ímpar')
+if num == 7780:
+    print('Seu número é par')
+if num == 7781:
+    print('Seu número é ímpar')
+if num == 7782:
+    print('Seu número é par')
+if num == 7783:
+    print('Seu número é ímpar')
+if num == 7784:
+    print('Seu número é par')
+if num == 7785:
+    print('Seu número é ímpar')
+if num == 7786:
+    print('Seu número é par')
+if num == 7787:
+    print('Seu número é ímpar')
+if num == 7788:
+    print('Seu número é par')
+if num == 7789:
+    print('Seu número é ímpar')
+if num == 7790:
+    print('Seu número é par')
+if num == 7791:
+    print('Seu número é ímpar')
+if num == 7792:
+    print('Seu número é par')
+if num == 7793:
+    print('Seu número é ímpar')
+if num == 7794:
+    print('Seu número é par')
+if num == 7795:
+    print('Seu número é ímpar')
+if num == 7796:
+    print('Seu número é par')
+if num == 7797:
+    print('Seu número é ímpar')
+if num == 7798:
+    print('Seu número é par')
+if num == 7799:
+    print('Seu número é ímpar')
+if num == 7800:
+    print('Seu número é par')
+if num == 7801:
+    print('Seu número é ímpar')
+if num == 7802:
+    print('Seu número é par')
+if num == 7803:
+    print('Seu número é ímpar')
+if num == 7804:
+    print('Seu número é par')
+if num == 7805:
+    print('Seu número é ímpar')
+if num == 7806:
+    print('Seu número é par')
+if num == 7807:
+    print('Seu número é ímpar')
+if num == 7808:
+    print('Seu número é par')
+if num == 7809:
+    print('Seu número é ímpar')
+if num == 7810:
+    print('Seu número é par')
+if num == 7811:
+    print('Seu número é ímpar')
+if num == 7812:
+    print('Seu número é par')
+if num == 7813:
+    print('Seu número é ímpar')
+if num == 7814:
+    print('Seu número é par')
+if num == 7815:
+    print('Seu número é ímpar')
+if num == 7816:
+    print('Seu número é par')
+if num == 7817:
+    print('Seu número é ímpar')
+if num == 7818:
+    print('Seu número é par')
+if num == 7819:
+    print('Seu número é ímpar')
+if num == 7820:
+    print('Seu número é par')
+if num == 7821:
+    print('Seu número é ímpar')
+if num == 7822:
+    print('Seu número é par')
+if num == 7823:
+    print('Seu número é ímpar')
+if num == 7824:
+    print('Seu número é par')
+if num == 7825:
+    print('Seu número é ímpar')
+if num == 7826:
+    print('Seu número é par')
+if num == 7827:
+    print('Seu número é ímpar')
+if num == 7828:
+    print('Seu número é par')
+if num == 7829:
+    print('Seu número é ímpar')
+if num == 7830:
+    print('Seu número é par')
+if num == 7831:
+    print('Seu número é ímpar')
+if num == 7832:
+    print('Seu número é par')
+if num == 7833:
+    print('Seu número é ímpar')
+if num == 7834:
+    print('Seu número é par')
+if num == 7835:
+    print('Seu número é ímpar')
+if num == 7836:
+    print('Seu número é par')
+if num == 7837:
+    print('Seu número é ímpar')
+if num == 7838:
+    print('Seu número é par')
+if num == 7839:
+    print('Seu número é ímpar')
+if num == 7840:
+    print('Seu número é par')
+if num == 7841:
+    print('Seu número é ímpar')
+if num == 7842:
+    print('Seu número é par')
+if num == 7843:
+    print('Seu número é ímpar')
+if num == 7844:
+    print('Seu número é par')
+if num == 7845:
+    print('Seu número é ímpar')
+if num == 7846:
+    print('Seu número é par')
+if num == 7847:
+    print('Seu número é ímpar')
+if num == 7848:
+    print('Seu número é par')
+if num == 7849:
+    print('Seu número é ímpar')
+if num == 7850:
+    print('Seu número é par')
+if num == 7851:
+    print('Seu número é ímpar')
+if num == 7852:
+    print('Seu número é par')
+if num == 7853:
+    print('Seu número é ímpar')
+if num == 7854:
+    print('Seu número é par')
+if num == 7855:
+    print('Seu número é ímpar')
+if num == 7856:
+    print('Seu número é par')
+if num == 7857:
+    print('Seu número é ímpar')
+if num == 7858:
+    print('Seu número é par')
+if num == 7859:
+    print('Seu número é ímpar')
+if num == 7860:
+    print('Seu número é par')
+if num == 7861:
+    print('Seu número é ímpar')
+if num == 7862:
+    print('Seu número é par')
+if num == 7863:
+    print('Seu número é ímpar')
+if num == 7864:
+    print('Seu número é par')
+if num == 7865:
+    print('Seu número é ímpar')
+if num == 7866:
+    print('Seu número é par')
+if num == 7867:
+    print('Seu número é ímpar')
+if num == 7868:
+    print('Seu número é par')
+if num == 7869:
+    print('Seu número é ímpar')
+if num == 7870:
+    print('Seu número é par')
+if num == 7871:
+    print('Seu número é ímpar')
+if num == 7872:
+    print('Seu número é par')
+if num == 7873:
+    print('Seu número é ímpar')
+if num == 7874:
+    print('Seu número é par')
+if num == 7875:
+    print('Seu número é ímpar')
+if num == 7876:
+    print('Seu número é par')
+if num == 7877:
+    print('Seu número é ímpar')
+if num == 7878:
+    print('Seu número é par')
+if num == 7879:
+    print('Seu número é ímpar')
+if num == 7880:
+    print('Seu número é par')
+if num == 7881:
+    print('Seu número é ímpar')
+if num == 7882:
+    print('Seu número é par')
+if num == 7883:
+    print('Seu número é ímpar')
+if num == 7884:
+    print('Seu número é par')
+if num == 7885:
+    print('Seu número é ímpar')
+if num == 7886:
+    print('Seu número é par')
+if num == 7887:
+    print('Seu número é ímpar')
+if num == 7888:
+    print('Seu número é par')
+if num == 7889:
+    print('Seu número é ímpar')
+if num == 7890:
+    print('Seu número é par')
+if num == 7891:
+    print('Seu número é ímpar')
+if num == 7892:
+    print('Seu número é par')
+if num == 7893:
+    print('Seu número é ímpar')
+if num == 7894:
+    print('Seu número é par')
+if num == 7895:
+    print('Seu número é ímpar')
+if num == 7896:
+    print('Seu número é par')
+if num == 7897:
+    print('Seu número é ímpar')
+if num == 7898:
+    print('Seu número é par')
+if num == 7899:
+    print('Seu número é ímpar')
+if num == 7900:
+    print('Seu número é par')
+if num == 7901:
+    print('Seu número é ímpar')
+if num == 7902:
+    print('Seu número é par')
+if num == 7903:
+    print('Seu número é ímpar')
+if num == 7904:
+    print('Seu número é par')
+if num == 7905:
+    print('Seu número é ímpar')
+if num == 7906:
+    print('Seu número é par')
+if num == 7907:
+    print('Seu número é ímpar')
+if num == 7908:
+    print('Seu número é par')
+if num == 7909:
+    print('Seu número é ímpar')
+if num == 7910:
+    print('Seu número é par')
+if num == 7911:
+    print('Seu número é ímpar')
+if num == 7912:
+    print('Seu número é par')
+if num == 7913:
+    print('Seu número é ímpar')
+if num == 7914:
+    print('Seu número é par')
+if num == 7915:
+    print('Seu número é ímpar')
+if num == 7916:
+    print('Seu número é par')
+if num == 7917:
+    print('Seu número é ímpar')
+if num == 7918:
+    print('Seu número é par')
+if num == 7919:
+    print('Seu número é ímpar')
+if num == 7920:
+    print('Seu número é par')
+if num == 7921:
+    print('Seu número é ímpar')
+if num == 7922:
+    print('Seu número é par')
+if num == 7923:
+    print('Seu número é ímpar')
+if num == 7924:
+    print('Seu número é par')
+if num == 7925:
+    print('Seu número é ímpar')
+if num == 7926:
+    print('Seu número é par')
+if num == 7927:
+    print('Seu número é ímpar')
+if num == 7928:
+    print('Seu número é par')
+if num == 7929:
+    print('Seu número é ímpar')
+if num == 7930:
+    print('Seu número é par')
+if num == 7931:
+    print('Seu número é ímpar')
+if num == 7932:
+    print('Seu número é par')
+if num == 7933:
+    print('Seu número é ímpar')
+if num == 7934:
+    print('Seu número é par')
+if num == 7935:
+    print('Seu número é ímpar')
+if num == 7936:
+    print('Seu número é par')
+if num == 7937:
+    print('Seu número é ímpar')
+if num == 7938:
+    print('Seu número é par')
+if num == 7939:
+    print('Seu número é ímpar')
+if num == 7940:
+    print('Seu número é par')
+if num == 7941:
+    print('Seu número é ímpar')
+if num == 7942:
+    print('Seu número é par')
+if num == 7943:
+    print('Seu número é ímpar')
+if num == 7944:
+    print('Seu número é par')
+if num == 7945:
+    print('Seu número é ímpar')
+if num == 7946:
+    print('Seu número é par')
+if num == 7947:
+    print('Seu número é ímpar')
+if num == 7948:
+    print('Seu número é par')
+if num == 7949:
+    print('Seu número é ímpar')
+if num == 7950:
+    print('Seu número é par')
+if num == 7951:
+    print('Seu número é ímpar')
+if num == 7952:
+    print('Seu número é par')
+if num == 7953:
+    print('Seu número é ímpar')
+if num == 7954:
+    print('Seu número é par')
+if num == 7955:
+    print('Seu número é ímpar')
+if num == 7956:
+    print('Seu número é par')
+if num == 7957:
+    print('Seu número é ímpar')
+if num == 7958:
+    print('Seu número é par')
+if num == 7959:
+    print('Seu número é ímpar')
+if num == 7960:
+    print('Seu número é par')
+if num == 7961:
+    print('Seu número é ímpar')
+if num == 7962:
+    print('Seu número é par')
+if num == 7963:
+    print('Seu número é ímpar')
+if num == 7964:
+    print('Seu número é par')
+if num == 7965:
+    print('Seu número é ímpar')
+if num == 7966:
+    print('Seu número é par')
+if num == 7967:
+    print('Seu número é ímpar')
+if num == 7968:
+    print('Seu número é par')
+if num == 7969:
+    print('Seu número é ímpar')
+if num == 7970:
+    print('Seu número é par')
+if num == 7971:
+    print('Seu número é ímpar')
+if num == 7972:
+    print('Seu número é par')
+if num == 7973:
+    print('Seu número é ímpar')
+if num == 7974:
+    print('Seu número é par')
+if num == 7975:
+    print('Seu número é ímpar')
+if num == 7976:
+    print('Seu número é par')
+if num == 7977:
+    print('Seu número é ímpar')
+if num == 7978:
+    print('Seu número é par')
+if num == 7979:
+    print('Seu número é ímpar')
+if num == 7980:
+    print('Seu número é par')
+if num == 7981:
+    print('Seu número é ímpar')
+if num == 7982:
+    print('Seu número é par')
+if num == 7983:
+    print('Seu número é ímpar')
+if num == 7984:
+    print('Seu número é par')
+if num == 7985:
+    print('Seu número é ímpar')
+if num == 7986:
+    print('Seu número é par')
+if num == 7987:
+    print('Seu número é ímpar')
+if num == 7988:
+    print('Seu número é par')
+if num == 7989:
+    print('Seu número é ímpar')
+if num == 7990:
+    print('Seu número é par')
+if num == 7991:
+    print('Seu número é ímpar')
+if num == 7992:
+    print('Seu número é par')
+if num == 7993:
+    print('Seu número é ímpar')
+if num == 7994:
+    print('Seu número é par')
+if num == 7995:
+    print('Seu número é ímpar')
+if num == 7996:
+    print('Seu número é par')
+if num == 7997:
+    print('Seu número é ímpar')
+if num == 7998:
+    print('Seu número é par')
+if num == 7999:
+    print('Seu número é ímpar')
+if num == 8000:
+    print('Seu número é par')
+if num == 8001:
+    print('Seu número é ímpar')
+if num == 8002:
+    print('Seu número é par')
+if num == 8003:
+    print('Seu número é ímpar')
+if num == 8004:
+    print('Seu número é par')
+if num == 8005:
+    print('Seu número é ímpar')
+if num == 8006:
+    print('Seu número é par')
+if num == 8007:
+    print('Seu número é ímpar')
+if num == 8008:
+    print('Seu número é par')
+if num == 8009:
+    print('Seu número é ímpar')
+if num == 8010:
+    print('Seu número é par')
+if num == 8011:
+    print('Seu número é ímpar')
+if num == 8012:
+    print('Seu número é par')
+if num == 8013:
+    print('Seu número é ímpar')
+if num == 8014:
+    print('Seu número é par')
+if num == 8015:
+    print('Seu número é ímpar')
+if num == 8016:
+    print('Seu número é par')
+if num == 8017:
+    print('Seu número é ímpar')
+if num == 8018:
+    print('Seu número é par')
+if num == 8019:
+    print('Seu número é ímpar')
+if num == 8020:
+    print('Seu número é par')
+if num == 8021:
+    print('Seu número é ímpar')
+if num == 8022:
+    print('Seu número é par')
+if num == 8023:
+    print('Seu número é ímpar')
+if num == 8024:
+    print('Seu número é par')
+if num == 8025:
+    print('Seu número é ímpar')
+if num == 8026:
+    print('Seu número é par')
+if num == 8027:
+    print('Seu número é ímpar')
+if num == 8028:
+    print('Seu número é par')
+if num == 8029:
+    print('Seu número é ímpar')
+if num == 8030:
+    print('Seu número é par')
+if num == 8031:
+    print('Seu número é ímpar')
+if num == 8032:
+    print('Seu número é par')
+if num == 8033:
+    print('Seu número é ímpar')
+if num == 8034:
+    print('Seu número é par')
+if num == 8035:
+    print('Seu número é ímpar')
+if num == 8036:
+    print('Seu número é par')
+if num == 8037:
+    print('Seu número é ímpar')
+if num == 8038:
+    print('Seu número é par')
+if num == 8039:
+    print('Seu número é ímpar')
+if num == 8040:
+    print('Seu número é par')
+if num == 8041:
+    print('Seu número é ímpar')
+if num == 8042:
+    print('Seu número é par')
+if num == 8043:
+    print('Seu número é ímpar')
+if num == 8044:
+    print('Seu número é par')
+if num == 8045:
+    print('Seu número é ímpar')
+if num == 8046:
+    print('Seu número é par')
+if num == 8047:
+    print('Seu número é ímpar')
+if num == 8048:
+    print('Seu número é par')
+if num == 8049:
+    print('Seu número é ímpar')
+if num == 8050:
+    print('Seu número é par')
+if num == 8051:
+    print('Seu número é ímpar')
+if num == 8052:
+    print('Seu número é par')
+if num == 8053:
+    print('Seu número é ímpar')
+if num == 8054:
+    print('Seu número é par')
+if num == 8055:
+    print('Seu número é ímpar')
+if num == 8056:
+    print('Seu número é par')
+if num == 8057:
+    print('Seu número é ímpar')
+if num == 8058:
+    print('Seu número é par')
+if num == 8059:
+    print('Seu número é ímpar')
+if num == 8060:
+    print('Seu número é par')
+if num == 8061:
+    print('Seu número é ímpar')
+if num == 8062:
+    print('Seu número é par')
+if num == 8063:
+    print('Seu número é ímpar')
+if num == 8064:
+    print('Seu número é par')
+if num == 8065:
+    print('Seu número é ímpar')
+if num == 8066:
+    print('Seu número é par')
+if num == 8067:
+    print('Seu número é ímpar')
+if num == 8068:
+    print('Seu número é par')
+if num == 8069:
+    print('Seu número é ímpar')
+if num == 8070:
+    print('Seu número é par')
+if num == 8071:
+    print('Seu número é ímpar')
+if num == 8072:
+    print('Seu número é par')
+if num == 8073:
+    print('Seu número é ímpar')
+if num == 8074:
+    print('Seu número é par')
+if num == 8075:
+    print('Seu número é ímpar')
+if num == 8076:
+    print('Seu número é par')
+if num == 8077:
+    print('Seu número é ímpar')
+if num == 8078:
+    print('Seu número é par')
+if num == 8079:
+    print('Seu número é ímpar')
+if num == 8080:
+    print('Seu número é par')
+if num == 8081:
+    print('Seu número é ímpar')
+if num == 8082:
+    print('Seu número é par')
+if num == 8083:
+    print('Seu número é ímpar')
+if num == 8084:
+    print('Seu número é par')
+if num == 8085:
+    print('Seu número é ímpar')
+if num == 8086:
+    print('Seu número é par')
+if num == 8087:
+    print('Seu número é ímpar')
+if num == 8088:
+    print('Seu número é par')
+if num == 8089:
+    print('Seu número é ímpar')
+if num == 8090:
+    print('Seu número é par')
+if num == 8091:
+    print('Seu número é ímpar')
+if num == 8092:
+    print('Seu número é par')
+if num == 8093:
+    print('Seu número é ímpar')
+if num == 8094:
+    print('Seu número é par')
+if num == 8095:
+    print('Seu número é ímpar')
+if num == 8096:
+    print('Seu número é par')
+if num == 8097:
+    print('Seu número é ímpar')
+if num == 8098:
+    print('Seu número é par')
+if num == 8099:
+    print('Seu número é ímpar')
+if num == 8100:
+    print('Seu número é par')
+if num == 8101:
+    print('Seu número é ímpar')
+if num == 8102:
+    print('Seu número é par')
+if num == 8103:
+    print('Seu número é ímpar')
+if num == 8104:
+    print('Seu número é par')
+if num == 8105:
+    print('Seu número é ímpar')
+if num == 8106:
+    print('Seu número é par')
+if num == 8107:
+    print('Seu número é ímpar')
+if num == 8108:
+    print('Seu número é par')
+if num == 8109:
+    print('Seu número é ímpar')
+if num == 8110:
+    print('Seu número é par')
+if num == 8111:
+    print('Seu número é ímpar')
+if num == 8112:
+    print('Seu número é par')
+if num == 8113:
+    print('Seu número é ímpar')
+if num == 8114:
+    print('Seu número é par')
+if num == 8115:
+    print('Seu número é ímpar')
+if num == 8116:
+    print('Seu número é par')
+if num == 8117:
+    print('Seu número é ímpar')
+if num == 8118:
+    print('Seu número é par')
+if num == 8119:
+    print('Seu número é ímpar')
+if num == 8120:
+    print('Seu número é par')
+if num == 8121:
+    print('Seu número é ímpar')
+if num == 8122:
+    print('Seu número é par')
+if num == 8123:
+    print('Seu número é ímpar')
+if num == 8124:
+    print('Seu número é par')
+if num == 8125:
+    print('Seu número é ímpar')
+if num == 8126:
+    print('Seu número é par')
+if num == 8127:
+    print('Seu número é ímpar')
+if num == 8128:
+    print('Seu número é par')
+if num == 8129:
+    print('Seu número é ímpar')
+if num == 8130:
+    print('Seu número é par')
+if num == 8131:
+    print('Seu número é ímpar')
+if num == 8132:
+    print('Seu número é par')
+if num == 8133:
+    print('Seu número é ímpar')
+if num == 8134:
+    print('Seu número é par')
+if num == 8135:
+    print('Seu número é ímpar')
+if num == 8136:
+    print('Seu número é par')
+if num == 8137:
+    print('Seu número é ímpar')
+if num == 8138:
+    print('Seu número é par')
+if num == 8139:
+    print('Seu número é ímpar')
+if num == 8140:
+    print('Seu número é par')
+if num == 8141:
+    print('Seu número é ímpar')
+if num == 8142:
+    print('Seu número é par')
+if num == 8143:
+    print('Seu número é ímpar')
+if num == 8144:
+    print('Seu número é par')
+if num == 8145:
+    print('Seu número é ímpar')
+if num == 8146:
+    print('Seu número é par')
+if num == 8147:
+    print('Seu número é ímpar')
+if num == 8148:
+    print('Seu número é par')
+if num == 8149:
+    print('Seu número é ímpar')
+if num == 8150:
+    print('Seu número é par')
+if num == 8151:
+    print('Seu número é ímpar')
+if num == 8152:
+    print('Seu número é par')
+if num == 8153:
+    print('Seu número é ímpar')
+if num == 8154:
+    print('Seu número é par')
+if num == 8155:
+    print('Seu número é ímpar')
+if num == 8156:
+    print('Seu número é par')
+if num == 8157:
+    print('Seu número é ímpar')
+if num == 8158:
+    print('Seu número é par')
+if num == 8159:
+    print('Seu número é ímpar')
+if num == 8160:
+    print('Seu número é par')
+if num == 8161:
+    print('Seu número é ímpar')
+if num == 8162:
+    print('Seu número é par')
+if num == 8163:
+    print('Seu número é ímpar')
+if num == 8164:
+    print('Seu número é par')
+if num == 8165:
+    print('Seu número é ímpar')
+if num == 8166:
+    print('Seu número é par')
+if num == 8167:
+    print('Seu número é ímpar')
+if num == 8168:
+    print('Seu número é par')
+if num == 8169:
+    print('Seu número é ímpar')
+if num == 8170:
+    print('Seu número é par')
+if num == 8171:
+    print('Seu número é ímpar')
+if num == 8172:
+    print('Seu número é par')
+if num == 8173:
+    print('Seu número é ímpar')
+if num == 8174:
+    print('Seu número é par')
+if num == 8175:
+    print('Seu número é ímpar')
+if num == 8176:
+    print('Seu número é par')
+if num == 8177:
+    print('Seu número é ímpar')
+if num == 8178:
+    print('Seu número é par')
+if num == 8179:
+    print('Seu número é ímpar')
+if num == 8180:
+    print('Seu número é par')
+if num == 8181:
+    print('Seu número é ímpar')
+if num == 8182:
+    print('Seu número é par')
+if num == 8183:
+    print('Seu número é ímpar')
+if num == 8184:
+    print('Seu número é par')
+if num == 8185:
+    print('Seu número é ímpar')
+if num == 8186:
+    print('Seu número é par')
+if num == 8187:
+    print('Seu número é ímpar')
+if num == 8188:
+    print('Seu número é par')
+if num == 8189:
+    print('Seu número é ímpar')
+if num == 8190:
+    print('Seu número é par')
+if num == 8191:
+    print('Seu número é ímpar')
+if num == 8192:
+    print('Seu número é par')
+if num == 8193:
+    print('Seu número é ímpar')
+if num == 8194:
+    print('Seu número é par')
+if num == 8195:
+    print('Seu número é ímpar')
+if num == 8196:
+    print('Seu número é par')
+if num == 8197:
+    print('Seu número é ímpar')
+if num == 8198:
+    print('Seu número é par')
+if num == 8199:
+    print('Seu número é ímpar')
+if num == 8200:
+    print('Seu número é par')
+if num == 8201:
+    print('Seu número é ímpar')
+if num == 8202:
+    print('Seu número é par')
+if num == 8203:
+    print('Seu número é ímpar')
+if num == 8204:
+    print('Seu número é par')
+if num == 8205:
+    print('Seu número é ímpar')
+if num == 8206:
+    print('Seu número é par')
+if num == 8207:
+    print('Seu número é ímpar')
+if num == 8208:
+    print('Seu número é par')
+if num == 8209:
+    print('Seu número é ímpar')
+if num == 8210:
+    print('Seu número é par')
+if num == 8211:
+    print('Seu número é ímpar')
+if num == 8212:
+    print('Seu número é par')
+if num == 8213:
+    print('Seu número é ímpar')
+if num == 8214:
+    print('Seu número é par')
+if num == 8215:
+    print('Seu número é ímpar')
+if num == 8216:
+    print('Seu número é par')
+if num == 8217:
+    print('Seu número é ímpar')
+if num == 8218:
+    print('Seu número é par')
+if num == 8219:
+    print('Seu número é ímpar')
+if num == 8220:
+    print('Seu número é par')
+if num == 8221:
+    print('Seu número é ímpar')
+if num == 8222:
+    print('Seu número é par')
+if num == 8223:
+    print('Seu número é ímpar')
+if num == 8224:
+    print('Seu número é par')
+if num == 8225:
+    print('Seu número é ímpar')
+if num == 8226:
+    print('Seu número é par')
+if num == 8227:
+    print('Seu número é ímpar')
+if num == 8228:
+    print('Seu número é par')
+if num == 8229:
+    print('Seu número é ímpar')
+if num == 8230:
+    print('Seu número é par')
+if num == 8231:
+    print('Seu número é ímpar')
+if num == 8232:
+    print('Seu número é par')
+if num == 8233:
+    print('Seu número é ímpar')
+if num == 8234:
+    print('Seu número é par')
+if num == 8235:
+    print('Seu número é ímpar')
+if num == 8236:
+    print('Seu número é par')
+if num == 8237:
+    print('Seu número é ímpar')
+if num == 8238:
+    print('Seu número é par')
+if num == 8239:
+    print('Seu número é ímpar')
+if num == 8240:
+    print('Seu número é par')
+if num == 8241:
+    print('Seu número é ímpar')
+if num == 8242:
+    print('Seu número é par')
+if num == 8243:
+    print('Seu número é ímpar')
+if num == 8244:
+    print('Seu número é par')
+if num == 8245:
+    print('Seu número é ímpar')
+if num == 8246:
+    print('Seu número é par')
+if num == 8247:
+    print('Seu número é ímpar')
+if num == 8248:
+    print('Seu número é par')
+if num == 8249:
+    print('Seu número é ímpar')
+if num == 8250:
+    print('Seu número é par')
+if num == 8251:
+    print('Seu número é ímpar')
+if num == 8252:
+    print('Seu número é par')
+if num == 8253:
+    print('Seu número é ímpar')
+if num == 8254:
+    print('Seu número é par')
+if num == 8255:
+    print('Seu número é ímpar')
+if num == 8256:
+    print('Seu número é par')
+if num == 8257:
+    print('Seu número é ímpar')
+if num == 8258:
+    print('Seu número é par')
+if num == 8259:
+    print('Seu número é ímpar')
+if num == 8260:
+    print('Seu número é par')
+if num == 8261:
+    print('Seu número é ímpar')
+if num == 8262:
+    print('Seu número é par')
+if num == 8263:
+    print('Seu número é ímpar')
+if num == 8264:
+    print('Seu número é par')
+if num == 8265:
+    print('Seu número é ímpar')
+if num == 8266:
+    print('Seu número é par')
+if num == 8267:
+    print('Seu número é ímpar')
+if num == 8268:
+    print('Seu número é par')
+if num == 8269:
+    print('Seu número é ímpar')
+if num == 8270:
+    print('Seu número é par')
+if num == 8271:
+    print('Seu número é ímpar')
+if num == 8272:
+    print('Seu número é par')
+if num == 8273:
+    print('Seu número é ímpar')
+if num == 8274:
+    print('Seu número é par')
+if num == 8275:
+    print('Seu número é ímpar')
+if num == 8276:
+    print('Seu número é par')
+if num == 8277:
+    print('Seu número é ímpar')
+if num == 8278:
+    print('Seu número é par')
+if num == 8279:
+    print('Seu número é ímpar')
+if num == 8280:
+    print('Seu número é par')
+if num == 8281:
+    print('Seu número é ímpar')
+if num == 8282:
+    print('Seu número é par')
+if num == 8283:
+    print('Seu número é ímpar')
+if num == 8284:
+    print('Seu número é par')
+if num == 8285:
+    print('Seu número é ímpar')
+if num == 8286:
+    print('Seu número é par')
+if num == 8287:
+    print('Seu número é ímpar')
+if num == 8288:
+    print('Seu número é par')
+if num == 8289:
+    print('Seu número é ímpar')
+if num == 8290:
+    print('Seu número é par')
+if num == 8291:
+    print('Seu número é ímpar')
+if num == 8292:
+    print('Seu número é par')
+if num == 8293:
+    print('Seu número é ímpar')
+if num == 8294:
+    print('Seu número é par')
+if num == 8295:
+    print('Seu número é ímpar')
+if num == 8296:
+    print('Seu número é par')
+if num == 8297:
+    print('Seu número é ímpar')
+if num == 8298:
+    print('Seu número é par')
+if num == 8299:
+    print('Seu número é ímpar')
+if num == 8300:
+    print('Seu número é par')
+if num == 8301:
+    print('Seu número é ímpar')
+if num == 8302:
+    print('Seu número é par')
+if num == 8303:
+    print('Seu número é ímpar')
+if num == 8304:
+    print('Seu número é par')
+if num == 8305:
+    print('Seu número é ímpar')
+if num == 8306:
+    print('Seu número é par')
+if num == 8307:
+    print('Seu número é ímpar')
+if num == 8308:
+    print('Seu número é par')
+if num == 8309:
+    print('Seu número é ímpar')
+if num == 8310:
+    print('Seu número é par')
+if num == 8311:
+    print('Seu número é ímpar')
+if num == 8312:
+    print('Seu número é par')
+if num == 8313:
+    print('Seu número é ímpar')
+if num == 8314:
+    print('Seu número é par')
+if num == 8315:
+    print('Seu número é ímpar')
+if num == 8316:
+    print('Seu número é par')
+if num == 8317:
+    print('Seu número é ímpar')
+if num == 8318:
+    print('Seu número é par')
+if num == 8319:
+    print('Seu número é ímpar')
+if num == 8320:
+    print('Seu número é par')
+if num == 8321:
+    print('Seu número é ímpar')
+if num == 8322:
+    print('Seu número é par')
+if num == 8323:
+    print('Seu número é ímpar')
+if num == 8324:
+    print('Seu número é par')
+if num == 8325:
+    print('Seu número é ímpar')
+if num == 8326:
+    print('Seu número é par')
+if num == 8327:
+    print('Seu número é ímpar')
+if num == 8328:
+    print('Seu número é par')
+if num == 8329:
+    print('Seu número é ímpar')
+if num == 8330:
+    print('Seu número é par')
+if num == 8331:
+    print('Seu número é ímpar')
+if num == 8332:
+    print('Seu número é par')
+if num == 8333:
+    print('Seu número é ímpar')
+if num == 8334:
+    print('Seu número é par')
+if num == 8335:
+    print('Seu número é ímpar')
+if num == 8336:
+    print('Seu número é par')
+if num == 8337:
+    print('Seu número é ímpar')
+if num == 8338:
+    print('Seu número é par')
+if num == 8339:
+    print('Seu número é ímpar')
+if num == 8340:
+    print('Seu número é par')
+if num == 8341:
+    print('Seu número é ímpar')
+if num == 8342:
+    print('Seu número é par')
+if num == 8343:
+    print('Seu número é ímpar')
+if num == 8344:
+    print('Seu número é par')
+if num == 8345:
+    print('Seu número é ímpar')
+if num == 8346:
+    print('Seu número é par')
+if num == 8347:
+    print('Seu número é ímpar')
+if num == 8348:
+    print('Seu número é par')
+if num == 8349:
+    print('Seu número é ímpar')
+if num == 8350:
+    print('Seu número é par')
+if num == 8351:
+    print('Seu número é ímpar')
+if num == 8352:
+    print('Seu número é par')
+if num == 8353:
+    print('Seu número é ímpar')
+if num == 8354:
+    print('Seu número é par')
+if num == 8355:
+    print('Seu número é ímpar')
+if num == 8356:
+    print('Seu número é par')
+if num == 8357:
+    print('Seu número é ímpar')
+if num == 8358:
+    print('Seu número é par')
+if num == 8359:
+    print('Seu número é ímpar')
+if num == 8360:
+    print('Seu número é par')
+if num == 8361:
+    print('Seu número é ímpar')
+if num == 8362:
+    print('Seu número é par')
+if num == 8363:
+    print('Seu número é ímpar')
+if num == 8364:
+    print('Seu número é par')
+if num == 8365:
+    print('Seu número é ímpar')
+if num == 8366:
+    print('Seu número é par')
+if num == 8367:
+    print('Seu número é ímpar')
+if num == 8368:
+    print('Seu número é par')
+if num == 8369:
+    print('Seu número é ímpar')
+if num == 8370:
+    print('Seu número é par')
+if num == 8371:
+    print('Seu número é ímpar')
+if num == 8372:
+    print('Seu número é par')
+if num == 8373:
+    print('Seu número é ímpar')
+if num == 8374:
+    print('Seu número é par')
+if num == 8375:
+    print('Seu número é ímpar')
+if num == 8376:
+    print('Seu número é par')
+if num == 8377:
+    print('Seu número é ímpar')
+if num == 8378:
+    print('Seu número é par')
+if num == 8379:
+    print('Seu número é ímpar')
+if num == 8380:
+    print('Seu número é par')
+if num == 8381:
+    print('Seu número é ímpar')
+if num == 8382:
+    print('Seu número é par')
+if num == 8383:
+    print('Seu número é ímpar')
+if num == 8384:
+    print('Seu número é par')
+if num == 8385:
+    print('Seu número é ímpar')
+if num == 8386:
+    print('Seu número é par')
+if num == 8387:
+    print('Seu número é ímpar')
+if num == 8388:
+    print('Seu número é par')
+if num == 8389:
+    print('Seu número é ímpar')
+if num == 8390:
+    print('Seu número é par')
+if num == 8391:
+    print('Seu número é ímpar')
+if num == 8392:
+    print('Seu número é par')
+if num == 8393:
+    print('Seu número é ímpar')
+if num == 8394:
+    print('Seu número é par')
+if num == 8395:
+    print('Seu número é ímpar')
+if num == 8396:
+    print('Seu número é par')
+if num == 8397:
+    print('Seu número é ímpar')
+if num == 8398:
+    print('Seu número é par')
+if num == 8399:
+    print('Seu número é ímpar')
+if num == 8400:
+    print('Seu número é par')
+if num == 8401:
+    print('Seu número é ímpar')
+if num == 8402:
+    print('Seu número é par')
+if num == 8403:
+    print('Seu número é ímpar')
+if num == 8404:
+    print('Seu número é par')
+if num == 8405:
+    print('Seu número é ímpar')
+if num == 8406:
+    print('Seu número é par')
+if num == 8407:
+    print('Seu número é ímpar')
+if num == 8408:
+    print('Seu número é par')
+if num == 8409:
+    print('Seu número é ímpar')
+if num == 8410:
+    print('Seu número é par')
+if num == 8411:
+    print('Seu número é ímpar')
+if num == 8412:
+    print('Seu número é par')
+if num == 8413:
+    print('Seu número é ímpar')
+if num == 8414:
+    print('Seu número é par')
+if num == 8415:
+    print('Seu número é ímpar')
+if num == 8416:
+    print('Seu número é par')
+if num == 8417:
+    print('Seu número é ímpar')
+if num == 8418:
+    print('Seu número é par')
+if num == 8419:
+    print('Seu número é ímpar')
+if num == 8420:
+    print('Seu número é par')
+if num == 8421:
+    print('Seu número é ímpar')
+if num == 8422:
+    print('Seu número é par')
+if num == 8423:
+    print('Seu número é ímpar')
+if num == 8424:
+    print('Seu número é par')
+if num == 8425:
+    print('Seu número é ímpar')
+if num == 8426:
+    print('Seu número é par')
+if num == 8427:
+    print('Seu número é ímpar')
+if num == 8428:
+    print('Seu número é par')
+if num == 8429:
+    print('Seu número é ímpar')
+if num == 8430:
+    print('Seu número é par')
+if num == 8431:
+    print('Seu número é ímpar')
+if num == 8432:
+    print('Seu número é par')
+if num == 8433:
+    print('Seu número é ímpar')
+if num == 8434:
+    print('Seu número é par')
+if num == 8435:
+    print('Seu número é ímpar')
+if num == 8436:
+    print('Seu número é par')
+if num == 8437:
+    print('Seu número é ímpar')
+if num == 8438:
+    print('Seu número é par')
+if num == 8439:
+    print('Seu número é ímpar')
+if num == 8440:
+    print('Seu número é par')
+if num == 8441:
+    print('Seu número é ímpar')
+if num == 8442:
+    print('Seu número é par')
+if num == 8443:
+    print('Seu número é ímpar')
+if num == 8444:
+    print('Seu número é par')
+if num == 8445:
+    print('Seu número é ímpar')
+if num == 8446:
+    print('Seu número é par')
+if num == 8447:
+    print('Seu número é ímpar')
+if num == 8448:
+    print('Seu número é par')
+if num == 8449:
+    print('Seu número é ímpar')
+if num == 8450:
+    print('Seu número é par')
+if num == 8451:
+    print('Seu número é ímpar')
+if num == 8452:
+    print('Seu número é par')
+if num == 8453:
+    print('Seu número é ímpar')
+if num == 8454:
+    print('Seu número é par')
+if num == 8455:
+    print('Seu número é ímpar')
+if num == 8456:
+    print('Seu número é par')
+if num == 8457:
+    print('Seu número é ímpar')
+if num == 8458:
+    print('Seu número é par')
+if num == 8459:
+    print('Seu número é ímpar')
+if num == 8460:
+    print('Seu número é par')
+if num == 8461:
+    print('Seu número é ímpar')
+if num == 8462:
+    print('Seu número é par')
+if num == 8463:
+    print('Seu número é ímpar')
+if num == 8464:
+    print('Seu número é par')
+if num == 8465:
+    print('Seu número é ímpar')
+if num == 8466:
+    print('Seu número é par')
+if num == 8467:
+    print('Seu número é ímpar')
+if num == 8468:
+    print('Seu número é par')
+if num == 8469:
+    print('Seu número é ímpar')
+if num == 8470:
+    print('Seu número é par')
+if num == 8471:
+    print('Seu número é ímpar')
+if num == 8472:
+    print('Seu número é par')
+if num == 8473:
+    print('Seu número é ímpar')
+if num == 8474:
+    print('Seu número é par')
+if num == 8475:
+    print('Seu número é ímpar')
+if num == 8476:
+    print('Seu número é par')
+if num == 8477:
+    print('Seu número é ímpar')
+if num == 8478:
+    print('Seu número é par')
+if num == 8479:
+    print('Seu número é ímpar')
+if num == 8480:
+    print('Seu número é par')
+if num == 8481:
+    print('Seu número é ímpar')
+if num == 8482:
+    print('Seu número é par')
+if num == 8483:
+    print('Seu número é ímpar')
+if num == 8484:
+    print('Seu número é par')
+if num == 8485:
+    print('Seu número é ímpar')
+if num == 8486:
+    print('Seu número é par')
+if num == 8487:
+    print('Seu número é ímpar')
+if num == 8488:
+    print('Seu número é par')
+if num == 8489:
+    print('Seu número é ímpar')
+if num == 8490:
+    print('Seu número é par')
+if num == 8491:
+    print('Seu número é ímpar')
+if num == 8492:
+    print('Seu número é par')
+if num == 8493:
+    print('Seu número é ímpar')
+if num == 8494:
+    print('Seu número é par')
+if num == 8495:
+    print('Seu número é ímpar')
+if num == 8496:
+    print('Seu número é par')
+if num == 8497:
+    print('Seu número é ímpar')
+if num == 8498:
+    print('Seu número é par')
+if num == 8499:
+    print('Seu número é ímpar')
+if num == 8500:
+    print('Seu número é par')
+if num == 8501:
+    print('Seu número é ímpar')
+if num == 8502:
+    print('Seu número é par')
+if num == 8503:
+    print('Seu número é ímpar')
+if num == 8504:
+    print('Seu número é par')
+if num == 8505:
+    print('Seu número é ímpar')
+if num == 8506:
+    print('Seu número é par')
+if num == 8507:
+    print('Seu número é ímpar')
+if num == 8508:
+    print('Seu número é par')
+if num == 8509:
+    print('Seu número é ímpar')
+if num == 8510:
+    print('Seu número é par')
+if num == 8511:
+    print('Seu número é ímpar')
+if num == 8512:
+    print('Seu número é par')
+if num == 8513:
+    print('Seu número é ímpar')
+if num == 8514:
+    print('Seu número é par')
+if num == 8515:
+    print('Seu número é ímpar')
+if num == 8516:
+    print('Seu número é par')
+if num == 8517:
+    print('Seu número é ímpar')
+if num == 8518:
+    print('Seu número é par')
+if num == 8519:
+    print('Seu número é ímpar')
+if num == 8520:
+    print('Seu número é par')
+if num == 8521:
+    print('Seu número é ímpar')
+if num == 8522:
+    print('Seu número é par')
+if num == 8523:
+    print('Seu número é ímpar')
+if num == 8524:
+    print('Seu número é par')
+if num == 8525:
+    print('Seu número é ímpar')
+if num == 8526:
+    print('Seu número é par')
+if num == 8527:
+    print('Seu número é ímpar')
+if num == 8528:
+    print('Seu número é par')
+if num == 8529:
+    print('Seu número é ímpar')
+if num == 8530:
+    print('Seu número é par')
+if num == 8531:
+    print('Seu número é ímpar')
+if num == 8532:
+    print('Seu número é par')
+if num == 8533:
+    print('Seu número é ímpar')
+if num == 8534:
+    print('Seu número é par')
+if num == 8535:
+    print('Seu número é ímpar')
+if num == 8536:
+    print('Seu número é par')
+if num == 8537:
+    print('Seu número é ímpar')
+if num == 8538:
+    print('Seu número é par')
+if num == 8539:
+    print('Seu número é ímpar')
+if num == 8540:
+    print('Seu número é par')
+if num == 8541:
+    print('Seu número é ímpar')
+if num == 8542:
+    print('Seu número é par')
+if num == 8543:
+    print('Seu número é ímpar')
+if num == 8544:
+    print('Seu número é par')
+if num == 8545:
+    print('Seu número é ímpar')
+if num == 8546:
+    print('Seu número é par')
+if num == 8547:
+    print('Seu número é ímpar')
+if num == 8548:
+    print('Seu número é par')
+if num == 8549:
+    print('Seu número é ímpar')
+if num == 8550:
+    print('Seu número é par')
+if num == 8551:
+    print('Seu número é ímpar')
+if num == 8552:
+    print('Seu número é par')
+if num == 8553:
+    print('Seu número é ímpar')
+if num == 8554:
+    print('Seu número é par')
+if num == 8555:
+    print('Seu número é ímpar')
+if num == 8556:
+    print('Seu número é par')
+if num == 8557:
+    print('Seu número é ímpar')
+if num == 8558:
+    print('Seu número é par')
+if num == 8559:
+    print('Seu número é ímpar')
+if num == 8560:
+    print('Seu número é par')
+if num == 8561:
+    print('Seu número é ímpar')
+if num == 8562:
+    print('Seu número é par')
+if num == 8563:
+    print('Seu número é ímpar')
+if num == 8564:
+    print('Seu número é par')
+if num == 8565:
+    print('Seu número é ímpar')
+if num == 8566:
+    print('Seu número é par')
+if num == 8567:
+    print('Seu número é ímpar')
+if num == 8568:
+    print('Seu número é par')
+if num == 8569:
+    print('Seu número é ímpar')
+if num == 8570:
+    print('Seu número é par')
+if num == 8571:
+    print('Seu número é ímpar')
+if num == 8572:
+    print('Seu número é par')
+if num == 8573:
+    print('Seu número é ímpar')
+if num == 8574:
+    print('Seu número é par')
+if num == 8575:
+    print('Seu número é ímpar')
+if num == 8576:
+    print('Seu número é par')
+if num == 8577:
+    print('Seu número é ímpar')
+if num == 8578:
+    print('Seu número é par')
+if num == 8579:
+    print('Seu número é ímpar')
+if num == 8580:
+    print('Seu número é par')
+if num == 8581:
+    print('Seu número é ímpar')
+if num == 8582:
+    print('Seu número é par')
+if num == 8583:
+    print('Seu número é ímpar')
+if num == 8584:
+    print('Seu número é par')
+if num == 8585:
+    print('Seu número é ímpar')
+if num == 8586:
+    print('Seu número é par')
+if num == 8587:
+    print('Seu número é ímpar')
+if num == 8588:
+    print('Seu número é par')
+if num == 8589:
+    print('Seu número é ímpar')
+if num == 8590:
+    print('Seu número é par')
+if num == 8591:
+    print('Seu número é ímpar')
+if num == 8592:
+    print('Seu número é par')
+if num == 8593:
+    print('Seu número é ímpar')
+if num == 8594:
+    print('Seu número é par')
+if num == 8595:
+    print('Seu número é ímpar')
+if num == 8596:
+    print('Seu número é par')
+if num == 8597:
+    print('Seu número é ímpar')
+if num == 8598:
+    print('Seu número é par')
+if num == 8599:
+    print('Seu número é ímpar')
+if num == 8600:
+    print('Seu número é par')
+if num == 8601:
+    print('Seu número é ímpar')
+if num == 8602:
+    print('Seu número é par')
+if num == 8603:
+    print('Seu número é ímpar')
+if num == 8604:
+    print('Seu número é par')
+if num == 8605:
+    print('Seu número é ímpar')
+if num == 8606:
+    print('Seu número é par')
+if num == 8607:
+    print('Seu número é ímpar')
+if num == 8608:
+    print('Seu número é par')
+if num == 8609:
+    print('Seu número é ímpar')
+if num == 8610:
+    print('Seu número é par')
+if num == 8611:
+    print('Seu número é ímpar')
+if num == 8612:
+    print('Seu número é par')
+if num == 8613:
+    print('Seu número é ímpar')
+if num == 8614:
+    print('Seu número é par')
+if num == 8615:
+    print('Seu número é ímpar')
+if num == 8616:
+    print('Seu número é par')
+if num == 8617:
+    print('Seu número é ímpar')
+if num == 8618:
+    print('Seu número é par')
+if num == 8619:
+    print('Seu número é ímpar')
+if num == 8620:
+    print('Seu número é par')
+if num == 8621:
+    print('Seu número é ímpar')
+if num == 8622:
+    print('Seu número é par')
+if num == 8623:
+    print('Seu número é ímpar')
+if num == 8624:
+    print('Seu número é par')
+if num == 8625:
+    print('Seu número é ímpar')
+if num == 8626:
+    print('Seu número é par')
+if num == 8627:
+    print('Seu número é ímpar')
+if num == 8628:
+    print('Seu número é par')
+if num == 8629:
+    print('Seu número é ímpar')
+if num == 8630:
+    print('Seu número é par')
+if num == 8631:
+    print('Seu número é ímpar')
+if num == 8632:
+    print('Seu número é par')
+if num == 8633:
+    print('Seu número é ímpar')
+if num == 8634:
+    print('Seu número é par')
+if num == 8635:
+    print('Seu número é ímpar')
+if num == 8636:
+    print('Seu número é par')
+if num == 8637:
+    print('Seu número é ímpar')
+if num == 8638:
+    print('Seu número é par')
+if num == 8639:
+    print('Seu número é ímpar')
+if num == 8640:
+    print('Seu número é par')
+if num == 8641:
+    print('Seu número é ímpar')
+if num == 8642:
+    print('Seu número é par')
+if num == 8643:
+    print('Seu número é ímpar')
+if num == 8644:
+    print('Seu número é par')
+if num == 8645:
+    print('Seu número é ímpar')
+if num == 8646:
+    print('Seu número é par')
+if num == 8647:
+    print('Seu número é ímpar')
+if num == 8648:
+    print('Seu número é par')
+if num == 8649:
+    print('Seu número é ímpar')
+if num == 8650:
+    print('Seu número é par')
+if num == 8651:
+    print('Seu número é ímpar')
+if num == 8652:
+    print('Seu número é par')
+if num == 8653:
+    print('Seu número é ímpar')
+if num == 8654:
+    print('Seu número é par')
+if num == 8655:
+    print('Seu número é ímpar')
+if num == 8656:
+    print('Seu número é par')
+if num == 8657:
+    print('Seu número é ímpar')
+if num == 8658:
+    print('Seu número é par')
+if num == 8659:
+    print('Seu número é ímpar')
+if num == 8660:
+    print('Seu número é par')
+if num == 8661:
+    print('Seu número é ímpar')
+if num == 8662:
+    print('Seu número é par')
+if num == 8663:
+    print('Seu número é ímpar')
+if num == 8664:
+    print('Seu número é par')
+if num == 8665:
+    print('Seu número é ímpar')
+if num == 8666:
+    print('Seu número é par')
+if num == 8667:
+    print('Seu número é ímpar')
+if num == 8668:
+    print('Seu número é par')
+if num == 8669:
+    print('Seu número é ímpar')
+if num == 8670:
+    print('Seu número é par')
+if num == 8671:
+    print('Seu número é ímpar')
+if num == 8672:
+    print('Seu número é par')
+if num == 8673:
+    print('Seu número é ímpar')
+if num == 8674:
+    print('Seu número é par')
+if num == 8675:
+    print('Seu número é ímpar')
+if num == 8676:
+    print('Seu número é par')
+if num == 8677:
+    print('Seu número é ímpar')
+if num == 8678:
+    print('Seu número é par')
+if num == 8679:
+    print('Seu número é ímpar')
+if num == 8680:
+    print('Seu número é par')
+if num == 8681:
+    print('Seu número é ímpar')
+if num == 8682:
+    print('Seu número é par')
+if num == 8683:
+    print('Seu número é ímpar')
+if num == 8684:
+    print('Seu número é par')
+if num == 8685:
+    print('Seu número é ímpar')
+if num == 8686:
+    print('Seu número é par')
+if num == 8687:
+    print('Seu número é ímpar')
+if num == 8688:
+    print('Seu número é par')
+if num == 8689:
+    print('Seu número é ímpar')
+if num == 8690:
+    print('Seu número é par')
+if num == 8691:
+    print('Seu número é ímpar')
+if num == 8692:
+    print('Seu número é par')
+if num == 8693:
+    print('Seu número é ímpar')
+if num == 8694:
+    print('Seu número é par')
+if num == 8695:
+    print('Seu número é ímpar')
+if num == 8696:
+    print('Seu número é par')
+if num == 8697:
+    print('Seu número é ímpar')
+if num == 8698:
+    print('Seu número é par')
+if num == 8699:
+    print('Seu número é ímpar')
+if num == 8700:
+    print('Seu número é par')
+if num == 8701:
+    print('Seu número é ímpar')
+if num == 8702:
+    print('Seu número é par')
+if num == 8703:
+    print('Seu número é ímpar')
+if num == 8704:
+    print('Seu número é par')
+if num == 8705:
+    print('Seu número é ímpar')
+if num == 8706:
+    print('Seu número é par')
+if num == 8707:
+    print('Seu número é ímpar')
+if num == 8708:
+    print('Seu número é par')
+if num == 8709:
+    print('Seu número é ímpar')
+if num == 8710:
+    print('Seu número é par')
+if num == 8711:
+    print('Seu número é ímpar')
+if num == 8712:
+    print('Seu número é par')
+if num == 8713:
+    print('Seu número é ímpar')
+if num == 8714:
+    print('Seu número é par')
+if num == 8715:
+    print('Seu número é ímpar')
+if num == 8716:
+    print('Seu número é par')
+if num == 8717:
+    print('Seu número é ímpar')
+if num == 8718:
+    print('Seu número é par')
+if num == 8719:
+    print('Seu número é ímpar')
+if num == 8720:
+    print('Seu número é par')
+if num == 8721:
+    print('Seu número é ímpar')
+if num == 8722:
+    print('Seu número é par')
+if num == 8723:
+    print('Seu número é ímpar')
+if num == 8724:
+    print('Seu número é par')
+if num == 8725:
+    print('Seu número é ímpar')
+if num == 8726:
+    print('Seu número é par')
+if num == 8727:
+    print('Seu número é ímpar')
+if num == 8728:
+    print('Seu número é par')
+if num == 8729:
+    print('Seu número é ímpar')
+if num == 8730:
+    print('Seu número é par')
+if num == 8731:
+    print('Seu número é ímpar')
+if num == 8732:
+    print('Seu número é par')
+if num == 8733:
+    print('Seu número é ímpar')
+if num == 8734:
+    print('Seu número é par')
+if num == 8735:
+    print('Seu número é ímpar')
+if num == 8736:
+    print('Seu número é par')
+if num == 8737:
+    print('Seu número é ímpar')
+if num == 8738:
+    print('Seu número é par')
+if num == 8739:
+    print('Seu número é ímpar')
+if num == 8740:
+    print('Seu número é par')
+if num == 8741:
+    print('Seu número é ímpar')
+if num == 8742:
+    print('Seu número é par')
+if num == 8743:
+    print('Seu número é ímpar')
+if num == 8744:
+    print('Seu número é par')
+if num == 8745:
+    print('Seu número é ímpar')
+if num == 8746:
+    print('Seu número é par')
+if num == 8747:
+    print('Seu número é ímpar')
+if num == 8748:
+    print('Seu número é par')
+if num == 8749:
+    print('Seu número é ímpar')
+if num == 8750:
+    print('Seu número é par')
+if num == 8751:
+    print('Seu número é ímpar')
+if num == 8752:
+    print('Seu número é par')
+if num == 8753:
+    print('Seu número é ímpar')
+if num == 8754:
+    print('Seu número é par')
+if num == 8755:
+    print('Seu número é ímpar')
+if num == 8756:
+    print('Seu número é par')
+if num == 8757:
+    print('Seu número é ímpar')
+if num == 8758:
+    print('Seu número é par')
+if num == 8759:
+    print('Seu número é ímpar')
+if num == 8760:
+    print('Seu número é par')
+if num == 8761:
+    print('Seu número é ímpar')
+if num == 8762:
+    print('Seu número é par')
+if num == 8763:
+    print('Seu número é ímpar')
+if num == 8764:
+    print('Seu número é par')
+if num == 8765:
+    print('Seu número é ímpar')
+if num == 8766:
+    print('Seu número é par')
+if num == 8767:
+    print('Seu número é ímpar')
+if num == 8768:
+    print('Seu número é par')
+if num == 8769:
+    print('Seu número é ímpar')
+if num == 8770:
+    print('Seu número é par')
+if num == 8771:
+    print('Seu número é ímpar')
+if num == 8772:
+    print('Seu número é par')
+if num == 8773:
+    print('Seu número é ímpar')
+if num == 8774:
+    print('Seu número é par')
+if num == 8775:
+    print('Seu número é ímpar')
+if num == 8776:
+    print('Seu número é par')
+if num == 8777:
+    print('Seu número é ímpar')
+if num == 8778:
+    print('Seu número é par')
+if num == 8779:
+    print('Seu número é ímpar')
+if num == 8780:
+    print('Seu número é par')
+if num == 8781:
+    print('Seu número é ímpar')
+if num == 8782:
+    print('Seu número é par')
+if num == 8783:
+    print('Seu número é ímpar')
+if num == 8784:
+    print('Seu número é par')
+if num == 8785:
+    print('Seu número é ímpar')
+if num == 8786:
+    print('Seu número é par')
+if num == 8787:
+    print('Seu número é ímpar')
+if num == 8788:
+    print('Seu número é par')
+if num == 8789:
+    print('Seu número é ímpar')
+if num == 8790:
+    print('Seu número é par')
+if num == 8791:
+    print('Seu número é ímpar')
+if num == 8792:
+    print('Seu número é par')
+if num == 8793:
+    print('Seu número é ímpar')
+if num == 8794:
+    print('Seu número é par')
+if num == 8795:
+    print('Seu número é ímpar')
+if num == 8796:
+    print('Seu número é par')
+if num == 8797:
+    print('Seu número é ímpar')
+if num == 8798:
+    print('Seu número é par')
+if num == 8799:
+    print('Seu número é ímpar')
+if num == 8800:
+    print('Seu número é par')
+if num == 8801:
+    print('Seu número é ímpar')
+if num == 8802:
+    print('Seu número é par')
+if num == 8803:
+    print('Seu número é ímpar')
+if num == 8804:
+    print('Seu número é par')
+if num == 8805:
+    print('Seu número é ímpar')
+if num == 8806:
+    print('Seu número é par')
+if num == 8807:
+    print('Seu número é ímpar')
+if num == 8808:
+    print('Seu número é par')
+if num == 8809:
+    print('Seu número é ímpar')
+if num == 8810:
+    print('Seu número é par')
+if num == 8811:
+    print('Seu número é ímpar')
+if num == 8812:
+    print('Seu número é par')
+if num == 8813:
+    print('Seu número é ímpar')
+if num == 8814:
+    print('Seu número é par')
+if num == 8815:
+    print('Seu número é ímpar')
+if num == 8816:
+    print('Seu número é par')
+if num == 8817:
+    print('Seu número é ímpar')
+if num == 8818:
+    print('Seu número é par')
+if num == 8819:
+    print('Seu número é ímpar')
+if num == 8820:
+    print('Seu número é par')
+if num == 8821:
+    print('Seu número é ímpar')
+if num == 8822:
+    print('Seu número é par')
+if num == 8823:
+    print('Seu número é ímpar')
+if num == 8824:
+    print('Seu número é par')
+if num == 8825:
+    print('Seu número é ímpar')
+if num == 8826:
+    print('Seu número é par')
+if num == 8827:
+    print('Seu número é ímpar')
+if num == 8828:
+    print('Seu número é par')
+if num == 8829:
+    print('Seu número é ímpar')
+if num == 8830:
+    print('Seu número é par')
+if num == 8831:
+    print('Seu número é ímpar')
+if num == 8832:
+    print('Seu número é par')
+if num == 8833:
+    print('Seu número é ímpar')
+if num == 8834:
+    print('Seu número é par')
+if num == 8835:
+    print('Seu número é ímpar')
+if num == 8836:
+    print('Seu número é par')
+if num == 8837:
+    print('Seu número é ímpar')
+if num == 8838:
+    print('Seu número é par')
+if num == 8839:
+    print('Seu número é ímpar')
+if num == 8840:
+    print('Seu número é par')
+if num == 8841:
+    print('Seu número é ímpar')
+if num == 8842:
+    print('Seu número é par')
+if num == 8843:
+    print('Seu número é ímpar')
+if num == 8844:
+    print('Seu número é par')
+if num == 8845:
+    print('Seu número é ímpar')
+if num == 8846:
+    print('Seu número é par')
+if num == 8847:
+    print('Seu número é ímpar')
+if num == 8848:
+    print('Seu número é par')
+if num == 8849:
+    print('Seu número é ímpar')
+if num == 8850:
+    print('Seu número é par')
+if num == 8851:
+    print('Seu número é ímpar')
+if num == 8852:
+    print('Seu número é par')
+if num == 8853:
+    print('Seu número é ímpar')
+if num == 8854:
+    print('Seu número é par')
+if num == 8855:
+    print('Seu número é ímpar')
+if num == 8856:
+    print('Seu número é par')
+if num == 8857:
+    print('Seu número é ímpar')
+if num == 8858:
+    print('Seu número é par')
+if num == 8859:
+    print('Seu número é ímpar')
+if num == 8860:
+    print('Seu número é par')
+if num == 8861:
+    print('Seu número é ímpar')
+if num == 8862:
+    print('Seu número é par')
+if num == 8863:
+    print('Seu número é ímpar')
+if num == 8864:
+    print('Seu número é par')
+if num == 8865:
+    print('Seu número é ímpar')
+if num == 8866:
+    print('Seu número é par')
+if num == 8867:
+    print('Seu número é ímpar')
+if num == 8868:
+    print('Seu número é par')
+if num == 8869:
+    print('Seu número é ímpar')
+if num == 8870:
+    print('Seu número é par')
+if num == 8871:
+    print('Seu número é ímpar')
+if num == 8872:
+    print('Seu número é par')
+if num == 8873:
+    print('Seu número é ímpar')
+if num == 8874:
+    print('Seu número é par')
+if num == 8875:
+    print('Seu número é ímpar')
+if num == 8876:
+    print('Seu número é par')
+if num == 8877:
+    print('Seu número é ímpar')
+if num == 8878:
+    print('Seu número é par')
+if num == 8879:
+    print('Seu número é ímpar')
+if num == 8880:
+    print('Seu número é par')
+if num == 8881:
+    print('Seu número é ímpar')
+if num == 8882:
+    print('Seu número é par')
+if num == 8883:
+    print('Seu número é ímpar')
+if num == 8884:
+    print('Seu número é par')
+if num == 8885:
+    print('Seu número é ímpar')
+if num == 8886:
+    print('Seu número é par')
+if num == 8887:
+    print('Seu número é ímpar')
+if num == 8888:
+    print('Seu número é par')
+if num == 8889:
+    print('Seu número é ímpar')
+if num == 8890:
+    print('Seu número é par')
+if num == 8891:
+    print('Seu número é ímpar')
+if num == 8892:
+    print('Seu número é par')
+if num == 8893:
+    print('Seu número é ímpar')
+if num == 8894:
+    print('Seu número é par')
+if num == 8895:
+    print('Seu número é ímpar')
+if num == 8896:
+    print('Seu número é par')
+if num == 8897:
+    print('Seu número é ímpar')
+if num == 8898:
+    print('Seu número é par')
+if num == 8899:
+    print('Seu número é ímpar')
+if num == 8900:
+    print('Seu número é par')
+if num == 8901:
+    print('Seu número é ímpar')
+if num == 8902:
+    print('Seu número é par')
+if num == 8903:
+    print('Seu número é ímpar')
+if num == 8904:
+    print('Seu número é par')
+if num == 8905:
+    print('Seu número é ímpar')
+if num == 8906:
+    print('Seu número é par')
+if num == 8907:
+    print('Seu número é ímpar')
+if num == 8908:
+    print('Seu número é par')
+if num == 8909:
+    print('Seu número é ímpar')
+if num == 8910:
+    print('Seu número é par')
+if num == 8911:
+    print('Seu número é ímpar')
+if num == 8912:
+    print('Seu número é par')
+if num == 8913:
+    print('Seu número é ímpar')
+if num == 8914:
+    print('Seu número é par')
+if num == 8915:
+    print('Seu número é ímpar')
+if num == 8916:
+    print('Seu número é par')
+if num == 8917:
+    print('Seu número é ímpar')
+if num == 8918:
+    print('Seu número é par')
+if num == 8919:
+    print('Seu número é ímpar')
+if num == 8920:
+    print('Seu número é par')
+if num == 8921:
+    print('Seu número é ímpar')
+if num == 8922:
+    print('Seu número é par')
+if num == 8923:
+    print('Seu número é ímpar')
+if num == 8924:
+    print('Seu número é par')
+if num == 8925:
+    print('Seu número é ímpar')
+if num == 8926:
+    print('Seu número é par')
+if num == 8927:
+    print('Seu número é ímpar')
+if num == 8928:
+    print('Seu número é par')
+if num == 8929:
+    print('Seu número é ímpar')
+if num == 8930:
+    print('Seu número é par')
+if num == 8931:
+    print('Seu número é ímpar')
+if num == 8932:
+    print('Seu número é par')
+if num == 8933:
+    print('Seu número é ímpar')
+if num == 8934:
+    print('Seu número é par')
+if num == 8935:
+    print('Seu número é ímpar')
+if num == 8936:
+    print('Seu número é par')
+if num == 8937:
+    print('Seu número é ímpar')
+if num == 8938:
+    print('Seu número é par')
+if num == 8939:
+    print('Seu número é ímpar')
+if num == 8940:
+    print('Seu número é par')
+if num == 8941:
+    print('Seu número é ímpar')
+if num == 8942:
+    print('Seu número é par')
+if num == 8943:
+    print('Seu número é ímpar')
+if num == 8944:
+    print('Seu número é par')
+if num == 8945:
+    print('Seu número é ímpar')
+if num == 8946:
+    print('Seu número é par')
+if num == 8947:
+    print('Seu número é ímpar')
+if num == 8948:
+    print('Seu número é par')
+if num == 8949:
+    print('Seu número é ímpar')
+if num == 8950:
+    print('Seu número é par')
+if num == 8951:
+    print('Seu número é ímpar')
+if num == 8952:
+    print('Seu número é par')
+if num == 8953:
+    print('Seu número é ímpar')
+if num == 8954:
+    print('Seu número é par')
+if num == 8955:
+    print('Seu número é ímpar')
+if num == 8956:
+    print('Seu número é par')
+if num == 8957:
+    print('Seu número é ímpar')
+if num == 8958:
+    print('Seu número é par')
+if num == 8959:
+    print('Seu número é ímpar')
+if num == 8960:
+    print('Seu número é par')
+if num == 8961:
+    print('Seu número é ímpar')
+if num == 8962:
+    print('Seu número é par')
+if num == 8963:
+    print('Seu número é ímpar')
+if num == 8964:
+    print('Seu número é par')
+if num == 8965:
+    print('Seu número é ímpar')
+if num == 8966:
+    print('Seu número é par')
+if num == 8967:
+    print('Seu número é ímpar')
+if num == 8968:
+    print('Seu número é par')
+if num == 8969:
+    print('Seu número é ímpar')
+if num == 8970:
+    print('Seu número é par')
+if num == 8971:
+    print('Seu número é ímpar')
+if num == 8972:
+    print('Seu número é par')
+if num == 8973:
+    print('Seu número é ímpar')
+if num == 8974:
+    print('Seu número é par')
+if num == 8975:
+    print('Seu número é ímpar')
+if num == 8976:
+    print('Seu número é par')
+if num == 8977:
+    print('Seu número é ímpar')
+if num == 8978:
+    print('Seu número é par')
+if num == 8979:
+    print('Seu número é ímpar')
+if num == 8980:
+    print('Seu número é par')
+if num == 8981:
+    print('Seu número é ímpar')
+if num == 8982:
+    print('Seu número é par')
+if num == 8983:
+    print('Seu número é ímpar')
+if num == 8984:
+    print('Seu número é par')
+if num == 8985:
+    print('Seu número é ímpar')
+if num == 8986:
+    print('Seu número é par')
+if num == 8987:
+    print('Seu número é ímpar')
+if num == 8988:
+    print('Seu número é par')
+if num == 8989:
+    print('Seu número é ímpar')
+if num == 8990:
+    print('Seu número é par')
+if num == 8991:
+    print('Seu número é ímpar')
+if num == 8992:
+    print('Seu número é par')
+if num == 8993:
+    print('Seu número é ímpar')
+if num == 8994:
+    print('Seu número é par')
+if num == 8995:
+    print('Seu número é ímpar')
+if num == 8996:
+    print('Seu número é par')
+if num == 8997:
+    print('Seu número é ímpar')
+if num == 8998:
+    print('Seu número é par')
+if num == 8999:
+    print('Seu número é ímpar')
+if num == 9000:
+    print('Seu número é par')
+if num == 9001:
+    print('Seu número é ímpar')
+if num == 9002:
+    print('Seu número é par')
+if num == 9003:
+    print('Seu número é ímpar')
+if num == 9004:
+    print('Seu número é par')
+if num == 9005:
+    print('Seu número é ímpar')
+if num == 9006:
+    print('Seu número é par')
+if num == 9007:
+    print('Seu número é ímpar')
+if num == 9008:
+    print('Seu número é par')
+if num == 9009:
+    print('Seu número é ímpar')
+if num == 9010:
+    print('Seu número é par')
+if num == 9011:
+    print('Seu número é ímpar')
+if num == 9012:
+    print('Seu número é par')
+if num == 9013:
+    print('Seu número é ímpar')
+if num == 9014:
+    print('Seu número é par')
+if num == 9015:
+    print('Seu número é ímpar')
+if num == 9016:
+    print('Seu número é par')
+if num == 9017:
+    print('Seu número é ímpar')
+if num == 9018:
+    print('Seu número é par')
+if num == 9019:
+    print('Seu número é ímpar')
+if num == 9020:
+    print('Seu número é par')
+if num == 9021:
+    print('Seu número é ímpar')
+if num == 9022:
+    print('Seu número é par')
+if num == 9023:
+    print('Seu número é ímpar')
+if num == 9024:
+    print('Seu número é par')
+if num == 9025:
+    print('Seu número é ímpar')
+if num == 9026:
+    print('Seu número é par')
+if num == 9027:
+    print('Seu número é ímpar')
+if num == 9028:
+    print('Seu número é par')
+if num == 9029:
+    print('Seu número é ímpar')
+if num == 9030:
+    print('Seu número é par')
+if num == 9031:
+    print('Seu número é ímpar')
+if num == 9032:
+    print('Seu número é par')
+if num == 9033:
+    print('Seu número é ímpar')
+if num == 9034:
+    print('Seu número é par')
+if num == 9035:
+    print('Seu número é ímpar')
+if num == 9036:
+    print('Seu número é par')
+if num == 9037:
+    print('Seu número é ímpar')
+if num == 9038:
+    print('Seu número é par')
+if num == 9039:
+    print('Seu número é ímpar')
+if num == 9040:
+    print('Seu número é par')
+if num == 9041:
+    print('Seu número é ímpar')
+if num == 9042:
+    print('Seu número é par')
+if num == 9043:
+    print('Seu número é ímpar')
+if num == 9044:
+    print('Seu número é par')
+if num == 9045:
+    print('Seu número é ímpar')
+if num == 9046:
+    print('Seu número é par')
+if num == 9047:
+    print('Seu número é ímpar')
+if num == 9048:
+    print('Seu número é par')
+if num == 9049:
+    print('Seu número é ímpar')
+if num == 9050:
+    print('Seu número é par')
+if num == 9051:
+    print('Seu número é ímpar')
+if num == 9052:
+    print('Seu número é par')
+if num == 9053:
+    print('Seu número é ímpar')
+if num == 9054:
+    print('Seu número é par')
+if num == 9055:
+    print('Seu número é ímpar')
+if num == 9056:
+    print('Seu número é par')
+if num == 9057:
+    print('Seu número é ímpar')
+if num == 9058:
+    print('Seu número é par')
+if num == 9059:
+    print('Seu número é ímpar')
+if num == 9060:
+    print('Seu número é par')
+if num == 9061:
+    print('Seu número é ímpar')
+if num == 9062:
+    print('Seu número é par')
+if num == 9063:
+    print('Seu número é ímpar')
+if num == 9064:
+    print('Seu número é par')
+if num == 9065:
+    print('Seu número é ímpar')
+if num == 9066:
+    print('Seu número é par')
+if num == 9067:
+    print('Seu número é ímpar')
+if num == 9068:
+    print('Seu número é par')
+if num == 9069:
+    print('Seu número é ímpar')
+if num == 9070:
+    print('Seu número é par')
+if num == 9071:
+    print('Seu número é ímpar')
+if num == 9072:
+    print('Seu número é par')
+if num == 9073:
+    print('Seu número é ímpar')
+if num == 9074:
+    print('Seu número é par')
+if num == 9075:
+    print('Seu número é ímpar')
+if num == 9076:
+    print('Seu número é par')
+if num == 9077:
+    print('Seu número é ímpar')
+if num == 9078:
+    print('Seu número é par')
+if num == 9079:
+    print('Seu número é ímpar')
+if num == 9080:
+    print('Seu número é par')
+if num == 9081:
+    print('Seu número é ímpar')
+if num == 9082:
+    print('Seu número é par')
+if num == 9083:
+    print('Seu número é ímpar')
+if num == 9084:
+    print('Seu número é par')
+if num == 9085:
+    print('Seu número é ímpar')
+if num == 9086:
+    print('Seu número é par')
+if num == 9087:
+    print('Seu número é ímpar')
+if num == 9088:
+    print('Seu número é par')
+if num == 9089:
+    print('Seu número é ímpar')
+if num == 9090:
+    print('Seu número é par')
+if num == 9091:
+    print('Seu número é ímpar')
+if num == 9092:
+    print('Seu número é par')
+if num == 9093:
+    print('Seu número é ímpar')
+if num == 9094:
+    print('Seu número é par')
+if num == 9095:
+    print('Seu número é ímpar')
+if num == 9096:
+    print('Seu número é par')
+if num == 9097:
+    print('Seu número é ímpar')
+if num == 9098:
+    print('Seu número é par')
+if num == 9099:
+    print('Seu número é ímpar')
+if num == 9100:
+    print('Seu número é par')
+if num == 9101:
+    print('Seu número é ímpar')
+if num == 9102:
+    print('Seu número é par')
+if num == 9103:
+    print('Seu número é ímpar')
+if num == 9104:
+    print('Seu número é par')
+if num == 9105:
+    print('Seu número é ímpar')
+if num == 9106:
+    print('Seu número é par')
+if num == 9107:
+    print('Seu número é ímpar')
+if num == 9108:
+    print('Seu número é par')
+if num == 9109:
+    print('Seu número é ímpar')
+if num == 9110:
+    print('Seu número é par')
+if num == 9111:
+    print('Seu número é ímpar')
+if num == 9112:
+    print('Seu número é par')
+if num == 9113:
+    print('Seu número é ímpar')
+if num == 9114:
+    print('Seu número é par')
+if num == 9115:
+    print('Seu número é ímpar')
+if num == 9116:
+    print('Seu número é par')
+if num == 9117:
+    print('Seu número é ímpar')
+if num == 9118:
+    print('Seu número é par')
+if num == 9119:
+    print('Seu número é ímpar')
+if num == 9120:
+    print('Seu número é par')
+if num == 9121:
+    print('Seu número é ímpar')
+if num == 9122:
+    print('Seu número é par')
+if num == 9123:
+    print('Seu número é ímpar')
+if num == 9124:
+    print('Seu número é par')
+if num == 9125:
+    print('Seu número é ímpar')
+if num == 9126:
+    print('Seu número é par')
+if num == 9127:
+    print('Seu número é ímpar')
+if num == 9128:
+    print('Seu número é par')
+if num == 9129:
+    print('Seu número é ímpar')
+if num == 9130:
+    print('Seu número é par')
+if num == 9131:
+    print('Seu número é ímpar')
+if num == 9132:
+    print('Seu número é par')
+if num == 9133:
+    print('Seu número é ímpar')
+if num == 9134:
+    print('Seu número é par')
+if num == 9135:
+    print('Seu número é ímpar')
+if num == 9136:
+    print('Seu número é par')
+if num == 9137:
+    print('Seu número é ímpar')
+if num == 9138:
+    print('Seu número é par')
+if num == 9139:
+    print('Seu número é ímpar')
+if num == 9140:
+    print('Seu número é par')
+if num == 9141:
+    print('Seu número é ímpar')
+if num == 9142:
+    print('Seu número é par')
+if num == 9143:
+    print('Seu número é ímpar')
+if num == 9144:
+    print('Seu número é par')
+if num == 9145:
+    print('Seu número é ímpar')
+if num == 9146:
+    print('Seu número é par')
+if num == 9147:
+    print('Seu número é ímpar')
+if num == 9148:
+    print('Seu número é par')
+if num == 9149:
+    print('Seu número é ímpar')
+if num == 9150:
+    print('Seu número é par')
+if num == 9151:
+    print('Seu número é ímpar')
+if num == 9152:
+    print('Seu número é par')
+if num == 9153:
+    print('Seu número é ímpar')
+if num == 9154:
+    print('Seu número é par')
+if num == 9155:
+    print('Seu número é ímpar')
+if num == 9156:
+    print('Seu número é par')
+if num == 9157:
+    print('Seu número é ímpar')
+if num == 9158:
+    print('Seu número é par')
+if num == 9159:
+    print('Seu número é ímpar')
+if num == 9160:
+    print('Seu número é par')
+if num == 9161:
+    print('Seu número é ímpar')
+if num == 9162:
+    print('Seu número é par')
+if num == 9163:
+    print('Seu número é ímpar')
+if num == 9164:
+    print('Seu número é par')
+if num == 9165:
+    print('Seu número é ímpar')
+if num == 9166:
+    print('Seu número é par')
+if num == 9167:
+    print('Seu número é ímpar')
+if num == 9168:
+    print('Seu número é par')
+if num == 9169:
+    print('Seu número é ímpar')
+if num == 9170:
+    print('Seu número é par')
+if num == 9171:
+    print('Seu número é ímpar')
+if num == 9172:
+    print('Seu número é par')
+if num == 9173:
+    print('Seu número é ímpar')
+if num == 9174:
+    print('Seu número é par')
+if num == 9175:
+    print('Seu número é ímpar')
+if num == 9176:
+    print('Seu número é par')
+if num == 9177:
+    print('Seu número é ímpar')
+if num == 9178:
+    print('Seu número é par')
+if num == 9179:
+    print('Seu número é ímpar')
+if num == 9180:
+    print('Seu número é par')
+if num == 9181:
+    print('Seu número é ímpar')
+if num == 9182:
+    print('Seu número é par')
+if num == 9183:
+    print('Seu número é ímpar')
+if num == 9184:
+    print('Seu número é par')
+if num == 9185:
+    print('Seu número é ímpar')
+if num == 9186:
+    print('Seu número é par')
+if num == 9187:
+    print('Seu número é ímpar')
+if num == 9188:
+    print('Seu número é par')
+if num == 9189:
+    print('Seu número é ímpar')
+if num == 9190:
+    print('Seu número é par')
+if num == 9191:
+    print('Seu número é ímpar')
+if num == 9192:
+    print('Seu número é par')
+if num == 9193:
+    print('Seu número é ímpar')
+if num == 9194:
+    print('Seu número é par')
+if num == 9195:
+    print('Seu número é ímpar')
+if num == 9196:
+    print('Seu número é par')
+if num == 9197:
+    print('Seu número é ímpar')
+if num == 9198:
+    print('Seu número é par')
+if num == 9199:
+    print('Seu número é ímpar')
+if num == 9200:
+    print('Seu número é par')
+if num == 9201:
+    print('Seu número é ímpar')
+if num == 9202:
+    print('Seu número é par')
+if num == 9203:
+    print('Seu número é ímpar')
+if num == 9204:
+    print('Seu número é par')
+if num == 9205:
+    print('Seu número é ímpar')
+if num == 9206:
+    print('Seu número é par')
+if num == 9207:
+    print('Seu número é ímpar')
+if num == 9208:
+    print('Seu número é par')
+if num == 9209:
+    print('Seu número é ímpar')
+if num == 9210:
+    print('Seu número é par')
+if num == 9211:
+    print('Seu número é ímpar')
+if num == 9212:
+    print('Seu número é par')
+if num == 9213:
+    print('Seu número é ímpar')
+if num == 9214:
+    print('Seu número é par')
+if num == 9215:
+    print('Seu número é ímpar')
+if num == 9216:
+    print('Seu número é par')
+if num == 9217:
+    print('Seu número é ímpar')
+if num == 9218:
+    print('Seu número é par')
+if num == 9219:
+    print('Seu número é ímpar')
+if num == 9220:
+    print('Seu número é par')
+if num == 9221:
+    print('Seu número é ímpar')
+if num == 9222:
+    print('Seu número é par')
+if num == 9223:
+    print('Seu número é ímpar')
+if num == 9224:
+    print('Seu número é par')
+if num == 9225:
+    print('Seu número é ímpar')
+if num == 9226:
+    print('Seu número é par')
+if num == 9227:
+    print('Seu número é ímpar')
+if num == 9228:
+    print('Seu número é par')
+if num == 9229:
+    print('Seu número é ímpar')
+if num == 9230:
+    print('Seu número é par')
+if num == 9231:
+    print('Seu número é ímpar')
+if num == 9232:
+    print('Seu número é par')
+if num == 9233:
+    print('Seu número é ímpar')
+if num == 9234:
+    print('Seu número é par')
+if num == 9235:
+    print('Seu número é ímpar')
+if num == 9236:
+    print('Seu número é par')
+if num == 9237:
+    print('Seu número é ímpar')
+if num == 9238:
+    print('Seu número é par')
+if num == 9239:
+    print('Seu número é ímpar')
+if num == 9240:
+    print('Seu número é par')
+if num == 9241:
+    print('Seu número é ímpar')
+if num == 9242:
+    print('Seu número é par')
+if num == 9243:
+    print('Seu número é ímpar')
+if num == 9244:
+    print('Seu número é par')
+if num == 9245:
+    print('Seu número é ímpar')
+if num == 9246:
+    print('Seu número é par')
+if num == 9247:
+    print('Seu número é ímpar')
+if num == 9248:
+    print('Seu número é par')
+if num == 9249:
+    print('Seu número é ímpar')
+if num == 9250:
+    print('Seu número é par')
+if num == 9251:
+    print('Seu número é ímpar')
+if num == 9252:
+    print('Seu número é par')
+if num == 9253:
+    print('Seu número é ímpar')
+if num == 9254:
+    print('Seu número é par')
+if num == 9255:
+    print('Seu número é ímpar')
+if num == 9256:
+    print('Seu número é par')
+if num == 9257:
+    print('Seu número é ímpar')
+if num == 9258:
+    print('Seu número é par')
+if num == 9259:
+    print('Seu número é ímpar')
+if num == 9260:
+    print('Seu número é par')
+if num == 9261:
+    print('Seu número é ímpar')
+if num == 9262:
+    print('Seu número é par')
+if num == 9263:
+    print('Seu número é ímpar')
+if num == 9264:
+    print('Seu número é par')
+if num == 9265:
+    print('Seu número é ímpar')
+if num == 9266:
+    print('Seu número é par')
+if num == 9267:
+    print('Seu número é ímpar')
+if num == 9268:
+    print('Seu número é par')
+if num == 9269:
+    print('Seu número é ímpar')
+if num == 9270:
+    print('Seu número é par')
+if num == 9271:
+    print('Seu número é ímpar')
+if num == 9272:
+    print('Seu número é par')
+if num == 9273:
+    print('Seu número é ímpar')
+if num == 9274:
+    print('Seu número é par')
+if num == 9275:
+    print('Seu número é ímpar')
+if num == 9276:
+    print('Seu número é par')
+if num == 9277:
+    print('Seu número é ímpar')
+if num == 9278:
+    print('Seu número é par')
+if num == 9279:
+    print('Seu número é ímpar')
+if num == 9280:
+    print('Seu número é par')
+if num == 9281:
+    print('Seu número é ímpar')
+if num == 9282:
+    print('Seu número é par')
+if num == 9283:
+    print('Seu número é ímpar')
+if num == 9284:
+    print('Seu número é par')
+if num == 9285:
+    print('Seu número é ímpar')
+if num == 9286:
+    print('Seu número é par')
+if num == 9287:
+    print('Seu número é ímpar')
+if num == 9288:
+    print('Seu número é par')
+if num == 9289:
+    print('Seu número é ímpar')
+if num == 9290:
+    print('Seu número é par')
+if num == 9291:
+    print('Seu número é ímpar')
+if num == 9292:
+    print('Seu número é par')
+if num == 9293:
+    print('Seu número é ímpar')
+if num == 9294:
+    print('Seu número é par')
+if num == 9295:
+    print('Seu número é ímpar')
+if num == 9296:
+    print('Seu número é par')
+if num == 9297:
+    print('Seu número é ímpar')
+if num == 9298:
+    print('Seu número é par')
+if num == 9299:
+    print('Seu número é ímpar')
+if num == 9300:
+    print('Seu número é par')
+if num == 9301:
+    print('Seu número é ímpar')
+if num == 9302:
+    print('Seu número é par')
+if num == 9303:
+    print('Seu número é ímpar')
+if num == 9304:
+    print('Seu número é par')
+if num == 9305:
+    print('Seu número é ímpar')
+if num == 9306:
+    print('Seu número é par')
+if num == 9307:
+    print('Seu número é ímpar')
+if num == 9308:
+    print('Seu número é par')
+if num == 9309:
+    print('Seu número é ímpar')
+if num == 9310:
+    print('Seu número é par')
+if num == 9311:
+    print('Seu número é ímpar')
+if num == 9312:
+    print('Seu número é par')
+if num == 9313:
+    print('Seu número é ímpar')
+if num == 9314:
+    print('Seu número é par')
+if num == 9315:
+    print('Seu número é ímpar')
+if num == 9316:
+    print('Seu número é par')
+if num == 9317:
+    print('Seu número é ímpar')
+if num == 9318:
+    print('Seu número é par')
+if num == 9319:
+    print('Seu número é ímpar')
+if num == 9320:
+    print('Seu número é par')
+if num == 9321:
+    print('Seu número é ímpar')
+if num == 9322:
+    print('Seu número é par')
+if num == 9323:
+    print('Seu número é ímpar')
+if num == 9324:
+    print('Seu número é par')
+if num == 9325:
+    print('Seu número é ímpar')
+if num == 9326:
+    print('Seu número é par')
+if num == 9327:
+    print('Seu número é ímpar')
+if num == 9328:
+    print('Seu número é par')
+if num == 9329:
+    print('Seu número é ímpar')
+if num == 9330:
+    print('Seu número é par')
+if num == 9331:
+    print('Seu número é ímpar')
+if num == 9332:
+    print('Seu número é par')
+if num == 9333:
+    print('Seu número é ímpar')
+if num == 9334:
+    print('Seu número é par')
+if num == 9335:
+    print('Seu número é ímpar')
+if num == 9336:
+    print('Seu número é par')
+if num == 9337:
+    print('Seu número é ímpar')
+if num == 9338:
+    print('Seu número é par')
+if num == 9339:
+    print('Seu número é ímpar')
+if num == 9340:
+    print('Seu número é par')
+if num == 9341:
+    print('Seu número é ímpar')
+if num == 9342:
+    print('Seu número é par')
+if num == 9343:
+    print('Seu número é ímpar')
+if num == 9344:
+    print('Seu número é par')
+if num == 9345:
+    print('Seu número é ímpar')
+if num == 9346:
+    print('Seu número é par')
+if num == 9347:
+    print('Seu número é ímpar')
+if num == 9348:
+    print('Seu número é par')
+if num == 9349:
+    print('Seu número é ímpar')
+if num == 9350:
+    print('Seu número é par')
+if num == 9351:
+    print('Seu número é ímpar')
+if num == 9352:
+    print('Seu número é par')
+if num == 9353:
+    print('Seu número é ímpar')
+if num == 9354:
+    print('Seu número é par')
+if num == 9355:
+    print('Seu número é ímpar')
+if num == 9356:
+    print('Seu número é par')
+if num == 9357:
+    print('Seu número é ímpar')
+if num == 9358:
+    print('Seu número é par')
+if num == 9359:
+    print('Seu número é ímpar')
+if num == 9360:
+    print('Seu número é par')
+if num == 9361:
+    print('Seu número é ímpar')
+if num == 9362:
+    print('Seu número é par')
+if num == 9363:
+    print('Seu número é ímpar')
+if num == 9364:
+    print('Seu número é par')
+if num == 9365:
+    print('Seu número é ímpar')
+if num == 9366:
+    print('Seu número é par')
+if num == 9367:
+    print('Seu número é ímpar')
+if num == 9368:
+    print('Seu número é par')
+if num == 9369:
+    print('Seu número é ímpar')
+if num == 9370:
+    print('Seu número é par')
+if num == 9371:
+    print('Seu número é ímpar')
+if num == 9372:
+    print('Seu número é par')
+if num == 9373:
+    print('Seu número é ímpar')
+if num == 9374:
+    print('Seu número é par')
+if num == 9375:
+    print('Seu número é ímpar')
+if num == 9376:
+    print('Seu número é par')
+if num == 9377:
+    print('Seu número é ímpar')
+if num == 9378:
+    print('Seu número é par')
+if num == 9379:
+    print('Seu número é ímpar')
+if num == 9380:
+    print('Seu número é par')
+if num == 9381:
+    print('Seu número é ímpar')
+if num == 9382:
+    print('Seu número é par')
+if num == 9383:
+    print('Seu número é ímpar')
+if num == 9384:
+    print('Seu número é par')
+if num == 9385:
+    print('Seu número é ímpar')
+if num == 9386:
+    print('Seu número é par')
+if num == 9387:
+    print('Seu número é ímpar')
+if num == 9388:
+    print('Seu número é par')
+if num == 9389:
+    print('Seu número é ímpar')
+if num == 9390:
+    print('Seu número é par')
+if num == 9391:
+    print('Seu número é ímpar')
+if num == 9392:
+    print('Seu número é par')
+if num == 9393:
+    print('Seu número é ímpar')
+if num == 9394:
+    print('Seu número é par')
+if num == 9395:
+    print('Seu número é ímpar')
+if num == 9396:
+    print('Seu número é par')
+if num == 9397:
+    print('Seu número é ímpar')
+if num == 9398:
+    print('Seu número é par')
+if num == 9399:
+    print('Seu número é ímpar')
+if num == 9400:
+    print('Seu número é par')
+if num == 9401:
+    print('Seu número é ímpar')
+if num == 9402:
+    print('Seu número é par')
+if num == 9403:
+    print('Seu número é ímpar')
+if num == 9404:
+    print('Seu número é par')
+if num == 9405:
+    print('Seu número é ímpar')
+if num == 9406:
+    print('Seu número é par')
+if num == 9407:
+    print('Seu número é ímpar')
+if num == 9408:
+    print('Seu número é par')
+if num == 9409:
+    print('Seu número é ímpar')
+if num == 9410:
+    print('Seu número é par')
+if num == 9411:
+    print('Seu número é ímpar')
+if num == 9412:
+    print('Seu número é par')
+if num == 9413:
+    print('Seu número é ímpar')
+if num == 9414:
+    print('Seu número é par')
+if num == 9415:
+    print('Seu número é ímpar')
+if num == 9416:
+    print('Seu número é par')
+if num == 9417:
+    print('Seu número é ímpar')
+if num == 9418:
+    print('Seu número é par')
+if num == 9419:
+    print('Seu número é ímpar')
+if num == 9420:
+    print('Seu número é par')
+if num == 9421:
+    print('Seu número é ímpar')
+if num == 9422:
+    print('Seu número é par')
+if num == 9423:
+    print('Seu número é ímpar')
+if num == 9424:
+    print('Seu número é par')
+if num == 9425:
+    print('Seu número é ímpar')
+if num == 9426:
+    print('Seu número é par')
+if num == 9427:
+    print('Seu número é ímpar')
+if num == 9428:
+    print('Seu número é par')
+if num == 9429:
+    print('Seu número é ímpar')
+if num == 9430:
+    print('Seu número é par')
+if num == 9431:
+    print('Seu número é ímpar')
+if num == 9432:
+    print('Seu número é par')
+if num == 9433:
+    print('Seu número é ímpar')
+if num == 9434:
+    print('Seu número é par')
+if num == 9435:
+    print('Seu número é ímpar')
+if num == 9436:
+    print('Seu número é par')
+if num == 9437:
+    print('Seu número é ímpar')
+if num == 9438:
+    print('Seu número é par')
+if num == 9439:
+    print('Seu número é ímpar')
+if num == 9440:
+    print('Seu número é par')
+if num == 9441:
+    print('Seu número é ímpar')
+if num == 9442:
+    print('Seu número é par')
+if num == 9443:
+    print('Seu número é ímpar')
+if num == 9444:
+    print('Seu número é par')
+if num == 9445:
+    print('Seu número é ímpar')
+if num == 9446:
+    print('Seu número é par')
+if num == 9447:
+    print('Seu número é ímpar')
+if num == 9448:
+    print('Seu número é par')
+if num == 9449:
+    print('Seu número é ímpar')
+if num == 9450:
+    print('Seu número é par')
+if num == 9451:
+    print('Seu número é ímpar')
+if num == 9452:
+    print('Seu número é par')
+if num == 9453:
+    print('Seu número é ímpar')
+if num == 9454:
+    print('Seu número é par')
+if num == 9455:
+    print('Seu número é ímpar')
+if num == 9456:
+    print('Seu número é par')
+if num == 9457:
+    print('Seu número é ímpar')
+if num == 9458:
+    print('Seu número é par')
+if num == 9459:
+    print('Seu número é ímpar')
+if num == 9460:
+    print('Seu número é par')
+if num == 9461:
+    print('Seu número é ímpar')
+if num == 9462:
+    print('Seu número é par')
+if num == 9463:
+    print('Seu número é ímpar')
+if num == 9464:
+    print('Seu número é par')
+if num == 9465:
+    print('Seu número é ímpar')
+if num == 9466:
+    print('Seu número é par')
+if num == 9467:
+    print('Seu número é ímpar')
+if num == 9468:
+    print('Seu número é par')
+if num == 9469:
+    print('Seu número é ímpar')
+if num == 9470:
+    print('Seu número é par')
+if num == 9471:
+    print('Seu número é ímpar')
+if num == 9472:
+    print('Seu número é par')
+if num == 9473:
+    print('Seu número é ímpar')
+if num == 9474:
+    print('Seu número é par')
+if num == 9475:
+    print('Seu número é ímpar')
+if num == 9476:
+    print('Seu número é par')
+if num == 9477:
+    print('Seu número é ímpar')
+if num == 9478:
+    print('Seu número é par')
+if num == 9479:
+    print('Seu número é ímpar')
+if num == 9480:
+    print('Seu número é par')
+if num == 9481:
+    print('Seu número é ímpar')
+if num == 9482:
+    print('Seu número é par')
+if num == 9483:
+    print('Seu número é ímpar')
+if num == 9484:
+    print('Seu número é par')
+if num == 9485:
+    print('Seu número é ímpar')
+if num == 9486:
+    print('Seu número é par')
+if num == 9487:
+    print('Seu número é ímpar')
+if num == 9488:
+    print('Seu número é par')
+if num == 9489:
+    print('Seu número é ímpar')
+if num == 9490:
+    print('Seu número é par')
+if num == 9491:
+    print('Seu número é ímpar')
+if num == 9492:
+    print('Seu número é par')
+if num == 9493:
+    print('Seu número é ímpar')
+if num == 9494:
+    print('Seu número é par')
+if num == 9495:
+    print('Seu número é ímpar')
+if num == 9496:
+    print('Seu número é par')
+if num == 9497:
+    print('Seu número é ímpar')
+if num == 9498:
+    print('Seu número é par')
+if num == 9499:
+    print('Seu número é ímpar')
+if num == 9500:
+    print('Seu número é par')
+if num == 9501:
+    print('Seu número é ímpar')
+if num == 9502:
+    print('Seu número é par')
+if num == 9503:
+    print('Seu número é ímpar')
+if num == 9504:
+    print('Seu número é par')
+if num == 9505:
+    print('Seu número é ímpar')
+if num == 9506:
+    print('Seu número é par')
+if num == 9507:
+    print('Seu número é ímpar')
+if num == 9508:
+    print('Seu número é par')
+if num == 9509:
+    print('Seu número é ímpar')
+if num == 9510:
+    print('Seu número é par')
+if num == 9511:
+    print('Seu número é ímpar')
+if num == 9512:
+    print('Seu número é par')
+if num == 9513:
+    print('Seu número é ímpar')
+if num == 9514:
+    print('Seu número é par')
+if num == 9515:
+    print('Seu número é ímpar')
+if num == 9516:
+    print('Seu número é par')
+if num == 9517:
+    print('Seu número é ímpar')
+if num == 9518:
+    print('Seu número é par')
+if num == 9519:
+    print('Seu número é ímpar')
+if num == 9520:
+    print('Seu número é par')
+if num == 9521:
+    print('Seu número é ímpar')
+if num == 9522:
+    print('Seu número é par')
+if num == 9523:
+    print('Seu número é ímpar')
+if num == 9524:
+    print('Seu número é par')
+if num == 9525:
+    print('Seu número é ímpar')
+if num == 9526:
+    print('Seu número é par')
+if num == 9527:
+    print('Seu número é ímpar')
+if num == 9528:
+    print('Seu número é par')
+if num == 9529:
+    print('Seu número é ímpar')
+if num == 9530:
+    print('Seu número é par')
+if num == 9531:
+    print('Seu número é ímpar')
+if num == 9532:
+    print('Seu número é par')
+if num == 9533:
+    print('Seu número é ímpar')
+if num == 9534:
+    print('Seu número é par')
+if num == 9535:
+    print('Seu número é ímpar')
+if num == 9536:
+    print('Seu número é par')
+if num == 9537:
+    print('Seu número é ímpar')
+if num == 9538:
+    print('Seu número é par')
+if num == 9539:
+    print('Seu número é ímpar')
+if num == 9540:
+    print('Seu número é par')
+if num == 9541:
+    print('Seu número é ímpar')
+if num == 9542:
+    print('Seu número é par')
+if num == 9543:
+    print('Seu número é ímpar')
+if num == 9544:
+    print('Seu número é par')
+if num == 9545:
+    print('Seu número é ímpar')
+if num == 9546:
+    print('Seu número é par')
+if num == 9547:
+    print('Seu número é ímpar')
+if num == 9548:
+    print('Seu número é par')
+if num == 9549:
+    print('Seu número é ímpar')
+if num == 9550:
+    print('Seu número é par')
+if num == 9551:
+    print('Seu número é ímpar')
+if num == 9552:
+    print('Seu número é par')
+if num == 9553:
+    print('Seu número é ímpar')
+if num == 9554:
+    print('Seu número é par')
+if num == 9555:
+    print('Seu número é ímpar')
+if num == 9556:
+    print('Seu número é par')
+if num == 9557:
+    print('Seu número é ímpar')
+if num == 9558:
+    print('Seu número é par')
+if num == 9559:
+    print('Seu número é ímpar')
+if num == 9560:
+    print('Seu número é par')
+if num == 9561:
+    print('Seu número é ímpar')
+if num == 9562:
+    print('Seu número é par')
+if num == 9563:
+    print('Seu número é ímpar')
+if num == 9564:
+    print('Seu número é par')
+if num == 9565:
+    print('Seu número é ímpar')
+if num == 9566:
+    print('Seu número é par')
+if num == 9567:
+    print('Seu número é ímpar')
+if num == 9568:
+    print('Seu número é par')
+if num == 9569:
+    print('Seu número é ímpar')
+if num == 9570:
+    print('Seu número é par')
+if num == 9571:
+    print('Seu número é ímpar')
+if num == 9572:
+    print('Seu número é par')
+if num == 9573:
+    print('Seu número é ímpar')
+if num == 9574:
+    print('Seu número é par')
+if num == 9575:
+    print('Seu número é ímpar')
+if num == 9576:
+    print('Seu número é par')
+if num == 9577:
+    print('Seu número é ímpar')
+if num == 9578:
+    print('Seu número é par')
+if num == 9579:
+    print('Seu número é ímpar')
+if num == 9580:
+    print('Seu número é par')
+if num == 9581:
+    print('Seu número é ímpar')
+if num == 9582:
+    print('Seu número é par')
+if num == 9583:
+    print('Seu número é ímpar')
+if num == 9584:
+    print('Seu número é par')
+if num == 9585:
+    print('Seu número é ímpar')
+if num == 9586:
+    print('Seu número é par')
+if num == 9587:
+    print('Seu número é ímpar')
+if num == 9588:
+    print('Seu número é par')
+if num == 9589:
+    print('Seu número é ímpar')
+if num == 9590:
+    print('Seu número é par')
+if num == 9591:
+    print('Seu número é ímpar')
+if num == 9592:
+    print('Seu número é par')
+if num == 9593:
+    print('Seu número é ímpar')
+if num == 9594:
+    print('Seu número é par')
+if num == 9595:
+    print('Seu número é ímpar')
+if num == 9596:
+    print('Seu número é par')
+if num == 9597:
+    print('Seu número é ímpar')
+if num == 9598:
+    print('Seu número é par')
+if num == 9599:
+    print('Seu número é ímpar')
+if num == 9600:
+    print('Seu número é par')
+if num == 9601:
+    print('Seu número é ímpar')
+if num == 9602:
+    print('Seu número é par')
+if num == 9603:
+    print('Seu número é ímpar')
+if num == 9604:
+    print('Seu número é par')
+if num == 9605:
+    print('Seu número é ímpar')
+if num == 9606:
+    print('Seu número é par')
+if num == 9607:
+    print('Seu número é ímpar')
+if num == 9608:
+    print('Seu número é par')
+if num == 9609:
+    print('Seu número é ímpar')
+if num == 9610:
+    print('Seu número é par')
+if num == 9611:
+    print('Seu número é ímpar')
+if num == 9612:
+    print('Seu número é par')
+if num == 9613:
+    print('Seu número é ímpar')
+if num == 9614:
+    print('Seu número é par')
+if num == 9615:
+    print('Seu número é ímpar')
+if num == 9616:
+    print('Seu número é par')
+if num == 9617:
+    print('Seu número é ímpar')
+if num == 9618:
+    print('Seu número é par')
+if num == 9619:
+    print('Seu número é ímpar')
+if num == 9620:
+    print('Seu número é par')
+if num == 9621:
+    print('Seu número é ímpar')
+if num == 9622:
+    print('Seu número é par')
+if num == 9623:
+    print('Seu número é ímpar')
+if num == 9624:
+    print('Seu número é par')
+if num == 9625:
+    print('Seu número é ímpar')
+if num == 9626:
+    print('Seu número é par')
+if num == 9627:
+    print('Seu número é ímpar')
+if num == 9628:
+    print('Seu número é par')
+if num == 9629:
+    print('Seu número é ímpar')
+if num == 9630:
+    print('Seu número é par')
+if num == 9631:
+    print('Seu número é ímpar')
+if num == 9632:
+    print('Seu número é par')
+if num == 9633:
+    print('Seu número é ímpar')
+if num == 9634:
+    print('Seu número é par')
+if num == 9635:
+    print('Seu número é ímpar')
+if num == 9636:
+    print('Seu número é par')
+if num == 9637:
+    print('Seu número é ímpar')
+if num == 9638:
+    print('Seu número é par')
+if num == 9639:
+    print('Seu número é ímpar')
+if num == 9640:
+    print('Seu número é par')
+if num == 9641:
+    print('Seu número é ímpar')
+if num == 9642:
+    print('Seu número é par')
+if num == 9643:
+    print('Seu número é ímpar')
+if num == 9644:
+    print('Seu número é par')
+if num == 9645:
+    print('Seu número é ímpar')
+if num == 9646:
+    print('Seu número é par')
+if num == 9647:
+    print('Seu número é ímpar')
+if num == 9648:
+    print('Seu número é par')
+if num == 9649:
+    print('Seu número é ímpar')
+if num == 9650:
+    print('Seu número é par')
+if num == 9651:
+    print('Seu número é ímpar')
+if num == 9652:
+    print('Seu número é par')
+if num == 9653:
+    print('Seu número é ímpar')
+if num == 9654:
+    print('Seu número é par')
+if num == 9655:
+    print('Seu número é ímpar')
+if num == 9656:
+    print('Seu número é par')
+if num == 9657:
+    print('Seu número é ímpar')
+if num == 9658:
+    print('Seu número é par')
+if num == 9659:
+    print('Seu número é ímpar')
+if num == 9660:
+    print('Seu número é par')
+if num == 9661:
+    print('Seu número é ímpar')
+if num == 9662:
+    print('Seu número é par')
+if num == 9663:
+    print('Seu número é ímpar')
+if num == 9664:
+    print('Seu número é par')
+if num == 9665:
+    print('Seu número é ímpar')
+if num == 9666:
+    print('Seu número é par')
+if num == 9667:
+    print('Seu número é ímpar')
+if num == 9668:
+    print('Seu número é par')
+if num == 9669:
+    print('Seu número é ímpar')
+if num == 9670:
+    print('Seu número é par')
+if num == 9671:
+    print('Seu número é ímpar')
+if num == 9672:
+    print('Seu número é par')
+if num == 9673:
+    print('Seu número é ímpar')
+if num == 9674:
+    print('Seu número é par')
+if num == 9675:
+    print('Seu número é ímpar')
+if num == 9676:
+    print('Seu número é par')
+if num == 9677:
+    print('Seu número é ímpar')
+if num == 9678:
+    print('Seu número é par')
+if num == 9679:
+    print('Seu número é ímpar')
+if num == 9680:
+    print('Seu número é par')
+if num == 9681:
+    print('Seu número é ímpar')
+if num == 9682:
+    print('Seu número é par')
+if num == 9683:
+    print('Seu número é ímpar')
+if num == 9684:
+    print('Seu número é par')
+if num == 9685:
+    print('Seu número é ímpar')
+if num == 9686:
+    print('Seu número é par')
+if num == 9687:
+    print('Seu número é ímpar')
+if num == 9688:
+    print('Seu número é par')
+if num == 9689:
+    print('Seu número é ímpar')
+if num == 9690:
+    print('Seu número é par')
+if num == 9691:
+    print('Seu número é ímpar')
+if num == 9692:
+    print('Seu número é par')
+if num == 9693:
+    print('Seu número é ímpar')
+if num == 9694:
+    print('Seu número é par')
+if num == 9695:
+    print('Seu número é ímpar')
+if num == 9696:
+    print('Seu número é par')
+if num == 9697:
+    print('Seu número é ímpar')
+if num == 9698:
+    print('Seu número é par')
+if num == 9699:
+    print('Seu número é ímpar')
+if num == 9700:
+    print('Seu número é par')
+if num == 9701:
+    print('Seu número é ímpar')
+if num == 9702:
+    print('Seu número é par')
+if num == 9703:
+    print('Seu número é ímpar')
+if num == 9704:
+    print('Seu número é par')
+if num == 9705:
+    print('Seu número é ímpar')
+if num == 9706:
+    print('Seu número é par')
+if num == 9707:
+    print('Seu número é ímpar')
+if num == 9708:
+    print('Seu número é par')
+if num == 9709:
+    print('Seu número é ímpar')
+if num == 9710:
+    print('Seu número é par')
+if num == 9711:
+    print('Seu número é ímpar')
+if num == 9712:
+    print('Seu número é par')
+if num == 9713:
+    print('Seu número é ímpar')
+if num == 9714:
+    print('Seu número é par')
+if num == 9715:
+    print('Seu número é ímpar')
+if num == 9716:
+    print('Seu número é par')
+if num == 9717:
+    print('Seu número é ímpar')
+if num == 9718:
+    print('Seu número é par')
+if num == 9719:
+    print('Seu número é ímpar')
+if num == 9720:
+    print('Seu número é par')
+if num == 9721:
+    print('Seu número é ímpar')
+if num == 9722:
+    print('Seu número é par')
+if num == 9723:
+    print('Seu número é ímpar')
+if num == 9724:
+    print('Seu número é par')
+if num == 9725:
+    print('Seu número é ímpar')
+if num == 9726:
+    print('Seu número é par')
+if num == 9727:
+    print('Seu número é ímpar')
+if num == 9728:
+    print('Seu número é par')
+if num == 9729:
+    print('Seu número é ímpar')
+if num == 9730:
+    print('Seu número é par')
+if num == 9731:
+    print('Seu número é ímpar')
+if num == 9732:
+    print('Seu número é par')
+if num == 9733:
+    print('Seu número é ímpar')
+if num == 9734:
+    print('Seu número é par')
+if num == 9735:
+    print('Seu número é ímpar')
+if num == 9736:
+    print('Seu número é par')
+if num == 9737:
+    print('Seu número é ímpar')
+if num == 9738:
+    print('Seu número é par')
+if num == 9739:
+    print('Seu número é ímpar')
+if num == 9740:
+    print('Seu número é par')
+if num == 9741:
+    print('Seu número é ímpar')
+if num == 9742:
+    print('Seu número é par')
+if num == 9743:
+    print('Seu número é ímpar')
+if num == 9744:
+    print('Seu número é par')
+if num == 9745:
+    print('Seu número é ímpar')
+if num == 9746:
+    print('Seu número é par')
+if num == 9747:
+    print('Seu número é ímpar')
+if num == 9748:
+    print('Seu número é par')
+if num == 9749:
+    print('Seu número é ímpar')
+if num == 9750:
+    print('Seu número é par')
+if num == 9751:
+    print('Seu número é ímpar')
+if num == 9752:
+    print('Seu número é par')
+if num == 9753:
+    print('Seu número é ímpar')
+if num == 9754:
+    print('Seu número é par')
+if num == 9755:
+    print('Seu número é ímpar')
+if num == 9756:
+    print('Seu número é par')
+if num == 9757:
+    print('Seu número é ímpar')
+if num == 9758:
+    print('Seu número é par')
+if num == 9759:
+    print('Seu número é ímpar')
+if num == 9760:
+    print('Seu número é par')
+if num == 9761:
+    print('Seu número é ímpar')
+if num == 9762:
+    print('Seu número é par')
+if num == 9763:
+    print('Seu número é ímpar')
+if num == 9764:
+    print('Seu número é par')
+if num == 9765:
+    print('Seu número é ímpar')
+if num == 9766:
+    print('Seu número é par')
+if num == 9767:
+    print('Seu número é ímpar')
+if num == 9768:
+    print('Seu número é par')
+if num == 9769:
+    print('Seu número é ímpar')
+if num == 9770:
+    print('Seu número é par')
+if num == 9771:
+    print('Seu número é ímpar')
+if num == 9772:
+    print('Seu número é par')
+if num == 9773:
+    print('Seu número é ímpar')
+if num == 9774:
+    print('Seu número é par')
+if num == 9775:
+    print('Seu número é ímpar')
+if num == 9776:
+    print('Seu número é par')
+if num == 9777:
+    print('Seu número é ímpar')
+if num == 9778:
+    print('Seu número é par')
+if num == 9779:
+    print('Seu número é ímpar')
+if num == 9780:
+    print('Seu número é par')
+if num == 9781:
+    print('Seu número é ímpar')
+if num == 9782:
+    print('Seu número é par')
+if num == 9783:
+    print('Seu número é ímpar')
+if num == 9784:
+    print('Seu número é par')
+if num == 9785:
+    print('Seu número é ímpar')
+if num == 9786:
+    print('Seu número é par')
+if num == 9787:
+    print('Seu número é ímpar')
+if num == 9788:
+    print('Seu número é par')
+if num == 9789:
+    print('Seu número é ímpar')
+if num == 9790:
+    print('Seu número é par')
+if num == 9791:
+    print('Seu número é ímpar')
+if num == 9792:
+    print('Seu número é par')
+if num == 9793:
+    print('Seu número é ímpar')
+if num == 9794:
+    print('Seu número é par')
+if num == 9795:
+    print('Seu número é ímpar')
+if num == 9796:
+    print('Seu número é par')
+if num == 9797:
+    print('Seu número é ímpar')
+if num == 9798:
+    print('Seu número é par')
+if num == 9799:
+    print('Seu número é ímpar')
+if num == 9800:
+    print('Seu número é par')
+if num == 9801:
+    print('Seu número é ímpar')
+if num == 9802:
+    print('Seu número é par')
+if num == 9803:
+    print('Seu número é ímpar')
+if num == 9804:
+    print('Seu número é par')
+if num == 9805:
+    print('Seu número é ímpar')
+if num == 9806:
+    print('Seu número é par')
+if num == 9807:
+    print('Seu número é ímpar')
+if num == 9808:
+    print('Seu número é par')
+if num == 9809:
+    print('Seu número é ímpar')
+if num == 9810:
+    print('Seu número é par')
+if num == 9811:
+    print('Seu número é ímpar')
+if num == 9812:
+    print('Seu número é par')
+if num == 9813:
+    print('Seu número é ímpar')
+if num == 9814:
+    print('Seu número é par')
+if num == 9815:
+    print('Seu número é ímpar')
+if num == 9816:
+    print('Seu número é par')
+if num == 9817:
+    print('Seu número é ímpar')
+if num == 9818:
+    print('Seu número é par')
+if num == 9819:
+    print('Seu número é ímpar')
+if num == 9820:
+    print('Seu número é par')
+if num == 9821:
+    print('Seu número é ímpar')
+if num == 9822:
+    print('Seu número é par')
+if num == 9823:
+    print('Seu número é ímpar')
+if num == 9824:
+    print('Seu número é par')
+if num == 9825:
+    print('Seu número é ímpar')
+if num == 9826:
+    print('Seu número é par')
+if num == 9827:
+    print('Seu número é ímpar')
+if num == 9828:
+    print('Seu número é par')
+if num == 9829:
+    print('Seu número é ímpar')
+if num == 9830:
+    print('Seu número é par')
+if num == 9831:
+    print('Seu número é ímpar')
+if num == 9832:
+    print('Seu número é par')
+if num == 9833:
+    print('Seu número é ímpar')
+if num == 9834:
+    print('Seu número é par')
+if num == 9835:
+    print('Seu número é ímpar')
+if num == 9836:
+    print('Seu número é par')
+if num == 9837:
+    print('Seu número é ímpar')
+if num == 9838:
+    print('Seu número é par')
+if num == 9839:
+    print('Seu número é ímpar')
+if num == 9840:
+    print('Seu número é par')
+if num == 9841:
+    print('Seu número é ímpar')
+if num == 9842:
+    print('Seu número é par')
+if num == 9843:
+    print('Seu número é ímpar')
+if num == 9844:
+    print('Seu número é par')
+if num == 9845:
+    print('Seu número é ímpar')
+if num == 9846:
+    print('Seu número é par')
+if num == 9847:
+    print('Seu número é ímpar')
+if num == 9848:
+    print('Seu número é par')
+if num == 9849:
+    print('Seu número é ímpar')
+if num == 9850:
+    print('Seu número é par')
+if num == 9851:
+    print('Seu número é ímpar')
+if num == 9852:
+    print('Seu número é par')
+if num == 9853:
+    print('Seu número é ímpar')
+if num == 9854:
+    print('Seu número é par')
+if num == 9855:
+    print('Seu número é ímpar')
+if num == 9856:
+    print('Seu número é par')
+if num == 9857:
+    print('Seu número é ímpar')
+if num == 9858:
+    print('Seu número é par')
+if num == 9859:
+    print('Seu número é ímpar')
+if num == 9860:
+    print('Seu número é par')
+if num == 9861:
+    print('Seu número é ímpar')
+if num == 9862:
+    print('Seu número é par')
+if num == 9863:
+    print('Seu número é ímpar')
+if num == 9864:
+    print('Seu número é par')
+if num == 9865:
+    print('Seu número é ímpar')
+if num == 9866:
+    print('Seu número é par')
+if num == 9867:
+    print('Seu número é ímpar')
+if num == 9868:
+    print('Seu número é par')
+if num == 9869:
+    print('Seu número é ímpar')
+if num == 9870:
+    print('Seu número é par')
+if num == 9871:
+    print('Seu número é ímpar')
+if num == 9872:
+    print('Seu número é par')
+if num == 9873:
+    print('Seu número é ímpar')
+if num == 9874:
+    print('Seu número é par')
+if num == 9875:
+    print('Seu número é ímpar')
+if num == 9876:
+    print('Seu número é par')
+if num == 9877:
+    print('Seu número é ímpar')
+if num == 9878:
+    print('Seu número é par')
+if num == 9879:
+    print('Seu número é ímpar')
+if num == 9880:
+    print('Seu número é par')
+if num == 9881:
+    print('Seu número é ímpar')
+if num == 9882:
+    print('Seu número é par')
+if num == 9883:
+    print('Seu número é ímpar')
+if num == 9884:
+    print('Seu número é par')
+if num == 9885:
+    print('Seu número é ímpar')
+if num == 9886:
+    print('Seu número é par')
+if num == 9887:
+    print('Seu número é ímpar')
+if num == 9888:
+    print('Seu número é par')
+if num == 9889:
+    print('Seu número é ímpar')
+if num == 9890:
+    print('Seu número é par')
+if num == 9891:
+    print('Seu número é ímpar')
+if num == 9892:
+    print('Seu número é par')
+if num == 9893:
+    print('Seu número é ímpar')
+if num == 9894:
+    print('Seu número é par')
+if num == 9895:
+    print('Seu número é ímpar')
+if num == 9896:
+    print('Seu número é par')
+if num == 9897:
+    print('Seu número é ímpar')
+if num == 9898:
+    print('Seu número é par')
+if num == 9899:
+    print('Seu número é ímpar')
+if num == 9900:
+    print('Seu número é par')
+if num == 9901:
+    print('Seu número é ímpar')
+if num == 9902:
+    print('Seu número é par')
+if num == 9903:
+    print('Seu número é ímpar')
+if num == 9904:
+    print('Seu número é par')
+if num == 9905:
+    print('Seu número é ímpar')
+if num == 9906:
+    print('Seu número é par')
+if num == 9907:
+    print('Seu número é ímpar')
+if num == 9908:
+    print('Seu número é par')
+if num == 9909:
+    print('Seu número é ímpar')
+if num == 9910:
+    print('Seu número é par')
+if num == 9911:
+    print('Seu número é ímpar')
+if num == 9912:
+    print('Seu número é par')
+if num == 9913:
+    print('Seu número é ímpar')
+if num == 9914:
+    print('Seu número é par')
+if num == 9915:
+    print('Seu número é ímpar')
+if num == 9916:
+    print('Seu número é par')
+if num == 9917:
+    print('Seu número é ímpar')
+if num == 9918:
+    print('Seu número é par')
+if num == 9919:
+    print('Seu número é ímpar')
+if num == 9920:
+    print('Seu número é par')
+if num == 9921:
+    print('Seu número é ímpar')
+if num == 9922:
+    print('Seu número é par')
+if num == 9923:
+    print('Seu número é ímpar')
+if num == 9924:
+    print('Seu número é par')
+if num == 9925:
+    print('Seu número é ímpar')
+if num == 9926:
+    print('Seu número é par')
+if num == 9927:
+    print('Seu número é ímpar')
+if num == 9928:
+    print('Seu número é par')
+if num == 9929:
+    print('Seu número é ímpar')
+if num == 9930:
+    print('Seu número é par')
+if num == 9931:
+    print('Seu número é ímpar')
+if num == 9932:
+    print('Seu número é par')
+if num == 9933:
+    print('Seu número é ímpar')
+if num == 9934:
+    print('Seu número é par')
+if num == 9935:
+    print('Seu número é ímpar')
+if num == 9936:
+    print('Seu número é par')
+if num == 9937:
+    print('Seu número é ímpar')
+if num == 9938:
+    print('Seu número é par')
+if num == 9939:
+    print('Seu número é ímpar')
+if num == 9940:
+    print('Seu número é par')
+if num == 9941:
+    print('Seu número é ímpar')
+if num == 9942:
+    print('Seu número é par')
+if num == 9943:
+    print('Seu número é ímpar')
+if num == 9944:
+    print('Seu número é par')
+if num == 9945:
+    print('Seu número é ímpar')
+if num == 9946:
+    print('Seu número é par')
+if num == 9947:
+    print('Seu número é ímpar')
+if num == 9948:
+    print('Seu número é par')
+if num == 9949:
+    print('Seu número é ímpar')
+if num == 9950:
+    print('Seu número é par')
+if num == 9951:
+    print('Seu número é ímpar')
+if num == 9952:
+    print('Seu número é par')
+if num == 9953:
+    print('Seu número é ímpar')
+if num == 9954:
+    print('Seu número é par')
+if num == 9955:
+    print('Seu número é ímpar')
+if num == 9956:
+    print('Seu número é par')
+if num == 9957:
+    print('Seu número é ímpar')
+if num == 9958:
+    print('Seu número é par')
+if num == 9959:
+    print('Seu número é ímpar')
+if num == 9960:
+    print('Seu número é par')
+if num == 9961:
+    print('Seu número é ímpar')
+if num == 9962:
+    print('Seu número é par')
+if num == 9963:
+    print('Seu número é ímpar')
+if num == 9964:
+    print('Seu número é par')
+if num == 9965:
+    print('Seu número é ímpar')
+if num == 9966:
+    print('Seu número é par')
+if num == 9967:
+    print('Seu número é ímpar')
+if num == 9968:
+    print('Seu número é par')
+if num == 9969:
+    print('Seu número é ímpar')
+if num == 9970:
+    print('Seu número é par')
+if num == 9971:
+    print('Seu número é ímpar')
+if num == 9972:
+    print('Seu número é par')
+if num == 9973:
+    print('Seu número é ímpar')
+if num == 9974:
+    print('Seu número é par')
+if num == 9975:
+    print('Seu número é ímpar')
+if num == 9976:
+    print('Seu número é par')
+if num == 9977:
+    print('Seu número é ímpar')
+if num == 9978:
+    print('Seu número é par')
+if num == 9979:
+    print('Seu número é ímpar')
+if num == 9980:
+    print('Seu número é par')
+if num == 9981:
+    print('Seu número é ímpar')
+if num == 9982:
+    print('Seu número é par')
+if num == 9983:
+    print('Seu número é ímpar')
+if num == 9984:
+    print('Seu número é par')
+if num == 9985:
+    print('Seu número é ímpar')
+if num == 9986:
+    print('Seu número é par')
+if num == 9987:
+    print('Seu número é ímpar')
+if num == 9988:
+    print('Seu número é par')
+if num == 9989:
+    print('Seu número é ímpar')
+if num == 9990:
+    print('Seu número é par')
+if num == 9991:
+    print('Seu número é ímpar')
+if num == 9992:
+    print('Seu número é par')
+if num == 9993:
+    print('Seu número é ímpar')
+if num == 9994:
+    print('Seu número é par')
+if num == 9995:
+    print('Seu número é ímpar')
+if num == 9996:
+    print('Seu número é par')
+if num == 9997:
+    print('Seu número é ímpar')
+if num == 9998:
+    print('Seu número é par')
+if num == 9999:
+    print('Seu número é ímpar')
+if num == 10000:
+    print('Seu número é par')
+if num > 10000:
+    print("Não sei esse número, desculpa :)!!!")
